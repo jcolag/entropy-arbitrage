@@ -3,7 +3,7 @@ layout: post
 title: Seeking Refuge
 date: 2019-12-14 11:01:12-0500
 categories: fiction
-tags: [novel, silver bat, superhero, scarletpimpernel, announcement, creativecommons]
+tags: [novel, silverbat, superhero, scarletpimpernel, announcement, creativecommons]
 summary: I semi-accidentally wrote a novel and failed to convince myself that it's horrible
 thumbnail: /blog/assets/Refuge-Cover.png
 offset: -32%
