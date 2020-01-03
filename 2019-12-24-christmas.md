@@ -27,10 +27,10 @@ However, this wasn't the Christmas we know today, but rather centered on drunken
 In this environment, the Anglican Church's nineteenth century Oxford Movement took steps to change the situation by reinventing the holiday as something family-friendly and we start to see the Christmas we know today start to form:
 
  * Washington Irving published his parodic [**A History of New York**](https://www.gutenberg.org/files/13042/13042-h/13042-h.htm) (1809), reshaping Christmas [in many ways](https://www.neh.gov/humanities/2016/fall/feature/how-washington-irving-shaped-christmas-in-america).
- * Tha anonymous *Old Santeclaus with Much Delight* (1821) establishes early versions of a lot of Santa Claus-based lore.
- * Clement Clarke Moore anonymously publishes *A Visit from SSt. Nicholas* (1823), popularizing gift exchanges.
- * Charles Dickens publishes **A Christmas Carol** (1843), continuing the new shape of Christmas as a time for family gatherings, polite entertainment, and reconciliation.
- * Thomas Nast mostly reinvented Santa Claus (1863) as the one we know today.
+ * Tha anonymous [*Old Santeclaus with Much Delight*](https://en.wikipedia.org/wiki/Old_Santeclaus_with_Much_Delight) (1821) establishes early versions of a lot of Santa Claus-based lore.
+ * Clement Clarke Moore anonymously publishes [*A Visit from St. Nicholas*](https://en.wikisource.org/wiki/Troy_Sentinel/1823/12/23/Account_of_a_Visit_from_St._Nicholas) (1823), popularizing gift exchanges.
+ * Charles Dickens publishes [**A Christmas Carol**](https://en.wikisource.org/wiki/A_Christmas_Carol_(Dickens,_1843)) (1843), continuing the new shape of Christmas as a time for family gatherings, polite entertainment, and reconciliation.
+ * Thomas Nast mostly reinvented Santa Claus (1863) visually as the one we know today.
 
 ![Nast's Original Santa Claus](/blog/assets/8261713052_f93056fab0_o.jpg)
 
@@ -42,7 +42,7 @@ Which is to say that, while there would be some adjustments (like Nast), the bul
 
  > > the New Year Spruce
 
-There's the Christmas tree itself, which as you can see in [the Wikipedia article](https://en.wikipedia.org/wiki/Christmas_tree), is remarkably weird, including ancient traditions and a pyramid-like decoration, plus its restoration without Christmas by the Soviets as the New Year Spruce.  Christmas trees were also [adopted as a secular symbol by Jewish people](https://www.futurity.org/christmas-tress-in-jewish-homes-history2234982-2/) until concerns about erasure of Judaism became a possible issue, though it's not uncommon today to find a Jewish family today with a [Hanukkah bush](https://en.wikipedia.org/wiki/Hanukkah_bush), a tongue-in-cheek tradition dating back at least as far as 1879.
+There's also the Christmas tree itself, which as you can see in [the Wikipedia article](https://en.wikipedia.org/wiki/Christmas_tree), has a remarkably weird history, including ancient traditions and a pyramid-like decoration, plus its restoration without Christmas by the Soviets as the New Year Spruce.  Christmas trees were also [adopted as a secular symbol by Jewish people](https://www.futurity.org/christmas-tress-in-jewish-homes-history2234982-2/) until concerns about erasure of Judaism became a possible issue, though it's not uncommon today to find a Jewish family today with a [Hanukkah bush](https://en.wikipedia.org/wiki/Hanukkah_bush), a tongue-in-cheek tradition dating back at least as far as 1879.
 
 And then, sometimes, Santa protects us from extremely stupid aliens.
 
