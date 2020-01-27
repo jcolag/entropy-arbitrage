@@ -18,6 +18,8 @@ To start off, I figured I would go with something fun---for me, I mean; you're o
 
 I believe that people can cope with just about any system, so weird mental models---for example, pretending that variables are people who are friends or enemies whose values are based on how close they are to friends---are off the table.  Those can be amusing, add to the learning curve, and make it harder to take the language seriously, but you only need to get accustomed to the core premise one time and it just becomes the way you work.
 
+ > > ...all but the simplest operations need to be explained.
+
 Another possibility that doesn't *quite* hold water is the concept of the [Turing tarpit](https://en.wikipedia.org/wiki/Turing_tarpit), where all but the simplest operations need to be explained.  You can see this when trying to work with [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) or a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) (such as [PosTuring](https://github.com/jcolag/PosTuring), if that's your thing) and it can be a nuisance.  However, there are two aspects to programming that make this a bad move.
 
  * The pain doesn't come from *difficulty*, but rather from *tedium*.  So, we know how to multiply two numbers, but doing so means adding them repeatedly in a loop, and adding them requires incrementing them in a loop, and maybe incrementing them requires some bit-twiddling code.  Nobody really wants to do that, sure, but if you offered a low-end software developer's salary for someone to work that way, your company would still get candidates filling out the application.
@@ -50,6 +52,8 @@ Following onto the (lack of a) type system, in my experience, authors of program
 
 The orthogonality fetish, then, is one of the top features on my priority list.
 
+ > > ...everything can be treated as syntactically compatible with anything else.
+
 Imagine a language where everything can be treated as syntactically compatible with anything else.  Intuitively, the sum of a structure and a loop doesn't mean anything, and any sane language would dismiss it as an error.  But if everything has *some* sort of value that can be added?  Then it must do *something* and it should result in something different than multiplying or dividing them.
 
 The **PL/I** language had orthogonality as a guiding principle, so the assorted data types were all compatible.  Meanwhile, languages like **LISP** include the idea that code is just a kind of data.  Combine the two, and we have something very close to having a language that's "error-free," in that it's more difficult to write code that, from a mechanical perspective, will fail.  Instead, failure merely does the wrong thing.
@@ -69,7 +73,9 @@ Whew!
 
 It's not hard to see how this not only continues the theme of camouflaging errors, but also introduces a theme---that we'll get back to later---of not being able to trust operations without a *lot* of communication to avoid misunderstandings.
 
-By the way, I should mention that **SNOBOL** is probably the most important programming language you've never heard of, because it laid the groundwork for [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) with its *patterns*, a first-class data type with a bit more flexibility than modern regular expressions have.
+ > > ...the most important programming language you've never heard of...
+
+By the way, while we're here, I should probably take a beat to mention that **SNOBOL** is probably the most important programming language you've never heard of.  That's primarily because it laid the groundwork for [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) with its *patterns*, a first-class data type with a bit more flexibility than modern regular expressions have, designed to make implementing parsers easy, given a grammar.
 
 ### Defaults
 
@@ -89,7 +95,9 @@ As mentioned under *homoiconism*, above, a great way to make a language harder t
 
 The discovery of this idea is pretty entertaining, so indulge me for a bit:  In one of the first years I taught the [client/server programming]({% post_url 2020-01-19-teaching %}#clientserver-programming) class, one of the more ambitious students wanted to learn **Java** along with working on their project.  Since I wanted to keep everybody learning similar material from the perspective of the class, I didn't want them to use the high-level classes that separated protocols and roles.  So, we dug into the API documentation and followed the inheritance tree to find a class that looked almost perfect.
 
-The problem?  The class was marked something like `private` and `final`, so we couldn't instantiate it directly or create a subclass to work with.  Asking around, we got advice that sounded like a wild goose chase, but turned out to be exactly what was needed:  Extract the library class from the archive to copy it inside the application directory.
+ > > ...we got advice that sounded like a bad joke...
+
+The problem?  The class was marked something like `private` and `final`, so we couldn't instantiate it directly or create a subclass to work with.  Asking around, we got advice that sounded like a bad joke, but turned out to be exactly what was needed:  Extract the library class from the archive to copy it inside the application directory.
 
 I have to assume that the **Java** ecosystem no longer does this, but the idea that `private` turns into `public` if you're in the same folder is a feature as interesting as it is baffling.  Imagine doors that unlock as long as the person trying to get in is...in your neighborhood.
 
@@ -127,6 +135,8 @@ Granted, syntax highlighting solves most of these problems for us, so they would
 ### Look *That* up in Your Funk & Wagnalls
 
 Since reserved words (or their lack) is largely a matter of naming, it may make sense to introduce a related idea from **FORTH**, the *dictionary*.  There, programmers define functions and insert them into the language runtime's dictionary, essentially a list of definitions.  When parsing, the interpreter searches the dictionary for every name that it finds, only resorting to inbuilt language features if the dictionary search fails.  There is also no uniqueness restriction on the dictionary.
+
+ > > ...spontanously redefined.
 
 This means that both existing functions and inbuilt features can be spontanously redefined.  The old definitions are still there, but the search begins with the most recent entries and moves backwards, so the most recent version is the version that will be found.
 
@@ -255,6 +265,8 @@ Yes, I promised that syntax wasn't going to figure in.  But there are a couple o
 We had to know this was coming, eventually, and is also self-explanatory...
 
 ### Take-Aways
+
+ > > ...troubling to consider that all of the features...originate in real programming languages...
 
 It's obviously tempting to add features from obscure programming languages that were *intended* to be problematic.  For example, **INTERCAL** includes the ability to activate and deactivate each class of statements while the program runs.  But (other than `COME FROM`, which I can't resist and *did* appear in a major trade publication) I think it's more troubling to consider that all of the features listed above originate in *real* programming languages that many developers have used to create software and/or have been highly influential.  For example, you've probably never heard of **SNOBOL** before today, but it was used to create many compilers and---as I mentioned above---it has been extremely influential.
 
