@@ -3,7 +3,7 @@ layout: post
 title: Metal Umlauts, Searching, and Other Unicode Fun
 date: 2019-12-17 17:01:12-0500
 categories: programming
-tags: [javascript, unicode, programming, technology]
+tags: [javascript, unicode, programming, technology, techtips]
 summary: Re-normalizing strings for improved user experience and entertainment
 thumbnail: /blog/assets/writing-book-vintage-antique-texture-old-629962-pxhere.com.jpg
 ---
