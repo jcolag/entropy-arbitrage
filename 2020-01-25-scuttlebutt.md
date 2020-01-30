@@ -79,7 +79,7 @@ One problem I have noticed is an aversion to any actual community moderation.  A
 
 Compounding that, a solution to bad actors that I've seen recommended and that some people already use is to disconnect their accounts from the pubs.  If embraced widely, this would fracture the community such that it would be almost impossible to interact with someone who has been using Scuttlebutt for more than a few months.  You would end up with the experience of seasoned users who choose to only interact with each other and the entirely separate experience of everybody else, which isn't a great look.
 
-### Verdict
+### Verdict <i class="far fa-thumbs-up"></i>
 
  > > ...my favorite of the networks.
 

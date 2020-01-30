@@ -64,6 +64,8 @@ That should be a reasonable start to conversations on the topic.
 
 So, with that in mind, we'll get started next Saturday, talking about [Diaspora*](https://diasporafoundation.org/).
 
+#### <i class="far fa-handshake"></i>
+
 * * *
 
 Credits: The header image is an animation of a social graph coming together, made available under a [Creative Commons Attribution, Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license by [Festys](https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Festys).

@@ -96,6 +96,8 @@ Once you find one or more sub-communities or a themed server of interest, the Fe
 
 Where that fails, the content warnings go a long way towards defusing major problems.
 
+### Verdict <i class="far fa-thumbs-down"></i>
+
 So, overall?  The Fediverse is one of the winners.
 
 #### <i class="fab fa-mastodon"></i>
