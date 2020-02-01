@@ -3,7 +3,7 @@ layout: post
 title: Real Life in Star Trek, Blish Supplement
 date: 2020-01-30 17:24:32-0500
 tags: [scifi, startrek, closereading]
-summary: The outside world in Star Trek
+summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/hands-1461555427fAd.jpg
 ---
 
@@ -158,6 +158,8 @@ What I mostly got out of this exercise was that ancient ruins are plentiful on d
 ### Next
 
 As promised, next week, we're back on track with *The Naked Time*, starring a drunken crew in increasingly desperate need of a very cold shower.
+
+#### <i class="far fa-hand-spock"></i>
 
 * * *
 

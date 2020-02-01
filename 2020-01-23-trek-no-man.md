@@ -4,7 +4,7 @@ title: Real Life in Star Trek, Where No Man Has Gone Before
 date: 2020-01-23 17:16:19-0500
 categories: 
 tags: [scifi, startrek, closereading]
-summary: The outside world in Star Trek
+summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0932a.jpg
 offset: -20%
 ---

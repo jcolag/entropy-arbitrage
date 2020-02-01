@@ -4,7 +4,7 @@ title: Real Life in Star Trek - Charlie X
 date: 2020-01-16 17:20:09-0500
 categories: 
 tags: [scifi, startrek, closereading]
-summary: The outside world in Star Trek
+summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/External_view_of_a_Bernal_sphere.jpg
 offset: -25%
 ---
