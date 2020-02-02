@@ -3,7 +3,7 @@ layout: post
 title: Free Social Networking Showdown - Scuttlebutt
 date: 2020-01-25 08:47:12-0500
 categories: media
-tags: [socialmedia, freesoftware, scuttlebutt]
+tags: [socialmedia, freesoftware, scuttlebutt, socialshowdown]
 summary: How does the Scuttlebutt social network stack up?
 thumbnail: /blog/assets/hand-photography-animal-cute-leg-finger-960645-pxhere.com.jpg
 offset: -16%

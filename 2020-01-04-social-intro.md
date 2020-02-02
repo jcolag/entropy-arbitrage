@@ -3,7 +3,7 @@ layout: post
 title: Free Social Networking Showdown
 date: 2020-01-04 07:01:12-0500
 categories: media
-tags: [socialmedia, freesoftware, intro]
+tags: [socialmedia, freesoftware, intro, socialshowdown]
 summary: How do the various free software social networks stack up?
 thumbnail: /blog/assets/Social_graph.gif
 ---

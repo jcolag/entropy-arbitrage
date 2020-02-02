@@ -3,7 +3,7 @@ layout: post
 title: Free Social Networking Showdown - The Fediverse
 date: 2020-01-18 09:01:12-0500
 categories: media
-tags: [socialmedia, freesoftware, fediverse, gnusocial, mastodon]
+tags: [socialmedia, freesoftware, fediverse, gnusocial, mastodon, socialshowdown]
 summary: How do the Fediverse social networks stack up?
 thumbnail: /blog/assets/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg
 offset: -25%
