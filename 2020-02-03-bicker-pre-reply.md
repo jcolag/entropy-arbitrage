@@ -30,7 +30,7 @@ So, there are two ways to handle the tags and entities.  We can...
  * Extract them *first*, so that the carriage returns can't be inserted into them or
  * Scan through the multi-line paragraphs looking for split-up tags/entities and put them back together.
 
-The latter seems easier, since there isn't a need to figure out what to do with the extracted entities and tags.  In that case, we need to find each entity/tag and replace them with themselves *without* the spurious carriage returns.  So, just nest `'\1'.gsub()` inside of `gsub()` and we're done, right?
+The latter seems easier, since there isn't a need to figure out what to do with the extracted entities and tags.  In that case, we need to find each entity/tag and replace them with themselves *without* the spurious carriage returns.  So, just nest `'\\1'.gsub()` inside of `gsub()` and we're done, right?
 
 Not quite.
 
@@ -39,14 +39,14 @@ For this, we need the long form of `gsub()` to allow the nesting.  Specifically,
 ```ruby
 paragraph.content = paragraph.content
   .gsub(
-    /(\.|,|!|\?|:|\(|\)|&|;|\/|&ndash;|&mdash;|&hellip;)/m,
-    "\n".concat('\1').concat("\n")
+    /(\\.|,|!|\\?|:|\\(|\\)|&|;|\\/|&ndash;|&mdash;|&hellip;)/m,
+    "\\n".concat('\\1').concat("\\n")
   )
   # This next bit is the new piece...
-  .gsub(/(<a [^<]*<[^>]*>|<[^>]*>|&[A-Za-z]*;|&\n*#[0-9]*\n*;)/) { |match|
-    match.gsub(/\n/) { |inner| "" }
+  .gsub(/(<a [^<]*<[^>]*>|<[^>]*>|&[A-Za-z]*;|&\\n*#[0-9]*\\n*;)/) { |match|
+    match.gsub(/\\n/) { |inner| "" }
   }
-  .split("\n")
+  .split("\\n")
 ```
 
 The cartoonishly ugly regular expression includes...
@@ -112,14 +112,14 @@ function toggleReplyForm(e) {
   var id = target.attributes.name.value;
   var formId = `reply-form-${id}`;
   var form = document.getElementById(formId);
-  
+
   if (form === null) {
     console.log(`can't find ${formId}`);
     return;
   }
-  
+
   var state = form.style.display;
-  
+
   if (state === 'block') {
     form.style.display = 'none';
     target.classList.remove('toggled-punctuation-button');
