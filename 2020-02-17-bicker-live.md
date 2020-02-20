@@ -52,18 +52,21 @@ And this new `ClientParagraph` class is pretty boring.
 
 ```ruby
 class ClientParagraph
+  attr_accessor :avatar
+  attr_accessor :beenseen
+  attr_accessor :children
+  attr_accessor :content
+  attr_accessor :count
+  attr_accessor :created_at
   attr_accessor :id
   attr_accessor :message_id
-  attr_accessor :parent_id
   attr_accessor :next_id
-  attr_accessor :user_id
-  attr_accessor :content
-  attr_accessor :created_at
+  attr_accessor :parent_id
+  attr_accessor :ts
   attr_accessor :updated_at
-  attr_accessor :avatar
-  attr_accessor :children
-  attr_accessor :who
+  attr_accessor :user_id
   attr_accessor :when
+  attr_accessor :who
 end
 ```
 
