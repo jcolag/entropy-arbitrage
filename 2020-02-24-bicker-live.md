@@ -191,9 +191,9 @@ Somehow, when I created the `FrontPage` component to host the introductory verbi
 Calling it like so...
 
 ```sh
-rubocop --disable-uncorrectable --extra-details \\
-        --display-style-guide --safe-auto-correct \\
-        --format html \\
+rubocop --disable-uncorrectable --extra-details \
+        --display-style-guide --safe-auto-correct \
+        --format html \
         --out rubocop.html
 ```
 
