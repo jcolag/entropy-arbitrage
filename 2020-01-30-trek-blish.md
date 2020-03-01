@@ -44,9 +44,9 @@ The Craters---here, renamed the Bierces---are investigating an ancient temple fr
 For reference, as of 2018, there were [approximately](https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Anthropologists-and-archeologists.htm) 6,500 working archaeologists in the United States, with the field expected to grow about ten percent per decade.  I won't bother hypothesizing about how big the human population might be at this time, or whether those archaeology jobs scale to an interstellar civilization, but suffice it to say that there would be *plenty* of folks on the archaeology beat, if the assertion is true, and multiple careers' worth of ruins suggests that there are dead civilizations to be found pretty much everywhere.
 
  > "Just what are you goggling at, Mister?"
- > 
+ >
  > "Sorry, sir," Darnell said stiffly. "She reminds me of somebody, is all. A girl I knew once on Wrigley's Planet. That is---"
- > 
+ >
  > "That's enough," Kirk said drily. "The next thought of that kind you have will probably be in solitary. Maybe you'd better wait outside."
 
 It's somewhat interesting, here, that we've flipped Kirk's sexist comment from suggesting McCoy bribe Nancy to threatening an officer for so much as hinting at a woman's honor, which seems worse.
@@ -71,10 +71,10 @@ protect human life in places like this..."
 Kirk gives us some limited insight as to what the *Enterprise* is actually supposed to do.
 
  > "...I want Bierce checked out under pentathol."
- > 
+ >
  > "...Pentathol. Truth dope. Narcosynthesis. Um. Takes time. What about
 the patient's civil rights?"
- > 
+ >
  > "He can file a complaint if he wants. Go and get him ready."
 
  > > ![Sodium thiopental](/blog/assets/Sodium-thiopental-3D-vdW-2.png "Sodium thiopental")
@@ -102,11 +102,11 @@ Here's my [original post about *Charlie X*]({% post_url 2020-01-16-trek-charlie 
 Let's just jump in, here, skipping ahead to a meeting discussing Charlie's attitude problem that, honestly, hasn't yet been established in the prose.
 
  > "Wellll," she said. "Maybe I'm prejudiced. I wasn't going to mention this, but...he followed me down the corridor yesterday and offered me a vial of perfume. My favorite, too; I don't know how he knew it. There's none in the ship's stores, I'm sure of that."
- > 
+ >
  > "Hmm," McCoy said.
- > 
+ >
  > "I was just going to ask him where he got it, when he swatted me on the rump. After that I made it my business to be someplace else."
- > 
+ >
  > There was an outburst of surprised laughter, quickly suppressed.
 
 Huh.  Somehow, Blish made the sexism worse.  Bold choice.  Less bold is skipping the silencing of Uhura and Spock, ignoring that interaction entirely.
@@ -163,4 +163,4 @@ As promised, next week, we're back on track with *The Naked Time*, starring a dr
 
 * * *
 
-**Credits**:  The header image is [Hands](https://publicdomainpictures.net/en/view-image.php?image=162559&picture=hands) by Hana Chramostova, released into the pbulic domain.  The three-dimensional model of [sodium thiopental](https://en.wikipedia.org/wiki/File:Sodium-thiopental-3D-vdW-2.png) by Benjah-bmm27 has been released to the public domain.
+**Credits**:  The header image is [Hands](https://publicdomainpictures.net/en/view-image.php?image=162559&picture=hands) by Hana Chramostova, released into the public domain.  The three-dimensional model of [sodium thiopental](https://en.wikipedia.org/wiki/File:Sodium-thiopental-3D-vdW-2.png) by Benjah-bmm27 has been released to the public domain.

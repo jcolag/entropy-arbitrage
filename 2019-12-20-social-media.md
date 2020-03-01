@@ -70,7 +70,7 @@ By the way, the right-wing's obsession with being _respected and liked_ after de
 
 Oh, and, if anybody wanted to assume "Option Three," that this is all coincidental/accidental and the social media companies _really_ have our best interests at heart, let's not forget that they're all too happy to [optimize their products for addiction](https://www.vice.com/en_us/article/vv5jkb/the-secret-ways-social-media-is-built-for-addiction), the founders of those companies [limit screen time for their _own_ kids](https://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html), and former employees [consistently warn us](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html) about the potential downsides of the products, including [depression](https://en.wikipedia.org/wiki/Major_depressive_disorder).
 
-In other words, hate speech is profitable for them, because it makes you angry.  If they can sustain that anger by subtly encouraging aggressive and offensive behavior and pitting their serfs against each other, so much the better.  Errr..._users_.  I totally meant to type "users," there, not "serfs."  Weird autocorrect, though.
+In other words, hate speech is profitable for them, because it makes you angry.  If they can sustain that anger by subtly encouraging aggressive and offensive behavior and pitting their serfs against each other, so much the better.  Errr..._users_.  I totally meant to type "users," there, not "serfs."  Weird auto-correct, though.
 
 ![Generic social media](/blog/assets/wall.png)
 

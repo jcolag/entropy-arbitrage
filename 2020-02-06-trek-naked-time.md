@@ -2,7 +2,7 @@
 layout: post
 title: Real Life in Star Trek, The Naked Time
 date: 2020-02-06 18:38:19-0500
-categories: 
+categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0603a.png
@@ -29,7 +29,7 @@ The planet that forms the centerpiece of the episode is named Psi 2000, which is
 
  > **KIRK**: Our mission, pick up a scientific party below, observe the disintegration of the planet.
 
-Notice the combination of the mundane task of ferrying a group of scientists around with the open-ended investigation of staying in orbit around the planet until it disintegrates.  An imeediate oddity is the lack of interest in the murder of one of the scientists; Spock notes that somebody strangled her before she froze, but that's the last time we give any thought to violence.
+Notice the combination of the mundane task of ferrying a group of scientists around with the open-ended investigation of staying in orbit around the planet until it disintegrates.  An immediate oddity is the lack of interest in the murder of one of the scientists; Spock notes that somebody strangled her before she froze, but that's the last time we give any thought to violence.
 
 Anyway, Tormolen apparently thinks it's fine to take off his gloves and expose his face in an obviously-contaminated area and then go touching things with his now-bare hands and then touch his face.  Does anybody *train* these people?  Did Kirk run the only [class at the Academy]({% post_url 2020-01-23-trek-no-man %}) that held students to anything like a standard...?
 
@@ -46,7 +46,7 @@ However, once again, someone (McCoy, here) sees no problem making demeaning comm
 Neither the decontamination nor McCoy finds anything, despite a visible object attacking Joe and him sitting around sickbay like he's allergic to the place.
 
  > **MCCOY**: Definitely not drugs or intoxication. The bio-analysis on the tapes prove that conclusively.
- > 
+ >
  > **SPOCK**: It could be some form of space madness we've never heard of, but it would have to be caused by something. Our spectro-readings showed no contamination, no unusual elements present.
 
 Here's another incident where "space madness" is thrown out casually as a possible explanation for strange behavior, this time by a respected scientist, making it sound like a common problem.  Perhaps the commonality explains the lack of engagement with strange behavior that we've seen.
@@ -57,34 +57,34 @@ It also interests me that, this time, McCoy is telling everybody else to trust t
 
 "Earth Science" sounds like it must be an organization that has at least partial control over the *Enterprise*'s activities, and presumably not the [scientific discipline](https://en.wikipedia.org/wiki/Earth_science).
 
- > **KIRK**: The purpose of a briefing, gentlemen, is to get me answers based on your abilities and experience. In a critical orbit, there's no time for surprise. 
+ > **KIRK**: The purpose of a briefing, gentlemen, is to get me answers based on your abilities and experience. In a critical orbit, there's no time for surprise.
 
 While I have obviously poked fun at the lack of professionalism found in the *Enterprise* crew, it seems like something else entirely to hear Kirk say it out loud.
 
 We also (briefly) see that food is acquired in the galley by popping a card in a slot, removing a meal, and removing the card.
 
  > **SULU**: Foil. It's a rapier. A thin sword.
- > 
+ >
  > **RILEY**: All right. So what do you do with it?
- > 
+ >
  > **SULU**: What do you mean, what do you do with it?
- > 
+ >
  > **RILEY**: Self-defense? Mayhem? Shish-kebab?
- > 
+ >
  > **SULU**: You practice.
- > 
+ >
  > **RILEY**: For what?
- > 
+ >
  > **SULU**: Hi, Joey.
- > 
+ >
  > **RILEY**: Last week it was botany he was trying to get me interested in. I was supposed to be collecting leaves, plant specimens.
- > 
+ >
  > **SULU**: Your attitude is all wrong. Fencing tones the muscle, sharpens the eye, improves the posture. You tell him, Joey. Explain to him. Hey, Joey. You feeling all right?
- > 
+ >
  > **TORMOLEN**: Get off me! You don't rank me and you don't have pointed ears, so just get off my neck!
- > 
+ >
  > **SULU**: What's with him?
- > 
+ >
  > **TORMOLEN**: Nothing!
 
 Way to go, Sulu!  Out of the first four episodes aired, this is the first time someone has acknowledged and called out worrisome behavior in a colleague.  All it takes is three little words, guys...
@@ -94,52 +94,52 @@ The crack about pointed ears, though, is strange.  Even though we've only seen S
 The other reason to check this scene out, of course, is to highlight Sulu and his hobbies.  That botany work we saw him performing in *Where No Man Has Gone Before* was explicitly not his job, just a pastime.  And he apparently convinced both Janice and Riley to join him, and also sounds pretty close to Tormolen.  In addition, Sulu has a passion for fencing and is looking for partners.  Busy guy...
 
  > **TORMOLEN**: We bring pain and trouble with us, leave men and women stuck out on freezing planets until they die. What are we doing out here in space? Good? What good? We're polluting it, destroying it. We've got no business being out here. No business.
- > 
+ >
  > ...
- > 
+ >
  > **TORMOLEN**: If a man was supposed to fly, he'd have wings. If he was supposed to be out in space, he wouldn't need air to breathe, wouldn't need life-support systems to keep him from freezing to death.
- > 
+ >
  > ...
- > 
+ >
  > **TORMOLEN**: We don't belong here. It's not ours. Not ours. Destroying and watching. We don't belong. I don't belong. Six people died down there. Why do I deserve to live?
 
 Assuming (as we later find out) that this tirade results from a lack of inhibitions and not some sort of hallucination, it suggests that there is at least a minority perspective that space travel is not a good idea.  And it raises a question I don't believe anybody has every followed up on:  *Is* the ship polluting space as it travels?  Who are the alleged recipients of this "pain and trouble"?
 
 These even sound a lot like the regrets over colonialism or imperialism, perhaps suggesting that the colonies we've been hearing about are at the expense of the planetary ecosystems and native populations dismissed as savages.  Something like that might explain the issues between Vulcans and humans beyond the cultural differences we'll hear about in a bit.
 
- > **RILEY**: Emergency! Rec room, area three nine. We need medics! 
+ > **RILEY**: Emergency! Rec room, area three nine. We need medics!
 
 Joe bleeds purple.  That may or may not be an accident of special effects and film photography, of course.
 
 It's also possible that this is due to NBC's Standards and Practices.  About twenty-five years later, **Star Trek VI** will later use exactly that solution to retain its PG rating, establishing (some) Klingon blood as magenta.  I'm not suggesting that Joe is a Klingon months before the Klingons are even introduced and decades before the blood thing is ever mentioned, but it still would have been a wild move to retroactively make that change.  It would fit very well with the poor opinion Joe has of human space exploration.
 
  > **KIRK**: Tormolen's record?
- > 
+ >
  > **SPOCK**: Psychiatric file, personality quotients.
- > 
+ >
  > **KIRK**: Was he trying to kill himself?
- > 
+ >
  > **SPOCK**: It's doubtful he meant to. He was confused, self-tortured.
- > 
+ >
  > **KIRK**: Doesn't sound like the man I know.
- > 
- > **SPOCK**: His capacity for self-doubt has always been rather high. What puzzles me is what brought it to the surface with so much force. 
+ >
+ > **SPOCK**: His capacity for self-doubt has always been rather high. What puzzles me is what brought it to the surface with so much force.
 
 This is subtle, but interesting.  This sounds like there might be members of the crew knowingly struggling with psychiatric disorders (self-doubt is often associated with anxiety and depression disorders) with everyone's support.  If this is the intent, it's obviously as it *should* be (other than Gary Mitchell's far more dangerous disorder), but this isn't even a common sentiment *today*, let alone in 1966.
 
 That said, Joe is *still* an idiot.  No amount of [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) or undermined confidence excuses breaching containment to scratch his nose...
 
  > **SULU**: Don't know if it's this planet or what happened with Joe. I'm sweating like a bridegroom.
- > 
+ >
  > **RILEY**: Yeah, me too.
- > 
+ >
  > **SULU**: Hey, why don't you come down to the gym with me, Kevin m'lad?
- > 
+ >
  > **RILEY**: Now?
- > 
+ >
  > **SULU**: Why not? Light workout will take the edge off.
- > 
- > **RILEY**: Sulu, what about---Hey, Sulu, don't be a fool! 
+ >
+ > **RILEY**: Sulu, what about---Hey, Sulu, don't be a fool!
 
 It looks like somebody on the writing staff noticed the crew's observation troubles, if even the clearly-compromised Riley can see Sulu's problematic behavior.  Or maybe it's the infection making everybody more observant.  I don't know.
 
@@ -150,13 +150,13 @@ Regardless, Riley still doesn't bother to **say** anything.  Pointing out that t
 I initially thought that this might be evidence against the acceptance of psychiatric disorders, but McCoy's insistence that Joe "doesn't give up" might more easily be from observation of his struggle.
 
  > **SPOCK**: You haven't answered my question. Where is Mister Sulu?
- > 
+ >
  > **RILEY**: Have no fear, O'Riley's here. And one Irishman is worth ten thousand of you---
- > 
+ >
  > **SPOCK**: You're relieved, Mister Riley. Lieutenant Uhura, take over this station.
- > 
+ >
  > **UHURA**: Yes, sir.
- > 
+ >
  > **RILEY**: Now that's what I like. Let the women work too. Universal suffrage.
 
 Especially depending on what he was about to say when he got cut off, this is potentially a sign of pretty terrible sentiments hiding just beneath the surface.  And there's also an obvious legacy of sexism in the "universal suffrage" quip, which was clearly intended to be funny.
@@ -164,14 +164,14 @@ Especially depending on what he was about to say when he got cut off, this is po
 On the suffrage point, keep in mind that the United States would be celebrating the 46th anniversary of the [Nineteenth Amendment](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution), but Switzerland was still five years away from granting women the right to vote in federal elections and there are still countries struggling with this question.
 
  > **RILEY**: You know something? You have such lovely eyes, pretty lady.
- > 
+ >
  > **CHAPEL**: I know he was a friend of yours. This must be a terrible shock.
- > 
- > **RILEY**: You know what Joe's mistake was? He wasn't born an Irishman. 
+ >
+ > **RILEY**: You know what Joe's mistake was? He wasn't born an Irishman.
 
 Chapel completely drops the ball by letting Riley walk after (a) the orders went out to keep him in Sickbay and (b) he acts like the above transcript.
 
- > **SULU**: Richelieu, beware! Stand. No farther. No escape for you. You either leave this war bloodied, or with my blood on your swords. Cowards! 
+ > **SULU**: Richelieu, beware! Stand. No farther. No escape for you. You either leave this war bloodied, or with my blood on your swords. Cowards!
 
  > **SPOCK**: ...Sulu, who is at heart a swashbuckler out of your 18th century.
 
@@ -184,7 +184,7 @@ Also of note is that Sulu's heroic tradition is very European.  While it would o
 I suppose it can be argued that there is cultural mixing in the background, such as judo-like martial arts and officers playing a variant of chess, but the former isn't presented as central to anybody's identity and the latter is clearly the Westernized version rather than [Chaturanga/चतुरङ्ग](https://en.wikipedia.org/wiki/Chaturanga) or other early forms.
 
  > **SULU**: I'll protect you, fair maiden.
- > 
+ >
  > **UHURA**: Sorry, neither.
 
 Uhura's offended reaction, here, is pretty great, and finally shows some hope for the future...
@@ -194,7 +194,7 @@ Uhura's offended reaction, here, is pretty great, and finally shows some hope fo
 I formally regret and apologize for praising the musical ability of officers in the [*Charlie X*]({% post_url 2020-01-16-trek-charlie %}) post.
 
  > **SPOCK**: Go to Alert Baker two. Seal off main sections.
- > 
+ >
  > **UHURA**: All decks, alert system B two. Repeat, go to alert condition Baker two. Seal off all main sections. Stand by.
 
 *Baker* comes from military radiotelephony alphabets up through 1955.  Afterward, you're more likely to see *Bravo*.
@@ -208,43 +208,43 @@ The *Enterprise* has a bowling alley.  And ship-board time sounds to be a milita
 Repulsive.  Plus...
 
  > **SPOCK**: Crewman, report to the lab!
- > 
+ >
  > **MOODY**: (singing) I'll take you home again Janice...
- > 
+ >
  > **SPOCK**: What's going on?
- > 
+ >
  > **RAND**: Mister Spock, I'm trying to get to the Bridge and this crewman won't let me by.
- > 
+ >
  > **SPOCK**: Crewman, stand aside.
- > 
+ >
  > **MOODY**: Oh, yes, sir. (singing) I'll take you home again, Janice...
- > 
- > **RAND**: Spock! 
+ >
+ > **RAND**: Spock!
 
 Four out of four scripts have now deliberately placed overt sexism front and center, this time with someone in authority (Spock) taking an active stand against it, albeit very briefly.
 
  > **RAND**: I would have gotten here sooner, sir but Crewman Moody stopped me in the hallway.
- > 
+ >
  > **KIRK**: Take the helm.
- > 
+ >
  > **RAND**: Sir?
- > 
+ >
  > **KIRK**: Take the helm!
- > 
+ >
  > **RAND**: Yes, sir.
 
 This strikes me as particularly interesting.  Rand is taken aback by the order, presumably because of her position.  At least in the United States Navy and Coast Guard, a yeoman is an enlisted position (not an officer) assigned to clerical work.  Yet, Kirk trusts her to do the piloting and---remember the immediate danger the degrading orbit presents---she's clearly fairly good at it.
 
  > **CHAPEL**: Mister Spock, the men from Vulcan treat their women strangely. At least, people say that, but you're part human too. I know you don't, you couldn't, hurt me, would you? I'm in love with you, Mister Spock. You, the human Mister Spock, the Vulcan Mister Spock.
- > 
+ >
  > **SPOCK**: Nurse, you should---
- > 
+ >
  > **CHAPEL**: Christine, please. I see things, how honest you are. I know how you feel. You hide it, but you do have feeling. Oh, how we must hurt you, torture you.
- > 
+ >
  > **SPOCK**: I'm in control of my emotions.
- > 
+ >
  > **CHAPEL**: The others believe that. I don't. I love you. I don't know why, but I love you. I do love you just as you are. Oh, I love you.
- > 
+ >
  > **SPOCK**: I'm sorry.
 
  > **SPOCK**: I'm in control of my emotions. Control of my emotions. I am an officer. An officer. My duty. My duty is, is. My duty is to, to...Too late. I'm sorry. To. Two, four, six. Six. Six times six.
@@ -258,17 +258,17 @@ But the more important point is how clear it's made that not only does Spock pus
 Later, Spock makes this even more explicit.
 
  > **SPOCK**: My mother. I could never tell her I loved her.
- > 
+ >
  > ...
- > 
+ >
  > **SPOCK**: An Earth woman, living on a planet where love, emotion, is bad taste.
- > 
+ >
  > ...
- > 
+ >
  > **SPOCK**: I respected my father, our customs. I was ashamed of my Earth blood. Jim, when I feel friendship for you, I'm ashamed.
- > 
+ >
  > ...
- > 
+ >
  > **SPOCK**: I've spent a whole lifetime learning to hide my feelings.
 
 The specific phrase Spock uses is "bad taste."  This is purely a social convention.
@@ -282,13 +282,13 @@ There's also a whole discussion to be had about how cultures that associate masc
 Kirk takes an interesting approach, here, smacking Spock to provoke the emotional response that Spock is repressing, in hopes of getting him to focus on the engineering problem in front of them.
 
  > **SCOTT**: Captain, you can't mix matter and antimatter cold. We'd go up in the biggest explosion since---
- > 
+ >
  > **KIRK**: We can balance our engines into a controlled implosion.
- > 
+ >
  > **SCOTT**: That's only a theory. It's never been done.
- > 
+ >
  > ...
- > 
+ >
  > **SCOTT**: If you wanted to chance odds of ten thousand to one, maybe, assuming we had a row of computers working weeks on the right formula.
 
 This strikes me as particularly interesting.  In [*Where No Man Has Gone Before*]({% post_url 2020-01-23-trek-no-man %}), we learned that Kirk is familiar enough with philosophers to identify the author from a glance at the text.  Here, we see that he's also either up to date on the theoretical science behind the engines or learning it as he goes from that clipboard-looking device he's carrying.
@@ -296,18 +296,18 @@ This strikes me as particularly interesting.  In [*Where No Man Has Gone Before*
 If we care about the technology, it's worth noting that this exchange also makes the point that the engines are powered by the mutual annihilation of matter and anti-matter, and that this is mediated in some way that takes half an hour to "warm up."
 
  > **KIRK**: I have a beautiful yeoman. Have you noticed her, Mister Spock? You're allowed to notice her. The Captain's not permitted---
- > 
+ >
  > ...
- > 
+ >
  > **KIRK**: Now I know why [the *Enterprise*]'s called she.
- > 
+ >
  > **SPOCK**: It's never been tested. It's a theoretical relationship between time and antimatter.
- > 
+ >
  > **KIRK**: Flesh woman to touch, to hold. A beach to walk on. A few days, no braid on my shoulder.
 
  > **KIRK**: (gazing at Janice) No beach to walk on.
- > 
- > **RAND**: Sir? 
+ >
+ > **RAND**: Sir?
 
 I realize that Kirk is technically "drunk," here, but that's still so very inappropriate at both ends of the intoxication, especially given the stakes.
 
@@ -318,35 +318,35 @@ Also, "a theoretical relationship between time and antimatter" obviously lightly
 Just calling this out in case you thought that was exclusively a **Next Generation** thing...
 
  > **SULU**: Captain, my velocity gauge is off the scale.
- > 
+ >
  > **SPOCK**: Engine power went off the scale as well. We're now traveling faster than is possible for normal space.
- > 
+ >
  > **KIRK**: Check elapsed time, Mister Sulu.
- > 
+ >
  > **SULU**: My chronometer's running backwards, sir.
- > 
+ >
  > **KIRK**: Time warp. We're going backward in time. Helm, begin reversing power. Slowly.
- > 
+ >
  > **SULU**: Helm answering, sir. Power reversing.
- > 
+ >
  > **SPOCK**: We're back to normal time, Captain.
- > 
+ >
  > **KIRK**: Engines ahead. Warp one.
- > 
+ >
  > **SULU**: Warp one, sir.
- > 
+ >
  > **KIRK**: Mister Spock.
- > 
+ >
  > **SPOCK**: Yes, sir.
- > 
+ >
  > **KIRK**: The time warp. What did it do to us?
- > 
+ >
  > **SPOCK**: We've regressed in time seventy one hours. It is now three days ago, Captain. We have three days to live over again.
- > 
+ >
  > **KIRK**: Not those last three days.
- > 
+ >
  > **SPOCK**: This does open some intriguing prospects, Captain. Since the formula worked, we can go back in time, to any planet, any era.
- > 
+ >
  > **KIRK**: We may risk it someday, Mister Spock. Resume course to our next destination, Mister Sulu.
 
 There's a couple of interesting points, here.
@@ -386,13 +386,13 @@ We then get a rambling exposition from McCoy, so that Kirk can not know much abo
 We then head to Spock, who's singing in his quarters in a presumably-Vulcan language, apparently unaffected by the antidote.
 
  > Alab, wes-craunish, sprai pu ristu,
- > 
+ >
  > Or en r'ljiik majiir auooo---
- > 
+ >
  > ...
- > 
+ >
  > Rijii, bebe, p'salku pirtu,
- > 
+ >
  > Fror om---
 
 It's described, derisively, as an "Arabic howl" and characterized as worse than Riley's singing.  So, if we thought that the crew had a problem with Spock for his difference, Blish would fit right in.  The crew doesn't seem particularly concerned about helping Spock recover.

@@ -354,7 +354,7 @@ Note that, even if we take a more charitable view of the women's situation and a
 
  > **CHILDRESS**: I guess I'm supposed to sit, taste, and roll my eyes. Ooh, female cooking again.
 
-That's right, Rand is able to steer a starship, despite her job being clerical, Uhura is also able to run things despite that not behing her job, and the *Enterprise*'s chef is an over-the-shoulder Gene Roddenberry, but home cooking is still somehow stereotypically "women's work."
+That's right, Rand is able to steer a starship, despite her job being clerical, Uhura is also able to run things despite that not being her job, and the *Enterprise*'s chef is an over-the-shoulder Gene Roddenberry, but home cooking is still somehow stereotypically "women's work."
 
  > **EVE**: Well you're tasting some of it now. I couldn't scrape three layers of your leavings out of that pan.
  >
@@ -536,7 +536,7 @@ More than most, this episode at least hints at a lot at what's going on outside 
 
 It seems that it's relatively easy to lay claim to a planet (for some mercantile purpose), make a fortune, and be mostly treated like a sovereign state by the overall government.
 
-Also, we're finally seeing explicit, in-story pushback against the crew's sexism, from both Kirk and Sulu.  Normally, the scenes are just filmed to make the viewer uncomfortable, but hearing it called out is an extra step.  Arguably, this also suggests that the crew is finally solving its problem with knowing when their colleagues are acting out.
+Also, we're finally seeing explicit, in-story push-back against the crew's sexism, from both Kirk and Sulu.  Normally, the scenes are just filmed to make the viewer uncomfortable, but hearing it called out is an extra step.  Arguably, this also suggests that the crew is finally solving its problem with knowing when their colleagues are acting out.
 
 ### The Bad
 

@@ -60,7 +60,7 @@ The **PL/I** language had orthogonality as a guiding principle, so the assorted 
 
 ### Homoiconism
 
-The **SNOBOL** language deals with string data in a surprising way.  Specificially, any undefined name represents *itself* until it's defined otherwise.  To make things more interesting, assignments are really just chains of equivalence.
+The **SNOBOL** language deals with string data in a surprising way.  Specifically, any undefined name represents *itself* until it's defined otherwise.  To make things more interesting, assignments are really just chains of equivalence.
 
 So...
 
@@ -83,7 +83,7 @@ Default values are the last of the easy ways to pretend there's nothing wrong.  
 
  * Default values for variables aren't that interesting, but we want orthogonality (remember *that*...?), after all, and homoiconism (remember *that*...?) is a kind of default we're already including that makes it much more interesting.
  * Default values for function parameters are more interesting, primarily because most languages make those parameters optional.  So, in this case, we can call just about any function with any number of parameters.
- * Default methods are probably the closest to the chaos we want, though, assuming this is an object-oriented langauge.  **Ruby**---I hope you didn't think that all the features would come from obscure languages---allows developers to take action when an incorrect method is called by implementing the `method_missing` method.  Here, the `Object` class would include a (default) `method_missing` class that does nothing, but can be overridden in child classes.  Or maybe it **can't** be overridden, because that would make it easy to report and handle errors...
+ * Default methods are probably the closest to the chaos we want, though, assuming this is an object-oriented language.  **Ruby**---I hope you didn't think that all the features would come from obscure languages---allows developers to take action when an incorrect method is called by implementing the `method_missing` method.  Here, the `Object` class would include a (default) `method_missing` class that does nothing, but can be overridden in child classes.  Or maybe it **can't** be overridden, because that would make it easy to report and handle errors...
 
 All three of these produce the same approximate effect, of course:  There is no such thing as a "wrong" variable name.
 
@@ -116,7 +116,7 @@ else
   else = if
 ```
 
-Similar but distinct ambiguity is in very early versions of **FORTRAN**.  Because code would often be written out by hand by engineers and typed ("keyed in") to [punch cards](https://en.wikipedia.org/wiki/Punched_card) by someone in a more clerical role, compilers would completely ignore white-space.  I have never found confirmation of the reasoning, but it seems extremely likely that the choice was made in order to prevent a secretary's intuitive inseration of spaces into a compound-word variable name wouldn't cause the compiler to fail the program back when running software had a significant per-minute cost.  But either way, it meant that a variable assignment such as...
+Similar but distinct ambiguity is in very early versions of **FORTRAN**.  Because code would often be written out by hand by engineers and typed ("keyed in") to [punch cards](https://en.wikipedia.org/wiki/Punched_card) by someone in a more clerical role, compilers would completely ignore white-space.  I have never found confirmation of the reasoning, but it seems extremely likely that the choice was made in order to prevent a secretary's intuitive insertion of spaces into a compound-word variable name wouldn't cause the compiler to fail the program back when running software had a significant per-minute cost.  But either way, it meant that a variable assignment such as...
 
 ```fortran
 DO I = 1
@@ -136,9 +136,9 @@ Granted, syntax highlighting solves most of these problems for us, so they would
 
 Since reserved words (or their lack) is largely a matter of naming, it may make sense to introduce a related idea from **FORTH**, the *dictionary*.  There, programmers define functions and insert them into the language runtime's dictionary, essentially a list of definitions.  When parsing, the interpreter searches the dictionary for every name that it finds, only resorting to inbuilt language features if the dictionary search fails.  There is also no uniqueness restriction on the dictionary.
 
- > > ...spontanously redefined.
+ > > ...spontaneously redefined.
 
-This means that both existing functions and inbuilt features can be spontanously redefined.  The old definitions are still there, but the search begins with the most recent entries and moves backwards, so the most recent version is the version that will be found.
+This means that both existing functions and inbuilt features can be spontaneously redefined.  The old definitions are still there, but the search begins with the most recent entries and moves backwards, so the most recent version is the version that will be found.
 
 But it gets even better (worse), because variable names and even *numbers* are part of the dictionary search, so that the parser doesn't need anti-orthogonal exceptions.  And many **FORTH** programs take advantage of this by ending with a list of constants used.
 
@@ -148,7 +148,7 @@ But it gets even better (worse), because variable names and even *numbers* are p
 :-1 -1;
 ```
 
-If a number is used frequently in the program, finding it near the last definitions means that it will be found faster than if it needed a more thorough search.  And because the function body is partially compiled when created, the return values are the real versions, increasing the speed of the probram significantly.
+If a number is used frequently in the program, finding it near the last definitions means that it will be found faster than if it needed a more thorough search.  And because the function body is partially compiled when created, the return values are the real versions, increasing the speed of the program significantly.
 
 But if a developer on the team makes a typo or is trying to be clever?
 

@@ -41,7 +41,7 @@ Instead, what makes more sense is to *just* send the reply information to the se
 
 Either way, something we definitely need is more tracking.  We need the ID of the paragraph---something we already have, but aren't yet passing into the React components---and we need the distance into the string where each punctuation mark sits.
 
-The latter sounds easy enough, of course.  The paragraph controller already splits the string into an array of substrings---alternating text with punctuation, in most cases---and each of those substrings obviously has a length.  However, that's a bit more naïve than we want, because the length of our punctuation in Markdown (which is how the paragraphs are stored, remember) isn't always the same as the length of our punction in HTML.
+The latter sounds easy enough, of course.  The paragraph controller already splits the string into an array of substrings---alternating text with punctuation, in most cases---and each of those substrings obviously has a length.  However, that's a bit more naïve than we want, because the length of our punctuation in Markdown (which is how the paragraphs are stored, remember) isn't always the same as the length of our punctuation in HTML.
 
 We can fix that by adding a mapping in the Paragraph component.
 

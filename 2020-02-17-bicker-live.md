@@ -192,7 +192,7 @@ However, making this change draws attention to the fact that a writer can curren
 
 ### Obligatory Terrible Ideas
 
-An alternative approach that probably would have worked for most typical relational database management systems would be to assume that any paragraph where `p.next_id > p.id` would be the first half of a split.  After all, most database systems assign IDs monotonically.  So, since we create the messages from last paragraph to first and the second half of a split is added after, the ID numbers in the list *should* decrease except for our split paragraphs and, of course, the final paragrpah.
+An alternative approach that probably would have worked for most typical relational database management systems would be to assume that any paragraph where `p.next_id > p.id` would be the first half of a split.  After all, most database systems assign IDs monotonically.  So, since we create the messages from last paragraph to first and the second half of a split is added after, the ID numbers in the list *should* decrease except for our split paragraphs and, of course, the final paragraph.
 
 However, that's very clearly awful practice, because even though it will probably work in most typical database management systems, I would be very surprised if any vendor *specified* the ID-selecting behavior.  Because it's not specified behavior, it's not at all out of the question for a particular implementation to do something strange like recycle IDs from deleted rows or even choose IDs randomly or through a hashing scheme.
 
@@ -247,7 +247,7 @@ And there's still a lot more refactoring to do to make this code look anything m
 
 That's it for this time.  Unfortunately, I ran out of time to get to the dynamic view updates while making interface improvements, so that's clearly going to be the primary goal for this week.  After all, it's the remaining piece of what I'd consider "core functionality" that's still not working.
 
-Also, as mentioned earlier, I think I want to display a spurious punction mark at the end of any paragraph that doesn't have any.  Doing so would make it impossible to post a comment that nobody can reply to.
+Also, as mentioned earlier, I think I want to display a spurious punctuation mark at the end of any paragraph that doesn't have any.  Doing so would make it impossible to post a comment that nobody can reply to.
 
 I also didn't get around to the length miscount issue I discovered last week.
 

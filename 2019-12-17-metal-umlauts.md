@@ -59,7 +59,7 @@ Then, we remove any diacritical marks (the [caron](https://en.wikipedia.org/wiki
 
 ## Searching
 
-Moreso than with sorting, it's a better experience to search without regard for diacritical marks.  For example, an increasing number of laws intended to suppress minority votes are posed as "exact match" measures, which require that handwritten voter registration documents be identical to personal identification documents, meaning that the *exactness* of accents and diacritical marks relies primarily on the comprehension and interest of an underpaid data entry clerk.
+More so than with sorting, it's a better experience to search without regard for diacritical marks.  For example, an increasing number of laws intended to suppress minority votes are posed as "exact match" measures, which require that handwritten voter registration documents be identical to personal identification documents, meaning that the *exactness* of accents and diacritical marks relies primarily on the comprehension and interest of an underpaid data entry clerk.
 
 By the same token, even something with much lower stakes like searching an employee directory shouldn't rely on the person searching for Beyoncé realizing that she has an acute accent in her name *or* that Human Resources input her name properly.
 

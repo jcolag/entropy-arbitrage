@@ -2,7 +2,7 @@
 layout: post
 title: Real Life in Star Trek - Charlie X
 date: 2020-01-16 17:20:09-0500
-categories: 
+categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/External_view_of_a_Bernal_sphere.jpg
@@ -30,9 +30,9 @@ At the top of the show, we're introduced to the cargo vessel *Antares*.  The cre
 There seems to be some evidence that there aren't many large colonies.
 
  > **CHARLIE**: How many humans like me on this ship?
- > 
+ >
  > **RAMART**: Like a whole city in space, Charlie. Over four hundred in the crew of a starship, aren't there, Captain?
- > 
+ >
  > **KIRK**: Four hundred and twenty eight, to be exact.
 
 It's possible that the phrasing was entirely for the benefit of easing Charlie in from his isolation, and I suppose that there are some definitions for which the *Enterprise* would qualify ([Broad Top City](https://en.wikipedia.org/wiki/Broad_Top_City,_Pennsylvania) is about the same size as the ship and British cities exist at the whim of the Crown, regardless of population), but many people in typical cities work at companies, go to schools, or attend events with many more people.  Typically, definitions for cities assume a minimum population of a hundred thousand residents, with a handful of regions going as low as fifteen hundred.  I can't find definitions that dip lower than that, though.
@@ -42,11 +42,11 @@ However, a looser definition would make sense if the colonies are still sparsely
 We have a rare instance of etiquette, simple as it might be.
 
  > **RAMART**: You see. We'd like to keep Charlie with us, but with his closest living relatives on Colony Five and your vessel going that way, why---
- > 
+ >
  > **CHARLIE**: I'd like to see your ship now. All of it. The people and everything.
- > 
+ >
  > **KIRK**: You keep interrupting, Mister Evans. That's considered wrong.
- > 
+ >
  > **CHARLIE**: I'm sorry.
 
 Again, this could be to make it easier for Charlie to adjust, but there's a level of formality and detachment to "interrupting is considered wrong" that isn't in evidence in 2020 and probably wasn't in evidence in 1966.
@@ -64,7 +64,7 @@ Transport sounds like a barely-profitable operation, with Kirk starting out assu
 Meanwhile, in the quest for equality...
 
  > **CHARLIE**: Are you a girl? Is that a girl?
- > 
+ >
  > **KIRK**: That's a girl.
 
 Rand visibly bristles at being asked if she's a girl, suggesting that either answer would offend her.  Or perhaps its the part where Charlie *and* Kirk refers to her as "that," as if she's an inanimate object.
@@ -72,14 +72,14 @@ Rand visibly bristles at being asked if she's a girl, suggesting that either ans
 An odd aspect is that, unlike the *Antares*, the *Enterprise* seems to have a supply of luxury goods, perfume, in this case.
 
  >  **CHARLIE**: I brought you a present.
- > 
+ >
  >  **RAND**: Oh, thank you. I really appreciate it, but, but I have to go. I'm on duty.
- > 
+ >
  >  **CHARLIE**: Do you like that kind?
- > 
+ >
  >  **RAND**: Yes, I, it's my favorite. Where did you get it? They don't have any in the ship's stores.
- > 
- >  **CHARLIE**: It's a present. 
+ >
+ >  **CHARLIE**: It's a present.
 
 At least in the present day, "ship's stores" include supplies and equipment needed for the journey.  This is something different, since there isn't really any scheme where perfume would be classified as "supplies," nor are supplies things that an officer would buy.  And Rand isn't surprised that Charlie managed to find perfume available for purchase.  She's surprised that it's the specific kind that she likes, which she knows isn't available.
 
@@ -88,26 +88,26 @@ Also, perhaps noteworthy to some, Charlie's phrasing is "I *bought* you a presen
 We next discover that education and the organization of information are potentially odd.  Though there's a lot going on in this conversation, so it runs a bit long, even skipping a couple of lines irrelevant to our purposes.
 
  > **KIRK**: He's working out a training program for Charlie Evans. Earth history, his own background, that sort of thing. I'd like you to give him the necessary medical orientation on the problems of, um, oh, adolescence.
- > 
+ >
  > **MCCOY**: Well, don't you think it'd be better for a strong father image like you? He already looks up to you.
- > 
+ >
  > ...
- > 
+ >
  > **KIRK**: Do you believe the legend, Mister Spock, that Thasians still exist on that planet in some form?
- > 
+ >
  > **SPOCK**: Charlie's very existence proves in fact there must be some intelligent form of life on Thasus. He could not possibly have survived alone. The ship's food concentrates would have been exhausted in a year or so.
- > 
+ >
  > ...
- > 
+ >
  > **SPOCK**: Probes of Thasus indicate very little edible plant life.
- > 
+ >
  > **MCCOY**: And probes have been known to be wrong, Spock.
- > 
+ >
  > ...
- > 
+ >
  > **MCCOY**: And he needs a guide and he needs a father image, Jim.
- > 
- > **KIRK**: Hmm. I'll depend on your astute abilities to supply him with that, or find him one. 
+ >
+ > **KIRK**: Hmm. I'll depend on your astute abilities to supply him with that, or find him one.
 
 The first oddity, here, is that both Kirk and Spock have agreed that *Earth* history should be central to education, a world that Charlie wasn't born on and probably won't be returning to.
 
@@ -144,8 +144,8 @@ The statement of Thanksgiving is probably the most notable aspect, here, in that
 And then things get uncomfortable.
 
  > **CHARLIE**: Well, in the corridor I saw...When Janice, when Yeoman Rand was...I did that to her. She didn't like it. She said you'd explain it to me.
- > 
- > **KIRK**: Me. I see. Well, um, er, there are things you can do with a lady, er, Charlie, that you er. There's no right way to hit a woman. I mean, man to man is one thing, but, er, man and woman, er, it's, er, it's, er. Well it's, er, another thing. Do you understand? 
+ >
+ > **KIRK**: Me. I see. Well, um, er, there are things you can do with a lady, er, Charlie, that you er. There's no right way to hit a woman. I mean, man to man is one thing, but, er, man and woman, er, it's, er, it's, er. Well it's, er, another thing. Do you understand?
 
 Kirk is mostly bemused that Charlie slapped Rand, uncomfortable, but doesn't act like this is much of a problem, just "another thing," as if it's something he wouldn't personally do, but also wouldn't stop someone else from doing.  Given upcoming developments in the story, this could either be because he doesn't realize it's an issue until Rand brings it to his attention or because he's trying to be very patient with a kid he believes grew up without supervision.
 
@@ -174,48 +174,48 @@ Rand refers to Charlie's self-entitled obsessiveness as a look she's seen before
 To his credit, once the issue has been raised, Kirk shows a *very* enlightened attitude towards women, explaining consent and self-entitlement to Charlie in no uncertain terms.  The exchange runs long, but is worth reading in full, given how thoroughly it interrogates the dynamic.
 
  > **KIRK**: Er, no. No, no. Sit down. Charlie, being seventeen is more than how many years you've lived. It's a whole other thing. Doctor McCoy could probably explain the biological conditions. Well, let's, let's use a specific. Yeoman Rand is a woman.
- > 
+ >
  > **CHARLIE**: Oh, I won't hit her like that anymore.
- > 
+ >
  > **KIRK**: No, there's more to it than that.
- > 
+ >
  > **CHARLIE**: Everything I do or say is wrong. I'm in the way, I don't know the rules, and when I learn something and try to do it, suddenly I'm wrong!
- > 
+ >
  > **KIRK**: Now wait, wait.
- > 
+ >
  > **CHARLIE**: I don't know what I am or what I'm supposed to be, or even who. I don't know why I hurt so much inside all the time.
- > 
+ >
  > **KIRK**: You'll live, believe me. There's nothing wrong with you that hasn't gone wrong with every other human male since the model first came up.
- > 
+ >
  > **CHARLIE**: What if you care for someone? What do you do?
- > 
+ >
  > **KIRK**: You go slow. You be gentle. I mean, it's not a one-way street, you know, how you feel and that's all. It's how the girl feels, too. Don't press, Charlie. If the girl feels anything for you at all, you'll know it. Do you understand?
- > 
+ >
  > **CHARLIE**: You don't think Janice. You. She could love me!
- > 
+ >
  > **KIRK**: She's not the girl, Charlie. The years are wrong, for one thing, and there are other things.
- > 
+ >
  > **CHARLIE**: She can.
- > 
+ >
  > **KIRK**: No, Charlie.
- > 
+ >
  > **CHARLIE**: She is.
- > 
+ >
  > **KIRK**: No.
- > 
+ >
  > **CHARLIE**: But if I did what you said! If I was gentle!
- > 
+ >
  > **KIRK**: Charlie, there are a million things in this universe you can have and there are a million things you can't have. It's no fun facing that, but that's the way things are.
- > 
+ >
  > **CHARLIE**: Then what am I going to do?
- > 
+ >
  > **KIRK**: Hang on tight and survive. Everybody does.
- > 
+ >
  > **CHARLIE**: You don't.
- > 
+ >
  > **KIRK**: Everybody, Charlie. Me, too.
- > 
- > **CHARLIE**: I'm trying, but I don't know how. 
+ >
+ > **CHARLIE**: I'm trying, but I don't know how.
 
 This is particularly interesting, given how we've seen Kirk make one extremely sexist suggestion in each of the two episodes so far---the crack about McCoy bringing flowers and his not seeing much of a threat in Charlie putting his hand on Janice.  Yet, here he is laying it out that we all need to learn that our desires aren't law and that you only want a partner who's as enthusiastic about being with you as you are with them.
 
@@ -224,9 +224,9 @@ The pair then stops off in the probably-never-seen-again gymnasium, which includ
 We then return, briefly, to indirect issues of history and technology.
 
  > **SPOCK**: Thasians have been referred to in our records as having the power to transmute objects or render substances invisible. It has generally been regarded as legend, but Charlie does seems to possess this same power.
- > 
+ >
  > **KIRK**: What are chances that Charlie's not an Earthling, that he's a Thasian?
- > 
+ >
  > **MCCOY**: No, I don't think so, not unless they're exactly like Earthlings. The development of his fingers and toes exactly matches the present development of man's on Earth.
 
 This brief exchange has a couple of interesting elements.  The first returns to the idea that the records kept about Thasus are referred to as legend, with no reference to the humans that visited the planet recently.  Again, it feels like the records must be very old and coming from another civilization (that is, not human or Vulcan surveys).  This also seems to imply that the reports are just text or some other after-the-fact narrative of the events, like Kirk's log entries, rather than video.
@@ -238,16 +238,16 @@ The term "Earthling" also seems like it implies that people in this universe hav
 Speaking of animals...
 
  > **KIRK**: Mister Spock, you getting any readings on your instruments?
- > 
+ >
  > **SPOCK**: Yes, sir. There's a---Tyger, tyger, burning bright in the forest of the night.
- > 
+ >
  > **KIRK**: Mister Spock.
- > 
+ >
  > **SPOCK**: I'm trying to---Saturn rings around my head, down a road that's Martian red.
- > 
+ >
  > ...
- > 
- > **SPOCK**: Once upon a midnight dreary while I pondered, weak and weary. 
+ >
+ > **SPOCK**: Once upon a midnight dreary while I pondered, weak and weary.
 
 This is somewhat interesting in that it gives a window into culture.  Charlie forces Spock to recite the opening lines of William Blake's [The Tyger](https://www.poetryfoundation.org/poems/43687/the-tyger) and Edgar Allen Poe's [The Raven](https://www.poetryfoundation.org/poems/48860/the-raven).
 
@@ -258,11 +258,11 @@ The line in the middle seems original to the episode, rather than being a ninete
 And rolling into the end...
 
  > KIRK: With training, we can teach him to live in our society. If he can be taught not to use his power
- > 
+ >
  > THASIAN: We gave him the power so he could live. He will use it, always, and he would destroy you and your kind, or you would be forced to destroy him to save yourselves.
- > 
+ >
  > KIRK: Is there nothing you can do?
- > 
+ >
  > THASIAN: We offer him life, and we will take care of him. Come, Charles.
 
 In nearly the final exchange, Kirk expresses the belief that Charlie can be taught to refuse to use his power and that this suppression would be healthy.  Contrast this with his reaction to the creature posing as Nancy Crater, who killed far fewer people for more legitimate reasons and was significantly more social, in *The Man Trap*.
@@ -273,7 +273,7 @@ The Thasian is sure that it's not only impossible (or undesirable), but trying w
 
 Briefly editorializing, it's worth noting that, if you ignore Charlie's alleged motivation of being raised by people he can't touch (an obvious metaphor for uninvolved parents) resulting in his emotional isolation, the late, great [D.C. Fontana](https://en.wikipedia.org/wiki/D._C._Fontana) has basically written a story about [alt-right](https://en.wikipedia.org/wiki/Alt-right) and [incel](https://en.wikipedia.org/wiki/Incel) narratives, from the whiny self-pitying to the violent outbursts that are blamed on other people "forcing" them to behave badly, by not giving them whatever they want.  Charlie has the same self-entitlement issues and blames everybody else for his actions.
 
-For one very clear example in the above-quoted dialogue, compare Charlie's "I don’t know the rules, and when I learn something and try to do it, suddenly I’m wrong!" with the many men who feel victimized by [the #MeToo Movement](https://en.wikipedia.org/wiki/Me_Too_movement) claiming that "the rules" somehow changed on them, as if harassment was ever acceptable.  Similarly, compare "I don't know why I hurt so much inside all the time" with the media focus on the shame and (mild) inconvenience abusers claim to face, instead of the pain their victims feel.
+For one very clear example in the above-quoted dialogue, compare Charlie's "I don't know the rules, and when I learn something and try to do it, suddenly I'm wrong!" with the many men who feel victimized by [the #MeToo Movement](https://en.wikipedia.org/wiki/Me_Too_movement) claiming that "the rules" somehow changed on them, as if harassment was ever acceptable.  Similarly, compare "I don't know why I hurt so much inside all the time" with the media focus on the shame and (mild) inconvenience abusers claim to face, instead of the pain their victims feel.
 
 Charlie even goes through what could equate to two mass shootings, one the destruction of the *Antares* (admittedly more analogous to a bomb threat) and the other storming through the *Enterprise* corridors indiscriminately using his powers against the crew.  And characteristically, Charlie's self-imposed weakness is a powerful man who's kind to him, but refuses to give his approval without reason.
 

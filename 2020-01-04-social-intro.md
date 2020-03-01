@@ -18,7 +18,7 @@ This series of posts, to be published on Saturday mornings, is an overview of th
 
 Note that I haven't tried hard to find communities on any of the networks.  Instead, I looked at who seems to be represented in either the public "stream" of posts or the list of accounts recommended to me as a new user.  A more ambitious and outgoing user might well have an entirely different experience from me.  I suspect that's not the case, since it would be hard to hide an entire community, but it's possible.
 
-In most cases, I also probably won't be putting much effort (if any) into running my own instance of the network.  I would *like* to be able to say how much administrative work is involved, but don't know that I'll have the time or temperment for many.
+In most cases, I also probably won't be putting much effort (if any) into running my own instance of the network.  I would *like* to be able to say how much administrative work is involved, but don't know that I'll have the time or temperament for many.
 
 ## Glossary
 

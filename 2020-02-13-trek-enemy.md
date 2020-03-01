@@ -211,7 +211,7 @@ I'd also like to briefly point out that the behind-the-scenes discussions about 
 
 ## Blish's Adaptation
 
-The big difference, here, is that the prose wants to answer every mundane question about how scenes are linked together.  Lines are added to explain how the second Kirk can beam in unnoticed and showing McCoy calling Spock about the duplicate's behavior.  Strangely, the aggressive Kirk is also consistenly referred to as "it," often awkwardly to say things like "it got it open."  Other than those changes, the plot and dialogue mostly track the episode.
+The big difference, here, is that the prose wants to answer every mundane question about how scenes are linked together.  Lines are added to explain how the second Kirk can beam in unnoticed and showing McCoy calling Spock about the duplicate's behavior.  Strangely, the aggressive Kirk is also consistently referred to as "it," often awkwardly to say things like "it got it open."  Other than those changes, the plot and dialogue mostly track the episode.
 
 The big change is---somewhat predictably after the last few stabs at this---treating Rand as complicit in her own attack in order to protect Kirk's image.
 
@@ -285,4 +285,4 @@ Up next is *Mudd's Women*, the episode I usually think of first whenever people 
 
 * * *
 
-**Credits**: The header image is [Artists’s impression of one of more than 50 new exoplanets found by HARPS: the rocky super-Earth HD 85512 b](https://www.eso.org/public/images/eso1134b/) by the [European Southern Observatory](https://www.eso.org) and M. Kornmesser, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.
+**Credits**: The header image is [Artists's impression of one of more than 50 new exoplanets found by HARPS: the rocky super-Earth HD 85512 b](https://www.eso.org/public/images/eso1134b/) by the [European Southern Observatory](https://www.eso.org) and M. Kornmesser, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.
