@@ -6,6 +6,7 @@ categories: media
 tags: [socialmedia, freesoftware, intro, socialshowdown]
 summary: How do the various free software social networks stack up?
 thumbnail: /blog/assets/Social_graph.gif
+recommend: A long-term project facing off the Free Software social networks
 ---
 
 ![Social graph](/blog/assets/Social_graph.gif "Social graph")

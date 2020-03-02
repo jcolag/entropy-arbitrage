@@ -7,6 +7,7 @@ tags: [novel, silverbat, superhero, scarletpimpernel, announcement, creativecomm
 summary: I semi-accidentally wrote a novel and failed to convince myself that it's horrible
 thumbnail: /blog/assets/Refuge-Cover.png
 offset: -32%
+recommend: A novel I wrote and the process behind it
 ---
 
 So...I kind of accidentally wrote a novel.

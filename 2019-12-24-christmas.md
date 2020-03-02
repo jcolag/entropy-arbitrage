@@ -6,6 +6,7 @@ categories: holiday
 tags: [holiday, christmas, history, celebration, solstice]
 summary: "Musings on the holiday season"
 thumbnail: /blog/assets/christmas-lights-free-pictures-1-2515-3.jpg
+recommend: Dissecting a great holiday
 ---
 
 ![Christmas lights tied on a rope](/blog/assets/christmas-lights-free-pictures-1-2515-3.jpg "Christmas lights")

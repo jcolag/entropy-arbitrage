@@ -4,9 +4,10 @@ title: Social and Anti-Social Media
 date: 2019-12-20 17:01:12-0500
 categories: media
 tags: [socialmedia, facebook, twitter, scuttlebutt, television, advertising]
-summary: "The inevitability of for-profit social media making you angry and why alternatives fail"
+summary: The inevitability of for-profit social media making you angry and why alternatives fail
 thumbnail: /blog/assets/Radio_News_Sep_1928_Cover.png
 offset: -18%
+recommend: The problems with social media
 ---
 
 ![Radio News](/blog/assets/Radio_News_Sep_1928_Cover.png "Radio News September 1928")
