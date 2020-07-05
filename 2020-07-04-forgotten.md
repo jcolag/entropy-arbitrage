@@ -26,7 +26,7 @@ To give this series some sense of organization, here are some basic facts withou
 
 This should go without saying---even though I'm going to repeat it with every Book Club installment---but *Content Advisories* are not any sort of judgment on my part, just topics that come up in the work that I noticed and might benefit from a particular mood or head space for certain audiences.  It's to help you make a decision, rather than a decision in and of itself.
 
-## Forgotten?
+## Forgotten
 
 Sadly, Itch.io doesn't allow for direct embedding, and I'm not in the mood to serve it on this server.  So, head over Itch.io's way to give it a try.
 
