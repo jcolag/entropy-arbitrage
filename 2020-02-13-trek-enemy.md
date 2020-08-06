@@ -257,7 +257,7 @@ This is another episode that was heavier on plot, so there wasn't quite as much 
 
 It "only" took five episodes for the crew to institute a procedure for dealing with people going crazy.  Granted, the process really does to be limited to "call Mr. Spock," someone who I wouldn't trust to handle these issues, but we have to start somewhere.
 
-Meanwhile, Kirk continues to show himself as (especially then separated into his "two halves") compassionate and thoughtful, though he has his dangerous limits when he feels defensive.  For example, even "Evil Kirk" knows Wilson's name.  We also continue to get hints of Kirk's breadth of knowledge in that he considers the engineering decks the easiest place to hide from a search and not even needing to think about alternatives.
+Meanwhile, Kirk continues to show himself as (especially when separated into his "two halves") compassionate and thoughtful, though he has his dangerous limits when he feels defensive.  For example, even "Evil Kirk" knows Wilson's name.  We also continue to get hints of Kirk's breadth of knowledge in that he considers the engineering decks the easiest place to hide from a search and not even needing to think about alternatives.
 
 ### The Bad
 
