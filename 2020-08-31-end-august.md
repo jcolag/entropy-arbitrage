@@ -10,7 +10,7 @@ thumbnail: /blog/assets/Les_Très_Riches_Heures_du_duc_de_Berry_septembre.png
 
 Yep.  No holidays.  No birthdays that caught my interest.  It's just the last day of August, meaning we're entering the season of decent holidays.  OK, that's actually not true.  There are quite a few regional and diaspora-based holidays.  It's also [Alma Mahler](https://en.wikipedia.org/wiki/Alma_Mahler)'s 141<sup>st</sup> birthday, which is fun, but licensing would forbid me from embedding Tom Lehrer's [song about her <i class="fab fa-youtube"></i>](https://www.youtube.com/watch?v=QL6KgbrGSKQ), so that's not particularly useful.
 
-[Les Très Riches Heures du duc de Berry septembre](/blog/assets/Les_Très_Riches_Heures_du_duc_de_Berry_septembre.png "Les Très Riches Heures du duc de Berry septembre")
+![Les Très Riches Heures du duc de Berry septembre](/blog/assets/Les_Très_Riches_Heures_du_duc_de_Berry_septembre.png "Les Très Riches Heures du duc de Berry septembre")
 
 But tomorrow?  Tomorrow is [Emma Nutt Day](https://en.wikipedia.org/wiki/Emma_Nutt), celebrating the world's first female telephone operator.  Things look up quickly for September, in other words.  OK, sure, I could've gone with "Emma Nut Eve" like I've done for other holidays, but that sounds silly and I *really* liked that header image.
 
