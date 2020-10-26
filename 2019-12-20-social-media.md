@@ -50,7 +50,7 @@ Public television (such as PBS, in the United States) is, of course, a prime exa
 
 Right.
 
-!['I have never had any dealings with Messrs. Gabriel, and beg to ask by what right do they disturb me by a telegram which is evidently simply the medium of advertisement ?'](/blog/assets/Times-1864-06-01.jpg)
+!['I have never had any dealings with Messrs. Gabriel, and beg to ask by what right do they disturb me by a telegram which is evidently simply the medium of advertisement ?'](/blog/assets/Times-1864-06-01.png)
 
  > > ...self-selection criteria in the form of poor grammar and shoddy stories that the less-gullible will just ignore.
 
