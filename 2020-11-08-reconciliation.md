@@ -50,7 +50,7 @@ We could take this idea of stakes a step further.  Trump supporters are angry th
 
 There's an obvious question, here:  What more empathy do these voters need than a political system that treats them with dignity and makes their lives livable?  I ask, because those policies sound a *lot* more empathetic than stealing children and claiming that millions of Americans have been suffering a phony disease that permanently weakens the cardiovascular and respiratory systems.  If they hate those things because someone they don't like might also get the same treatment, then there's really nothing more to be said.  Their petulance infantilizes them, and in so doing, deprives them of all seriousness.
 
-In other words, if they're going to act like jealous children, then that's the most direct way to treat them:  Take care of them over their objections and ignore their claims of hatred.
+In other words, if they're going to act like jealous children, then that's the most direct way to treat them:  Take care of them over their objections and ignore their claims of hatred.  Empathy is letting them cry it out while the rest of us act responsibly.
 
 ## Feedback
 
