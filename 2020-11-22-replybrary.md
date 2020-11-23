@@ -11,7 +11,7 @@ offset: -18%
 
 Today---probably right as this post is released, but maybe plus or minus an hour or so, plus testing---marks the launch of [**Replybrary**](https://twitter.com/replybrary), a Twitter-bot that tries to provide useful links in political discussions on request.
 
-[It's a robot!](/blog/assets/4189390241_d6fef03f49_k.png "It's a robot!")
+![It's a robot!](/blog/assets/4189390241_d6fef03f49_k.png "It's a robot!")
 
 (Note:  The problem with getting this running---besides my own stupidity of allowing typos into the JSON and script---was convincing Node.js to update to a usable version.  Somehow, that's a nightmare on my server, even though I obviously did it on my home machine...)
 
