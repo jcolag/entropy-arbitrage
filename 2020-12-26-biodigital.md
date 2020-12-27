@@ -15,7 +15,7 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
- * Full Title:  **Biodigital:  A Novel of Overmind Emergent**, chapters 1 – 17
+ * Full Title:  **Biodigital:  A Novel of Overmind Emergent**, chapters 1 – 13
  * Location:  <https://unglue.it/work/136615/>
  * Released:  2014
  * License:  CC-BY-SA
@@ -71,7 +71,7 @@ In other words, just because the author is proud of his "Dijjy-Mike" nickname do
 
 ## Next
 
-Next week, we'll continue reading **Biodigital**, chapters 18 through 34.
+Next week, we'll continue reading **Biodigital**, chapters 14 through 26.
 
 While we wait for that, what does everybody else think about **Pepper & Carrot**?
 
