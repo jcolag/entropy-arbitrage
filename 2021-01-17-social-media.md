@@ -7,6 +7,7 @@ tags: [socialmedia]
 summary: An attempt to understand why right-wing social media fails
 thumbnail: /blog/assets/136733958_d19086fe20_o.png
 offset: -22%
+update: 2019-12-20-social-media.md
 ---
 
 ![Free speech](/blog/assets/136733958_d19086fe20_o.png "Free speech")
