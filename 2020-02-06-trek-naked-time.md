@@ -31,6 +31,8 @@ The planet that forms the centerpiece of the episode is named Psi 2000, which is
 
 Notice the combination of the mundane task of ferrying a group of scientists around with the open-ended investigation of staying in orbit around the planet until it disintegrates.  An immediate oddity is the lack of interest in the murder of one of the scientists; Spock notes that somebody strangled her before she froze, but that's the last time we give any thought to violence.
 
+![Spock's analysis](/blog/assets/Star-Trek-The-Naked-Time.png "Spock's analysis")
+
 Anyway, Tormolen apparently thinks it's fine to take off his gloves and expose his face in an obviously-contaminated area and then go touching things with his now-bare hands and then touch his face.  Does anybody *train* these people?  Did Kirk run the only [class at the Academy]({% post_url 2020-01-23-trek-no-man %}) that held students to anything like a standard...?
 
  > **SCOTT**: We're holding them in the chamber for decontamination.
@@ -437,4 +439,4 @@ Coming soon to a blog near you (it might even be this one!), we'll be digging in
 
 * * *
 
-**Credits**: The header image is [Icy exoplanet (artist's impression)](https://www.eso.org/public/images/eso0603a/) by the [European Southern Observatory](https://www.eso.org), available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.
+**Credits**: The header image is [Icy exoplanet (artist's impression)](https://www.eso.org/public/images/eso0603a/) by the [European Southern Observatory](https://www.eso.org), available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.  [A promotional photo for the Star Trek: The Original Series episode "The Naked Time".](https://commons.wikimedia.org/wiki/File:Star_Trek_The_Naked_Time.jpg) is also used, as a photographic work without a copyright notice, meant for republication as publicity.
