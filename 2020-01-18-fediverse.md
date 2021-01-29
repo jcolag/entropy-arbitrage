@@ -37,7 +37,7 @@ You might already know this network in the form of Mastodon, PeerTube, or any nu
  * System Architecture:  Federated
  * Source Code Repository:  <https://git.gnu.io/gnu/gnu-social/issues>, among others
  * License:  GNU Affero General Public License v3
- * My Account:  @jcolag@mastodon.social 
+ * My Account:  @jcolag@mastodon.social
  * Font Awesome:  [<i class="fab fa-mastodon"></i>](https://fontawesome.com/icons/mastodon?style=brands) seems to be the only one
 
 ### Getting Started
@@ -95,8 +95,6 @@ However, it seems that entire communities on Twitter have been transplanting the
 Once you find one or more sub-communities or a themed server of interest, the Fediverse seems very close to the ideal of a social network unencumbered by advertising.  As mentioned, you'll often hear Mastodon in particular described as having a more polite and collaborative culture, even among people who have almost exactly the same group of people around them on Twitter.  By their absence, it's a prime example of how advertising revenue and anger go hand-in-hand.
 
 Where that fails, the content warnings go a long way towards defusing major problems.
-
-### Verdict <i class="far fa-thumbs-down"></i>
 
 So, overall?  The Fediverse is one of the winners.
 
