@@ -6,7 +6,7 @@ categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/1889ConstitutionalConventionParadeBismarkND.png
-offset: -81%
+offset: -61%
 ---
 
 We narrowly missed a few interesting holidays that we (the blog) will presumably pick up in future years, but the big anniversary in the United States is probably the signing of the [Enabling Act of 1889](https://en.wikipedia.org/wiki/Enabling_Act_of_1889), which would create Washington State, Montana, North Dakota, and South Dakota.
