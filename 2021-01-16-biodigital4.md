@@ -26,7 +26,7 @@ To give this series some sense of organization, here are some basic facts withou
  * License:  CC-BY-SA
  * Creator:  John Sundman
  * Length:  135,588 words
- * Content Advisories:  Harsh language, sex, violence, blood, death, technobabble, probably-unintentional meta-textual sexism, casual racism, extremist anti-government sentiment, trivialization of religion
+ * Content Advisories:  Coarse language, sex, violence, blood, death, technobabble, probably-unintentional meta-textual sexism, casual racism, extremist anti-government sentiment, trivialization of religion
 
 This should go without saying---even though I'm going to repeat it with every Book Club installment---but *Content Advisories* are not any sort of judgment on my part, just topics that come up in the work that I noticed and might benefit from a particular mood or head space for certain audiences.  It's to help you make a decision, rather than a decision in and of itself.
 

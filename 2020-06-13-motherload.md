@@ -24,7 +24,7 @@ To give this series some sense of organization, here are some basic facts withou
  * Creators:  David "lostnbronx" Collins-Rivera
  * Medium:  Podiobook; the author's term, not mine
  * Length:  2 hours, 37 minutes, 10 seconds
- * Content Advisories:  Some simulated harsh language and descriptions of violence
+ * Content Advisories:  Some simulated coarse language and descriptions of violence
 
 This should go without saying---even though I'm going to repeat it with every Book Club installment---but *Content Advisories* are not any sort of judgment on my part, just topics that come up in the work that I noticed and might benefit from a particular mood or head space for certain audiences.  It's to help you make a decision, rather than a decision in and of itself.
 
