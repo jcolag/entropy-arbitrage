@@ -3,7 +3,7 @@ layout: post
 title: Fiction — Grandfathers, Butterflies, and Patient Minus-One
 date: 2020-08-16 10:45:12-0400
 categories:
-tags: [freeculture, creativecommons, politics, scifi]
+tags: [freeculture, creativecommons, politics, scifi, fiction]
 summary: Releasing a Short Story
 thumbnail: /blog/assets/Camp-Funston-Kansas-NCP-1603.png
 offset: -30%
