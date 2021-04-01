@@ -53,7 +53,7 @@ The penalty for willful wage theft violations is---in addition to paying the bac
 
 ## The (Alleged) Need for Slavery
 
-We can also look at Arkansas [Senator Tom Cotton](https://en.wikipedia.org/wiki/Tom_Cotton), who claimed that the country's architects considered slavery "was the necessary evil upon which the union was built."  No record of any of the country's founders saying such a thing can be identified, so this is clearly something that Cotton himself believes.  James Madison called slavery evil and Thomas Jefferson talked about it being good to hasten its end, but gave no indication of it being *needed*.
+We can also look at Arkansas [Senator Tom Cotton](https://en.wikipedia.org/wiki/Tom_Cotton), who claimed that the country's architects believed that slavery "was the necessary evil upon which the union was built."  No record of any of the country's founders saying such a thing can be identified, so this is clearly something that Cotton himself believes.  James Madison called slavery evil and Thomas Jefferson talked about it being good to hasten its end, but gave no indication of it being *needed*.
 
  > > "necessary evil"
 
@@ -79,7 +79,7 @@ Conservative commentator---and conspiracy theorist and campaign finance [felon](
 
 [Jon Hubbard](https://en.wikipedia.org/wiki/Jon_Hubbard_(American_politician)) has echoed this sentiment, calling slavery "a blessing in disguise" for African-Americans.  [Similarly](https://thehill.com/homenews/503093-atlanta-megachurch-pastor-faces-criticism-for-suggesting-white-blessing-replace-term) for megachurch pastor [Louis Giglio](https://en.wikipedia.org/wiki/Louie_Giglio).
 
-There's a pattern through all of this:  The reason that the United States (allegedly) needed slavery to generate the wealth that makes us a powerful nation.
+There's a pattern through all of this:  The reason that the United States (allegedly) needed slavery was to generate the wealth that makes us a powerful nation today.
 
 ## Get the Tinfoil Hat
 
