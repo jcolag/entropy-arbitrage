@@ -11,7 +11,7 @@ offset: -18%
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading **The Fellowship of Heroes**, a superhero comic.
 
-![Introducing Crusader](/blog/assets/FellowshipOfHeroesPanel.png "FellowshipOfHeroesPanel.png")
+![Introducing Crusader](/blog/assets/FellowshipOfHeroesPanel.png "Introducing Crusader")
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
