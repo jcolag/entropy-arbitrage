@@ -20,6 +20,7 @@ To give this series some sense of organization, here are some basic facts withou
  * Released:  2012 --
  * License:  CC-BY-SA
  * Creator:  [Akhlys](https://www.wikidot.com/user:info/akhlys), [Bunton](https://www.wikidot.com/user:info/bunton), [Loiterer87](https://www.wikidot.com/user:info/loiterer87), [PuNKCaT](https://www.wikidot.com/user:info/punkcat), [The thin white duke](https://www.wikidot.com/user:info/the-thin-white-duke), [RJB_R](https://www.wikidot.com/user:info/rjb-r), and assorted editors
+ * Medium:  Short story anthology
  * Length:  Approximately 7,500 words between six stories
  * Content Advisories:  Some coarse language and bias against subcultures (*Twerk Witches*), authoritarianism (*Elrichian national Party Manifest*, *The Great Empire of the Moon*), paganism and mysticism (*Ascendor*, *The Darkness Inside*, *The Great Empire of the Moon*, *Twerk Witches*), depictions of slavery (*All Rights Reserved*), abstract but widespread violence (*The Darkness Inside*, *The Great Empire of the Moon*, possibly *All Rights Reserved*), typos (including some bordering on offensive)
 

@@ -21,6 +21,7 @@ To give this series some sense of organization, here are some basic facts withou
  * Released:  2014
  * License:  CC-BY-SA
  * Creator:  John Sundman
+ * Medium:  Novel
  * Length:  135,588 words
  * Content Advisories:  Coarse language, sex, violence, death, technobabble, probably-unintentional meta-textual sexism, casual racism, mocking of psychological instability, use of sexual assault as a metaphor for mild inconvenience
 

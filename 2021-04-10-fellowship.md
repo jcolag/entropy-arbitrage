@@ -20,6 +20,7 @@ To give this series some sense of organization, here are some basic facts withou
  * Released:  2014 or so
  * License:  CC-BY
  * Creator:  [Ralph E. Hayes](http://www.rhjunior.com/)
+ * Medium:  Web comic
  * Length:  54 pages
  * Content Advisories:  Extended reactionary rants, blood, violence, death, casual use of slurs relating to learning disabilities
 
