@@ -5,6 +5,11 @@ date: 2020-01-30 17:24:32-0500
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/hands-1461555427fAd.jpg
+update: [
+  2020-01-09-trek-01.md,
+  2020-01-16-trek-charlie.md,
+  2020-01-23-trek-no-man.md
+]
 ---
 
 These are some relatively minor notes on the James Blish episode adaptations, prose short stories often based on the early drafts of episodes, published by Bantam Books, from 1967 to 1977, plus a posthumous collaboration adapting the Harry Mudd episodes in 1978.

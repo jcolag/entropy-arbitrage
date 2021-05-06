@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Life in Star Trek - Charlie X
+title: Real Life in Star Trek, Charlie X
 date: 2020-01-16 17:20:09-0500
 categories:
 tags: [scifi, startrek, closereading]
