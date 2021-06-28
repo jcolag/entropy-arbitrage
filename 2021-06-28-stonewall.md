@@ -43,7 +43,9 @@ It'll require changes to [**Doritís Onomáton**](https://github.com/jcolag/dori
 
 ## Next
 
+Yikes, I didn't paste this in when I posted.
 
+The short version is that I expect this week to mostly focus on **Fýlakas Onomáton** and, if I finish that, going back to **Doritís Onomáton** to update it to match.
 
 * * *
 
