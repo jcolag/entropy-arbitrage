@@ -369,7 +369,7 @@ I don't have much to say about this episode, but if I can briefly editorialize, 
 
 In the adaptation, the planet is designated ULAPG42821DB, dubbed "La Pig" by the *Enterprise* crew; the explanation of what's going on down on the planet is different, but not relevant for this discussion, though the narration suggests that the scientists are studying the planet's destruction in order to create a weapon to destroy other planets in the future.  And Kirk is introduced as dismissive of the scientific side of the organization, referring to them as "chairborne."  So, we're still going to be much more cynical than the broadcast versions, whether we like it or not.
 
- > > more dismissive of the deaths
+{% pull more dismissive of the deaths %}
 
 Somehow, Spock is more dismissive of the deaths, here, than the crew was in the episode.  Kirk, meanwhile, claims to be interested in imagining what happened and spins an unhinged story about the woman releasing a chemical that needed to be vented and washed off, so I guess the murder was OK, and then they all just decided to commit suicide.  Tormorlen's breach of protocol is also skipped; he's merely the "first to show the signs."
 
@@ -377,7 +377,7 @@ Joe dies of his wounds, here, but McCoy seems to sit on that information for a f
 
 A lot of the interactions are different, here, such as Kirk encountering Sulu early.  An aspect related to something we've seen is that the replacement helmsman is offended that Riley pitied him (rather than Spock, in the episode) for not being an Irishman, even though he considers himself such.
 
- > > mansplaining beauty tips
+{% pull mansplaining beauty tips %}
 
 Speaking of Riley, his mansplaining beauty tips to the female members of the crew, here, mutates to also offer the female attendees of his bowling alley dance a pint of perfume from "ship's stores" (connected to a weird idea we heard about in *Charlie X*) and in "fairness," he offers the men "raise in one pay grade."  So, we have an insistence on a pay gap in *addition* to the hair and make-up tips.
 

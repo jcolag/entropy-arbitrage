@@ -25,7 +25,7 @@ In a lot of ways, though it mostly reminds me a lot of how people used to talk a
 
  > We care about you and you deserve support.  But there are people out there who don't feel the same way.  They're backwards and we should just ignore them, but they can be mean.  So, while we care about you and don't have any problems with your relationship, we can't support it, because of those mean people who might do or say something mean, because nobody wants that to happen.  We only want the best for you and your eventual children, after all.
 
- > > enforcing bigotry while claiming to be against it
+{% pull enforcing bigotry while claiming to be against it %}
 
 Despite explicitly trying to avoid the bigotry involved, the argument still very much relies on an appeal to bigotry to justify making a bad choice.  That's bad and needs to stop.  Because there's only one thing that makes a candidate unelectable:  People not voting to elect them!  So, "electability" is---and is probably meant to be---a self-fulfilling prophecy, *enforcing* bigotry despite (or under a shield of) claiming to be against that same bigotry.
 
@@ -55,7 +55,7 @@ Loosely related to the "electability" argument, it's worth pointing out that cer
 
 To muddy the waters, I can think of five candidates (and at least two former candidates) that fit this bill in the 2020 election.  So yes, the list probably **does** include the candidate you're thinking about loudly defending in the comments, but it's a more general problem than that one campaign.  So back off and keep reading.
 
- > > prefer to take the topic as a personal attack
+{% pull prefer to take the topic as a personal attack %}
 
 Unfortunately, when someone raises the issue of terrible supporters, it appears that even the less-obnoxious supporters of the candidates will often prefer to take the comment as if it was a vicious personal attack, rather than as the concern it clearly is.  Responses range anywhere from dismissing the bad elements as a fringe best ignored to denying the existence of **any** bad elements to accusing the original speaker of viciously lying in hopes of destroying the candidate's campaign.  Regardless of the form, this is just reinforcing the problem.  This is very much the behavior that people are objecting to.
 
@@ -67,7 +67,7 @@ In the second situation, the topics of [systemic racism](https://en.wikipedia.or
 
 I'll return to that last clause, later.
 
- > > deflecting the conversation
+{% pull deflecting the conversation %}
 
 Each of these scenarios shares a problem:  Someone responds to a speaker's personal experience (being attacked or held back) by interpreting that speaker's experience as if it was a personal accusation against their honor and then deflecting the conversation to tell the speaker that their experience is somehow untrue or at least unwelcome in the conversation.
 
@@ -89,7 +89,7 @@ These political supporters tend to take a similar approach, rushing to deny any 
 
 We've now seen four situational variations and they all have one strong thread in common with each other:  They're all displaying *complicity* on some level.
 
- > > implicitly condoning the attack
+{% pull implicitly condoning the attack %}
 
 That is, if I tell a woman---with my literal words or by my behavior---that my comfort level in a conversation is more important to me than her talking about being sexually assaulted, in trivializing the attack, I would be implicitly *condoning* the attack.  By treating it as an aberration, I would be denying its frequency and refusing to acknowledge the pain this person has endured.  The relevant term for this is participation in [rape culture](https://en.wikipedia.org/wiki/Rape_culture).
 
@@ -103,7 +103,7 @@ Complicity is a problem, because it denies any responsibility to fix problems.  
 
 (Huh.  Two Mitch McConnell references in the same article.  That can't be a good sign.)
 
- > > Turd Theory
+{% pull Turd Theory %}
 
 The name is by no means "official," but I like to refer to this field of thought as **Turd Theory**, as in:  You come home to find a giant turd in the middle of your living room floor, with no indication of who or what might be to blame for this.  What do you do?
 
@@ -120,7 +120,7 @@ Hopefully, the point is clear.  The only correct solution to the problem is to r
 
 Easy, right?
 
- > > consider what you can do to fix that image
+{% pull consider what you can do to fix that image %}
 
 So, when you're told "[Dave Hepler](https://en.wikinews.org/wiki/Wikinews:Bad_jokes_and_other_deleted_nonsense#Dave_Hepler) has a lot of toxic supporters," if you're a Hepler supporter, consider what you can do to fix that image.  Do that before jumping to tell the speaker that you know so many Hepler-Heads who are very nice to everybody and donate to charity; there is no number of good people that magically erases a bad experience.  Do that before telling the speaker that this their experience is untrue; that's an abusive technique referred to as [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting).  Consider that, if you have the time to yell at someone for criticizing your favorite candidate's campaign, but no time to intervene when other supporters cross the line and harass critics, you might actually *be* the toxic element being discussed and should stop!
 
@@ -140,7 +140,7 @@ King understood that you don't make progress by waiting for progress to happen a
 
 Trimming that all down to the bare minimum:  There is no such thing as "electability"---candidates are electable if and when we elect them---and the better way to defend your candidate is to take a stand against toxic supporters than fighting the critics telling you about the toxic supporters.
 
- > > register to vote!
+{% pull register to vote! %}
 
 And, if you have a primary coming and are registered to vote, go vote.  If early voting is available in your state, take advantage of it to avoid the crowds.  If you're of age, [register to vote](https://vote.gov/) or [verify your registration](https://www.vote.org/am-i-registered-to-vote/)!  Many states are even moving registration online, so there's a decent chance you can get either done before you feel compelled to check your e-mail again.
 

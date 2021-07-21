@@ -30,13 +30,13 @@ Yet, considering that advertising accounts for the majority of non-subscription 
 
 ![Screenshot from an Open Cola commercial mock-up](/blog/assets/opencola.png)
 
- > > ...content is only important to the extent that it keeps you sufficiently emotionally engaged that you'll pay attention to the commercials.
+{% pull ...content is only important to the extent that it keeps you sufficiently emotionally engaged that you'll pay attention to the commercials. %}
 
 Critically for this discussion, when you understand that commercials pay the bills, you understand that the primary goal of a _lot_ of television is to keep an audience engaged long enough to watch those commercials.  That is, as far as the broadcaster is concerned, content is only important to the extent that it keeps you sufficiently emotionally engaged that you'll pay attention to the commercials.  After all, if you tune out, the network loses money and would rather broadcast something cheaper to produce, more popular, or more compelling to a niche audience in the slot on the schedule.  This, for example, is why channels founded to privatize educational, intellectual, and cultural programming (the Discovery Channel, the Arts & Entertainment Network, the Learning Channel, Bravo, the History Channel, and others, in just the United States) invariably replace their intended programming with reality shows and documentaries that are less incisive and programming so much as dubiously sourced and sensationalized.  An opera and a documentary about spontaneous human combustion probably have roughly the same size audience on the small screen, for example, but the opera is expensive to produce and a viewers who accept assertions that spontaneous human combustion is real are _also_ likely to believe that the mail order herbal supplements being sold during the commercials will make them strong and virile.
 
 This explains the structure of most shows, too.  While separating a theatrical work into multiple acts has been standard procedure for thousands of years, a play doesn't generally need to worry about you coming back after or sitting through a commercial, nor is the time generally segmented into three or five acts.  This results in a structure that doesn't quite conform to traditional theatrical act structure on one hand, but more importantly works to increase the viewer's emotional engagement up to a twist at every act break.  TV Tropes has an excellent set of examples of what they call the [Commercial Break Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialBreakCliffhanger).
 
- > > ...we all have that same "lizard brain" making us respond to a jump scare...
+{% pull ...we all have that same "lizard brain" making us respond to a jump scare... %}
 
 In the previous paragraph, "_emotional_ engagement" is the key phrase.  And, when you're dealing with an audience you don't know, it's generally easier to provoke emotional engagement through stress (anger, fear, grief, and maybe jealousy) than other kinds of highs.  A joke can fall flat and a character being rewarded might not be well-liked, but we all have that same ["lizard brain"](https://en.wikipedia.org/wiki/Amygdala) making us respond to a jump scare, and you can amplify those feelings easily with a change in lighting or the soundtrack.
 
@@ -52,7 +52,7 @@ Right.
 
 !['I have never had any dealings with Messrs. Gabriel, and beg to ask by what right do they disturb me by a telegram which is evidently simply the medium of advertisement ?'](/blog/assets/Times-1864-06-01.png)
 
- > > ...self-selection criteria in the form of poor grammar and shoddy stories that the less-gullible will just ignore.
+{% pull ...self-selection criteria in the form of poor grammar and shoddy stories that the less-gullible will just ignore. %}
 
 It turns out that the medium doesn't really make a difference.  The same process at work here can be seen to greater or lesser degrees in print print media, where a sentence might be cut to be continued on some deep interior page (with a lot of advertisements), only to find out that you were near the end of the article, anyway.  You can see this at work with spam, where the low cost of sending e-mail only requires a handful of respondents to be profitable, leading to [self-selection criteria](https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/) in the form of poor grammar and shoddy stories that the less-gullible will just ignore.
 
@@ -67,7 +67,7 @@ Of course, there are two possible reasons of significance that these companies h
 
 By the way, the right-wing's obsession with being _respected and liked_ after denigrating huge swaths of the population and consistently supporting policies everybody can see are failures is, itself, almost certainly another discussion for another time...
 
- > > ...the founders of those companies limit screen time for their _own_ kids...
+{% pull ...the founders of those companies limit screen time for their own kids... %}
 
 Oh, and, if anybody wanted to assume "Option Three," that this is all coincidental/accidental and the social media companies _really_ have our best interests at heart, let's not forget that they're all too happy to [optimize their products for addiction](https://www.vice.com/en_us/article/vv5jkb/the-secret-ways-social-media-is-built-for-addiction), the founders of those companies [limit screen time for their _own_ kids](https://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html), and former employees [consistently warn us](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html) about the potential downsides of the products, including [depression](https://en.wikipedia.org/wiki/Major_depressive_disorder).
 
@@ -75,7 +75,7 @@ In other words, hate speech is profitable for them, because it makes you angry. 
 
 ![Generic social media](/blog/assets/wall.png)
 
- > > ...corporations are still uniquely and almost entirely fascist and feudal institutions...
+{% pull ...corporations are still uniquely and almost entirely fascist and feudal institutions... %}
 
 Or, rather, maybe _serf_ is accurate.  After all, despite all the amazing social and technical progress we've made in the outside world in a couple of centuries, with all society (plus or minus an occasional well-funded speed bump) trending towards democracy, corporations are still uniquely and almost entirely fascist and feudal institutions, with a "strong-man" leader whose whim is absolute law and "residents" (whether employees or customers) have as few rights as the management can manage, whether through [violence, as in the past](https://en.wikipedia.org/wiki/Anti-union_violence), or combinations of [non-compete](https://www.forbes.com/sites/omribenshahar/2016/10/27/california-got-it-right-ban-the-non-compete-agreements/#4af25e893538), [nondisparagement](https://www.nytimes.com/2017/07/21/technology/silicon-valley-sexual-harassment-non-disparagement-agreements.html), [forced arbitration](https://gizmodo.com/silicon-valley-needs-to-ban-forced-arbitration-agreemen-1822313732), [lack of privacy](https://thetechpanda.com/2013/06/25/how-silicon-valley-makes-money-by-snooping-on-your-information/), and other contractual clauses with few alternatives to agreeing to the contracts.
 
@@ -85,7 +85,7 @@ Back to the topic, yes, you're being manipulated no matter what the end results.
 
 Another situation that's analogous in a different way:  [Technocracy Inc.](https://www.washingtonpost.com/outlook/silicon-valleys-attempts-to-self-police-are-anti-democratic-theyre-also-not-new/2018/08/17/cd44fb22-9b1d-11e8-843b-36e177f3081c_story.html) in the wake of World War II, where industrialist experts insisted that ceding authority to unaccountable rich people would produce a utopia.  It's the aforementioned corporate fascism/feudalism weirdly fused with the socialist implications of Edward Bellamy's [**Looking Backward From 2000 to 1887**](https://en.wikisource.org/wiki/Looking_Backward_From_2000_to_1887).  Technocracy Inc. also, inexplicably, still exists, with an ["elevator pitch"](http://www.technocracyinc.org/technocracy-in-a-nutshell/) literally dismissing the will of the people in allocating resources.  Yes, there's also a _claim_ of ignoring profit as well, but the track record of the private sector in solving public sector problems altruistically isn't exactly great.
 
- > > Advertising is obsolete
+{% pull Advertising is obsolete %}
 
 Oh, and the kicker?  [Advertising is obsolete](https://theconversation.com/advertising-is-obsolete-heres-why-its-time-to-end-it-101639) (I'd recommend reading the Yale Law Journal article, if you have the time for seventy footnoted pages) and/or, in the United States, may run afoul of the [Sherman Antitrust Act](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act_of_1890).  And that would mean that all of this systemic emotional abuse to get us to click serves at best no purpose and at worst an _illegal_ purpose.
 
@@ -93,7 +93,7 @@ Oh, and the kicker?  [Advertising is obsolete](https://theconversation.com/adver
 
 Yes, there are _many_ social networking sites that aren't the big names.  [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_social_networking_websites) has somewhere in the neighborhood of 250 sites that are currently running.  But, you might notice that, if you ignore the sites that are gone and forgotten, the juggernauts, the niche sites, and the open source distributed systems I'll talk about later, the remainder of the list is...pretty much irrelevant.
 
- > > ...asking people to pay for a walled garden that simulates the e-mail and browsing experience we already all have...
+{% pull ...asking people to pay for a walled garden that simulates the e-mail and browsing experience we already all have... %}
 
 In cases like Ello or Gab or whatever, the funding is intended to come from subscription fees.  And asking people to pay for a walled garden that simulates the e-mail and browsing experience we already all have is _probably_ doomed to failure.  After all, how many people do you know who pay for LinkedIn, and _they_ provide services that are reasonably exclusive and useful for that money.
 
@@ -115,7 +115,7 @@ That said, here's how I look at the landscape.  Take it with a grain of salt and
 
 **First**, and probably the most straightforward, _turn off push notifications_ if you have any.  You don't need to know every single time somebody thought to interact with you and the information will still be there in a few hours.  The Internet works on your schedule, not the other way around.
 
- > > ..._be aware_ of the of the business models in effect...
+{% pull ...be aware of the of the business models in effect... %}
 
 **Second**, _be aware_ of the of the business models in effect on corporate-run social media.  If you ignore the motivations behind a system, you can't reasonably deal with the system on your own terms.  Especially keep this in mind when you're about to react to what someone has posted.  Are you...
 
@@ -129,7 +129,7 @@ Those may benefit you as a user to different degrees and they rev the site's eng
 
 Most of my Twitter posts are set up over the weekend to post during the week, for example.  And then I check networks for activity daily (Twitter), weekly (LinkedIn), or every few weeks (Facebook), based on how often real people try to connect with me directly and how stressful the experience is.
 
- > > ...see how social media _could_ look...
+{% pull ...see how social media could look... %}
 
 **Fourth**, investigate the alternatives to see how social media _could_ look without the profit motive.  None of them is perfect, by any means, but I would recommend trying out at least the major Free Software players:
 

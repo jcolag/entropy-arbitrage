@@ -60,7 +60,7 @@ Unsurprisingly, that latter ethos is what drives the [*Real Life in Star Trek*](
 
 In the 1990s, however, that cottage industry fell apart, because companies began publishing their *own* reference material.  Movies and television shows now have official creator commentaries.  Creators interact with fans on social media.  There is now, therefore, an official way that the fictional technologies, alien languages, maps, and so forth work.  And because there's an official word from on high, in some circles, that word must be correct, even if it's contradicted by actual events portrayed in the work or by every sort of logic.
 
- > > A kind of schism between fans
+{% pull A kind of schism between fans %}
 
 Another, more specific, incident that I believe changed "fan culture"---to the extent that it existed---was the release of [**The Empire Strikes Back**](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back) in 1980.  The original [**Star Wars**](https://en.wikipedia.org/wiki/Star_Wars_(film)) was a self-contained story marketed primarily to children, as evidenced by the [**Star Wars Holiday Special**](https://en.wikipedia.org/wiki/Star_Wars_Holiday_Special).  But the sequel was darker and turned the movie into a franchise that continues until today, creating a kind of schism between fans as to whether the franchise is a story about space wizards that can't be taken too seriously or a solemn epic.
 

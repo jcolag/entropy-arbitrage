@@ -47,7 +47,7 @@ Smarter people than I am have thoroughly debunked the idea that American slavery
 
 However, consider the premise that these millions of people were forced to labor for their entire lives, because it was *just* cheaper than hiring free professionals.  In modern terms, that's called [wage theft](https://en.wikipedia.org/wiki/Wage_theft).
 
- > > That's called wage theft.
+{% pull That's called wage theft. %}
 
 The penalty for willful wage theft violations is---in addition to paying the back wages that are [conservatively calculated](https://magazine.uconn.edu/2020/06/15/the-new-reparations-math/?s=09#) as trillions of dollars, accounting for interest, but not inflation---ten thousand dollars (eleven thousand for minors) and eventual imprisonment.  We obviously can't imprison actual slave-holders (since they're dead) or their descendants, but that's at least tens of billions of dollars owed in fines.
 
@@ -55,7 +55,7 @@ The penalty for willful wage theft violations is---in addition to paying the bac
 
 We can also look at Arkansas [Senator Tom Cotton](https://en.wikipedia.org/wiki/Tom_Cotton), who claimed that the country's architects believed that slavery "was the necessary evil upon which the union was built."  No record of any of the country's founders saying such a thing can be identified, so this is clearly something that Cotton himself believes.  James Madison called slavery evil and Thomas Jefferson talked about it being good to hasten its end, but gave no indication of it being *needed*.
 
- > > "necessary evil"
+{% pull "necessary evil" %}
 
 Note that Cotton has also [exaggerated](https://www.salon.com/2021/01/22/sen-tom-cotton-campaigned-on-his-experience-as-an-army-ranger--but-he-didnt-have-any/) his (not insignificant) military service, [advocated for](https://www.motherjones.com/politics/2011/11/tom-cotton-arkansas-new-york-times) treating journalists like foreign spies, and advocated for [sending the army](https://www.nytimes.com/2020/06/03/opinion/tom-cotton-protests-military.html) to put down the Black Lives Matter protests with "[no quarter](https://en.wiktionary.org/wiki/no_quarter) given."  He's no progressive thinker.
 
@@ -87,7 +87,7 @@ Let's tease out the idea that Black people are better off from slavery, because 
 
 Paul [likes the idea](https://theweek.com/articles/565160/rand-paul-compared-taxation-slavery--betrayed-emptiness-political-philosophy) that taxation is slavery.  Note that even he means the "traditional" kind of slavery---where you take someone prisoner and either release them when their debt has been paid or at least let their kids go---rather than chattel slavery.  His father, libertarian darling [Ron Paul](https://en.wikipedia.org/wiki/Ron_Paul), got a lot of his support attacking the [Federal Reserve](https://en.wikipedia.org/wiki/Federal_Reserve) on the basis of [no taxation without representation](https://www.cbsnews.com/news/no-taxation-without-representation-the-move-to-audit-the-fed/).  So, we have the idea that taxation is slavery, and taxation without representation is worse.
 
- > > no taxation without representation
+{% pull no taxation without representation %}
 
 Interestingly, not only do many Black people (obviously) pay their taxes, but there's evidence that the IRS [scrutinizes their returns more carefully](https://www.taxnotes.com/special-reports/audits/regional-bias-irs-audit-selection/2019/03/01/2957w).  So, by Rand Paul's definition, even if we're all enslaved because we pay our taxes, African-Americans might be under a more brutal regime.  That seems to undercut [Mitch McConnell](https://en.wikipedia.org/wiki/Mitch_McConnell)'s [deflection](https://www.courier-journal.com/story/news/politics/2019/06/18/mcconnell-on-reparations-for-slavery-not-a-good-idea/1495689001/) that nobody alive today bears any responsibility for slavery.
 

@@ -19,7 +19,7 @@ If you want to read the other posts in the series, you can get a full list of po
 
 After [last week]({% post_url 2020-01-13-bicker-1 %})'s easy wins, I started out this past week thinking I would nibble at *Bicker* around the edges.  Create some quick controllers and views and dump out a working [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) foundation to build the rest of the user interface on.
 
- > > ...I stupidly made a whole bunch of fields in my database models required...
+{% pull ...I stupidly made a whole bunch of fields in my database models required... %}
 
 So, I rigged up a quick global menu to allow for basic account management, based on [that same Nopio article](https://www.nopio.com/blog/authentication-authorization-rails).  That worked well, so I plunged into creating *Categories*...only to realize that I stupidly made a whole bunch of fields in my database models required (non-`null`) and failed to name some of the foreign-key reference columns.  This created a minor disaster, where references couldn't be empty, but also needed to map to a row in an imaginary table.
 
@@ -37,7 +37,7 @@ Again, wouldn't it be great if those checks were performed during *creation* ins
 
 Either way, I couldn't make the necessary changes with a migration, because the schema failed to validate properly.  Oops!
 
- > > ...can get away with being fairly heavy-handed...
+{% pull ...can get away with being fairly heavy-handed... %}
 
 Fortunately, since nobody I know of is using *Bicker* and anybody who might be using it secretly isn't going to be able to make it do anything other than logging in and out, I can get away with being fairly heavy-handed in my solutions, rather than patiently untangling the mess I have gotten myself into.  For example, I can run...
 
@@ -123,7 +123,7 @@ Now that we have a message object to work with, we can create the paragraph obje
 
 Obviously, this needs to keep track of the paragraph that was created most recently (if any), so that it can be set as the *next* property of the new object.  And since paragraphs are owned by the message, we can't create the paragraphs until we have the message ready to go.
 
- > > ...displaying the message requires re-assembling the chain of paragraphs into a single text.
+{% pull ...displaying the message requires re-assembling the chain of paragraphs into a single text. %}
 
 And then we have the flip side of the paragraphs.  We don't want to edit them---again, the reasons will become apparent in the near future---but displaying the message requires re-assembling the chain of paragraphs into a single text.  Right now, there's a naïve way to handle this (print them in reverse order), but we're going to be rearranging them in the near future, meaning that we need to keep querying for the next paragraph until we have the complete list.  Tedious, but it works...until we need to deal with replies, which will complicate that code a bit.
 

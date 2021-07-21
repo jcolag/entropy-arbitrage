@@ -19,7 +19,7 @@ To start off, I figured I would go with something fun---for me, I mean; you're o
 
 I believe that people can cope with just about any system, so weird mental models---for example, pretending that variables are people who are friends or enemies whose values are based on how close they are to friends---are off the table.  Those can be amusing, add to the learning curve, and make it harder to take the language seriously, but you only need to get accustomed to the core premise one time and it just becomes the way you work.
 
- > > ...all but the simplest operations need to be explained.
+{% pull ...all but the simplest operations need to be explained. %}
 
 Another possibility that doesn't *quite* hold water is the concept of the [Turing tarpit](https://en.wikipedia.org/wiki/Turing_tarpit), where all but the simplest operations need to be explained.  You can see this when trying to work with [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) or a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) (such as [PosTuring](https://github.com/jcolag/PosTuring), if that's your thing) and it can be a nuisance.  However, there are two aspects to programming that make this a bad move.
 
@@ -53,7 +53,7 @@ Following onto the (lack of a) type system, in my experience, authors of program
 
 The orthogonality fetish, then, is one of the top features on my priority list.
 
- > > ...everything can be treated as syntactically compatible with anything else.
+{% pull ...everything can be treated as syntactically compatible with anything else. %}
 
 Imagine a language where everything can be treated as syntactically compatible with anything else.  Intuitively, the sum of a structure and a loop doesn't mean anything, and any sane language would dismiss it as an error.  But if everything has *some* sort of value that can be added?  Then it must do *something* and it should result in something different than multiplying or dividing them.
 
@@ -74,7 +74,7 @@ Whew!
 
 It's not hard to see how this not only continues the theme of camouflaging errors, but also introduces a theme---that we'll get back to later---of not being able to trust operations without a *lot* of communication to avoid misunderstandings.
 
- > > ...the most important programming language you've never heard of...
+{% pull ...the most important programming language you've never heard of... %}
 
 By the way, while we're here, I should probably take a beat to mention that **SNOBOL** is probably the most important programming language you've never heard of.  That's primarily because it laid the groundwork for [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) with its *patterns*, a first-class data type with a bit more flexibility than modern regular expressions have, designed to make implementing parsers easy, given a grammar.
 
@@ -96,7 +96,7 @@ As mentioned under *homoiconism*, above, a great way to make a language harder t
 
 The discovery of this idea is pretty entertaining, so indulge me for a bit:  In one of the first years I taught the [client/server programming]({% post_url 2020-01-19-teaching %}#clientserver-programming) class, one of the more ambitious students wanted to learn **Java** along with working on their project.  Since I wanted to keep everybody learning similar material from the perspective of the class, I didn't want them to use the high-level classes that separated protocols and roles.  So, we dug into the API documentation and followed the inheritance tree to find a class that looked almost perfect.
 
- > > ...we got advice that sounded like a bad joke...
+{% pull ...we got advice that sounded like a bad joke... %}
 
 The problem?  The class was marked something like `private` and `final`, so we couldn't instantiate it directly or create a subclass to work with.  Asking around, we got advice that sounded like a bad joke, but turned out to be exactly what was needed:  Extract the library class from the archive to copy it inside the application directory.
 
@@ -137,7 +137,7 @@ Granted, syntax highlighting solves most of these problems for us, so they would
 
 Since reserved words (or their lack) is largely a matter of naming, it may make sense to introduce a related idea from **FORTH**, the *dictionary*.  There, programmers define functions and insert them into the language runtime's dictionary, essentially a list of definitions.  When parsing, the interpreter searches the dictionary for every name that it finds, only resorting to inbuilt language features if the dictionary search fails.  There is also no uniqueness restriction on the dictionary.
 
- > > ...spontaneously redefined.
+{% pull ...spontaneously redefined. %}
 
 This means that both existing functions and inbuilt features can be spontaneously redefined.  The old definitions are still there, but the search begins with the most recent entries and moves backwards, so the most recent version is the version that will be found.
 
@@ -267,7 +267,7 @@ We had to know this was coming, eventually, and is also self-explanatory...
 
 ### Take-Aways
 
- > > ...troubling to consider that all of the features...originate in real programming languages...
+{% pull ...troubling to consider that all of the features...originate in real programming languages... %}
 
 It's obviously tempting to add features from obscure programming languages that were *intended* to be problematic.  For example, **INTERCAL** includes the ability to activate and deactivate each class of statements while the program runs.  But (other than `COME FROM`, which I can't resist and *did* appear in a major trade publication) I think it's more troubling to consider that all of the features listed above originate in *real* programming languages that many developers have used to create software and/or have been highly influential.  For example, you've probably never heard of **SNOBOL** before today, but it was used to create many compilers and---as I mentioned above---it has been extremely influential.
 

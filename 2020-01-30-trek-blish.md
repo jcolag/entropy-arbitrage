@@ -82,7 +82,7 @@ the patient's civil rights?"
  >
  > "He can file a complaint if he wants. Go and get him ready."
 
- > > ![Sodium thiopental](/blog/assets/Sodium-thiopental-3D-vdW-2.png "Sodium thiopental")
+{% imgr Sodium thiopental|Sodium-thiopental-3D-vdW-2.png|Sodium thiopental %}
 
 And later...
 

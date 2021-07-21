@@ -305,7 +305,7 @@ Oh, dear...
 
 So, we have some deep racism that dismisses "[Bantu](https://en.wikipedia.org/wiki/Bantu_peoples) women" as emotionless, typical of people who are just not interested in treating certain groups as human.  You'll see a similar stereotype leveled at East Asians, the archaic and obnoxious term being "inscrutible."
 
- > > ![Vulcan's orbit](/blog/assets/Planet-Vulcan_1846_003790.png "Vulcan's orbit")
+{% imgr Vulcan's orbit|Planet-Vulcan_1846_003790.png|Vulcan's orbit %}
 
 Blish also apparently hasn't gotten the memo on the difference between not having emotions and suppressing emotions.
 

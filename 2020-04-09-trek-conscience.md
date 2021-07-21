@@ -346,7 +346,7 @@ Speaking only for myself, I find Karidian's explanation more plausible than the 
  >
  > **KIRK**: We've armed man with tools. The striving for greatness continues. But Kodos---
 
- > > ![Wanderer above the Sea of Fog, Caspar David Friedrich](/blog/assets/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.png "Wanderer above Sea of Fog")
+{% imgr Wanderer above the Sea of Fog, Caspar David Friedrich|Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.png|Wanderer above Sea of Fog %}
 
 Karidian, like a few regimes before him, combines his eugenics theories and authoritarian stance with what amounts to [Romanticism](https://en.wikipedia.org/wiki/Romanticism):  Emotion, individualism, glorification of the past and nature, and so forth.
 

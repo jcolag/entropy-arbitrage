@@ -21,7 +21,7 @@ Note that I've added a specific [socialshowdown tag](/blog/tag/socialmedia/) to 
 
 After a non-trivial amount of research, I'm still not _quite_ sure what the overall deal is, here.  On one level, the network seems to be a lot like the [Fediverse]({% post_url 2020-01-18-fediverse %}) applications and doesn't seem to really try to distinguish itself, to the point that I'm not _entirely_ sure that they're separate networks.
 
- > > ...the ability to interconnect with _other_ networks.
+{% pull ...the ability to interconnect with other networks. %}
 
 This is confused further by Friendica's apparent big feature, which is the ability to interconnect with _other_ networks.  That is, you can host a server that allows you to add outside blogs, Diaspora streams, Fediverse feeds, bug trackers, and others into your "newsfeed;" servers can also allow posting to Twitter, WordPress blogs, and others.
 
@@ -41,13 +41,13 @@ If you want to install your own, the [instructions](https://github.com/friendica
 
 ### User Experience
 
- > > ...a mostly-blank screen...
+{% pull ...a mostly-blank screen... %}
 
 The page you're first confronted with is uploading a profile picture (and the default cartoon house cat), which seems like an odd choice.  Skipping the upload takes you to a mostly-blank screen with a _sidebar_ including a link for [Tips for New Members](https://libranet.de/newmember), which is _sort of_ a DIY on-boarding.
 
 Like the original experience with the site, it prioritizes setting up your profile over finding things to read.  But at least it _does_ point out that you should change your bad password in that section.
 
- > > ...a seemingly-easy way to relocate between servers and the ability to create multiple profiles on the same account...
+{% pull ...a seemingly-easy way to relocate between servers and the ability to create multiple profiles on the same account... %}
 
 While changing the password, the settings indicate that this might be a Facebook-like experience, with a "wall" for friends to post on.  There is also a seemingly-easy way to relocate between servers and the ability to create multiple profiles on the same account, which might be very useful to certain people.
 
@@ -55,14 +55,14 @@ Once I found a couple of people to follow, it seems that there are two oddities:
 
  * Like Facebook, the network prioritizes "friend requests," mutual relationships.  Given that this is such a sparse group, that seems overly-familiar for strangers.
  * If you find a way to follow someone (I bypassed the interface and pasted `https://libranet.de/follow/?url=` in front of the user's profile URL in the address bar), it still requires that the user approve your request, which is...odd.
- 
+
 Otherwise, things seem to be more or less what you'd expect, particularly if you're expecting Facebook's user interface.
 
 ### Community
 
 It took a while to find the global "community stream."  Interestingly, most of the posts are from other networks (Diaspora* and Mastodon), so that's not very enlightening regarding the Friendica community's character.  But I _did_ see a couple of posts that I appreciated, at least.  Plus random porn, for...no particularly obvious reason.  I'm not judging, it just seemed out of place.
 
- > > ...may just not be much community there...
+{% pull ...may just not be much community there... %}
 
 The local community seems fine.  I don't see much of note, either way.  A fair amount is in languages I don't read and there are a lot of basic posts of links (from non-crazy sites, I should point out after the [Minds]({% post_url 2020-02-01-minds %}) fiasco) without context.  There are also a *lot* of images that are all supposed to be the funniest thing ever, but...aren't; I guess they're probably funnier if it's your first day on the Internet.  So, there may just not be much community there, without the outside networks.
 

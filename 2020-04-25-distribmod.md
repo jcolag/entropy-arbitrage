@@ -15,7 +15,7 @@ After [making the rounds](/blog/tag/socialshowdown) of non-corporate social netw
 
 The problem is, basically, that as bad actors join the system, users can each choose to only block them individually.  That's fine on a personal level, but it's unfortunately the entire story.
 
- > > ...but the public face of the community might be an open sewer pipe of obnoxiousness.
+{% pull ...but the public face of the community might be an open sewer pipe of obnoxiousness. %}
 
 Thinking more globally, this creates a weird situation where experienced users of the network feel like they have a supportive, right-thinking community around them, but the public face of the community might be an open sewer pipe of obnoxiousness.  And that surface appearance rubs off on all the network's users, because nobody in their right mind would use a network packed with spam and hate speech unless they were a spammer or bigot.
 
@@ -29,7 +29,7 @@ It's less interesting to talk about, by the way, but there's also the flip-side 
 
 So, if that's the problem, what solutions can we put together?  Keep in mind that decentralization means that that there is no power that can remove the bad actors from the network, nor does any user have anything like a view of the entire network.
 
- > > ...the list of decisions to block a user.
+{% pull ...the list of decisions to block a user.|left %}
 
 What we *do* have, at some level, is the list of decisions to block a user.  To prevent the user from seeing content they have blocked, one of two things must happen.  If the network is federated, then the pod/instance needs to know about the block, just as a centralized system would.  In a fully-decentralized system, users would need to *publish* the blocking messages to prevent their peers from sending unwanted information to them.
 
@@ -39,7 +39,7 @@ So, if we have a program to scrape the feed looking for who has been blocked pre
 
 From this, we could simply get a list of the users who have been blocked, sorted by the number of users who blocked them.  That then becomes a prioritized list of candidates who are worth quickly investigating to see if it's worth your effort blocking them, too.
 
- > > ...theoretically possible to have the client software automatically block the most infamous offenders...
+{% pull ...theoretically possible to have the client software automatically block the most infamous offenders... %}
 
 Assuming that all worked, it's at least theoretically possible to have the client software *automatically* block the most infamous offenders for new users.  They can always unblock later, of course.  It's also possible to weight the actions of different people differently, which I'll talk about later.
 
@@ -106,13 +106,13 @@ However, with input from experts, I learned that `block` messages don't exist, p
 
 So, that's the good news.  If we wanted to do this as simply as possible, we could harvest the `blocking` messages, count up the number of times each user has been blocked, and automatically block either anybody blocked by an objectively large number of accounts *or* some percentage of the top offenders.  Problem solved!
 
- > > we can't leave our judgment to a few lines of code.
+{% pull we can't leave our judgment to a few lines of code. %}
 
 Except, hang on...looking up the IDs to find the accounts of these blockable candidates, I see a lot of names I would consider to be important to the community, whether they develop Scuttlebutt clients or are just friendly and interesting.  So clearly, we can't leave our judgment to a few lines of code.
 
 (If anybody thought that this wasn't going to take a turn into the problems with easy solutions, I assume that you must be new here.  To catch you up, hi, the world is a really complicated place to live and easy solutions always have terrible consequences.  Also, Free Software and Free Culture are good things we should support, and I talk about *Star Trek* on Thursdays as an excuse to re-watch the original series...)
 
- > > ...serve to compound the problem...
+{% pull ...serve to compound the problem...|left %}
 
 Plus, if we **did** automate the blocking process, it would only serve to compound the problem, by dramatically increasing the number of times those candidates have been blocked.  That leaves this approach open for exploitation.  We already know these systems can and are exploited on the corporate social networks, by marking everything a user says as "spam" and/or publishing "block-lists" for users to blindly import.
 
@@ -122,7 +122,7 @@ Any sort of automatic silencing is inherently a kind of weapon, so we're going t
 
 One easy choice we could make---it's naïve, but not as naïve as merely counting block messages---would be to exclude users who have an absolutely or relatively high number of `following` messages issued for them.
 
- > > ...we lose something in the translation and block someone people probably want to listen to.
+{% pull ...we lose something in the translation and block someone people probably want to listen to. %}
 
 For a concrete example that I hope won't embarrass him, one of the most-blocked Scuttlebutt users is [Andre Staltz](https://staltz.com/), creator of [Manyverse](https://www.manyver.se/), a Scuttlebutt client for Android devices.  It's weird to see people blocking him, because by all accounts and public evidence, he's a really nice guy who tries to do good things.  So, while a lot of people have blocked him, a much larger number of people also *follow* him, both for his thoughts and announcements on how the Scuttlebutt clients can/might/should change and also general discussion.  If we don't take both pieces of information into account, we lose something in the translation and block someone people probably want to listen to.
 
@@ -140,7 +140,7 @@ Don't look at me like that.  You're creeping me out.
 
 OK, OK.  You can probably already figure out that just performing basic arithmetic doesn't work, because it assumes that every account except for a few are both legitimate and operated by people who are basically good.  It ignores the possibility that an account might be popular among white supremacists, for example.  It also ignores the possibility that someone could potentially automate the creation of a large number of accounts that all follow or block certain people, such as following a spammer to make them seem legitimate or blocking a user who has an unfortunate political stance to skew any such algorithm like we've seen above.
 
- > > ...we can think about implementing something that starts to look like PageRank...
+{% pull ...we can think about implementing something that starts to look like PageRank... %}
 
 What's our next step?  Well, if we can encourage a user to follow or block a few people as samples, we can use that information to give our analysis some context and perspective.  Specifically, we can think about implementing something that starts to look like [PageRank](https://en.wikipedia.org/wiki/PageRank)---which coincidentally saw its final patent expire in September 2019---in order to give a different meaning to each piece of data we get.
 
@@ -148,7 +148,7 @@ For example, if you follow me, there's a decent chance that you trust my judgmen
 
 That's only one step, though, and here's where the PageRank idea comes in:  Now that you're relying on my judgment (whether through agreeing or disagreeing with me), we can extend that reliance to the people I follow or block, trusting (or mistrusting) them slightly less, because you're not directly connected.  And then repeat to the people *they* follow/block, and so on.
 
- > > ...probably as good as we're going to get...
+{% pull ...probably as good as we're going to get...|left %}
 
 I'm not going to pretend that this is a complete solution, because this still has the problem of automating personal judgment.  But as a first pass, it's probably as good as we're going to get with just the block/follow numbers.
 
@@ -166,7 +166,7 @@ There are probably other aspects of behavior I'm missing, but this would be some
 
 Like I mentioned earlier, pre-judging people based on simple metrics is a weapon, in that it's a tool to harm or control someone.  You would be entirely justified in feeling that it's unethical to let software make these choices for us entirely.  I don't really disagree with that sentiment, either, and consider this more of a "computer-aided management" idea than something to be imposed on every user.
 
- > >  ...as networks like Scuttlebutt grow, we're going to see an increasing number of disruptive users show up...
+{% pull ...as networks like Scuttlebutt grow, we're going to see an increasing number of disruptive users show up... %}
 
 However, as networks like Scuttlebutt grow, we're going to see an increasing number of disruptive users show up, whether they're planning to deliberately disrupt the network ("trolls"), thinking they've found a gullible market ("spammers"), or just trying to rebuild a community that was rightly kicked off another platform ("bigots").
 

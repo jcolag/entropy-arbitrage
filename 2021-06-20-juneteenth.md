@@ -41,7 +41,7 @@ That's not to say that the order was *useless*.  Any Confederate territory alrea
 
 And that brings us to the story behind Juneteenth, itself.
 
- > > one more free growing season
+{% pull one more free growing season %}
 
 Because the Emancipation Proclamation required the Army to literally conquer and occupy areas to do anything useful for the slaves, owners generally didn't free slaves willingly.  Instead, [like modern mega-corporations](https://knowablemagazine.org/article/society/2020/how-should-we-punish-criminal-corporations), slave-holders calculated that the punishment for illegally keeping the slaves would be less than the cost of paying people to work.  This continued even *after* the end of the war.  Plantations wanted one more free growing season, presumably confident that the worst punishment that they might face is a demand that they pay for labor since the end of the war.
 

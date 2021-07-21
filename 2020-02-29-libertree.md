@@ -38,7 +38,7 @@ I didn't try to install it, because I don't have any use for my own centralized 
 
 In my case, the on-boarding dumped me out onto a page with an empty feed with the ability to post and search, plus a message that it was trying to find me some messages to read.
 
- > > ...basically what you'd expect...
+{% pull ...basically what you'd expect... %}
 
 Searching through, it's basically what you'd expect of a DIY social network.  It has all the basic features you'd expect, presented neatly enough, and that's about it.
 
