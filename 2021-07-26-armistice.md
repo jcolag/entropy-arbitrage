@@ -48,7 +48,7 @@ At some point, another library also needed bumping to the current version, so yo
 
 ### Style Clashes
 
-Oh, and this should be invisible to everybody---it'll actually just get wrapped into the next auto-commit of [the blog's assets](https://gitlab.com/jcolag/entropy-arbitrage-assets)---but in case it's useful information to anybody, here's another detail in the plugin saga.  Around two out of three times when I would deploy the updated blog (local or remote), there was a chance that my new styles would vanish.  I could fix this manually, by changing my CSS---actually [SASS](https://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29---where it was correct, and letting Jekyll rebuild.
+Oh, and this should be invisible to everybody---it'll actually just get wrapped into the next auto-commit of [the blog's assets](https://gitlab.com/jcolag/entropy-arbitrage-assets)---but in case it's useful information to anybody, here's another detail in the plugin saga.  Around two out of three times when I would deploy the updated blog (local or remote), there was a chance that my new styles would vanish.  I could fix this manually, by changing my CSS---actually [SASS](https://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29)---where it was correct, and letting Jekyll rebuild.
 
 The problem was an oddity that (apparently) sometimes happens in Jekyll, the compiled version of my CSS file---that is, the SASS code converted to a normal stylesheet---was sitting in my `assets` folder.  Since the styles had been fairly consistent, I may never have noticed the problem.  However, the new styles having significant effects, it was now a "race condition" to find out whether the copy or the compilation would happen last.
 
