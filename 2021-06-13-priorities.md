@@ -49,7 +49,7 @@ We can argue the ethics of work and whether taking an extended break is *actuall
 
 Something that we think about less is that our *personal* time also has a value.  That's an easy idea to dismiss, but it's also easy to see that different enticements are required to convince us to spend our time on different things.  You might not want to help a friend move to a new apartment, but you might do it if they offer to buy lunch.  When I was a kid, many indoor shopping malls had a public relations office that would send employees out to the floor to ask people to take surveys, and they were open about the statistics showing that the likelihood of someone waiting to answer all the questions increased with the amount of money they offered.  There are few occasions where people would refuse an arbitrarily large amount of money to work on a vacation day or in an evening.
 
-We might not always place a *financial* value on time, but it wouldn't take a sophisticated auction to find an average price.  So, when we spend a few hours on a project, you can argue that you're spending or investing an equivalent number of gavvo[1], based on what else you could do with that time and/or how much someone could pay you to do something less interesting.  I'll grant you that it's not a comfortable idea, but it's fairly useful.
+We might not always place a *financial* value on time, but it wouldn't take a sophisticated auction to find an average price.  So, when we spend a few hours on a project, you can argue that you're spending or investing an equivalent number of gavvo[^1], based on what else you could do with that time and/or how much someone could pay you to do something less interesting.  I'll grant you that it's not a comfortable idea, but it's fairly useful.
 
 #### The Puppy Postulate
 
@@ -178,4 +178,4 @@ It's especially useful, if you're opposed to meetings.  After all, once you star
 
 **Credits**:  The header image is [untitled](https://pxhere.com/en/photo/819272) by an unlisted PxHere photographer, made available under the terms of the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
-[1]: The gavvo is the national currency of [Graustark](https://en.wikipedia.org/wiki/Graustark), because we wouldn't want to give the impression that this only works for dollars...
+[^1]: The gavvo is the national currency of [Graustark](https://en.wikipedia.org/wiki/Graustark), because we wouldn't want to give the impression that this only works for dollars...
