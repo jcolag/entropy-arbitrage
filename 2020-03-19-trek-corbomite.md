@@ -7,9 +7,10 @@ tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/glowing-sun-atmosphere-glow-lamp-electricity-1236265-pxhere.com.png
 offset: -25%
+proofed: true
 ---
 
-![Plasma Globe](/blog/assets/glowing-sun-atmosphere-glow-lamp-electricity-1236265-pxhere.com.png "Plasma Globe")
+![Plasma Globe](/blog/assets/glowing-sun-atmosphere-glow-lamp-electricity-1236265-pxhere.com.png "Not the Fesarius")
 
 ## Disclaimer
 
@@ -99,7 +100,9 @@ I don't know if McCoy is joking, here, or if Kirk is exaggerating McCoy's positi
 
 Hey, look, it's our regular dose of sexist sentiment, this time from both McCoy *and* Kirk...
 
-Is this supposed to be an earlier appearance of Rand than previous episodes?  Because he acts like he hasn't developed a solid working relationship with someone who is extremely good at her job and every other job he's thrown at her.
+![Rand and Kirk](/blog/assets/Grace-Lee-Whitney-William-Shatner-Corbomite-Manuever-Star-Trek-1966.png "Never touch the basket 'do.  Never")
+
+Is this supposed to be an earlier appearance of Rand than previous episodes?  Because he acts like he hasn't developed a solid working relationship with someone who is fantastic at her job *and* every other job that he's thrown at her.
 
  > **KIRK**: Ship to ship.
  >
@@ -139,7 +142,7 @@ An interesting moment for Spock, here, clearly catching himself (about to use th
 
 As is somewhat usual, we have a quick exchange with a lot to unpack.  It certainly paints Spock's father in an unflattering light, given that we have no reason to see Balok as anything other than dangerous and destructive, at this point.  It also doesn't say much for Spock's *mother* for prizing what is somewhat implied to have been an abusive relationship.  Finally, the past tense "considered" implies that this is no longer the case, either because she has changed her mind or because she has died.
 
-(And yes, I know that almost all of the information we have about Balok will be proven untrue before long, but Spock doesn't know that.)
+And yes, I know that almost all the information we have about Balok will be proven untrue before long, but *Spock* doesn't know that, yet.
 
 Of course, one other possibility mixed in, there, is that Spock's mother considered the opportunity to integrate into an alien culture to be worth any possible conflicts.
 
@@ -245,7 +248,7 @@ Bailey, I believe for the first time in the series, is someone who actually gets
 
 Kirk also reminds Spock that simply brandishing the word "logic" doesn't magically make his idea the best.
 
-And Kirk all but states explicitly that Space Command missions are about proving to the United Earth and the broader galaxy that humanity is capable of living up to its own ideals.  This seems like it might fit well with the hints dropped that the last couple of decades have seen massive progress in science (*What Are Little Girls Made of?*) and social justice (*Dagger of the Mind*).  And when so much changes in such a short time, it wouldn't be surprising for there to be some disagreement and strife.
+And Kirk all but states explicitly that Space Command missions are about proving to the United Earth and the broader galaxy that humanity is capable of living up to its own ideals.  This seems like it might fit well with the hints dropped that the last couple of decades have seen massive progress in science (*What Are Little Girls Made of?*) and social justice (*Dagger of the Mind*).  And when so many changes occur in such a short time, it wouldn't be surprising for there to be some disagreement and strife.
 
 ### The Bad
 
@@ -269,10 +272,10 @@ The plaque in the back of the bridge refers to the *U.S.S. Enterprise*, despite 
 
 ## Next
 
-Next up, Spock takes the *Enterprise* for a joy ride to visit big-brained women in *The Menagerie, Part 1*.  If you were bothered by how brief this summary was, well, I have good news for you...!
+Next up, Spock takes the *Enterprise* for a joyride to visit big-brained women in *The Menagerie, Part 1*.  If you were bothered by how brief this summary was, well, I have good news for you...!
 
 #### <i class="far fa-hand-spock"></i>
 
 * * *
 
-**Credits**:  The header image is a [plasma globe](https://pxhere.com/en/photo/1236265) by an unknown [PxHere](https://pxhere.com/) and is made available under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+**Credits**:  The header image is a [plasma globe](https://pxhere.com/en/photo/1236265) by an unknown [PxHere](https://pxhere.com/) and is made available under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).  The image of [Grace Lee Whitney and William Shatner](https://commons.wikimedia.org/wiki/File:Grace_Lee_Whitney_William_Shatner_Corbomite_Manuever_Star_Trek_1966.jpg) was published without copyright notices---for the purposes of republication as publicity, even---and so is in the public domain.

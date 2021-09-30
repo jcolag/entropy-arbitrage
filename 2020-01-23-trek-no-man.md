@@ -7,13 +7,14 @@ tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0932a.jpg
 offset: -20%
+proofed: true
 ---
 
 ![Milky Way](/blog/assets/eso0932a.jpg "Milky Way")
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use)).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
 
 ## Previously...
 
@@ -67,9 +68,13 @@ Meanwhile, Kirk quips that Spock's human ancestor is "bad blood," suggesting tha
 This isn't necessarily indicative of anything, of course, but the terminology used is interesting.
 
  > KIRK: Let's hope its tapes are intact. We'll feed it through Mister Spock's computer.
-
+ >
+ > ...
+ >
  > SPOCK: The tapes are burnt out. Trying the memory banks.
-
+ >
+ > ...
+ >
  > SPOCK: The tapes are pretty badly burned.
 
 [Magnetic tape](https://en.wikipedia.org/wiki/Magnetic_tape), if you're not familiar, has been in use since 1928 and can still be found in many applications.  But, naturally, we often use terminology for modern technology that refers to obsolete technologies, so this doesn't tell us anything specific.
@@ -96,7 +101,7 @@ I'm honestly not sure if this is that she isn't memorable or if it's just eviden
  >
  > **DEHNER**: I heard that's more your specialty, Commander, line included.
  >
- > **MITCHELL**: (to Kelso) Walking freezer unit.
+ > **MITCHELL**: Walking freezer unit.
 
 There's a lot to unpack, here.  Dehner joined the crew when the ship stopped at a colony in the [Aldebaran](https://en.wikipedia.org/wiki/Aldebaran) system, sixty-five light years from Earth.  Her job involves analyzing the crew, not participating in any of the missions, and her blithe interest in there *being* an emergency suggests that she sees the crew as experimental subjects.
 
@@ -164,7 +169,7 @@ After Gary starts to transform and lands in Sickbay...
  >
  > **MITCHELL**: Once you get into him, he's rather simple though. Childish, almost. I don't agree with him at all.
 
-First, we get a good look at Kirk's background, here.  Far from the swaggering man of action we expect, he was a bookish Academy instructor.  He's sufficiently well read to recognize [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)'s work from a quick glance at a few paragraphs on a screen.
+First, we get a good look at Kirk's background, here.  Far from the swaggering man of action we expect, he was a bookish Academy instructor.  He's sufficiently well-read to recognize [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)'s work from a quick glance at a few paragraphs on a screen.
 
 The reference to Spinoza is probably not coincidental.  Despite Mitchell claiming to not agree, Spinoza claimed that good and evil were concepts relative to the observer rather than absolutes, comparing humans to other creatures.  Of course, Spinoza also believed in a deterministic universe with no free will, so maybe that was the objectionable part.
 
@@ -204,7 +209,7 @@ From there, we get some small insight into the world's history and its culture.
 
 Since we can probably assume that the history in *Star Trek* prior to 1965 when the episode was likely written isn't too different from ours, and that there wasn't a secret faster-than-light space program running, that means that Tarbolde had a way of traveling faster than a hundred times the speed of light, much faster depending on how long after 1966 he launched.  Note that this substantially faster than the minimum speed needed by the *Valiant*.
 
-An alternate possibility, of course, is that Tarbolde wasn't from Earth at all.  The name could be an Anglicization of his native name or it could be what we'll eventually discover are one of many planets that coincidentally evolved intelligent life indistinguishable from humans with similar cultures.
+An alternate possibility, of course, is that Tarbolde wasn't from Earth at all.  The name could be an Anglicization of his native name, or it could be what we'll eventually discover are one of many planets that coincidentally evolved intelligent life indistinguishable from humans, complete with similar cultures.
 
 Speaking of distances...
 
@@ -214,7 +219,7 @@ And...
 
  > **KIRK**: That station is fully automated. There's not a soul on the whole planet. Even the ore ships call only once every twenty years.
 
-Assuming the astronomy to be good (obviously not a great assumption after Canopus, above), [Vega](https://en.wikipedia.org/wiki/Vega) is actually a single star in [Lyra](https://en.wikipedia.org/wiki/Lyra), a mere twenty-five light years from Earth and so nowhere near the "edge" of the galaxy.  Interestingly, there are two Delta Lyrae systems, [δ1 Lyr](https://en.wikipedia.org/wiki/Delta1_Lyrae) is a binary system over a thousand light years away and [δ2 Lyr](https://en.wikipedia.org/wiki/Delta2_Lyrae) is around nine hundred light years away.  They're both in the direction of the [galactic center](https://en.wikipedia.org/wiki/Sagittarius_A*) (a right ascension of 18h), but a declination that's about 62° off.  A little bit of trigonometry suggests that this *could* be near one of the "sides" of the galaxy.
+Assuming the astronomy to be good (obviously not a great assumption after Canopus, above), [Vega](https://en.wikipedia.org/wiki/Vega) is actually a single star in [Lyra](https://en.wikipedia.org/wiki/Lyra), a mere twenty-five light years from Earth and so nowhere near the "edge" of the galaxy.  Interestingly, there are two Delta Lyrae systems, [δ1 Lyr](https://en.wikipedia.org/wiki/Delta1_Lyrae) is a binary system over a thousand light years away and [δ2 Lyr](https://en.wikipedia.org/wiki/Delta2_Lyrae) is around nine hundred light years away.  They're both in the direction of the [galactic center](https://en.wikipedia.org/wiki/Sagittarius_A*) (a right ascension of 18h), but a declination that's about 62° off.  A bit of trigonometry suggests that this *could* be near one of the "sides" of the galaxy.
 
 In any case, "lithium cracking" is nonsense in today's terminology, but suggests that lithium, an element with atomic number 3, and so one of these lightest and likely abundant elements in the universe, is used for fuel.
 
@@ -222,7 +227,7 @@ The facility is completely automated and ore (presumably the source of the lithi
 
 We later get some more direct insight into the outside world.
 
- > **MITCHELL**: My friend James Kirk. remember those rodent things on Dimorus? The poisoned darts they threw? I took one meant for you.
+ > **MITCHELL**: My friend James Kirk. Remember those rodent things on Dimorus, the poisoned darts they threw? I took one meant for you.
  >
  > **KIRK**: And almost died. I remember.
 
@@ -230,13 +235,15 @@ Dimorus appears to be an invention of the script.  This exchange, however, sound
 
 Speaking of which...
 
- > **MITCHELL**: Man cannot survive if a race of true espers is born. In time you'll understand that.
+ > **MITCHELL**: Man cannot survive if a race of true espers is born. In time, you'll understand that.
 
-Gary is predicting what amounts to a race war in humanity's future, essentially suggesting that humans need to kill psychics before they can establish a foothold or be destroyed as a consequence.  We saw this same prediction from the Thasian in the previous episode with regard to Charlie Evans.
+Gary is predicting what amounts to a race war in humanity's future, essentially suggesting that humans need to kill psychics before they can establish a foothold or be destroyed as a consequence.  We saw this same prediction from the Thasian in the previous episode, regarding Charlie Evans.
 
-(This isn't the only story beat shared with *Charlie X*, of course.  Both feature a self-entitled creep who doesn't care about people's feelings and an inability to manage sexual urges, using psychic powers against the crew and trying to take control of the ship.  Both antagonists are also kept in check by the friendship of a blonde woman trying to be motherly on one hand and Kirk's moral authority on the other.  As such, it's an interesting choice airing them back-to-back.)
+This isn't the only story beat shared with *Charlie X*, of course.  Both feature a self-entitled creep who doesn't care about people's feelings and an inability to manage sexual urges, using psychic powers against the crew and trying to take control of the ship.  Both antagonists are also kept in check by the friendship of a blonde woman trying to be motherly on one hand and Kirk's moral authority on the other.  As such, it's an interesting choice airing them back-to-back.
 
-And, for the third episode out of three, we have members of the crew completely ignoring suspicious or dangerous behavior.  in this case, Mitchell kills Kelso while the latter communicates with Scott and Scott has no reaction to the line going dead.  Contacting Kirk could have obviously saved a lot of trouble.
+And, for the third episode out of three, we have members of the crew completely ignoring suspicious or dangerous behavior.  In this case, Mitchell kills Kelso while the latter communicates with Scott and Scott has no reaction to the line going dead.  Contacting Kirk could have obviously saved a lot of trouble.
+
+![Dehner and Kirk with a phaser rifle prop](/blog/assets/William-Shatner-Sally-Kellerman-Star-Trek-1966.png "Be vewwy vewwy quiet...")
 
 We also have this.
 
@@ -254,6 +261,8 @@ The gravestone itself is mildly interesting, apparently reading, best I can tell
 
 The last log entry was star date 1313.1 and the next will be star date 1313.8, explaining the end date as Kirk's intended death.  The episode *starts* at 1312.4, suggesting that each increment is a relatively small span, like a day.  If true, that gravestone would describe a lifespan of 1,186 days or about three and a quarter years.  If that's not a zero, then we're only talking about thirty-six days.  Neither is likely to be Kirk's date of birth, but it's also quite unlikely that we would only be three and a half years into an entirely new calendar, so it's hard to say what we're actually looking at.
 
+![Captain Kirk about to throw a rock](/blog/assets/William-Shatner-Star-Trek-first-episode-1966.png "I got a rock...")
+
 All three episodes we've seen, incidentally, have star dates in the low- to mid-thousands (1513.1, 1533.6, and 1312.4).  If these are counting days as implied, then this either *is* a new calendar or the starting date is likely personally relevant to Kirk, such as the date of his promotion to Captain or taking command of the *Enterprise*.
 
 In fact, it might make sense to count days since the official *launch* of the ship, with Kirk taking command four months after.  If true, that would mean that we're more than three years into the five-year mission, so we only have about a year and a half remaining.
@@ -266,7 +275,7 @@ The original version of Kirk's first log entry had some detail on the *Enterpris
  >
  > Until now, our mission has been that of space law regulation, contact with Earth colonies, and investigation of alien life.  But now, a new task, a probe out into where no man has gone before.
 
-Not being part of the episode, it doesn't *really* count, but is indicative of at least one view of the world outside of the ship.  In a lot of ways, the organization behind the *Enterprise* seems comparable to the [Coast Guard](https://en.wikipedia.org/wiki/United_States_Coast_Guard), dealing with safety, security, and stewardship.
+Not being part of the episode, it doesn't *really* count, but is indicative of at least one view of the world outside the ship.  In a lot of ways, the organization behind the *Enterprise* seems comparable to the [Coast Guard](https://en.wikipedia.org/wiki/United_States_Coast_Guard), dealing with safety, security, and stewardship.
 
 ## Conclusions
 
@@ -294,7 +303,7 @@ And we also get a fair amount of insight into Kirk, here.  Despite his relative 
 
 On the flip side, we continue to see serious sexism and toxic masculinity, this time both embodied in Gary Mitchell, with everybody else...mildly concerned or finding it endearing.  It's interesting that three out of three episodes (so far) have gone out of their way to show us that we're watching a world in transition, where men still feel threatened by professional women and feel the need to play dominance games to pretend they're still important.
 
-And, we continue to see a crew that is cartoonishly apathetic when things go wrong, in this case, ignoring a crewman's *death* in the middle of a conversation.  It's obviously just lazy writing, here, intended to reveal the death to the audience without spoiling the tension of the characters being ignorant, but that doesn't excuse the characters overlooking the obvious significance and it's not like we haven't seen this kind of behavior before.
+And, we continue to see a crew that is cartoonishly apathetic when things go wrong, in this case, ignoring a crewman's *death* in the middle of a conversation.  It's obviously just lazy writing, here, intended to reveal the death to the audience without spoiling the tension of the characters being ignorant, but that doesn't excuse the characters overlooking the obvious significance...and it's not like we haven't seen exactly this kind of behavior before.
 
 Similarly, besides the apathy, we can also add:
 
@@ -311,7 +320,7 @@ We might also add problems we've seen in prior episodes.
 
 Together, this brings up some bizarre-sounding questions:  Who *are* these people?  What criteria make them the right crew for this job?  Is there anything like a screening process?  Do the administrators have any say in placement?  So far, it seems like the crew (other than Kirk) is made up of non-entities or Human Resources nightmares.
 
-Last on the bad side, we now have a second supposedly-advanced being with psychic powers (Gary Mitchell, to go with the Thasian) talking about what they see as an inevitable future struggle between normal humans and a psychic subspecies; that is, in the past two episodes out of only three, we have been warned about a race war by someone bordering on omnipotence.  People like Kirk and Dehner are inclined to disagree---Kirk suggesting suppression of abilities and Dehner showing that there doesn't need to be animosity---but given their fear of Gary and Charlie, not to mention the complete disinterest in the life of the shape-shifting creature in that third episode, are they right?
+Last on the bad side, we now have a second supposedly advanced being with psychic powers (Gary Mitchell, to go with the Thasian) talking about what they see as an inevitable future struggle between normal humans and a psychic subspecies; that is, in the past two episodes out of only three, we have been warned about a race war by someone bordering on omnipotence.  People like Kirk and Dehner are inclined to disagree---Kirk suggesting suppression of abilities and Dehner showing that there doesn't need to be animosity---but given their fear of Gary and Charlie, not to mention the complete disinterest in the life of the shape-shifting creature in that third episode, are they right?
 
 ### The Weird
 
@@ -323,10 +332,10 @@ Oh, and we're also left with a *massive* mystery that the show isn't going to bo
 
 ## Next
 
-Next week, there's going to be a *quick* break from the episode-per-week cadence.  I stumbled across copies of my episode adaptations by James Blish, so I have a post cooking for the past three episodes.  After that, we'll get back into the swing with *The Naked Time* (and will start adding commentary on the adaptations), wherein a space-virus gets the crew drunk, presumably mostly to justify a shirtless George Takei or something.  Look, I *told* you these posts weren't going to be recaps...
+Next week, there's going to be a *quick* break from the episode-per-week cadence.  I stumbled across copies of my episode adaptations by James Blish, so I have a post cooking for the past three episodes.  After that, we'll get back into the swing with *The Naked Time*---and will start adding commentary on the adaptations---wherein a space-virus gets the crew drunk, presumably mostly to justify a shirtless George Takei or something.  Look, I *told* you these posts weren't going to be recaps...
 
 #### <i class="far fa-hand-spock"></i>
 
 * * *
 
-**Credits**: The header image is [The Milky Way panorama](https://www.eso.org/public/usa/images/eso0932a/), in honor of the episode about leaving the galaxy, by the [European Southern Observatory](https://www.eso.org) and S. Brunier, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.
+**Credits**: The header image is [The Milky Way panorama](https://www.eso.org/public/usa/images/eso0932a/), in honor of the episode about leaving the galaxy, by the [European Southern Observatory](https://www.eso.org) and S. Brunier, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.  The images of [Sally Kellerman and William Shatner](https://commons.wikimedia.org/wiki/File:William_Shatner_Sally_Kellerman_Star_Trek_1966.JPG) and [William Shatner and his rock](https://commons.wikimedia.org/wiki/File:William_Shatner_Star_Trek_first_episode_1966.JPG) were published without copyright notices---for the purposes of republication as publicity, even---and so are in the public domain.
