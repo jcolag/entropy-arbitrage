@@ -8,6 +8,7 @@ summary: An attempt to understand why right-wing social media fails
 thumbnail: /blog/assets/136733958_d19086fe20_o.png
 offset: -22%
 update: 2019-12-20-social-media.md
+proofed: true
 ---
 
 ![Free speech](/blog/assets/136733958_d19086fe20_o.png "Free speech")
@@ -20,7 +21,7 @@ The year 2021 has brought a different question to attention, though:  What happe
 
 If you're coming to this post much later or from some alien planet, fascist Americans [pushed their way](https://www.commondreams.org/news/2021/01/06/pictures-pro-trump-mob-storms-us-capitol-building) into the United States Capitol after it was suggested by Donald Trump.  Many of them wore t-shirts about the civil war they thought they were sparking, and many had weapons and restraints that prove they were planning to take hostages and at least threaten to kill people.
 
-As a result, after four years of saying that Donald Trump is such a special case that his platform to undermine democracy and incite violence couldn't be muted or else we'd lose those tweets from the historical record, Facebook finally grew a spine and [suspended him](https://www.voanews.com/usa/facebook-suspends-trumps-account-wake-us-capitol-violence), followed by [Twitter](https://www.commondreams.org/news/2021/01/08/after-inciting-deadly-invasion-us-capitol-twitter-permanently-suspends).  Those actions---only semi-reasonable when taken *after* the damage had been done and they've been warned forever---cascaded into bans of violent rhetoric and the people who spew it across most major social media platforms.
+As a result, after four years of saying that Donald Trump is such a special case that his platform to undermine democracy and incite violence couldn't be muted or else we'd lose those tweets from the historical record, Facebook finally grew a spine and [suspended him](https://www.voanews.com/usa/facebook-suspends-trumps-account-wake-us-capitol-violence), followed by [Twitter](https://www.commondreams.org/news/2021/01/08/after-inciting-deadly-invasion-us-capitol-twitter-permanently-suspends).  Those actions---only semi-reasonable when taken *after* the damage had been done, and they've been warned forever---cascaded into bans of violent rhetoric and the people who spew it across most major social media platforms.
 
 That cascade more or less ended with Amazon realizing that [hosting Parler was a huge liability](https://www.techdirt.com/articles/20210111/09253546032/slope-gets-more-slippery-as-you-expect-content-moderation-to-happen-infrastructure-layer.shtml) and kicking them off their cloud computing platform.
 
@@ -38,7 +39,7 @@ What spurred my interest in the story is partly that Peter Sunde of the Pirate B
 There's an added twist, this time around, that progressives are *also* lining up to [complain about tech companies de-platforming Donald Trump](https://www.commondreams.org/news/2021/01/13/kicking-trump-social-media-wont-save-democracy-say-antitrust-experts), arguing that it's unfair to leave the call to remove him down to human judgment.  But strangely, none of the people framing it this way complained that he was *not* removed the first time he said something that violated their terms of service as would (and does) happen to any powerless user and none of them are interested to connecting this to times when ordinary, non-authoritarian people have been harmed in the past, as cited above.
 
 <iframe
-  src="https://www.voanews.com/media/2929201/embed"
+  src="https://archive.org/embed/after-the-capitol-riot-social-media-wrestle-with-the-aftermath-of-blocking-president-trump-source"
   frameborder="0"
   scrolling="no"
   allowfullscreen
@@ -47,11 +48,11 @@ There's an added twist, this time around, that progressives are *also* lining up
 >
 </iframe>
 
-I mean, I agree that we shouldn't be relying on authoritarian dictatorships---which, at heart, is what a corporation is, unless it's specifically engineered *not* to be---but this isn't the context where that argument is useful, because [it's a necessary step](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177) to stopping the violence.  When you remove an online meeting place for bad people, only the most dedicated people search out the new meeting place, giving an opportunity to "de-program" the people conned into the cult.  But the fact that de-platforming doesn't de-program doesn't make de-platforming bad.
+I mean, I agree that we shouldn't be relying on authoritarian dictatorships---which, at heart, is what a corporation is, unless it's specifically engineered *not* to be---but this isn't the context where that argument is useful, because [it's a necessary step](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177) to stopping the violence.  When you remove an online meeting place for bad people, only the most dedicated people search out the new meeting place, giving an opportunity to "deprogram" the people conned into the cult.  But the fact that de-platforming doesn't deprogram by itself doesn't make de-platforming bad.
 
 So nobody really learns anything, I guess.
 
-Other than *that*, though, we've seen this most of this entire cycle with Gab, [Minds]({% post_url 2020-02-01-minds %}), Voat, 8Chan, [ZeroNet](2020-02-22-zeronet %}), and others, and none of the sites have been relevant after their figurative fifteen minutes of fame.  All of the "Twitter-killers" are basically irrelevant to most people, except as evidence to arrest people for planning terrorist attacks.
+Other than *that*, though, we've seen this most of this entire cycle with Gab, [Minds]({% post_url 2020-02-01-minds %}), Voat, 8Chan, [ZeroNet]({% post_url 2020-02-22-zeronet %}), and others, and none of the sites have been relevant after their figurative fifteen minutes of fame.  All the "Twitter-killers" that we've seen are basically irrelevant to most people, except as evidence to arrest people for planning terrorist attacks.
 
 ## But Wait, There's More...
 
