@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Developer Journal, Intersex Solidarity Day
-date: 2021-11-08 06:40:23-0500
+date: 2021-11-08 06:40:03-0500
 categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Intersex_Pride_Flag.png
+proofed: true
 ---
 
 I talked about the situation with Intersex people on [Intersex Awareness Day]({% post_url 2021-10-25-intersex %}), so I won't go into it, here.  Today, however, is the [Intersex Day of Remembrance](https://en.wikipedia.org/wiki/Intersex_Day_of_Remembrance), also known as Intersex Solidarity Day.
