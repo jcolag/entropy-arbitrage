@@ -7,6 +7,9 @@ tags: [freeculture, bookclub]
 summary: Discussing the remaining half of Lightbringer
 thumbnail: /blog/assets/lightbringer-20081112.png
 offset: -78%
+update: [
+  2021-10-09-lightbringer.md
+]
 proofed: true
 ---
 
