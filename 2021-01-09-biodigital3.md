@@ -11,6 +11,7 @@ update: [
   2020-12-26-biodigital.md,
   2021-01-02-biodigital2.md
 ]
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues to read **Biodigital**, a novel.
@@ -50,11 +51,11 @@ I started out the book not hating Bartlett, since she was the only one not compl
 
  > He exuded an unadorned masculinity that she found---contrary to her wishes, if not her expectation---to be almost overpoweringly sexually attractive.
 
-Even her sexual fantasies are just about complimenting the man.  Compare that pseudo-sexuality to Nick getting paragraphs to muse on the size of his erection or his sexual satisfaction.  And speaking of *that* incident, I mention it in the content advisories at the top, but the "have sex with me or I'll have you arrested for sexual assault" plot and then spending time trying to make that sexy and fun should be unacceptable.
+Even her sexual fantasies are just about complimenting the man.  Compare that pseudo-sexuality to Nick getting paragraphs to muse on the size of his erection or his sexual satisfaction.  And speaking of *that* incident, I mention it in the content advisories at the top, but the "have sex with me, or I'll have you arrested for sexual assault" plot, and then spending time trying to make that sexy and fun should be unacceptable.
 
-The introduction of Jake means a return to the "managers are gross and the only people who can be trusted to *real work*" rhetoric (followed immediately by the *real workers* jumping to follow unethical orders) and technobabble.  Along similar lines, Nick undermines any claims about his massive expertise in his dismissal of [*As We May Think*](https://en.wikipedia.org/wiki/As_We_May_Think).
+The introduction of Jake means a return to the "managers are gross and the only people who can be trusted to *real work* are *real workers*" rhetoric (followed immediately by the *real workers* jumping to follow unethical orders) and technobabble.  Along similar lines, Nick undermines any claims about his massive expertise in his dismissal of [*As We May Think*](https://en.wikipedia.org/wiki/As_We_May_Think).
 
-We also have several lengthy chapters, in this section, where people catch up on everything they've learned, so that the other person can pretend to not be interested.  Similarly, plenty of characters die off-screen, where we're informed with a phone call, and an extended action scene that seems more inspired by Looney Tunes than a real fight or action movies, not helped by the sudden obsession with the offensive term "she-bitch."
+We also have several lengthy chapters, in this section, where people catch up on everything they've learned, so that the other person can pretend to not be interested.  Similarly, plenty of characters die off-screen, where we're informed with a phone call, and an extended action scene that seems more inspired by Looney Tunes than a real fight or action movies, not helped by the sudden obsession with the misogynist term "she-bitch."
 
 And Nick...I think I finally figured out my problem with Nick.  He and the overall narrative are convinced that he's the hero, but he's really just stumbling through the obstacle course set up in front of him.  There's no reason to care about his success, because he doesn't care enough to take any actions to further any goals.
 
@@ -78,4 +79,4 @@ While we wait for that, what does everybody else think about this section of **B
 
 * * *
 
-**Credits**:  The header image extracted from the book's cover.
+**Credits**:  The header image has been extracted from the book's cover.

@@ -7,6 +7,7 @@ tags: [freeculture, bookclub]
 summary: Discussing Biodigital
 thumbnail: /blog/assets/biodigital-cover.png
 offset: -31%
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads **Biodigital**, a novel.
@@ -74,8 +75,8 @@ In other words, just because the author is proud of his "Dijjy-Mike" nickname do
 
 Next week, we'll continue reading **Biodigital**, chapters 14 through 26.
 
-While we wait for that, what does everybody else think about **Pepper & Carrot**?
+While we wait for that, what does everybody else think about this first chunk of **Biodigital**?
 
 * * *
 
-**Credits**:  The header image extracted from the book's cover.
+**Credits**:  The header image has been extracted from the book's cover.

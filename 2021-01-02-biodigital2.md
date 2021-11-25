@@ -8,6 +8,7 @@ summary: Continuing the discussion of Biodigital
 thumbnail: /blog/assets/biodigital-cover.png
 offset: -31%
 update: 2020-12-26-biodigital.md
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues to read **Biodigital**, a novel.
@@ -69,7 +70,7 @@ The most straightforward support would be to kick in a couple of dollars [at ung
 
 It was mentioned in the first part, obviously, but Hoff-Zeigy, the shady multinational pharmaceutical corporation that's making inroads in broader biotechnology is probably useful, somewhere.
 
-Bartlett also invented a mouse-USB port that...cures diseases?  And a fake museum of one-off technology.
+Bartlett also invented a rodent-to-USB port that...cures diseases?  And a fake museum of one-off technology.
 
 There are new characters, of course, but they strike me as just tools to move the plot forward, rather than personalities.  However, we are starting to see the shape of the transhumanist cult.
 
@@ -81,4 +82,4 @@ While we wait for that, what does everybody else think about this section of **B
 
 * * *
 
-**Credits**:  The header image was extracted from the book's cover.
+**Credits**:  The header image has been extracted from the book's cover.

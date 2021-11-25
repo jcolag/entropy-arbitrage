@@ -12,6 +12,7 @@ update: [
   2021-01-02-biodigital2.md,
   2021-01-09-biodigital3.md
 ]
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues to read **Biodigital**, a novel.
@@ -49,9 +50,9 @@ As I've mentioned seemingly too many times, this book is definitely not written 
 
 I dislike Nick enough that even the vague promise of eliminating him---even a promise that almost certainly won't be fulfilled, since the author clearly has a personal attachment to the character---is pleasing.
 
-More seriously, though, as we near the end of the book, we finally explicitly have the plot.  And as Millennialist science fiction plots go, the creation of a hive mind with a tech company CEO controlling everything is basically credible, in that it doesn't take much to imagine a Mark Zuckerberg or Elon Musk letting it slip in an interview.  And the protagonists actually put together something resembling a plan to stop it.
+More seriously, though, as we near the end of the book, we finally explicitly have the plot.  And as Millennialist science fiction plots go, the creation of a hive mind with a tech company CEO controlling everything is basically credible, in that it doesn't take much to imagine someone with the cultural status of a Mark Zuckerberg or Elon Musk letting it slip in an interview.  And the protagonists actually put together something resembling a plan to stop it.
 
-More than the other sections---and yes, I'm including this as positive---these chapters could probably benefit most from a rewrite.  The structure of a good story is there, and I think shifting around what's shown versus what's simply relayed, while allowing certain other aspects to be inferred by the reader, could make this more of a thriller.  In particular, the teen science camp is central to the story, but we never *experience* it, just get several descriptions of it, decades later.
+More than the other sections---and yes, I'm including this as positive---these chapters could probably benefit most from a rewrite.  The structure of a compelling story is here, and I think shifting around what's shown versus what's simply relayed, while allowing certain other aspects to be inferred by the reader, could make this more of a thriller.  In particular, the teen science camp is central to the story, but we never *experience* it, just get several descriptions of it, decades later.
 
 And back to pettiness, I'm extremely happy that I can't remember one "Dijjy-Mike" stuffed into the text for thirteen chapters.  Small favors, and all that...
 
@@ -63,13 +64,13 @@ And again, we're subjected to entire chapters of information that we've already 
 
  > Killed kali. So, they didn’t kill Casey, but they did kill Kali. Presumably she meant the chip in the Bonehead Computer Museum.
 
-It's not the great detective work it might sound like, to have a character figure out that "Kali" might mean the *only* Kali actually mentioned in and mentioned repeatedly throughout the book and that Casey is obsessed with, including showing its destruction.  And while I mentioned earlier that the plot finally comes together, it comes together entirely through lengthy exposition from Judith Knight---a character who seems to only exist to deliver this exposition---often reviewing scenes we've already read, and most of it (like the example cited above) seems to just be for Nick to have an opportunity to repeat a fact that he *also* learned in a previous chapter.  The repeated exposition might not be so bad, except that we also have chapters events (usually involving Casey) are skipped with a note that they were interesting.
+It's not the great detective work it might sound like, to have a character figure out that "Kali" might mean the *only* Kali actually mentioned in and mentioned repeatedly throughout the book and that Casey is obsessed with, including showing its destruction.  And while I mentioned earlier that the plot finally comes together, it comes together entirely through lengthy exposition from Judith Knight---a character who seems to only exist to deliver this exposition---often reviewing scenes we've already read, and most of it (like the example cited above) seems to just be for Nick to have an opportunity to repeat a fact that he *also* learned in a previous chapter.  The repeated exposition might not be so bad, except that we also have chapters where events (usually involving Casey) are skipped with a note that they were interesting.
 
 This may be a matter of taste, but I find it implausible that the first scene of the book was Nick renovating a cabin at his childhood Bible camp with the Second Swedish Baptist Church of Oneonta, just sitting abandoned for him to use.  He also prides himself on sealing "his" cabin against intruders...then goes on to open it with a crowbar---sorry, with "brute force and intelligent use of the fulcrum principle," which I'm sure is much more sophisticated.  Everything there is also "impossibly" this or "miraculously" that, as we hit peak-adverb.
 
 This is also a scene where Nick keeps interrupting to mansplain things to Judith that she definitely already knows, then turns around to lecture Casey (Todd's maybe-girlfriend and former work-partner) about it being bad for her to interrupt with information.  And I don't *think* it's meant to be ironic in any way, since Nick is just allowed to be right.  It doesn't help that Casey is actually right (even if several of her snide remarks are open bigotry) that Judith is taking too long with the extremely obvious history lesson when lives are literally at stake.
 
-Bartlett also suddenly reveals herself to be a complete buffoon, in this section.  She's still pining for Nick and Paul, of course, and endlessly regrets leaving Nick, somehow.  But she also takes three paragraphs to muse on how she couldn't ever have possibly known that the brain-controlling device that she has been developing (the mouse with the USB port) could be used to control brains...and then goes through the list of people who outright warned her.  And then she goes back to hating herself for leaving Nick, and I'm increasingly convinced that Aubrey is the fantasy version of someone in the author's life who he wishes wanted him back.  Her company doesn't have off-site backups of their word-changing science, either, so I assume not thinking things through is a valued trait in an employee.  And unlike Casey's "I assure you that breaking into the building was exciting" scene, we go through every tedious step of Bartlett destroying material, even repeating the freezer temperature.
+Bartlett also suddenly reveals herself to be a complete buffoon, in this section.  She's still pining for Nick and Paul, of course, and endlessly regrets leaving Nick, somehow.  But she also takes three paragraphs to muse on how she couldn't ever have possibly known that the brain-controlling device that she has been developing (the mouse with the USB port) could be used to control brains...and then goes through the list of people who outright warned her.  And then she goes back to hating herself for leaving Nick, and I'm increasingly convinced that Aubrey is the fantasy version of someone in the author's life who he wishes wanted him back.  Her company doesn't have off-site backups of their world-changing science, either, so I assume not thinking things through is a valued trait in an employee.  And unlike Casey's "I assure you that breaking into the building was exciting" scene, we go through every tedious step of Bartlett destroying material, even repeating the freezer temperature.
 
 ## Opportunities
 
@@ -91,4 +92,4 @@ While we wait for that, what does everybody else think about this section of **B
 
 * * *
 
-**Credits**:  The header image extracted from the book's cover.
+**Credits**:  The header image has been extracted from the book's cover.

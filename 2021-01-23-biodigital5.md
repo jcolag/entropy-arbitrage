@@ -13,6 +13,7 @@ update: [
   2021-01-09-biodigital3.md,
   2021-01-16-biodigital4.md
 ]
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues to read **Biodigital**, a novel.
@@ -46,7 +47,7 @@ If you haven't read it, you can download the ePub or Mobi editions at the Unglue
 
 In the hind end of the book, I'll make one last charitable comparison to Stephenson's **The Cryptonomicon**:  If you liked the extensive discussion of an encryption cipher based on a deck of cards there, you'll probably love Todd writing his microprocessor notes in code based on an old album, here.
 
-I appreciate the mention that the Digital Microsystems chip fabricators, being unionized, are "sane," and unlikely to get in their way after hours.  It's a nice enough shout-out to unions that I'm not even going to figure out how likely it would be for a large company to use organized labor in Boston for microprocessor fabrication when the book is taking place.
+I appreciate the mention that the Digital Microsystems chip fabricators, being unionized, are "sane," and unlikely to get in their way after hours.  It's a nice enough shout-out to unions that I'm not even going to investigate how likely it would be for a large company to use organized labor in Boston for microprocessor fabrication when the book takes place.
 
 The big win, here, is almost certainly that the story has finally become relatively brisk, with far fewer redundancies or what have amounted to being meaningless digressions.
 
@@ -56,13 +57,13 @@ Bartlett starts this section with---I kid you not---"confusion in her addled nog
 
 Less racist, but just as artificial and pointlessly overwrought, is the "banter" between Nick and Jake, trying to convince us of their masculinity.  It's obviously supposed to be the moment where we realize how great Jake is, but the whole thing is just posturing by "commando" cosplayers, which turns into more annoying posturing with Casey...after he successfully hides from "hardcore spooks" for hours by standing in a chemical toilet booth, because I guess that's not someplace they'd look.
 
-Speaking of Casey, we also have a repeat of "some great stuff happened, but Casey was involved, so it doesn't really matter, except to tell us that they're dumb enough to strip their clothes off before wearing clean-room suits, decided to do so inches from each other, and find a nipple brushing forearm hair to be sexy.  I'm still trying to figure out why anybody (other than the author) is interested in Nick, though, so maybe I'm also out of the loop on the nipple-on-forearm fetish.
+Speaking of Casey, we also have a repeat of "some great stuff happened, but Casey was involved, so it doesn't really matter," except to tell us that they're dumb enough to strip their clothes off before wearing clean-room suits, decided to do so inches from each other, and find a nipple brushing forearm hair to be sexy.  I'm still trying to figure out why anybody (other than the author) is interested in Nick, though, so maybe I'm also out of the loop on the nipple-on-forearm fetish.
 
 A lot in this book has (obviously) annoyed me, and I was *going* to quip, at some point, that the people who insist on awkwardly referring to "Dijjy-Mike" are probably the same sorts of self-satisfied pundits who think it's *hilarious* to talk about "Micro$oft Windoze," and then we get a reference to a "clunky Windoze machine" and another reference to "Dijjy-Mike" in the same chapter.  I shouldn't be spotting the joke dozens of chapters away.  We get another run on criticizing someone's ability to tell a story concisely, too, which...was the book written with *no* self-awareness?  It seems unfair to have a character complain about having to read forty pages, when this book would come out to more than ten times that to tell *exactly the same story*.
 
 Then, the ending basically becomes a cartoon, with Nick acting like a sociopath, trying out stock one-liners to threaten people, until Monty "mutates" into an animalistic form, as if altering DNA---in a book that seems to pride itself on being written for people in science and technology jobs, no less---retroactively changes the body that was built.
 
-Finally, the epilogue is a mess of colonialist tropes, Nick being given the identity of a Black man, so that he can be a millionaire running a farm with Bartlett, because nobody thinks he might need to face the consequences of multiple murders or clear his name of the other nonsense.  It's all basically in service to a "the software industry is too stressful" punchline, because they want life to be better in "primitive" surroundings, which is more than a bit offensive.  And that's kind of a weird stereotype to pin the story on, since Senegal has been growing as a technology center for a while.
+Finally, the epilogue is a mess of colonialist tropes, Nick being given the identity of a Black man, so that he can be a millionaire running a farm with Bartlett, because nobody thinks he might need to face the consequences of multiple murders or clear his name of the other nonsense.  It's all basically in service to a "the software industry is too stressful" punchline, because they want life to be better in "primitive" surroundings, which is more than a bit offensive.  And that's kind of a weird stereotype to pin the story on, since Senegal in particular has been growing as a technology center for a while.
 
 ## Opportunities
 
@@ -78,8 +79,8 @@ It's a reach, but there's potentially also the emerging hive mind without Monty 
 
 Now that we're done with **Biodigital**, we'll read **Continuity Drift**, a science-fiction web comic.
 
-While we wait for that, what does everybody else think about this section of **Biodigital**?
+While we wait for that, what does everybody else think about the ending of **Biodigital**?
 
 * * *
 
-**Credits**:  The header image extracted from the book's cover.
+**Credits**:  The header image has been extracted from the book's cover.
