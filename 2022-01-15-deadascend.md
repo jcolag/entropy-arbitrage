@@ -39,15 +39,15 @@ Here's a lightly edited combination of the game's two blurbs, typos.  Both share
 
 It's a short puzzle-based adventure game, in other words, where your goal is to contact your fellow survivors.
 
-### What Happened to Supertrans?
+### Wait, What Happened to Supertrans?
 
 As mentioned [last week]({% post_url 2022-01-08-wormwood-4 %}), my original plan was to present the [**Supertrans**](http://supertrans.thecomicseries.com/) comic this week.  However, when I actually read the announcement that the work would be "open source" with credit, it increasingly looked like the idea was to allow people to use the *character* of Supertrans, but not the underlying work.  So, I can't really present it as Free Culture.
 
-I'm sorry about that.  Representation of gender and sexual minorities in Free Culture works has been fairly miserable, so I was looking forward to spotlighting it, but there's not quite anything for me to spotlight.
+I'm sorry about that.  Representation of gender and sexual minorities in Free Culture works has been fairly miserable, so I was looking forward to spotlighting it, but there's not quite anything for me to spotlight.  If that changes in the future, I'll give it another shot.
 
 ## What Works Well?
 
-The art and sound design are all consistent.  This doesn't sound like a compliment, but I've noticed that it's too easy for game creators to use assets from different sources, producing games with no real aesthetic.  By contrast, this presents a consistent vision for the world.
+The game's art and sound design are all consistent.  This doesn't sound like a huge compliment, but I've noticed that it's too easy for game creators to use assets from different sources, producing games with no real aesthetic.  By contrast, this presents a consistent vision for the world.
 
 Similarly, the puzzles all make a certain kind of sense, with the more obscure solutions having clues supplied elsewhere in the game.  Granted, some solutions are *silly* in a game that presents itself as relatively serious---for obvious examples, the codes for the door and the presence of the note explaining where to get electricity almost seem to have fallen out of another game---but that's fine, given the length.
 
@@ -59,9 +59,9 @@ Finally, the game knows what it wants to accomplish and does it.  There's no exp
 
 While it's nice to see a game completely focused on a streamlined story, there also isn't much story to it.  There's more information about the world in the *blurb* than there is anywhere in the game itself.  We don't know who the character is, what city this is supposed to represent, what "the old radio tower" was for, or why the tower appears to have been sabotaged in ways that mostly only caused superficial damage.
 
-Similarly, as I hinted before, some puzzles feel unmotivated, like needing to pick up a bunch of near-identical pieces of ladder, then drop them---partly ordered---to actually *build** the ladder.  It's tedious, and I imagine difficult for people with poor motor coordination.
+Similarly, as I hinted before, some puzzles feel unmotivated, like needing to pick up a bunch of near-identical pieces of ladder, then drop them---partly ordered---to actually *build* the ladder.  It's tedious, and I imagine difficult for people with poor motor coordination.
 
-More than that, though, several puzzles also have "hints" so explicit---sitting around inside the game where the player might find them before the puzzles---that they stop being puzzles.  The analysis falls out of the task, and gets replaced by following instructions.  It's great that the player isn't going to be stuck for long, but it's still an awkward way to ensure that.
+More than that, though, several puzzles also have "hints" so explicit---sitting around inside the game, where the player might find them before the puzzles---that they stop being puzzles.  The analysis falls out of the task, and gets replaced by following instructions.  It's great that the player isn't going to be stuck for long, but it's still an awkward way to ensure that.
 
 The consistency also suddenly falls apart at the end of the game, when the puzzle game suddenly requires the player to shoot some number of zombies---I can't figure out what the criteria are, just that I don't see messages indicating progress until there are zombies with big holes in them---before the game will finish.
 
@@ -69,7 +69,7 @@ The consistency also suddenly falls apart at the end of the game, when the puzzl
 
 If you follow the links around from the game's main page, you'll find the [GitHub <i class="fab fa-github"></i> repository](https://github.com/Larpon/DeadAscend).  Development seems to have stopped, but that may be more about people bringing issues or pull requests than about the creator's interests.
 
-From the GitHub page, you can find the [Itch.io <i class="fab fa-itch-io"></i> page](https://github.com/Larpon/DeadAscend), where you can pay what you want---including nothing---for a pre-built version of the game that isn't a phone/tablet app.
+From the GitHub page, you can find the [Itch.io <i class="fab fa-itch-io"></i> page](https://github.com/Larpon/DeadAscend), where you can pay what you want---yes, including nothing---for a pre-built version of the game that isn't a phone/tablet app.
 
 ## What's Adaptable?
 
