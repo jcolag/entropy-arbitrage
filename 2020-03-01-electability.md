@@ -77,7 +77,7 @@ To clarify, let's imagine a third, more generic version of the previous situatio
 
  > **ROBERT**:  A few years ago, somebody broke into my apartment and burglarized my stuff, and---
  >
- > **JASON**:  Hey, hey, hey, not **everybody** is a burglar, man!  I've certainly never stolen a television from someone, let alone broken into someone's home, you know.
+ > **JASON**:  Hey, hey, hey, not *everybody* is a burglar, man!  I've certainly never stolen a television from someone, let alone broken into someone's home, you know.
  >
  > **ROBERT**:  But my point was---
  >

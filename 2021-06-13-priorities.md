@@ -15,7 +15,7 @@ In the past few weeks, I've seen...not "a surprising number" of comments online 
 
 I'm talking about this in the context of software, but there's something like the sentiment in every industry.  The most generic version of this, looks something like the following.
 
- > People **say** that we shouldn't reinvent the wheel, but sometimes you probably know how to make a better wheel or might get a lot out of a new kind of wheel.
+ > People *say* that we shouldn't reinvent the wheel, but sometimes you probably know how to make a better wheel or might get a lot out of a new kind of wheel.
 
 There are other versions that blame the problem on "managers" as some abstract group that (somehow) doesn't know anything about the actual work and exist to slow everyone down.  There are versions imagining some weird [cancel culture]({% post_url 2020-07-12-tolerance %}) unfairly destroying the careers of people who choose to re-implement things.  And there are versions that don't bother trying to justify the idea of redoing existing work.
 

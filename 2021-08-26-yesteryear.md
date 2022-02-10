@@ -7,6 +7,7 @@ tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/landscape-nature-rock-wilderness-mountain-architecture-746291-pxhere.com.png
 offset: -21%
+proofed: true
 ---
 
 ![Stone arch, with a blurred and recolored interior](/blog/assets/landscape-nature-rock-wilderness-mountain-architecture-746291-pxhere.com.png "Not the Guardian, part two")
@@ -203,7 +204,7 @@ At this point, we finally get into the episode, more or less the same flow.
 
 Two weeks into these adaptations, and I have many problems with Foster's writing, but the man knows how to lay out a room...even if "IandB" looks like a typo.
 
- > "There are few Vulcans on the **Enterprise**, Captain.  I'm not likely to forget any, let alone a commander."
+ > "There are few Vulcans on the *Enterprise*, Captain.  I'm not likely to forget any, let alone a commander."
 
 Through the original series, the only member of the crew that didn't look entirely human was Spock, even when we've encountered other ships, except for the *Intrepid* in [*The Immunity Syndrome*]({% post_url 2020-12-10-immunity %}).  We saw a navigator with three arms, last week, then Thelin and mention of other Vulcans this week, so maybe Starfleet has finally decided to take Diversity, Equity, and Inclusion work seriously.
 
@@ -241,7 +242,7 @@ This is potentially an interesting twist.  If sehlats have some empathic ability
 
 Another item to add to the list of possible evidence that Vulcan was conquered, here, is that ultra-pedantic Spock previously referred to Tasmeen as a "month," but the word implies association with a moon.
 
- > The writing unthinking vines of the carnivorous **d'mallu** did not ponder on the near miss.  They merely recoiled and reset as the plant---with the inherent patience of all growing things---arranged itself once more to wait for less elusive prey.
+ > The writing unthinking vines of the carnivorous *d'mallu* did not ponder on the near miss.  They merely recoiled and reset as the plant---with the inherent patience of all growing things---arranged itself once more to wait for less elusive prey.
 
 It seemed worth mentioning that the plant has a name.
 
@@ -249,7 +250,7 @@ It seemed worth mentioning that the plant has a name.
 
 While it's surprising for them to admit it, it's *not* surprising that Vulcans traffic heavily in gossip.  It fits neatly with the idea of shaming people for deviating from stereotypes that they would make sure that the group participating in the shaming is large and has a long memory.
 
- > It was a thick purr now, rough and mechanical.  He scanned the dark horizon wishing, wishing for a battery of portable lights from the starship.  But the **Enterprise** had not even been built yet.  He didn't have so much as a flare.
+ > It was a thick purr now, rough and mechanical.  He scanned the dark horizon wishing, wishing for a battery of portable lights from the starship.  But the *Enterprise* had not even been built yet.  He didn't have so much as a flare.
 
 At times, it's been hinted that the *Enterprise* is a relatively old ship, sometimes even considered obsolete.  But it's less than thirty-three years old, based on calculations above.
 
