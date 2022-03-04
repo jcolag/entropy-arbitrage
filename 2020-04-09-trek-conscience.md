@@ -316,7 +316,7 @@ We've learned that the standard-issue hand-weapons (of which there are probably 
  >
  > **KIRK**: So was I.
 
-Again, what is Karidian *wearing*?  Why does this family wear so much fur and why does it seem like the fur comes from a sports mascot instead of a person...?
+Again, what is Karidian *wearing*?  Why does this family wear so much fur and why does it seem like the fur comes from a sports mascot instead of an animal...?
 
 Anyway, this makes the maybe-interesting point that (as discussed previously) William Shatner would have been around thirty-five when these episodes were filmed, so Kirk's age shouldn't be all that different.  Twenty years ago, then, Kirk would have been a teenager, which we can probably assume means the Kirk family lived on Tarsus IV.
 
@@ -510,9 +510,9 @@ This might give us more insight into what happened on Tarsus, as Karidian makes 
  >
  > "The lever is a tool," Kirk said. "We have new tools, but great men still strive, and don't feel outclassed. Wicked men use the tools to murder, like Kodos; but that doesn't make the tools wicked. Guns don't shoot people. Only men do."
 
-Ignoring the slipping in of the Colt public relations slogan (and now ubiquitous gun-rights mantra) at the end, there, we get a nice distilled debate that, for the most part, cuts to the heart of the difference between the Enlightenment and Romanticism movements I mentioned earlier.  Karidian is suggesting that he feels emasculated by automation and needs to be his own man, unencumbered by society's rules, whereas Kirk is (rightly) making it clear that a mature powerful person works with society and systems instead of worrying about personal esteem instead of throwing tantrums.
+Ignoring the slipping in of the Colt public relations slogan (and now ubiquitous gun-rights mantra) at the end, there, we get a nice distilled debate that, for the most part, cuts to the heart of the difference between the Enlightenment and Romanticism movements I mentioned earlier.  Karidian is suggesting that he feels emasculated by automation and needs to be his own man, unencumbered by society's rules, whereas Kirk is (rightly) making it clear that a mature powerful person works with society and systems instead of worrying about personal esteem and throwing tantrums.
 
-Oh, and we also get another mention of "three-V," this time contrasting it with live actors.  It's unclear whether "live" contrasts with "pre-recorded" or with "animated."  However, it's worth pointing out that our world has an interesting convergence of [creating plausible faces](https://thispersondoesnotexist.com/), mapping [faces onto bodies](https://en.wikipedia.org/wiki/Deepfake) in video, [voice cloning](https://medium.com/syncedreview/clone-a-voice-in-five-seconds-with-this-ai-toolbox-f3f116b11281), and [machinema](https://en.wikipedia.org/wiki/Machinima) with some [automation tools](http://www.moviesandbox.net/) that all *could* be combined to create an animated movie with no cast at all.
+Oh, and we also get another mention of "three-V," this time contrasting it with live actors.  It's unclear whether "live" contrasts with "pre-recorded" or with "animated."  However, it's worth pointing out that our world has an interesting convergence of [creating plausible faces](https://thispersondoesnotexist.com/), mapping [faces onto bodies](https://en.wikipedia.org/wiki/Deepfake) in video, [voice cloning](https://medium.com/syncedreview/clone-a-voice-in-five-seconds-with-this-ai-toolbox-f3f116b11281), and [machinema](https://en.wikipedia.org/wiki/Machinima) with some [automation tools](http://www.moviesandbox.net/) that all *could* be combined to create an animated movie with no cast at all that approaches some level of realism.
 
  > She said in a clear, almost gay voice: "Tonight the Karidian Players present Hamlet---another in a series of living plays in space---dedicated to the tradition of the classic theater, which we believe will never die. Hamlet is a violent play about a violent time, when life was cheap and ambition was God. It is also a timeless play, about personal guilt, doubt, indecision, and the thin line between Justice and Vengeance."
  >
@@ -530,7 +530,7 @@ The specifics aren't the same, of course, but watching a story about a society d
 
 Which is all to say that, if you spot a ninety-plus year old overweight actor with a bad fake tan and implausible hair trying to perform Shakespeare in 2040, just arrest Ivanka on sight before she steals your phaser, and save everybody the hassle.
 
-On a completely unrelated note, a quick background walk-on with no lines is the last scene filmed with Janice Rand (she'll make another appearence next time, filmed earlier) until **Star Trek: The Motion Picture**, more than a decade later, a shame, because an ambitious and talented young woman sets these early episodes apart from a lot of other science-fiction, and her departure leads to a never-ending stream of nobodies, instead, quite a downgrade from the original concept of have Rand as one of the lead characters.  Compounding that is that we've heard reasons ranging from writers seeing Kirk as more of a ladies' man who was being hamstrung in his attachment to wanting more money for additional members of the cast to Whitney fighting off a sexual assault by a network executive to her alcoholism.  All of these are entirely plausible and none of them make the production team look good, unfortunately.
+On a completely unrelated note, a quick background walk-on with no lines is the last scene filmed with Janice Rand (she'll make another appearence next time, filmed earlier) until **Star Trek: The Motion Picture**, more than a decade later, a shame, because an ambitious and talented young woman sets these early episodes apart from a lot of other science-fiction, and her departure leads to a never-ending stream of nobodies, instead, quite a downgrade from the original concept---evident from publicity photographs---of having Rand as one of the lead characters.  Compounding that is that we've heard reasons ranging from writers seeing Kirk as more of a ladies' man who was being hamstrung in his attachment to wanting more money for additional members of the cast to Whitney fighting off a sexual assault by a network executive to her alcoholism.  All of these are entirely plausible and none of them make the production team look good, unfortunately.
 
 ## Conclusions
 
@@ -630,7 +630,7 @@ So, when Spock refers to his mother thinking herself lucky to have "been with"--
 
 It's already likely that colonial governments are dictatorial, from the way Kodos came to power on Tarsus IV, so it doesn't seem out of the question for some Earth colonies to exist over the objections of the real estate's current inhabitants.  I never really liked the analogy, but Roddenberry often pitched this series as a science-fiction version of [**Wagon Train**](https://en.wikipedia.org/wiki/Wagon_Train), and the wagons encountered their share of angry natives...three of them played by none other than the late [Leonard Nimoy](https://en.wikipedia.org/wiki/Leonard_Nimoy).
 
-You might say "that's too dark for *Star Trek*, but...we're also currently talking about an episode about a massacre of four thousand people on eugenic principles, and the line between justice and vengeance, so maybe this isn't the utopia you think it is.
+You might say "that's too dark for *Star Trek*," but...we're also currently talking about an episode about a massacre of four thousand people on eugenic principles, and the line between justice and vengeance, so maybe this isn't the utopia you think it is.
 
 ### The Weird
 
@@ -658,7 +658,7 @@ And, of course, the Karidians wear outfits between shows that are completely abs
 
 Whew, we made it!  The two-parter was shorter than this mess.
 
-Next time around, we have the science-fiction equivalent of a submarine battle, a wedding, a funeral, an unexpected guest appearance, and a whole lot of racism in...*Balance of Terror*.  I suspect it'll be less intense of this round, but it's also dealing with the fallout from an old war, so who knows?
+Next time around, we have the science-fiction equivalent of a submarine battle, a wedding, a funeral, an unexpected guest appearance, and a whole lot of racism in...*Balance of Terror*.  I suspect it'll be less intense than this round, but it's also dealing with the fallout from an old war, so who knows?
 
 #### <i class="far fa-hand-spock"></i>
 
