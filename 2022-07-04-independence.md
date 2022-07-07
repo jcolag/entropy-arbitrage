@@ -6,6 +6,7 @@ categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/American-1902-Fourth-of-July-fireworks.png
+proofed: true
 ---
 
 Today celebrates [Independence Day](https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29) in the United States, maybe explaining why much of the business world goes dark.  Coincidentally [Abkhazia](https://en.wikipedia.org/wiki/Abkhazia), the [Northern Mariana Islands](https://en.wikipedia.org/wiki/Northern_Mariana_Islands), [Rwanda](https://en.wikipedia.org/wiki/Rwanda), and the [Philippines](https://en.wikipedia.org/wiki/Philippines) all celebrate similar holidays.  You find a variety of national celebrations, this time of year; I have no proof, but I *suspect* that they might all trace to some ancient solstice celebration involving color and fire---translating to fireworks---plus parades.
