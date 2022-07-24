@@ -14,7 +14,10 @@ proofed: true
 ---
 
 <script src="/blog/assets/chart.js"></script>
-<script>let ctx = null;let labels = null;</script>
+<script>
+  let ctx = null;
+  let labels = null;
+</script>
 
 Quick, let's play **Name That Media**...
 
