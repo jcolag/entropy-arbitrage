@@ -13,12 +13,6 @@ offset: -18%
 proofed: true
 ---
 
-<script src="/blog/assets/chart.js"></script>
-<script>
-  let ctx = null;
-  let labels = null;
-</script>
-
 Quick, let's play **Name That Media**...
 
  > Yes, he tried to murder each one of us, individually and collectively.  And sure, he dedicated his life to abusing power in pursuit of the power to oppress us.  But when he found his own life under threat, he made a sacrifice to help us.  And he died, so we'll just politely pretend that we misunderstood his heroic life all along and treat him like a worthy role-model for children.
