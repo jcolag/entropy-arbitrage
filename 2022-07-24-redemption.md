@@ -2,7 +2,7 @@
 layout: post
 title: Dying Is Easy; Redemption Is Hard
 date: 2022-07-24 06:37:03-0400
-categories: media, rant, harm
+categories:
 tags: [media, rant, harm]
 summary: What redemption means and why we get it wrong
 thumbnail: /blog/assets/tree-branch-sweet-flower-animal-summer-498814-pxhere.com.png
@@ -12,6 +12,8 @@ update: [
 offset: -18%
 proofed: true
 ---
+
+<script src="/blog/assets/chart.js"></script>
 
 Quick, let's play **Name That Media**...
 
