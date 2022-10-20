@@ -6,6 +6,9 @@ categories:
 tags: [freeculture, bookclub]
 summary: Discussing American Dream
 thumbnail: /blog/assets/american-dream-cover.png
+update: [
+  2022-10-08-american-dream-1.md
+]
 proofed: true
 ---
 
