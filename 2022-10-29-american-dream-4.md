@@ -11,9 +11,10 @@ update: [
   2022-10-15-american-dream-2.md,
   2022-10-22-american-dream-3.md
 ]
+proofed: true
 ---
 
-This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues reading **American Dream**l, chapters 18 -- 23.
+This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues reading **American Dream**, chapters 18 -- 23.
 
 ![The cover to American Dream](/blog/assets/american-dream-cover.png "Unfortunately not something that I'd pick off the shelf, but still catches my interest")
 

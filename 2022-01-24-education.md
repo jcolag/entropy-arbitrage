@@ -3,7 +3,7 @@ layout: post
 title: Developer Journal, International Day of Education
 date: 2022-01-24 07:36:05-0500
 categories:
-tags: [programming, project, devjournal]
+tags: [programming, project, devjournal, recipe]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Khamla-Panyasouk-of-Big-Brother-Mouse-reads-to-children.png
 update: [
