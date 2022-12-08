@@ -77,9 +77,9 @@ Imagine if they had lives at stake?  Oh, right.  They came here to rescue people
  >
  > **RIKER**: Toxic?
 
-[Deuterium](https://en.wikipedia.org/wiki/Deuterium), also known as hydrogen-2 and heavy hydrogen, consists of common hydrogen atoms---itself sometimes called "protium"---with additional protons in their nuclei.  On Earth, deuterium makes up less than one in six thousand of hydrogen atoms.
+[Deuterium](https://en.wikipedia.org/wiki/Deuterium), also known as hydrogen-2 and heavy hydrogen, consists of common hydrogen atoms---itself sometimes called "protium"---with additional neutrons in their nuclei.  On Earth, deuterium makes up less than one in six thousand of hydrogen atoms.
 
-If you have a membrane around your nucleus---you *probably* do, but I can't say for sure that no bacteria read my blog---then heavy water (two deuterium atoms bonded with one oxygen atom) presents a mild toxic threat, causing problems with cell division and eventually sustenance as it displaces ordinary water in cells.  However, as a stable isotope of hydrogen, deuterium doesn't generally pose a radiation threat.
+If you have a membrane around your cell nucleus---you *probably* do, but I can't say for sure that no bacteria read my blog---then heavy water (two deuterium atoms bonded with one oxygen atom) presents a mild toxic threat, causing problems with cell division and eventually sustenance as it displaces ordinary water in cells.  However, as a stable isotope of hydrogen, deuterium doesn't generally pose a radiation threat.
 
 The gas will make their voices sound funny and eventually might lower the percentage of oxygen, yes, but it doesn't usually cause other problems.
 
@@ -101,7 +101,7 @@ While, yes, Picard's suspicions bear out by the end of the episode, I feel like 
  >
  > **WORF**: The weapons were not Ferengi.
 
-This strikes me as telling.  Korris seems sure that he can pin this on the Ferengi, because as we've seen since [*Encounter at Farpoint*]({% post_url 2022-05-26-farpoint2 %}) that the Federation has tended to believe any horrors blamed on the Ferengi.  This indicates that they do this often enough and publicly enough that even random Klingons believe that they can use this for manipulation, even when the evidence directly contradicts them.
+This strikes me as telling.  Korris seems sure that he can pin this on the Ferengi, because we've seen since [*Encounter at Farpoint*]({% post_url 2022-05-26-farpoint2 %}) that the Federation has tended to believe any horrors blamed on the Ferengi.  This indicates that they do this often enough and publicly enough that even random Klingons believe that they can use this for manipulation, even when the evidence directly contradicts them.
 
  > **KONMEL**: O'Mat gri tea and piviots.
 
@@ -165,7 +165,7 @@ In any case, this recalls what I've mentioned before---and what we learned earli
  >
  > **WORF**: They will be tried and executed, sir.
 
-That seems fair, no?  They killed an entire military crew to avoid getting caught for their theft, and---given that they never gave Worf any sympathetic back-story---don't seem to have had any grand goal beyond that.  I don't support capital punishment, but nobody her objects to the injustice of executions.  And really, nobody presents the characters as the sort who would take to rehabilitation.  Plus, if their native judicial system finds them guilty, does the Federation care?
+That seems fair, no?  They killed an entire military crew to avoid getting caught for their theft, and---given that they never gave Worf any sympathetic back-story---don't seem to have had any grand goal beyond that.  I don't support capital punishment, but nobody here objects to the injustice of executions.  And really, nobody presents the characters as the sort who would take to rehabilitation.  Plus, if their native judicial system finds them guilty, does the Federation care?
 
 I mean, if the episode portrayed them as dissidents, even if they wanted to overthrow the Klingon government to establish a military dictatorship---an absurd situation that would continue to make them unsympathetic---I could imagine having an ethical problem.  But this?  They want to go bat for violent criminals, apparently on the basis that their actors had some chemistry with the rest of the cast.
 
