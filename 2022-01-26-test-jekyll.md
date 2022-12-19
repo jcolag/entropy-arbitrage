@@ -3,7 +3,7 @@ layout: post
 title: Testing Jekyll Plugins — Small Technology Notes
 date: 2022-01-26 06:51:05-0500
 categories:
-tags: [techtip, jekyll, blog]
+tags: [techtips, jekyll, blog]
 summary: Ruby code should be Ruby code
 thumbnail: /blog/assets/work-technology-vintage-wheel-retro-clock-606288-pxhere.com.jpg
 update: [
