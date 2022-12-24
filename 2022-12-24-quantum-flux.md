@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Free Culture Book Club — Quantum Flux
 date: 2022-12-24 07:03:12-0500
