@@ -23,7 +23,7 @@ To give this series some sense of organization, check out some basic facts witho
  * Creator:  Kieran Kowalski
  * Medium:  Role-playing game adventure
  * Length:  Approximately 3,200 words
- * Content Advisories:  In impaling and multiple corpses, plus encouraging references to horror tropes
+ * Content Advisories:  Impaling and multiple corpses, plus encouraging references to horror tropes
 
 This should go without saying---even though I plan to repeat it with every Book Club installment---but *Content Advisories* do not suggest any sort of judgment on my part, only topics that come up in the work that I noticed and might benefit from a particular mood or head space for certain audiences.  I provide it to help you make a decision, rather than a decision in and of itself.
 

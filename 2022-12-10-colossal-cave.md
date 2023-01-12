@@ -67,7 +67,7 @@ The game also provides a rudimentary system of spell-casting, where magic words 
 
 In a week, we'll read a pair of short stories by R. James Gauvreau.
 
-Anyway, while we wait for that, what did everybody else think about **Pioneer**?
+Anyway, while we wait for that, what did everybody else think about the **Colossal Cave Adventure**?
 
 * * *
 
