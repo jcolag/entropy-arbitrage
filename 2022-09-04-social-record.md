@@ -34,6 +34,8 @@ And every time I see someone talk about the idea, I have to wonder...do people--
 
 As you probably know, I don't like Twitter or any social media, so I don't really care what happens to the company.  I *do* post to Twitter, as you know from the [Friday posts](/blog/tag/linkdump), and fully believe that you could probably do worse with your time than [follow me <i class="fab fa-twitter-square"></i>](https://twitter.com/jcolag) there.  But regardless of my personal feelings and even regardless of what Twitter's managers might think at any given time, editing tweets makes no sense, because of the way that society *uses* Twitter.
 
+**Update**:  I no longer post to Twitter, so I can't really recommend following me there.  Currently, you'll have the best luck [following me i class="fab fa-mastodon"></i> on Mastodon](https://mastodon.social/@jcolag/), instead.
+
 ## Why People Care about Twitter
 
 We should start this discussion with how a website with so many pointless limitations becomes the one that we all know about, for reasons *other* than "my racist uncle keeps sending me his manifesto."  Twitter has so many users and has become so central to public discourse for exactly two reasons that probably have some relationship.
