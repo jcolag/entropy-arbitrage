@@ -44,9 +44,9 @@ In fact, in the spirit of full disclosure hoping to help someone in the future, 
  * Enough going on, certainly
  * ...someone who he *doesn't* constantly complain to...he's an ass...Probably not
 
-This goes back to what I said about the sentiment words probably resting heavily on my media consumption.  I watched five things (television shows, movies, and/or videos, but definitely on my television), of which I had harsh things to say about two, ambivalent reactions that include literally negative *words* for another two, and one ambivalent and oddly cryptic comment.  I see three possibilities, here.  First, maybe my phrasing really does weigh on my mind, when I go to bed.  Second, I don't like these shows all that much, and should stop watching anything open-ended.  And third, something happened that both put me in an uncharitable mood for the shows and disrupted my sleep.
+This goes back to what I said about the sentiment words probably resting heavily on my media consumption.  I watched five things (television shows, movies, and/or videos, but definitely on my television), of which I had harsh things to say about two, ambivalent reactions that include literally negative *words* for another two---the algorithm would consider "not bad" as two negative words, rather than a slightly positive phrase---and one ambivalent and oddly cryptic comment.  I see three possibilities, here.  First, maybe my phrasing really does weigh on my mind, when I go to bed.  Second, I don't like these shows all that much, and should stop watching anything open-ended that I don't love...which probably makes sense, regardless of the effect on sleep.  And third, something happened that both put me in an uncharitable mood for the shows and later disrupted my sleep.
 
-Anyway, I get excited about this sort of thing to a rather embarrassing degree.  Part of me wants to check this data against weather, communications, social media, and more...
+Anyway, I get excited about this sort of thing to a rather embarrassing degree.  Part of me wants to check this new data against weather, communications, social media, and more...
 
 ## Mastodon Tool Trunk
 
@@ -60,7 +60,9 @@ While I need to investigate further, I *suspect* that my use of an "idempotency 
 
 In any case, I suspect that my idempotency ID might not have had any content in it, leading to "collisions" with every other ID for an empty message.  Fixing a typo or two, adding a delay before sending the media and toot, and updating my test script to include the current time in my test message seems to have fixed everything.
 
-Fixed?  No, not quite.  Once I cleared the idempotency problem, I discovered that my toots wouldn't post with the images attached.  After more research than I honestly care to admit, I discovered that I had overcomplicated things by trying to explicitly set the parameters as HTTP form data.  Doing so creates a request body that looks like a URL query string, such as `status=Hello, Fediverse&cw=Greetings`.  For reasons that I don't understand---or care about, at the moment---the server only pulls certain information out of such a request, and ignores the rest.
+Did I say *fixed*?  No, not quite.  I mean that fixed the "not found" error.
+
+Once I cleared the idempotency problem, I discovered that my toots wouldn't post with the images attached.  After more research than I honestly care to admit, I discovered that I had overcomplicated things by trying to explicitly set the parameters as HTTP form data.  Doing so creates a request body that looks like a URL query string, such as `status=Hello, Fediverse&cw=Greetings`.  For reasons that I don't understand---or care about, at the moment---the server only pulls certain information out of such a request, and ignores the rest.
 
 Instead, I needed to format the request parameters as a JSON object.  That, as it turns out, takes care of itself, for the most part.
 
@@ -76,7 +78,7 @@ Now it picks up my `media_ids` property, and therefore attaches images to toots.
 
 As mentioned [last week]({% post_url 2023-02-27-marathi %}), if you follow me on social media---and really, why *wouldn't* you?---you might have noticed that the last week or so of announcement posts across [Buy Me a Coffee ☕](https://www.buymeacoffee.com/jcolag), [Mastodon <i class="fab fa-mastodon"></i>](https://mastodon.social/@jcolag/), [Diaspora <i class="fab fa-diaspora"></i>](https://nota.404.mn/people/e4313920967a0136074b076893c08a76), [Post.News](https://post.news/@/jcolag), [Cohost](https://cohost.org/jcolag/), and [Spoutible](https://spoutible.com/jcolag) now bear some resemblance to each other, plus or minus message lengths and URL previews.  If you've investigated this further---or if you remember last week's post---you might also have noticed that new blog posts also carry that "teaser" blurb.
 
-As a result, I have updated my build script for the blog, so that it adds that blurb to the announcements.  Most of the platforms require me to manually create the post, because they haven't published an API, yet, but this process at least helps me to not scramble at the last minute to think of something to say when I send the e-mail notifications through Buy Me a Coffee, for example, then feel guilty that I didn't bother to write anything useful on Mastodon, where I have the largest audience.
+As a result, I have updated my build script for the blog, so that it adds that blurb to the announcements.  Most of the platforms require me to manually create the post, because they haven't published an API, yet, but this process at least helps me to not scramble at the last minute to think of something to say when I send the e-mail notifications through Buy Me a Coffee, for example, then feel guilty that I didn't bother to write anything useful on Mastodon, where I have my largest audience.
 
 ## Next
 
@@ -87,7 +89,7 @@ Now that I seem to have a handle on posting to Mastodon through the API, I need 
  * A header image, as a Liquid tag that I call `embed`.
  * The optional article link, including the headline, URL, and news source, as a Markdown link.
  * The quote that gives the general idea.
- * A citation for the quote.
+ * A citation for the quote, as a liquid tag that I call `cite`.
  * The hashtags that I connected to the article.
  * Anything that I have to say.
 
