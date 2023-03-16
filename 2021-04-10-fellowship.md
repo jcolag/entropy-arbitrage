@@ -74,7 +74,7 @@ Maybe that analysis is unfair, but at this point, I really don't have time for p
 
 ## What's Adaptable?
 
-Well, if you've ever wanted a superhero whose primary power is being a super-judgment and super-cynical jackass, Chris "Crusader" Taylor is your self-absorbed man in a urine-yellow shirt with a black cross on it.  Following close behind him is Brittany "The Brain" Obelmeyer, who apparently has dozens of technical degrees, but lives in a trailer and doesn't appear to do anything more than look things up on the Internet for Taylor.  There are actually directions to take these characters that make sense, though it doesn't look like the comic was interested in doing so, despite raising those plot points repeatedly.
+Well, if you've ever wanted a superhero whose primary power is being a super-judgmental and super-cynical jackass, Chris "Crusader" Taylor is your self-absorbed man in a urine-yellow shirt with a black cross on it.  Following close behind him is Brittany "The Brain" Obelmeyer, who apparently has dozens of technical degrees, but lives in a trailer and doesn't appear to do anything more than look things up on the Internet for Taylor.  There are actually directions to take these characters that make sense, though it doesn't look like the comic was interested in doing so, despite raising those plot points repeatedly.
 
 They live in Cedar Springs, which---based on a reference to the "North Bend River"---sounds like it's meant to be in someplace like Indiana.  The town requires everyone to carry concealed firearms, and we're supposed to believe that only dangerous criminals ever get shot.
 

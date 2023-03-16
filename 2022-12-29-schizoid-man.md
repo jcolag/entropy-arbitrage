@@ -101,7 +101,7 @@ I know that they'll make a big deal out of his sudden emotional outbursts in the
  >
  > **PICARD**: You are finished, Data.
 
-It seems a bit inappropriate to interrupt a funeral, just because the speaker becomes tedious.  It seems even more appropriate, when you consider how often this crew spends half of a tense episode, allegedly under pressure, playing games.
+It seems a bit inappropriate to interrupt a funeral, just because the speaker becomes tedious.  It seems even more inappropriate, when you consider how often this crew spends half of a tense episode, allegedly under pressure, playing games.
 
  > **PICARD**: We now commit the body of Ira Graves to the timeless depths of space.
 
@@ -129,7 +129,7 @@ First, I appreciate Selar *finally* calling out somebody's bad behavior, even if
 
 Also, however, I can't help but savor the irony over Picard asking if an egocentric, arrogant, and chauvinistic person sounds familiar...when he means somebody else.  And you *know* that he wants people to consider him brilliant, too, with his "oh, in my free time, I relax by analyzing aberrant orbits" bit in [*Loud As a Whisper*]({% post_url 2022-12-22-loud-as-whisper %}).
 
- > **PICARD**: Our memorial service may have been premature. What an achievement. 'So long as men can breathe or eyes can see, so long lives this, and this gives life to thee.'
+ > **PICARD**: Our memorial service may have been premature. What an achievement. "So long as men can breathe or eyes can see, so long lives this, and this gives life to thee."
 
 Picard cites Shakespeare's [Sonnet 18](https://en.wikipedia.org/wiki/Sonnet_18), specifically the ending couplet.  And he...doesn't seem to understand the sonnet.  "This," in context, refers to the idea that the subject of the poem becomes immortal in the sense that people will talk about the poem, not that it gives the "Fair Youth" a robot body for handy rebirth.
 

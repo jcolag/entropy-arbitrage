@@ -152,7 +152,7 @@ Notice that Pulaski either jumped or had Picard push her to give Riva some form 
 
  > **DATA**: Captain, I have reviewed and stored five distinct signing languages. Here is an example of the first. This is blue. This is a blue ocean. This is a blue ocean at sunset. This is two people walking along the beach by a blue ocean at sunset. This is two happy people in love walking along the beach by a blue ocean at sunset. This is two people---
 
-I feel like the proverbial broken record, dealing with this season of the show, but they have lives at stake, and yet Data thinks that he needs to provide Picard with extensive examples of sign language makes sense.  I don't know if Data feels like it doesn't count unless he impresses somebody---we've all worked with someone like that, I assume---or that he doesn't think the *episode* counts unless somebody cuts him off for daring to speak.
+I feel like the proverbial broken record, dealing with this season of the show, but they have lives at stake, and yet Data thinks that he needs to provide Picard with extensive examples of sign language for his work to make sense.  I don't know if Data feels like it doesn't count unless he impresses somebody---we've all worked with someone like that, I assume---or that he doesn't think the *episode* counts unless somebody cuts him off for daring to speak.
 
  > **PULASKI**: It's possible to install optical devices which look like normal eyes, and would still give you about the same visual range as the visor.
  >
@@ -168,7 +168,7 @@ In what rational context does twenty percent represent "about the same"?  Also, 
 
 This confirms that they haven't forgotten that the implants cause him pain, despite his comments earlier.
 
-I've speculated in the past---in [*The Naked Now*]({% post_url 2022-06-02-naked %}), specifically---that the limitations of LaForge's situation might stem from whoever developed his prosthesis viewing him as a fancy tool, a scanner that can walk position itself and provide commentary.  This exchange takes that a step further, implying that they withheld a straightforward option from him.
+I've speculated in the past---in [*The Naked Now*]({% post_url 2022-06-02-naked %}), specifically---that the limitations of LaForge's situation might stem from whoever developed his prosthesis viewing him as a fancy tool, a scanner that can walk into position itself and provide commentary.  This exchange takes that a step further, implying that they withheld a straightforward option from him.
 
 And while we're at it, jump around the timeline a bit, and compare that possible situation to the weird subplot on **Lower Decks** about Rutherford---another non-white human with a prosthesis working as an engineer, by the way---discovering that at least a faction of Starfleet engineered an accident to justify forcing him to take cyborg implants.  I don't trust the writers of either show to have thought this through or actually have a connection between the two, but the similarity certainly suggests a pattern of treating young people with disabilities as means to an end.
 

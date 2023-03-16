@@ -35,7 +35,7 @@ Another week, another mess.  I'd blame it on the [writers strike](https://en.wik
  >
  > **MENDON**: We just do.
 
-This exchange---and Riker's amusement---infuriates me, because it *tries* to play on the racist insistence that people from various non-white ethnicities "all look alike," but much like a lot of [*Coming of Age*]({% post_url 2022-09-22-coming-age %}), they want to make this work as a legitimate idea (because both the same actor plays both characters) and justify it, rather than highlight it as a problem.  They could even have split the difference and suggested that the Benzites see differences that human eyes haven't gotten accustomed to, or something like that.  But instead, they literally all look alike.
+This exchange---and Riker's amusement---infuriates me, because it *tries* to play on the racist insistence that people from various non-white ethnicities "all look alike," but much like a lot of [*Coming of Age*]({% post_url 2022-09-22-coming-age %}), they want to make this work as a legitimate idea (because the same actor plays both characters) and justify it, rather than highlight it as a problem.  They could even have split the difference and suggested that the Benzites see differences that human eyes haven't gotten accustomed to, or something like that.  But instead, they literally all look alike.
 
  > **PICARD**: Commander Riker, report to the Phaser Range, please
 
