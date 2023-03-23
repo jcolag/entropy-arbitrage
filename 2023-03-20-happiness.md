@@ -6,8 +6,9 @@ categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mario-Canete-Farias-in-2007.png
-teaser: This week's updates include 
+teaser: This week's updates include new project Socialite and the blog's code.
 proofed: true
+offset: -29%
 ---
 
 Today marks the [International Day of Happiness](https://en.wikipedia.org/wiki/International_Day_of_Happiness), a United Nations project to "make people around the world realize the importance of happiness within their lives."  It also includes a campaign to make people happier, through exactly the sorts of changes that you might expect, like reducing poverty and inequality, protecting the environment, and so forth.
