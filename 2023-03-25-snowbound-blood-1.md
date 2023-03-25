@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Culture Book Club — Snowbound Blood part 1
-date: 2023-03-25 07:37:12-0500
+date: 2023-03-25 07:37:12-0400
 categories:
 tags: [freeculture, bookclub]
 summary: Discussing a visual novel
