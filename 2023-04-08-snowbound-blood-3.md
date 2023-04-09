@@ -11,6 +11,7 @@ update: [
   2023-04-01-snowbound-blood-2.md
 ]
 teaser: This week, we continue a visual novel that has mostly found its footing, but also has some unintentionally unpleasant and jarring aspects.
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts playing through a visual novel seven *Of Bounties and Botany* to nine *Of Gears, Green and Greenhorns*.
@@ -19,7 +20,7 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) s
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
- * Full Title:  **Snowbound Blood**:  *A Vast Error Story**
+ * Full Title:  **Snowbound Blood**:  *A Vast Error Story*
  * Location:  <https://deconreconstruction.itch.io/snowbound-blood>
  * Released:  2019, with the most recent installment a few weeks ago
  * License:  MIT / CC-BY
@@ -42,7 +43,7 @@ The creator bills the work as follows.
  >
  > And remember, agent: The past always catches up to you eventually.
 
-Note that we don't yet have a complete story.  As I write this, the developer(s) released Volume Twelve, with an implication in the game that they have at least thirteen volumes.
+Note that we don't yet have a complete story.  As I write this, the developer(s) released Volume Twelve, with an implication in the game menus that they have at least thirteen volumes.
 
 For anybody else on Linux, note that this runs on Python.  As a result, you can download the Windows version---probably the Mac version, too, if you prefer---and run the shell script in the archive, instead of the Windows executable file.
 
