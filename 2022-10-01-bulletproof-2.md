@@ -10,6 +10,7 @@ offset: -16%
 update: [
   '2022-09-24-bulletproof-1.md'
 ]
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads the main **Bulletproof Blues** role-playing game sourcebooks.
