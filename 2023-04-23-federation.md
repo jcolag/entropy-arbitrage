@@ -4,10 +4,11 @@ title: Why Federate?
 date: 2023-04-23 07:28:12-0400
 categories:
 tags: [rant, socialmedia, fediverse]
-summary: Classifying social networks in a maybe-novel way
+summary: Classifying social networks in a maybe-novel, maybe-useful way
 thumbnail: /blog/assets/fediverse-mascots.png
 offset: -14%
 teaser: Let's talk about the different kinds of social media ownership, and how that affects the chances of a billionaire wrecking things.
+proofed: true
 ---
 
 As somewhat usual for a Sunday post around these parts, I've seen the same conversation echoing around social media.  And since I've replied to a handful of people bringing it up, it seems like a good idea for me to have a permanent version posted somewhere that people can find and build on it.
@@ -32,9 +33,9 @@ Specifically, technology doesn't make a social network; *people* do.  Nobody car
 
 Feel free to disagree, but as I said, I agree with this to a significant extent.  Certainly, my own social media usage maps closely to my interest in talking to people, there.  I "use" some sites as mostly an inbox, where I'll respond to people contacting me, but don't generally post otherwise.  Some, I only communicate privately, because the culture confounds me.  In other cases, I at *least* post blog announcements and like a handful of interesting posts, maybe occasionally replying.  For a couple of select sites, though, I've found enough of an interesting community that I make posts, there, at least on occasion.
 
-Like I said, I don't want to suggest to anybody that they should *not* choose the social network where they can find their friends.  (Except Twitter and Facebook, because they abuse users and use their authority to promote authoritarianism and violence.  I don't know what to tell you, there.)
+Granted, my original posts don't come up too often on *any* social networking site, because in most cases, I'd rather post to the blog, here, where I know that I have permanent copies and nobody will deny access to a post because of membership rules...but you probably don't care about that side of things as much.
 
-Granted, my original posts doesn't come up too often on *any* social networking site, because in most cases, I'd rather post to the blog, here, where I know that I have permanent copies and nobody will deny access to a post because of membership rules...but you probably don't care about that side of things as much.
+Like I said, I don't want to suggest to anybody that they should *not* choose the social network where they can find their friends.  (Except Twitter and Facebook, because they abuse users and use their authority to promote authoritarianism and violence.  I don't know what to tell you, there.)
 
 I go through all that, because I want to emphasize that I find this a real discussion worth having, not a handful of random people trying to drive a conversation that has no relevance.
 
@@ -44,7 +45,7 @@ Now that we have the broad strokes of what makes a social network "social," we a
 
 Twitter's new leadership team has systematically dismantled the network's credibility.  By removing access to their API, bringing in right-wing "personalities," amplifying his own content, turning verification from a public service into a fan club, and whatever I missed, they have transformed Twitter from the place to go to find certain communities to a place where progressives keep trying to convince themselves that supporting a fascism-friendly organization doesn't reflect on them.
 
-In doing so, they've raised an important question to ask...well, *emphasized* the question, at least, since we should always ask it.  Under which conditions might this service or product go away or become useless?
+In doing so, Twitter has raised an important question to ask...well, *emphasized* the question, at least, since we should always ask it.  Under which conditions might this service or product go away or become useless?
 
 Not long ago, when we asked this about products or services, we meant it in terms of the company changing direction or going out of business.  If you buy a TV-top streaming box, will the company stay in business to support it longer than you'll want to use it?  Will your mechanic have the ability to buy spare parts for your small production-run car?  Will the company continue to support the operating system for your tablet or smartphone until you want to replace it?  Will Google (always Google, right?) decide to shutter the service that you use every day?
 
