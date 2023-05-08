@@ -7,6 +7,7 @@ tags: [politics, rant, community]
 summary: The laziest case for Reparations
 thumbnail: /blog/assets/DesperateConflictBarn.png
 offset: -18%
+recommend: Oddly, bigots explain reparations extremely well
 ---
 
 Before I get moving with this post, some quick advisories:

@@ -8,6 +8,7 @@ summary: Classifying social networks in a maybe-novel, maybe-useful way
 thumbnail: /blog/assets/fediverse-mascots.png
 offset: -14%
 teaser: Let's talk about the different kinds of social media ownership, and how that affects the chances of a billionaire wrecking things.
+recommend: We need to talk more about platform ownership
 proofed: true
 ---
 
