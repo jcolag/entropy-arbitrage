@@ -6,7 +6,8 @@ categories:
 tags: [freeculture, bookclub]
 summary: Discussing an interactive fiction mystery
 thumbnail: /blog/assets/0T7Xq2n9mQexs502W3ow--2--hh4hb.png
-teaser: This week brings us an interactive murder mystery comedy.
+teaser: This week brings us an interactive murder mystery comedy, built around the stock "detective exposes the murderer" scene.
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays an interactive murder mystery.
