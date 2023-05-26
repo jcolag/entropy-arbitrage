@@ -6,7 +6,7 @@ categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Vasquez_Rocks_2.png
-teaser: This episode brings us model minorities, the ever-changing Prime Directive, autocracy, and more.
+teaser: This episode brings us model minorities, the ever-changing Prime Directive, autocracy, religion, and more.
 proofed: true
 ---
 
