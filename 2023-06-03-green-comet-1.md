@@ -6,7 +6,7 @@ categories:
 tags: [freeculture, bookclub]
 summary: Discussing (part of) a long novel
 thumbnail: /blog/assets/green-comet.png
-teaser: This week brings us an odd science fiction novel that at least starts in the extreme abstract.
+teaser: This week, experimenting with how to deal with a long work, brings us an odd science fiction novel that at least starts in the extreme abstract.
 proofed: true
 ---
 
