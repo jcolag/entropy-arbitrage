@@ -39,7 +39,7 @@ So, what I'm specifically going to be looking for are works that fit a relativel
  * Make and distribute copies of the work, and
  * Publish derivative works.
 
-This excludes certain groups of works, like works that are merely available at no cost, works under commercial licenses, and works that can't be altered.  If I make exceptions for certain works that aren't quite free---a good example might be the non-commercial but impressive [**Pioneer One**](http://www.pioneerone.tv/) series---I'll make that clear in advance and, if the post includes any content from the work, will have a special license to match the work.
+This excludes certain groups of works, like works that are merely available at no cost, works under non-commercial licenses, and works that can't be altered.  If I *must* make exceptions for certain works that aren't quite free---a good example might be the non-commercial but impressive [**Pioneer One**](http://www.pioneerone.tv/) series---I'll make that clear in advance and, if the post includes any content from the work, will have a special license to match the work.
 
 Basically, if the license is compatible with this blog's CC-BY-SA license, it's an easy choice.  The only exceptions to that policy will be made for material released under licenses like the GPL.  Those works are definitely Free Culture, but the license isn't compatible with the blog, as [I've mentioned before]({% post_url 2020-03-29-copyleft %}).
 
