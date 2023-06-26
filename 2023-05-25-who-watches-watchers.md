@@ -86,7 +86,7 @@ I mentioned that this project seemed wildly irresponsible, before.  The person i
 
 I need to point out that everybody from the Federation has described the Mintakans as calm and rational.  It has taken them, what, maybe half an hour for a cult to spring up based on hilariously shaky evidence?
 
-Really, think about Liko's story.  He claims that he died, magic creatures healed him after conferring with the almighty Patrick Stewart, and *then he woke up*.  They don't say that it sounds like he had a weird dream and his daughter makes a terrible paramedic.  They take his word as absolute, objective truth and start worshiping The Picard™...for reasons so rational that they make no sense to me, I guess.
+Really, think about Liko's story.  He claims that he died, magic creatures healed him after conferring with the almighty Patrick Stewart, and *then he woke up*.  They don't say that it sounds like he had a weird dream and his daughter makes a terrible paramedic.  They take his word as absolute, objective truth and start worshiping The Picard{% emoji trademark %}...for reasons so rational that they make no sense to me, I guess.
 
  > **BARRON**: Has already been violated. The damage is done. All we can do now is minimize it.
 

@@ -105,6 +105,8 @@ However, no studio (unless market conditions change dramatically) will ever rele
 
 Honestly, even providing attribution to someone outside the existing creative unions would probably already stretch a big studio's limits.
 
+**Update**:  I didn't discover this until shortly after the post went out, but photographer Jeremy Keith has a story that shows how [attribution derails big companies <i class="fas fa-copyright"></i>](https://adactio.com/journal/1530/).
+
 #### Resistant
 
 Unlike an independent studio, you also can't name a dollar value that would put a Free Culture work under corporate ownership.  Even if Activision dropped a massive pile of money on the creators of [**Snowbound Blood**]({% post_url 2023-03-25-snowbound-blood-1 %}) for the rights to the code and story, the creators have already given up exclusive rights.
