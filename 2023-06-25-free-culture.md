@@ -14,7 +14,7 @@ As happens on some of these Sunday posts, the idea for this struck me quickly, a
 
 ![A logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner](/blog/assets/117878252_3c00463c07_o.png "The original organization appears to have abandoned their use of the logo, so I might as well use it here...")
 
-Every so often, a reader will contact me privately to---never in so many words---question the utility of the [Free Culture Book Club](/blog/tag/bookclub).  And while somewhat uncomfortable, I consider that a fairly legitimate question that I feel like using as a springboard to get to some deeper questions.
+Every so often, a reader will contact me privately to---never in so many words---question the utility of the [Free Culture Book Club](/blog/tag/bookclub).  And while somewhat uncomfortable, I consider that enough of a legitimate question that I feel like using as a springboard to get to some deeper questions.
 
 ## Some Review
 
@@ -47,17 +47,17 @@ As such, despite the fact that it only even barely qualifies as a niche term, wh
 
 As most readers probably already know, I work as a software engineer, and I write and maintain a variety of small Free Software projects.  And so you might reasonably ask why I spend so much time on stories that---at least on average---probably won't ever win any awards.
 
-In the end, I consider this the flip-side of using a niche term like "Free Software."  I *could* take a [random ticket from a Free Software project that I use](https://github.com/jekyll/jekyll/issues/9351) that sounds like it would interest me, do the testing, poke around the code to figure out where things have gone wrong, and write a decent-length blog post explaining all that, yes.  But I can't think of many people who would find that interesting enough to read.  You'd need to find people with interest and experience in programming---preferably Ruby---and a specific interest in Jekyll.  And while those people exist, who reads a blog post and goes off to fix the problem described?
+In the end, I consider this the flip-side of using a niche term like "Free Software."  I *could* take a [random ticket from a Free Software project that I use](https://github.com/jekyll/jekyll/issues/9351) that sounds like it would interest me, do the testing, poke around the code to figure out where things have gone wrong, and write a decent-length blog post explaining all that, yes.  But I can't think of many people who would find that interesting enough to read.  You'd need to find people with interest and experience in programming---preferably Ruby, in this case---and a specific interest in Jekyll.  And while those people exist, who reads a blog post to go off to fix the problem described?
 
 By contrast, we all understand a novel or a movie, so anybody can follow what I want to talk about, if they choose.  Similarly, you might not personally have the experience to fix some arcane Jekyll problem, but I would bet that you have more than enough experience to correct a typo in or remove an irrelevant sentence from a book.  You *probably* even have enough experience to find a boring character and make them seem more interesting.
 
-In this way, Free Culture has the ability to get people accustomed to the ideas in Free Software, without dealing with programming.
+In this way, Free Culture has the ability to get people accustomed to the ideas in Free Software, without dealing with programming.  And we can have some fun doing it.
 
 ### Overcoming Bad Marketing
 
 Incidentally, while on the subject of Free Software and the difficulty of getting the point of it across to people, I should take a moment to point out how thoroughly the so-called "leaders" of the movement have fouled this up.
 
-For example, I've [complained about the FSF]({% post_url 2021-05-09-fsf %}) in the past, for example, but it bears repeating that they constantly and almost deliberately alienate everyone around them, then wonder why more people don't join their club.  When they try to reach out to new audiences, they try to pack in so many keywords without context that it sounds like utter gibberish.  And they refuse to let go of this 1970s idea that only programmers would ever care about software, and so constantly talk about the freedom to change code.
+For example, I've [complained about the FSF]({% post_url 2021-05-09-fsf %}) in the past, for example, but it bears repeating that they constantly and almost deliberately alienate everyone around them, then wonder why more people don't join their club.  When they try to reach out to new audiences, they try to pack in so many keywords without context that it sounds like utter gibberish.  And they refuse to let go of this 1970s idea that only programmers would ever care about software, and so constantly talk about the freedom to change code, rather than community.
 
 Alternatively, if I use the more corporate-friendly term "Open Source," you end up in a world where most of the search results point to libraries.  Because again, the people involved in the movement don't seem to understand that non-programmers use computers, these days.
 
@@ -65,7 +65,7 @@ Therefore, it seems almost pointless to start educating people about these movem
 
 ## What Do We Mean by Free?
 
-I already talked about this a bit, above, but when I talk about Free Culture---or Free Software, for that matter---I mean works that anybody can use for any purpose, subject to laws.  Specifically, while we couldn't get away with rewriting someone's essay to mean the opposite *and* blame the original author for advocating something horrible, nor could we use a photograph of a person to imply endorsement of a product, because most jurisdictions have laws preventing that sort of nonsense.  However, we *can* read it, share it with friends, publish it, make sweeping changes to it, or use it as the basis of a big-budget film.
+I already talked about this a bit, above, but when I talk about Free Culture---or Free Software, for that matter---I mean works that anybody can use for any purpose, subject to laws.  Specifically, we couldn't get away with rewriting someone's essay to mean the opposite *and* blame the original author for advocating something horrible, nor could we use a photograph of a person to imply endorsement of a product, because most jurisdictions have laws preventing that sort of nonsense.  However, we *can* read it, share it with friends, publish it, make sweeping changes to it, translate it, or use it as the basis of a big-budget film.
 
 While I occasionally grump about the quality of this work or that, we should think of every Free Culture work as at least a kind of gift.  Modern copyright law assigns monopoly rights over all published creative work, and some people choose to use that monopoly to spread around most of those rights to anybody who wants to "infringe."  You can think of this in terms of fan fiction, if you like, because we all have permission to write a [*Floraverse*]({% post_url 2020-05-23-seeds %}) story, I think of it more in terms of joint custody.
 
@@ -101,7 +101,9 @@ By contrast, Free Culture works give us a way to overcome all these obstacles.
 
 As I've written about in an early post on this blog, [share-alike clauses stand a better chance of deterring corporate involvement]({% post_url 2019-12-28-licenses %}) than non-commercial clauses.  A company like Disney might well try to argue that it hasn't violated your non-commercial license with its summer blockbuster film, because they promise to donate [every dollar of profit](https://en.wikipedia.org/wiki/Hollywood_accounting)---which will amount to some nominal sum that constitutes a rounding error in the corporate budget---to charity.  Or they could take a more brazen approach of claiming that a contract can't forbid them from making a profit.
 
-However, no studio (unless market conditions change dramatically) will ever release a film where any of us can edit or modify it and sell the result as our own product.
+Alternatively, a studio could also buy the copyright of a non-commercial publication *to* exploit it commercially, while using the non-commercial license as a bludgeon to police the people creating derived works.
+
+However, no studio---unless market conditions change dramatically, and probably for the worse for writers---will ever release a film where any of us can edit or modify it and sell the result as our own product.
 
 Honestly, even providing attribution to someone outside the existing creative unions would probably already stretch a big studio's limits.
 
@@ -109,7 +111,7 @@ Honestly, even providing attribution to someone outside the existing creative un
 
 #### Resistant
 
-Unlike an independent studio, you also can't name a dollar value that would put a Free Culture work under corporate ownership.  Even if Activision dropped a massive pile of money on the creators of [**Snowbound Blood**]({% post_url 2023-03-25-snowbound-blood-1 %}) for the rights to the code and story, the creators have already given up exclusive rights.
+Unlike an independent studio, you can't really name a dollar value that would put a Free Culture work under effective corporate ownership.  Even if Activision dropped a massive pile of money on the creators of [**Snowbound Blood**]({% post_url 2023-03-25-snowbound-blood-1 %}) for the rights to the code and story, the creators have already given up exclusive rights.
 
 As such, while Activision or another game studio could plausibly create new works based on the game, and refuse to let anybody else adapt it, so could you or I, because the public license only requires that we give Deconreconstruction credit.  No matter how much a prospective buyer wants to spend, no price will rescind the permission given to us to modify, adapt, or continue Free Culture works.
 
@@ -121,7 +123,7 @@ If the sameness of modern franchises bothers you, Free Culture has almost unlimi
 
 Do some of these works bear a strong resemblance to larger franchises?  Absolutely.  We have that, too.
 
-More importantly, though, the license allows *you* to become the next creator with established creators and settings.  Do you believe that the media landscape suffers from an extreme lack of superheroes as sock puppets racing cars while listening to Korean death metal?  Knock my socks off with the best [Superflu]({% post_url 2022-12-03-superflu %}) story that anybody will ever see.  Each of us can take these worlds in wildly different directions, if we don't want to build our own.
+More importantly, though, the license allows *you* to become the next creator with established characters and settings.  Do you believe that the media landscape suffers from an extreme lack of French superheroes as sock puppets racing cars while listening to Korean death metal?  Knock my socks off with the best [Superflu]({% post_url 2022-12-03-superflu %}) story that anybody will ever see.  Each of us can take these worlds in wildly different directions, if we don't want to build our own.
 
 And while I focus my discussion on fiction, the same applies to non-fiction, as well.  Does [**The American Yawp**](https://www.americanyawp.com/) not include recent revelations?  Do you feel that [WikiNews](https://www.wikinews.org/) publishes politically biased reports?  Or do you think that [**BBS:  The Documentary**](http://www.bbsdocumentary.com/) wastes far too much of its five-hour run-time with the demo scene?  You can fix those, too, and either try to contribute your efforts back or publish them yourself.
 
@@ -131,13 +133,15 @@ Speaking of which, if I could create a motto for the Free Culture movement, I'd 
 
 This should give some idea of why I get so excited about Free Culture, even if I don't have dozens of people debating works every Saturday morning.
 
-Specifically, these works put the power to create and collaborate in our hands, freeing us from media oligopolies.  And if my writing about them doesn't find a vocal audience immediately, the works have no intention of going anywhere...
+Specifically, these works put the power to create and collaborate in our hands, freeing us from media oligopolies, beyond advice that we should create our own works.  And if my writing about them doesn't find a vocal audience immediately, the works have no intention of going anywhere...
 
 And yes, I *do* realize the contradiction inherent in saying that we don't need to worry about these works vanishing the day after posting about [a comic that has vanished]({% post_url 2023-06-24-move-forward %}) and may never return.
 
 Oh, and since I really should get better at soliciting comments, since I *know* that I have readers interested in Free Culture things---I can see several of you in the analytics, from around the world, diligently going from post to post---I'll ask here, and *specifically* invite interested readers to discuss it in the comments:
 
-Does anyone have their eye on any specific Free Culture work that you have an itch to use for another project?  To kick that discussion off, despite my complaints about them, **Biodigital** and [**Life Blood**]({% post_url 2022-12-31-life-blood-1 %}) actually both have a lot in common with an idea for a series of stories that I've kicked around, so I may well try to do something with our lovelorn protagonists and the diabolical cults out to get them.
+Does anyone have their eye on any specific Free Culture work that you have an itch to use for another project?
+
+To kick that discussion off myself:  Despite my complaints about the works, **Biodigital** and [**Life Blood**]({% post_url 2022-12-31-life-blood-1 %})---along with some [*SCP*]({% post_url 2020-10-31-pumpkin %}) concepts---actually have a lot in common with an idea for a series of stories that I've kicked around, so I may well try to do something with our lovelorn protagonists and the diabolical cults out to get them.
 
 * * *
 

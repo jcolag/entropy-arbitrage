@@ -6,7 +6,7 @@ categories:
 tags: [freeculture, bookclub]
 summary: Discussing a short story in a larger universe
 thumbnail: /blog/assets/hackerspace_mike_liuzzi.png
-teaser: This week brings us a short story trying to introduce a new-ish franchise about a hackerspace.
+teaser: This week brings us a short story trying to introduce a new-ish solarpunk franchise about a hackerspace.
 proofed: true
 ---
 
