@@ -108,7 +108,7 @@ Every time affirmative action comes up in any conversation, I feel like the univ
 
 Well played, imaginary clown.  You have definitely found the fundamental flaw in the system.
 
-Except, as you can guess by the foregoing, that hasn't happened at all.
+Except, as you can guess by the foregoing, that hasn't happened at all.  (**Update**:  As if on cue, shortly after I posted this, a clown showed up to demand that I answer *exactly* the questions that I disassemble in this post, and then deleted all evidence of the conversation when I told him that I wouldn't engage with that...)
 
 I don't deny that most people have problems that loosely mimic some problems that disadvantaged groups can face, when living in poverty; I certainly didn't grow up wealthy.  However, those problems dissipate with far less help.  One person advocating for a white kid---yes, like my own case---gets them a good shot at admissions and scholarship to college.  Putting on nice clothes banishes the impression of poverty.
 
