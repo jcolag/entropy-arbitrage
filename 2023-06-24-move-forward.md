@@ -48,6 +48,8 @@ And...well, they *came* out on alternate Thursdays up until recently, and the co
 
 In fact, consider me confused, at this point.  Merrill has posted a [thread explaining the delay <i class="fab fa-mastodon"></i>](https://toot.site/@animerrillproductions/110576899281242549), and apparently can't have the static web pages available without an e-mail server.  I genuinely hope that the project comes back, but honestly, calling it "out until further notice" for such a distant and abstract reason doesn't inspire much confidence in me.
 
+**Update**, 2023 July 15:  The site has returned, seemingly where it left off shortly before this post originally went out.
+
 ## What Works Well?
 
 First, if you don't like looking (or can't look) at comics, or can't identify something on a given page, each comic page has a robust description.  It doesn't show on the page, but you can find it by checking the `alt` text for the image, if you use your browser's developer tools.  For example, take a look at the description for the first page.
