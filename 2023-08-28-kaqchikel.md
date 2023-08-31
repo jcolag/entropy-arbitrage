@@ -6,7 +6,7 @@ categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Iximche.png
-teaser: This week's projects include Notoboto, pretty much.
+teaser: This week's projects include Notoboto and the August newsletter, pretty much.
 spell: Notoboto Kaqchikel Iximché cson Tcl externalizer Colocho
 proofed: true
 ---
