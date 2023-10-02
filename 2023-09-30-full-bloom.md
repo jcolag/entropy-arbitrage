@@ -11,7 +11,7 @@ spell: uncredited PxHere
 proofed: true
 ---
 
-This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches **C-Man:  Copyright Defender**.
+This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads *Full Bloom*.
 
 ![A field of pink-to-purple flowers blooming in a grassy field](/blog/assets/nature-grass-plant-white-field-lawn-586790-pxhere.com.png "Pardon the shallow reading...")
 
@@ -34,7 +34,7 @@ I don't know that I have anything useful to say to introduce the story.  In pres
 
  > I finished a short story, which you can read below, if you want. Licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) to R.S. Mason.
 
-The author also sometimes posts other interesting things on Cohost.  And now, you know everything that I know about the story.
+The author also sometimes posts other interesting things on Cohost.  And now, you know everything that I know about the story...
 
 ## What Works Well?
 
