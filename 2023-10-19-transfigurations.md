@@ -131,7 +131,7 @@ Worf *almost* has decent advice on dating.
 
 Despite the apparent lack of mandatory activity in their schedules, people still look forward to slack time.  They also object to even referencing their work, while trying to relax.
 
-We still have the strange situation where characters love announcing their sexual desires to anyone who doesn't run away fast enough, but then panics and tries to escape when the object of their affection pursues them.
+We still have the strange situation where characters love announcing their sexual desires to anyone who doesn't run away fast enough, but then they panic and try to escape when the object of their affection pursues them.
 
 Picard still believes that he can do Crusher's job better than she can, and also---once again---demeans her as overly emotional for daring to think of people as valuable on their own merits.  Wesley makes a big deal out of his mother's relationship with someone, as if he doesn't expect it.  Riker, similarly, makes it clear that at least some people think of romance as a struggle to overcome.
 
