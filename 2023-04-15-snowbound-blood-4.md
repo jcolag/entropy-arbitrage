@@ -72,7 +72,7 @@ I should also mention that, due to the nature of [RenPy](https://www.renpy.org/)
 
 ## What's Adaptable?
 
-We don't get much information on it, but a character loves indie anime franchise *Outena*, including **Revolutionary Girl Outena**.  We also have hints of a full calendar, beyond the wices, blinks, and sweeps for lengths of time.
+We don't get much information on it, but a character loves indie anime franchise *Outena*, including **Revolutionary Girl Outena**, presumably a play on [**Revolutionary Girl Utena**](https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena) that makes the (from what I read in the Wikipedia article) subtext about gender text.  We also have hints of a full calendar, beyond the wices, blinks, and sweeps for lengths of time.
 
 ## Next
 
