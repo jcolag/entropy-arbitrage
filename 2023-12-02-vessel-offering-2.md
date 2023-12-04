@@ -8,6 +8,9 @@ summary: Discussing the start of a lengthy novel
 thumbnail: /blog/assets/vessel-offering.png
 teaser: This week sees the start of a long novel that we may not finish.
 spell: Unglue pseudo-Lovecraftian Whiston Djubruk
+update: [
+  2023-11-25-vessel-offering-1.md,
+]
 proofed: true
 ---
 
