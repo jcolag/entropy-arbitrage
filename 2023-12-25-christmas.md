@@ -7,7 +7,7 @@ tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/outdoor-snow-cold-winter-girl-skate-669822-pxhere.com.png
 offset: -15%
-teaser: This week's projects include Notoboto, mostly. Merry Christmas (or culturally relevant solstice-adjacent holiday), all!
+teaser: This week's projects include Notoboto and the December newsletter, mostly. Merry Christmas (or culturally relevant solstice-adjacent holiday), all!
 spell: Notoboto Nast Yaldā Tk PxHere
 ---
 
