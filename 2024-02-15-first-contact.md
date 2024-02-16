@@ -5,13 +5,13 @@ date: 2024-02-15 17:52:02-0500
 categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
-thumbnail: /blog/assets/eso0733a.png
+thumbnail: /blog/assets/black-and-white-white-training-black-monochrome-sports-1101019-pxhere.com.png
 teaser: For this episode, we need to talk about authoritarians, civil rights, and (only a bit) more.
-spell: Lanel Krola Mirasta Durken Borg Ferengi Romulan Romulans Tava Sachi Bebe Neuwirth Sternin-Crane Frasier Riker Malcorians Starfleet Malconian Geordi
+spell: Lanel Krola Mirasta Durken Borg Ferengi Romulan Romulans Tava Sachi Bebe Neuwirth Sternin-Crane Frasier Riker Malcorians Starfleet Malconian Geordi uncredited PxHere
 proofed: true
 ---
 
-![Still scanning the galaxy](/blog/assets/eso0733a.png "Still scanning the galaxy")
+![Martial arts training, where a student seems to knock over an instructor with a staff](/blog/assets/black-and-white-white-training-black-monochrome-sports-1101019-pxhere.com.png "Probably not their first contact, per se, but...")
 
 ## Disclaimer
 
@@ -127,4 +127,4 @@ Come back next week, when Geordi finds out that AI-generated pornography of a co
 
 * * *
 
-**Credits**: The header image is []() by [](), made available under the terms of the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+**Credits**: The header image is [Untitled](https://pxhere.com/en/photo/1101019) by an uncredited PxHere photographer, made available under the terms of the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
