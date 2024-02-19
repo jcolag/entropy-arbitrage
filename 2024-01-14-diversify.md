@@ -11,7 +11,7 @@ spell: Prusa DeVault Redmine Revoy vanishingly Kollywood Karthika Transmedia Pix
 proofed: true
 ---
 
-As a quick note, while didn't entirely plan it this way, you can consider this post to commemorate and celebrate the preceding **one thousand** posts.  I started this blog a bit more than four years ago, and in that time have gotten out the thousandth-and-first post (this one), containing---depending on how you count them---a total of somewhere around a million and a half words.  {% emoji party popper %}
+As a quick note, while I didn't entirely plan it this way, you can consider this post to commemorate and celebrate the preceding **one thousand** posts.  I started this blog a bit more than four years ago, and in that time have gotten out the thousandth-and-first post (this one), containing---depending on how you count them---a total of somewhere around a million and a half words.  {% emoji party popper %}
 
 ![A logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner](/blog/assets/117878252_3c00463c07_o.png "Recycled from a previous Free Culture-centric post...")
 
@@ -201,7 +201,7 @@ Keep in mind that I have some more pressing priorities that will delay this, *bu
 
 As such---with the understanding that I might not move on this as quickly as I would like due to the aforementioned priorities, or put consistent time in on it once I do start working---I might as well start putting out the "call to arms" now:  If, dear reader, the idea of getting involved in producing Free Culture media for an I-hope-long-term space opera story appeals to you, then get in contact.  Bear in mind that you will retain ownership of your work, but I'll need you to make it available under a public license that'll let me (and anyone else) make use of it, probably [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 
-I will consider any genre or medium, no matter how flaky you think that it might sound to pitch it.  Seriously, this story has potential hooks that could go in weird directions, so I might eventually have some oddball requests.  Drop me an...actually, no.  I can set up a survey for this, so that I don't need to explain what information I want out of you, and keep your information encrypted.  Yeah, let's go that route.
+I will consider any genre or medium, no matter how flaky you think that it might sound to pitch it.  Seriously, this story has potential hooks that could go in weird directions, so I might eventually have some oddball requests.  Drop me an...actually, no.  I can set up a survey for this, so that I don't need to explain what information I want out of you, and it can keep your information encrypted.  Yeah, let's go that route.
 
 [**Tell me about your work in the survey**](https://jcolag.limesurvey.net/683932?lang=en).  Short version, I'll want to know things like where I can see samples of your work, how far in advance I should think about what I'll need from you, and how much your work costs.
 
