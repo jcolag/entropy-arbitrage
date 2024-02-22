@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developer Diary, Eruption of Huaynaputina
-date: 2024-02-19 06:29:05-0500
+date: 2024-02-19 07:04:05-0500
 categories:
 tags: [programming, project, devjournal]
 summary: Progress on assorted projects
