@@ -5,13 +5,14 @@ date: 2024-02-22 17:31:14-0500
 categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
-thumbnail: /blog/assets/eso0733a.png
+thumbnail: /blog/assets/10936215935_cbe5009802_o.png
+offset: -23%
 teaser: For this episode, we mostly need to talk about the treatment of women, with a couple of issues scattered around.
 spell: Stardate Starbase LAFORGE Menthars holodeck LaForge Starfleet Troi eyeroll Guinan Circassian Riker
 proofed: true
 ---
 
-![Still scanning the galaxy](/blog/assets/eso0733a.png "Still scanning the galaxy")
+![A holographic arm hovering in an empty space](/blog/assets/10936215935_cbe5009802_o.png "Don't touch it; you don't know where that finger has been...")
 
 ## Disclaimer
 
@@ -131,4 +132,4 @@ Drop by next week, when the crew has trouble sleeping, in *Night Terrors*.
 
 * * *
 
-**Credits**: The header image is []() by [](), made available under the terms of the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+**Credits**: The header image is [Hologram](https://www.flickr.com/photos/57460471@N06/10936215935) by [m_hweldon](https://www.flickr.com/photos/57460471@N06/), made available under the terms of the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) license.
