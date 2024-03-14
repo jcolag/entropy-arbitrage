@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Life in Star Trek, The Nth Degree
-date: 2024-03-14 17:26:11-0400
+date: 2024-03-14 17:38:11-0400
 categories:
 tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
@@ -47,7 +47,7 @@ That kind of enthusiasm seems far more than polite.  Also, why did they not tell
 
  > **BARCLAY**: I'm picking up visual wavelengths only. Between forty-five hundred and seven thousand ångströms.
 
-This line strikes me as utterly bizarre.  First, I can't imagine anybody using [Ångströms](https://en.wikipedia.org/wiki/Angstrom) to measure visible light, because you only get a factor of ten larger than using International Standard (SI) hundreds of nanometers, which doesn't really gain you anything.  Second, that range runs through almost the entire visible spectrum, from blue-on-the-border-of-violet through the more-orange parts of red, so why specify the range of visible-to-human wavelengths at all?
+This line strikes me as utterly bizarre.  First, I can't imagine anybody using [ångströms](https://en.wikipedia.org/wiki/Angstrom) to measure visible light, because you only get a factor of ten larger than using International Standard (SI) hundreds of nanometers, which doesn't really gain you anything, especially when the numbers end in zeroes.  Second, that range runs through almost the entire visible spectrum, from blue-on-the-border-of-violet through the more-orange parts of red, so why specify the range of visible-to-human wavelengths at all?
 
  > **LAFORGE**: Don't mention it. You're one of my top engineers. It's about time you got in on some of the interesting stuff. This...this is why I'm in Starfleet.
 
@@ -71,7 +71,7 @@ More than that, for an unbounded mission, does it make sense to have ethical bou
 
  > **BARCLAY**: What, because I'm beginning to behave like the rest of the crew? With confidence in what I'm doing?
 
-He makes a reasonable point, here.  Barclay has become exactly as snotty and self-entitled as the rest of the crew, but they only see it as a problem for him.
+He makes a reasonable point, here.  Barclay has become exactly as snotty and self-entitled as the rest of the crew, but they only see it as a problem for him.  And I really have to appreciate the writers making the point, instead of leaving the "maybe we shouldn't look up to these characters" bits entirely to me.
 
  > **TROI**: Well, he did make a pass at me last night...a good one.
  >
@@ -85,7 +85,7 @@ Second, though, Troi raises this as an issue, and LaForge shoots her down immedi
 
  > **RIKER**: Exactly what does that mean?
 
-None of what Barclay said had any complexity to it...
+I hate this trope.  None of what Barclay said had any complexity to it...
 
  > **PICARD**: This is an intolerable situation. I have no wish to harm him, but I cannot allow Mister Barclay to continue to act as the computer. I don't care how smart he is.
 
@@ -95,7 +95,7 @@ I mean, it seems like a silly situation, but Picard absolutely *could* allow thi
 
 Sure, eventually, Barclay will refuse to follow orders to pursue his own projects, but Picard doesn't know that, unless he has a copy of the script under his chair.
 
- > **BARCLAY**: We have always perceived the maximum speed of the Enterprise as a function of warp, but I know now there are no limits. We will explore new worlds that we could never before have reached in our lifetime. I will take us to them.
+ > **BARCLAY**: We have always perceived the maximum speed of the *Enterprise* as a function of warp, but I know now there are no limits. We will explore new worlds that we could never before have reached in our lifetime. I will take us to them.
 
 LaForge and the script look at this as a bizarre and implausible threat, but Barclay largely summarized the plot of [*Where No One Has Gone Before*]({% post_url 2022-06-23-gone %}), which the rest of them already lived through.
 
