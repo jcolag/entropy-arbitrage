@@ -7,7 +7,7 @@ tags: [programming, project, devjournal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Paris-Commune-barricade.png
 offset: -15%
-teaser: This week's projects include Notoboto, mostly.
+teaser: This week's projects include Social media updates, the blog, and various library updates.
 spell: Notoboto sup Spoutible Bridgy Webmentions Fýlakas Onomáton Scuttlers Slackup
 proofed: true
 ---
