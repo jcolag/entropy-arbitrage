@@ -113,7 +113,7 @@ As mentioned, most of the episode goes to our novel alien culture and its reside
 
 ### The Bad
 
-While they try to frame it as friendly assistance, the Federation's "first contact" procedures appear to revolve entirely around espionage, manipulation, intimidation, and deception.  When pressed, they don't alter the framing, but they do admit that they do this because they have a fear of allowing uncontrollable cultures into interstellar space.  Though they will also happily blame natives for some decisions./
+While they try to frame it as friendly assistance, the Federation's "first contact" procedures appear to revolve entirely around espionage, manipulation, intimidation, and deception.  When pressed, they don't alter the framing, but they do admit that they do this because they have a fear of allowing uncontrollable cultures into interstellar space.  Though they will also happily blame natives for some decisions.
 
 The Prime Directive, likewise, comes from some Puritanical idea about the "natural" advancement of cultures, and the idea that helping people (secretly) hurts them.
 
