@@ -93,7 +93,7 @@ Coming up next week, we'll watch **In Unexpected Places**, an animated short.
 
 As mentioned previously, by the way, the list of potential works to discuss has run low, so I need to ask for help, again.  If you know of any works---or want to create them---that fit these posts (fictional, narrative, Free Culture, available to the public, and not by creators who we've already discussed), please tell me about them.  Every person who points me to at least one appropriate work with an explanation will receive a free membership on [my {% emoji latte %} Buy Me a Coffee page](https://buymeacoffee.com/jcolag).
 
-Anyway, while we wait for that, what did everybody else think about these poems?
+Anyway, while we wait for that, what did everybody else think about the story?
 
 * * *
 
