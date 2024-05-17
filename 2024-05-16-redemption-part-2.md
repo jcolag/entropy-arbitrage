@@ -11,6 +11,7 @@ update: [
 ]
 teaser: For this episode, we need to talk about racism and sexism, acts of war, authoritarianism, and more.
 spell: reenactor Romulans Duras Romulan Yar SHANTHI Riker Starfleet Tian Berellian Spiner Troi Sela Guinan Eridon Eridani Eri Zaurak Worf Jubjub Darmok
+proofed: true
 ---
 
 ![An American Civil War reenactor sitting against a wood-pile to read a letter](/blog/assets/37270938511_c1d1650f0e_o.png "Dear Mom, while they call this a civil war, we seem to spend a lot of attention on the pretentious bald fellow telling us that he may not involve himself in our affairs, while lecturing us about our culture and how the Romulans may have created Poland Spring water as a trap.")
