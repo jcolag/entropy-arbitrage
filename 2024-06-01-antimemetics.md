@@ -7,7 +7,8 @@ tags: [freeculture, bookclub]
 summary: Discussing an adaptation of an SCP story
 thumbnail: /blog/assets/anti-memetics-ep2-00-45.png
 teaser: This week sees a live-action iteration of probably the most famous SCP story.
-spell: Asnicar QNTM antimemetics antimemetic Alestair Binnie 
+spell: Asnicar QNTM antimemetics antimemetic Alestair Binnie
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches **There Is No Antimemetics Division**.
@@ -46,6 +47,8 @@ The story does a great job of hiding, justifying, and trimming the *massive* amo
 And speaking of that, the show largely does a good job of maintaining the tense feel for the entire run.  Everything feels "of one piece," rather than the pieced-together sense that you can get from a lot of lower-budget productions.
 
 ## What Works...Less Well?
+
+{% include lesswell.md %}
 
 Structurally, it seems like something went wrong in here.  The first three episodes feel highly...well, *episodic*, enough that I wondered if they planned for an ongoing series.  However, this shifts somewhere between the last two episodes, where the narrative suddenly wants us to consider the entire series as a single, continuous, somewhat-cyclical story, which I don't think really holds up.  Specifically, Grey, the 1970s-looking office, and especially the creature taking "El" don't feel like they have any bearing on the main plot.  But by that interpretation, they must, even though it doesn't feel like it makes sense.
 
