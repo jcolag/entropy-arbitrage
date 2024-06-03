@@ -4,7 +4,7 @@ title: The Free Culture Movement
 date: 2024-06-02 08:07:05-0400
 categories:
 tags: [freeculture, rant]
-summary: Can we make more of us...?  Also:  A lot on positive liberties.
+summary: Can we make more of us...?  Also - A lot on positive liberties.
 thumbnail: /blog/assets/117878252_3c00463c07_o.png
 teaser: I look at the history and state of the movement, and look at how we might build its future on stronger foundations.
 spell: QCo Jek Porkins Wookieepedia ZaAPSdYIQzVadLxbHU Sita Antimemetics Binnie Spoutible Fossatti cultura libre como libertad positiva Floraverse Valkaama heritor Runa Rustad Tölva
