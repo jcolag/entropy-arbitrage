@@ -70,6 +70,12 @@ The website has the following recommendations for getting involved.
 
 You also can purchase paper copies of the book, in multiple languages, from multiple publishing houses, plus an e-book in Italian.  The repository also seems fairly active, with changes occurring still coming in over the past couple of weeks.
 
+**Update**:  As of mid-May 2024, the FSFE, has begun [fundraising to produce an animated adaptation](https://fsfe.org/news/2024/news-20240515-01.en.html) of the book.
+
+ > Now, we want to go one step further and create a 30 minute movie about Ada’s story! This movie, released as an Open Educational Resource, will be a tool to encourage more children, especially girls, to tinker and learn how to code, while fostering inclusiveness and accessibility. [Help us to achieve this goal!](https://fsfe.org/donate/donate.en.html)
+
+You now have one more way to support the project, then.
+
 ## What's Adaptable?
 
 We see **Stars** and **Money** magazines, along with the Original Zangemann Ice Cream Machine and Zangemann's other unnamed inventions from his self-named company.
