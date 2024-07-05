@@ -131,7 +131,7 @@ Anyway, this story continues in the prologue of 2009's **Star Trek**, occasional
 
 Can somebody explain Sela's plot to me?  Because as much as I try to envision the plan coming together, it keeps falling short.  I see it as follows.
 
- * Launch three Vulcan ships from Romulus at Vulcan.  Hope that nobody asks how the Vulcan ships got to Vulcan and crossed the Neutral Zone.  Also hope that nobody asks why Romulan peace envoys would fill three Vulcan ships.  Pack those ships with ground troops.
+ * Launch three Vulcan ships from Romulus at Vulcan.  Hope that nobody asks how the Vulcan ships got to Romulus and crossed the Neutral Zone without anybody noticing.  Also hope that nobody asks why Romulan peace envoys would fill three Vulcan ships.  Pack those ships with ground troops.
  * Have a cartoon Spock call the ships "very legal & very cool," and assume that everybody recognizes and respects the actual Spock enough that they'll ignore the fact that he had no authority to bring any peace envoys to Vulcan.
  * If anybody tries to stop the three ships, make a prank phone call to pull anybody in authority away from them.  Don't *actually* cause distress, even though that would maximize the chances of this step succeeding.  Hope that nobody scans the ships for life signs and finds out that the "peace envoys" stand packed shoulder-to-shoulder by the thousand.
  * Escort the three ships with a hidden Warbird, which doesn't actually have a role in the plan, other than to destroy evidence---specifically, by slaughtering the ground troops---in the extremely likely event that either of the previous two steps fails miserably.  The actual plan doesn't get further than this point, so the rest relies heavily on speculation.
