@@ -44,6 +44,8 @@ While I unfortunately didn't find much to praise about this chunk of the story, 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Despite the introduction giving us an overview of this world, and more supplemental material at the end of the book, the text still somehow feels the need to explain things that we should already know from the introduction, the characters should surely know, and doesn't seem to have any bearing on the plot.  Despite this redundancy, it also feels like the story ignores information that would make it easier for us to care about the characters.
 
 Related, at least in early chapters, this story seems to have serious "[hat on a hat](https://en.wiktionary.org/wiki/put_a_hat_on_a_hat) syndrome."  As if the author doesn't trust any idea to turn out useful, each gets a mention before another one joins it.  Nyla has multiple characters sharing her body, one of which has powers, but she also had a secret wedding and more-secret divorce, gestates a fetus, routinely comes back from the dead, comes from outside the world, and more.  You could probably sustain a novel with only a couple of those elements in the protagonist, but I find it highly unlikely that every single one of those choices will have serious ramifications for how the story unfolds.

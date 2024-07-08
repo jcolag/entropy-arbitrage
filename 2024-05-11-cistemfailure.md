@@ -54,6 +54,8 @@ Speaking of which, I feel like I should point out that a couple of these songs d
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 For any number of reasons---the lack of clarity when trying to sound like screaming, the similarity of the banjo tones to the vocal range, the complexity of certain lyrics, or whatever---I couldn't always follow the lyrics.  Although I probably wouldn't have noticed if Bandcamp's user interface didn't make it so difficult to access lyrics.
 
 Related, it seems like an unfortunate-if-understandable choice to put the apology for problematic lyrics for *You Should Be Terrified* directly **in** the lyrics, which the listener needs to actively look for on Bandcamp, rather than making them or a warning more prominent.

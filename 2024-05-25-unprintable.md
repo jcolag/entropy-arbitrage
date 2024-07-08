@@ -70,6 +70,8 @@ Finally, I need to point out that the idea of characterizing misuse of copyright
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Certain pieces seem to require an extensive background to make sense of it, such as the advertisement for the fictional **Screamscape Harmonium**.  Not that I don't laugh as intended at the aesthetic choices, but I have no idea if the homophobic language serves any purpose beyond shock.
 
 ## Opportunities

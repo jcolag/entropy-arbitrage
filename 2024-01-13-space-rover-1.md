@@ -46,6 +46,8 @@ And I suppose that the plot to the second episode has some interesting potential
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The jokes all feel too tired to even think of as jokes, at this point, some of the least-impressive aspects of the franchises that inspire it, but without the understanding and context that would make them funny.  A lot of it really only feels mean-spirited, honestly.
 
 Likewise, the fake accent---I assume fake, because the main characters share it, but the narration and side characters do not---feels more like an irritating distraction than an interesting addition to the culture.

@@ -8,6 +8,7 @@ summary: Discussing a role-playing adventure
 thumbnail: /blog/assets/lost-universe-cover.png
 teaser: This week sees an RPG adventure involving a bit of science and a bit of magic.
 spell: Aldastron Exlaris Zangemann claire andreoli mailto Arketnum Beska Pereia Palereidon Sarthelios lensing Cistemfailure Cistem
+proofed: true
 ---
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads **The Lost Universe**.
@@ -54,6 +55,8 @@ While maybe naïve to suggest that it happens due to shared trauma and an unlimi
 Also, always welcome for a Free Culture work, though they probably have more of an academic motivation for it, the culture centers sharing information, while the antagonist wants to literally hoard information and advancement.  We've seen attempts to make that sort of idea fit, probably most recently in [**Ada & Zangemann**]({% post_url 2024-01-06-ada-zangemann %}).
 
 ## What Works...Less Well?
+
+{% include lesswell.md %}
 
 My biggest objection to the text as it stands involves the repetition.  Despite presenting this as a fairly linear adventure---almost none of the players' decisions will affect the outcomes---we sit through certain stories multiple times each, retold without providing new information, or even acknowledging that players would (and readers certainly do) already know them.  It makes reading feel so much longer than it should, given the short overall length.
 

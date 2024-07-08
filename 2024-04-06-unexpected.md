@@ -57,6 +57,8 @@ And especially as what sounds like something created partly as a learning experi
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 A lot of the story seems...unmotivated, or that seems like the only word that fits.  I can accept the eyeball and the cube as part of the premise, but then we have weird 1980s arcade game elements, which seem to exist because the music sounds like it comes from a video game.
 
 ## Opportunities

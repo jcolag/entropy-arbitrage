@@ -47,6 +47,8 @@ Maybe related, in only three levels and a brief epilogue, we get to know Cynth f
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 As one might expect from the results from a [game jam](https://en.wikipedia.org/wiki/Game_jam), the game doesn't always quite behave the way that you'd like.  For example, the guards have extremely short memories, where they can see you standing in the light, but as soon as you walk past them or out of the room, they lose interest in stopping you.  Likewise, the cameras don't seem to have fixed rules on when their surveillance matters, sometimes ignoring the player completely, other times chirping in recognition as if documenting the security breach, and others sounding an alarm that ends the game immediately.
 
 ## Opportunities

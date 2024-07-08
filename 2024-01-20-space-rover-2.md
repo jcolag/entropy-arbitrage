@@ -44,6 +44,8 @@ While these episodes still share many flaws with the first two episodes, I do se
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Despite the improvements in writing, the episodes still feel bloated with bland attempts at bickering that rarely move the story forward.  I can understand featuring it so heavily in the first two episodes, while attempting to illustrate these characters and their personalities, but we seem to have gotten past that and now have the bickering for its own sake.
 
 Additionally, the episodes probably could have used some review.  While not huge issues, it did strike me that most of the science felt either outright wrong or so poorly explained (and why explain it at all?) as to sound wrong.  And in the final scenes, they get back to normal by "returning" to 2142...in a show that they repeatedly remind us takes place in 2143.  And yet, they make it clear that we have gotten back to where the episode started.

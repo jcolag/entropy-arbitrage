@@ -52,7 +52,9 @@ Oh, maybe similarly, while I find it one of the blandest aspects of the story, I
 
 ## What Works...Less Well?
 
-These chapters could use a *serious* editing.  While I don't see any horrible typos, the story often contradicts itself from paragraph to paragraph.  A character cringes in terror, but also haughtily confronts their opponent.  Other characters reconcile, but they lie.  They come to agreements, but then do something completely unrelated, as if that conversation never happened.  Similarly, consequences fall on characters for actions that I don't believe that anyone has told us about.
+{% include lesswell.md %}
+
+These chapters could use some *serious* editing.  While I don't see any horrible typos, the story often contradicts itself from paragraph to paragraph.  A character cringes in terror, but also haughtily confronts their opponent.  Other characters reconcile, but they lie.  They come to agreements, but then do something completely unrelated, as if that conversation never happened.  Similarly, consequences fall on characters for actions that I don't believe that anyone has told us about.
 
 Also, should I care about *any* of these people?  Nyla now talks about her religious conversion---which, by the way, either happened between chapters or in a single paragraph in Chapter 16 where she asks for a little help forgiving Gemma---so much that you'd almost think that the book had nothing else going on, or that she gets paid if she convinces anybody else to convert; I also continue to not see a difference between the Nyla and Woethief personalities, to the point where it almost always surprises me who says what.  Gemma doesn't even seem to have a role in the plot, other than to shriek angrily at Nyla for seemingly imaginary issues.  Nobody else really has a personality, beyond each having a single narrow agenda, the overwhelming majority of which sound something like "hurt Nyla."  Denrick and Theila *might* have something interesting going on, but the book makes sure to keep them off to the margins as often as possible.
 

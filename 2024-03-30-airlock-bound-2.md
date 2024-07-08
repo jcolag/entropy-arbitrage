@@ -63,6 +63,8 @@ Actually, I should probably praise the comic's art in general.  The storytelling
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 As mentioned, for a number of reasons, it feels *extremely* inappropriate to tell a story about the kindly relationship between a wealthy person and their slave.  Yes, one or the other character occasionally comments about why it doesn't really work as a friendship, when one can have the other executed over a disagreement.  But the narrative still tries to make this charming.
 
 I also found parts of these chapters difficult to follow.  Moment-to-moment works fine, but the dandelion obsession seems like it has far more context that we don't get to see.  The final-so-far chapter, for another example, doesn't seem to fit anything else in the story.

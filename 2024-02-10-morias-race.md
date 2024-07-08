@@ -62,6 +62,8 @@ Most objects in scenes also act like they exist in a real world, which I also ap
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Something about the audio recording made it almost impossible for me to follow about half the dialogue.  The opening scene covers a lot, and I caught almost none of it.  Parts of the story also seem to jump around indecisively, too, though---such as Moria's confidence level---so maybe I shouldn't blame the audio.  But frustratingly, a lot of those weird disconnects seem like they have enough material that they *could* get pulled into a cohesive whole, and someone made the choice not to do it.
 
 A matter of taste, sure, but I also *loathe* the look of the characters.  They don't seem to fit the aesthetic of the world, and don't even really seem consistent.

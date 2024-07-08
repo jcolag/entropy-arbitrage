@@ -51,6 +51,8 @@ And while the story maybe overuses words like "cute" and "sweet," the story feel
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The characters feel a bit flimsy to me, as if the story assumes that we know them well enough that the details don't matter.  Maybe this shouldn't surprise me, though, since we only spend a couple of thousand words with them.  But it feels especially jarring with the reveal of the note at the end, where I realized that I had no idea why that would come across as touching.
 
 And it feels extremely petty of me to bring this up, but...why introduce "an LGBT fantasy by a Nigerian writer" without throwing us a name or two?  It feels like the story stumbles in its flow, by going so far out of its way to avoid mentioning "**The Forbidden Grove** by Onoriode Ademola"---which I made up for this example---or some comparable title.  Real or fictional, it would've given the story some added texture, while also giving that sentence somewhere to go.

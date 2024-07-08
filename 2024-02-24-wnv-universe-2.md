@@ -46,6 +46,8 @@ While I don't know if this will sustain itself, I have to admit to finding the D
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Too much of many of these chapters feel redundant, containing lengthy dry exposition that we've already seen at least once, such as Nyla's birthright and the reasons that she lost it, descriptions of the obtrusive pseudo-Christianity, or Theila's history.
 
 Also, the silly "WoeNyl" nickname has started to escape from the chapter titles and infiltrate the dialogue of characters who don't seem to have any legitimate reason to use it, assuming that any legitimate reason exists at all.  It honestly feels inappropriate or inconsistent for characters to treat our seemingly singular protagonist---the two "personalities" don't seem any more separate than routine indecision and ambivalence---as two people, but also find it too burdensome to refer to them individually, and give them a single two-syllable name instead of their individual two-syllable names.

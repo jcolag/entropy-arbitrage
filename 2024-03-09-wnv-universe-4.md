@@ -49,6 +49,8 @@ While the story has some unpleasant problems that I'll talk about in the next se
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I have no idea how these stories relate to each other or [**The Woethief**]({% post_url 2024-02-17-wnv-universe-1 %}).  As quoted above, the Codeberg repository claims that they exist as part of "a free culture story world featuring Woethief Nyla Valora as the main character," but I don't see any evidence of that in most of the stories, except in the sense that universes tend to have a lot of space for unconnected things to happen.
 
 Despite my mild praise for *True Love's Kiss* above, I do want to note its specific problems, which seem far larger than the other stories.  The gender politics, in particular, feels repulsive, with everybody obsessing over the ownership and sexual purity of a young woman, and even worrying about how much of her body other people might see.  And it has the nerve to try to contrast this sharply with selling women into slavery without even a hint of irony that their freedom *also* involves a shocking amount of controlling behavior and obsession with their genitals.  Maybe related, the story also makes me a liar in [last week's post]({% post_url 2024-03-02-wnv-universe-3 %}), in that it has apparently decided that it really *does* portray a generic fantasy universe where the non-human characters act exactly like human ethnicities with more prosthetics.

@@ -52,6 +52,8 @@ And while I can see potential problems---one detailed below---our two main chara
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Especially given the stakes of introducing children to political movements like the fight for software freedom, the characterization of protests feels highly irresponsible and borderline offensive.  The fact that the president needs to make the effort to reach out to the protesters to find out what they want feels like the most authoritarian view of democracy possible, rather than burying politicians in letters *explaining* the issues to them...not unlike the portrayal of industry lobbying, in fact.
 
 Likewise, while the brevity of the book probably has a lot to do with it, Zangemann jumps almost painfully quickly from out-of-touch billionaire to monopolist, from monopolist to blackmailer and terrorist, and from terrorist to harmless hermit.  I realize the need for bold characters in books for younger people, but much like the protest issue, it gives the unfortunate impression that we shouldn't really worry about corporate behavior until they get favorable laws passed.

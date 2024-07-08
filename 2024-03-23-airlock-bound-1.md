@@ -54,6 +54,8 @@ Our two lead characters seem to have some depth to them, and they at least try t
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Occasionally, the narrative seems to get lost at the most inopportune moments.  You can see probably the most striking example of this in the first chapter, where the story describes "them," with two distinct groups present.  We don't discover *who* has that description for a few hundred words.
 
 And while I always hate bringing this sort of thing up, it has a relationship to the confused narrative, and the project doesn't have anything like a git repository where I can offer corrections, so I feel the need to make mention of it:  Most chapters have a wide array of typos, often of the sort that any spell-checker would have caught immediately.
