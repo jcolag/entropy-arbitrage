@@ -60,6 +60,8 @@ And, OK, I admit it.  A part of me wants to know how (if) the final part of the 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Contrasting to a lot of the fun work described above, the Yeshin interview takes *forever*, and a lot of the material doesn't do anything for the story, despite a lot of tedium playing poker and drinking, especially given that the plot-related information doesn't take more than two "cards" of the visual novel.  Everything about it also seems wildly out of character, from what we've seen so far.
 
 Honestly, while this section has some great highlights, like the aforementioned debriefing scene, so many actions seem out of character, and so many new elements show up out of nowhere that it sometimes feels like the story ran out of plans, somewhere in this section.  Of particular note on this topic, we get *three* "final villains" in succession, none of which does anything that the others couldn't have done, and one based on a real-world celebrity, and no, I *don't* mean that we finally get to see Brendan Fraser.  Oh, and we also get at least three recaps of the story, as we reach the end.

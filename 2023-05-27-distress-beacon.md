@@ -58,6 +58,8 @@ And while you do need to work at it to find the pieces and put them together, yo
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I suspect that many people will see a fairly huge problem in the abstractness of everything.  You get lists of elements to insert into your game (or story, or whatever), some material mentioned as references, and a high-level pitch, and...then the readers build everything else for themselves.  Nothing gets more than two or three dozen words describing them, which in the case of characters, often means nothing more than a species and a job.  If you want more ambiance than that...the book tells you to search YouTube for ambient sounds.  For another example, the book instructs readers that the protagonists---listed as **Iconics**---"should have connections between each other and with characters outside this group," which...sounds like something that the book could have and *should* have handled.
 
 Even with that in mind, though, some cultures seem *so* abstract that it almost feels like they gave up in their own development.  For example, the Locori *might* refer to a specific government/species/culture, or it might refer to a multi-government/multi-species international organization that the Locori lead, and...would it have really taken so much more effort to add one name?

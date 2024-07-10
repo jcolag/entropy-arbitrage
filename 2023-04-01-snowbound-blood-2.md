@@ -56,6 +56,8 @@ We finally get a moment of interactivity.  I haven't gone back to retry it with 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I can understand the difficulty in doing so, but it still seems like a missed opportunity for the story to make a firm point of describing the musical and noisy spectacle, but *not* having any music on the soundtrack.  Similarly, maybe I forgot something, but these interviews feel like the evidence leading us around mostly come out of nowhere, such as talking about a flyer that I don't *believe* I saw presented to us.
 
 Several of the volumes also appear to have an intended ordering between the two interviews, though without any indication beforehand that we should choose the one on the right, in the moment.  One case requires remembering a name provided previously, which makes sense if you play them back to back, less sense if you take long breaks.

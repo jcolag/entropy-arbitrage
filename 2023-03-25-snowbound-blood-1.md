@@ -51,6 +51,8 @@ In fact, while I have *some* issues, overall, I appreciate the polished presenta
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The novel has some odd...typography issues, I guess, maybe stemming from a translation.  My initial interpretation of the prologue involved a possible chess game, because alphanumeric pairs ("d4," "e8," and so on) appear randomly in dialogue.  In other cases, dialogue begins with an infinity sign, or it replaces letters with symbols.  This doesn't seem to have anything to do with the story as such, but also happens enough that it distracts from the story; I can only imagine what it sounds like to anybody playing this with a screen-reader.  Or if it *does* have some meaning, it would help to know that.
 
 After the lengthy conversation setting up the plot that didn't actually have much information to it, the debriefing at the crime scene suddenly becomes completely abstract, where we get a blow-by-blow summary of the conversation, but no dialogue, and no representation of the characters involved, while we stare at a truck.  This seems especially odd, given that the game throws a lot of vocabulary at us with no indication of what it might mean, there.

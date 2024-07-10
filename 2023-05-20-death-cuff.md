@@ -57,6 +57,8 @@ The characters all seem fairly engaging, particularly when the detective offends
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Owing at least partly to the short length, I can't complain about much, here.  While the illustrations seem jarring to me---despite both having a comedic aesthetic, the illustrations definitely don't have the *same* style of comedy as the story---but those don't belong to the Free Culture part of the game, so they don't count as a problem to fix in a Free Culture work.
 
 ## Opportunities

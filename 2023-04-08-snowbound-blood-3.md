@@ -57,6 +57,8 @@ In addition to the writing (mostly) improving, the images have grown bolder, too
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The Gerbat Batrav interview feels like it dropped out of an unrelated story.  I mean, our protagonist rides out into the countryside for no clear reason, then finds a small community living out in a swamp.  And on arriving at this community, the protagonist drops the investigation to threaten to stab a bunch of people and beat up a child.  We don't learn anything relevant to the plot, so I don't really understand why that part of the story exists, other than to deliver the joke about the hot dog plant.
 
 Likewise, the maze seems silly.  In *other* parts of the story, the protagonist has a drone that flies off to search for things and deliver analyzed information.  With the drone, we should have no reason to guess our way through a maze or *any* environment.  And I honestly couldn't tell you if the directions map to a "real" space, or if we only need to make a certain number of decisions to get out, which makes it feel worse.

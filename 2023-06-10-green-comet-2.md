@@ -60,6 +60,8 @@ Despite the high pronoun density, this not only gives us a human moment to conne
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Unfortunately, some dialogue feels like an unedited improv sketch.  We have no subtext.  They repeat everything at least once.  And the characters speak in similar voices.  It reminds me a lot of daytime soap operas---not in an insulting way, mind you---where they have traditionally built in these sorts of redundancies and lack of subtext, because their target audience of home-makers typically has enough to do that they can't afford to give the television (or radio before that) their full attention.  It feels jarring, but seems like something that could plausibly pay off later or work better in another medium.
 
 Similarly, I want to say that a lot of this "feels devoid of emotion"---the moment mentioned above a significant exception---but it comes closer to the idea that the narration informs us of emotions without letting *us* in on it.  Elgin feels things viscerally, but we don't really know why.  Neither he nor the narration bothers to tell us what nuances he has picked up on or why they matter.  As a result, our characters vault in microgravity through a corridor of some major architectural significance, for example, with all the excitement of someone in our world checking to see if they have any new e-mail.

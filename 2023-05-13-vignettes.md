@@ -52,6 +52,8 @@ And while it seems like it wouldn't actually hold true, given the constraints, w
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Many of the ideas feel like they don't really fit into the single-panel form.  Many of them do work well, but a handful of them make me wonder what context it sits in.  I didn't dislike them, but I also didn't feel like I had nearly enough information to like *or* dislike a couple of them.
 
 ## Opportunities

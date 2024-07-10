@@ -53,6 +53,8 @@ When the narrative gets into a decent groove, I found several chapters quick to 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Even though they don't run particularly long, the early chapters feel *endless*, due to how far the writing goes out of its way to avoid providing anything like specific information.  We have "people" on "the planet," with some history when vague things happened at maybe-specific-but-not-necessarily times.  Everything seems to happen passively, and we don't get any *characters* other than (so far) non-entity Elgin, so even a planetary-scale disaster seems bland.  We don't even know if this story has anything to do with Earth or humanity.
 
 I also, unfortunately, fail to see what synesthesia has to do with anything in this story.  The narrative makes it sound like they have special powers, and that---much like a certain major comic book franchises---makes them both feared and likely to band together globally, but...especially since we don't know anything about "normal" people, it seems like a bizarre way to group people.
