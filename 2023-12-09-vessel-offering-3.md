@@ -50,6 +50,8 @@ I have to give the book credit for the fact that, even though I don't think it f
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I don't know about anybody else, but I have already come to loathe the flashbacks to military action.  They feel like little more than excuses to voice some Islamophobic views, denigrate sex workers, and show that the author looked up some military jargon.  Yes, it *ends* on a scene relevant to the plot, but we could have skipped most of the route to getting there.
 
 And while I appreciate that we have the makings of a plot, this felt like *such* a slog of dry exposition, especially given how much of it resembles an introductory comparative religions lecture.  It feels even worse, somehow, that it uses existing proper nouns for essentially their accepted meanings, since it means that we could have had a version of this that *used* the existing mythology without explaining it and given motivated readers pointers to read deeper.

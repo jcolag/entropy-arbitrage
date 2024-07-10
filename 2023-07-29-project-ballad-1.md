@@ -78,6 +78,8 @@ And while I didn't notice anything special (beyond competence) about it, I shoul
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The story feels too disjointed, to me.  It takes a *long* time to even hint at why we keep flashing over to the kid from the cabin.  We still have no clues about the relevance of the photographed comic.  Don't forget the prologue, which gives us a total of four stories bouncing around.  And every so often, it feels like the primary narrative forgets where it wants to go, with weird side-discussions about family members who I assume we probably won't meet.
 
 Pushing this further, it seems a lot like the pieces of this story don't and shouldn't fit together.  Specifically, it looks suspiciously like *Legendary Ballad* doesn't have much to differentiate it from a generic fantasy franchise, but most of our presumed protagonists seem costumed to impress the people in charge of that franchise.  One looks like a Medieval peasant that would fit into the "game" scenes, but otherwise, we have two people in extremely different styles of steampunk gear and...a fast food chicken mascot, maybe?

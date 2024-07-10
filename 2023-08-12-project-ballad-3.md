@@ -72,6 +72,8 @@ And while I've probably mentioned this with at least one of the prior installmen
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Right from the start---and sure, maybe I set myself up for this disappointment by cutting the book up by page count, rather than content breaks---the end of the first chapter and the intermission feel less like the end of a chapter and more like the story gave up on itself, or at best feels like a teaser for future plot points.
 
 Also, while I don't want to nitpick specifics, the capsule biographies in the **Cast of Characters** section did little to improve my opinions of the characters that I've mentioned previously.  For Kendra---our main protagonist, as I understand it---in particular, we find out that she decided to go to the convention "to escape the reality of her parents’ ugly divorce."  And while that might sound like a sympathetic trait, they also made her nineteen, so...maybe she should have developed better coping mechanisms than "running away from home" by now?  Maybe her happiness shouldn't depend on the marital status of her parents?  After all, contrary to what you see on sitcoms, news of a divorce rarely blindsides children, because they've had to live at the center of a deteriorating marriage for a long time.  Bear in mind that I don't see this as a problem with the work in itself, but it (and most of the other biographies) nicely illustrate the problem that I think a lot of readers will have getting into this story:  Most characters don't give us much reason to care about them.

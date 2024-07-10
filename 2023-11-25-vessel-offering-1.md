@@ -50,6 +50,8 @@ Likewise, while the first chapter drags, the second (eventually) sets up what so
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Especially early on, everything in the story feels abstract, as if we don't have a *story* so much as we have a plot outline with details stuffed in to make it sound more like a narrative.  Ray exists.  He has a job.  He does the job.  The job then gets detail added.  Then, we find out that something raised the stakes at some point while we paid attention to something else.  And on it goes, without any emotion, connection, or even a sense of continuous action.
 
 Similarly, when we have problems, they only *exist*.  They have no reasons and no solutions.  For example, Ray can't understand the diagnostics of the robot that he came to retrieve.  The narrator tells us that the server in the shop can translate it, though, so...does this culture with space travel, autonomous robots, and much more *not* have Wi-Fi?  I don't mean to pick on the technology, here, more the situation of having problems that don't make much sense and have unclear stakes.

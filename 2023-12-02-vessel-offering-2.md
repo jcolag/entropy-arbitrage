@@ -49,6 +49,8 @@ This section of the book moves fast, and once we get past the---see the next sec
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I could really have done without the protagonist's views of sex work.  In fact, a lot of unnecessary hate floats around the start of the third chapter.
 
 And while I always realize that this comes off as petty, this section also seems weirdly in need of proofreading and editing, too.  But without a repository, somewhere, where I can contribute suggestions, I only have "complain about it" or "export all the text from the PDF, make all fixes, and publish my own version" as options, and the second feels like far too much effort for the situation...

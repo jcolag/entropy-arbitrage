@@ -70,6 +70,8 @@ And while it doesn't always pan out, the story has some momentum and tension to 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Your tastes may certainly vary, because this does seem like it represents a specific slice of life that I happen to not have much connection to, but I flat out can't stand any of these characters.  They seem to want us to sympathize with the grouchy person who seems to either sullenly sit in corners or pick fights with people, or the perky person who keeps trying to get into a fist-fight with the troll.  And sure, this gives them room to grow, but it also doesn't give us much room to want to *watch* them grow.
 
 Similarly, the motif of creators not loving what they create seems stale, but also unrelated to the story.  It actually feels like an excessive fraction of the page count goes to trying to make us feel like we've genuinely attended a disappointing convention, and I can't think of who would enjoy that aspect of it.

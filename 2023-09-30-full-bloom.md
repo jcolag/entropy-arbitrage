@@ -42,6 +42,8 @@ Honestly, I don't even know what to say here, because I enjoyed the story so com
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Most frustrating in my eyes, nothing in this story has a name.  We have about half a dozen interesting characters, multiple locations, at least one organization, and more, but everybody and everything gets mentioned either by its general, descriptive noun ("the village") or by their relationship to the protagonist.  This will make it hard, later, to talk about adapting aspects of the story.
 
 While I don't find the characters a huge imposition, the parents seem redundant, neither of them serving a particularly strong narrative purpose, in a story where everything and everybody else seems critical in getting us to the ending.  Yes, the father introduces the "boss," and the mother nominally cares for her daughters, but the story could work around them far faster than it could the Seeker, who gets less attention.
