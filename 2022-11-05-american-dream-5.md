@@ -68,6 +68,8 @@ And in a late-breaking life-imitates-art moment, if you thought that the concern
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 If you [read my newsletter](https://www.buymeacoffee.com/jcolag)---and, I don't know, you probably should, especially if you get some use out of my discussions of fiction, since I do that every month less formally for commercial media---then you probably already know that I find scenes that list and describe mundane items tiresome, when they don't pertain to the plot.  Here, the plot receives a boost of excitement at the start of this section, and then capitalizes on that shock by...carefully packing up the cars.  We receive paragraph after paragraph of grocery weights and fuel needs.  And while this obviously feels *realistic*, both because it would need to happen and because it feels like the sort of detail that Arman would obsess over to avoid worrying about the danger, but it also drags the tension down.
 
 We also get the return of the discussion of competitive education that, while I praised its relatability from [the first batch of chapters]({% post_url 2022-10-08-american-dream-1 %}), it seems out of place to return to it here, with not much left in a book that has drifted a *long* way from worrying about school tests.  Maybe in Persian, it looks more like a deliberate callback.  In translation, though, it looks like the author forgot that this monologue already happened.

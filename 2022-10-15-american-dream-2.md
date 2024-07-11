@@ -61,6 +61,8 @@ Similarly, this section begins thinking about Iran's unique position in regional
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I feel like the book occasionally loses me.  For example, the trek through the snowstorm takes most of the chapter before it can bother to tell us who the narration now cares about, and then takes a while more to explain why we've shifted the narration there.  And then a paragraph casually mentions "Majid's uncle," later translated (I assume) to "Majida's uncle."  That led me hunting through prior chapters for Majid, who got *one* prior mention in last week's batch, Arman's maternal uncle.  In another case, Mahmoud's uncle puts in an appearance, even though I can't find any information on Mahmoud...other than his having an uncle, I mean.
 
 The book also introduces us to a *lot* of characters, in these chapters, of varying depth, but no indication of who will remain relevant.  In fact, the final chapter of this section tying back to the first chapter of the book tells me that *maybe* overweight Dr. Javadi will come back throughout the book...or maybe he won't, and remembering his name will waste all our time.

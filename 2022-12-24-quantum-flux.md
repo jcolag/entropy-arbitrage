@@ -77,6 +77,8 @@ Oh, this might come down to a matter of taste, but I like that the players need 
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 On the initial read-through, I spotted a couple of bizarre contradictions that editing should have caught.  For the most blatant example, the text tells us that emergency power can maintain life support for decades, *but* can't maintain life support for more than forty-eight hours.  It tells us those two facts in adjacent sentences, and the rest of the narrative seems to not want to take a side in that argument.
 
 Also, maybe especially surprising if you read this with no intent on guiding a table of players through it like I did, this takes a fairly serious bring-your-own-atmosphere stance.  While the text assures the reader that players will grow paranoid and frightened, it leaves the implementation entirely up to the game's moderator.  The spoken descriptions have no concern in them.  Most choices don't actually matter to the adventure's outcome.  And the non-player characters mostly walk on the metaphorical stage, then sit silently in the corner.  Even the aliens themselves seem to fall flat, with tantalizing hints dropped in obscure parts of the text, but none of those hints goes anywhere.  But we *do* know how their faster-than-light engines work in detail, even though it would only see use once in any play-though, at the end of play, showing that they *could* have added depth.

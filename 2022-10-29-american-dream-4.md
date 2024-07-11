@@ -61,6 +61,8 @@ And while I feel like something gets literally lost in the translation, I also a
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The book still has a problem with focus, even though the cast of characters seems to have stabilized.  Now, instead of telling us shaggy dog stories about characters who we'll probably never meet, it tells about massive swings in Arman's mood...and then has him get over it.  If it matters, then it should have consequences.  But if it *doesn't* matter, then I don't know why it deserves multiple paragraphs.
 
 It genuinely stresses me out that the book doesn't seem to have any interest in the war, which apparently includes an invasion force.  We know more about inflation caused by the war, and the policies that cause it, than we know about the war itself.

@@ -64,6 +64,8 @@ I don't know if the author meant this, but these chapters draw attention to some
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Arman repeats himself a lot.  Sometimes, he'll think about the situation from a couple of angles, narrated for our benefit, and then present what he just thought about, too.  I can understand his excitement in the situation, and him *wanting* to have the conversation with everyone in his life.  However, I don't see much point in bringing *us* along for the ride.  Maybe the translation misses some subtlety, here, but it doesn't seem like the argument gets refined in the retelling, so it doesn't provide us with new insight.
 
 This seems especially problematic when the book has ideas that it repeats in different contexts, without helping the casual reader connect the dots.  It hasn't used any of its space to point out how a discussion of the unethical aspects of eating commercial meat, because consumers have given up responsibility for the well-being of the animals, maps almost exactly to the distributed decision-making of civil engineering---or, really, anything else---in an aggressively specialized economy leading to public works projects that damage national infrastructure.  The lack of connective tissue in the repetition gives the impression that the book doesn't actually mean to cover this ground like that, which seems doubtful.

@@ -56,6 +56,8 @@ I also think that several of the asides will probably resonate with readers, par
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 While many books do this, these earliest chapters feel scattered.  It feels awkward to jump from a wedding with a flashback to a feud, to some tech-bro looking to put his company on the stock market with a digression into an art auction, to travel between cities for a major holiday, with a flashback to college days, to a flashback to the revolution, most chapters having different protagonists.  I realize that writers want to lay out all the pieces that they want to play with, so that the plot can happen more smoothly...but it also means that such books take the easiest time for a reader to give up on the book---the beginning, when they have no emotional investment---and turn it into a period where nothing happens.
 
 And speaking of the flashback to college days, I feel like the discussion of grades requires...something.  I can't rightly call it "unrealistic," exactly, because I assume that the author has based much of this in real experiences.  But the idea that an entire student body would refer to one another by their grades feels so alien---both in its petty competitiveness and its dehumanizing reduction of peers to numbers---that I feel like it warrants more of an explanation.  I understand that high school and college students routinely worry about class rankings, which also get mentioned, but this seems like something else.

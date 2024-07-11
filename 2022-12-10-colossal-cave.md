@@ -47,6 +47,8 @@ Finally, we can't talk about what this game brings to the table, without talking
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 While this tends to happen in many early interactive fiction works, several requirements to progressing through the game seem unnecessarily obscure, where the character needs to show up in the right spot at the right time, holding (or not holding) the right items.  In one case, if the player manages to find a way to avoid at least one problem---or if it doesn't arise, due to the random number generator---then that player effectively loses the game with no warning.
 
 Likewise, due to the technical trade-offs on software of this size at the time of creation, the game shows little to no interest in getting players invested in their progress.  If you find something amazing, then that amazing thing shows up in descriptions *exactly* like anything else would, with nothing drawing attention to it.  If something kills your character, then you don't get any ceremony beyond a report of the demise and (in some versions) an offer to reverse that problem.  And if your character interacts with another creature, then you won't generally get more feedback than "OK," even when that sounds like an interesting story.  If the game *had* made a bigger deal about those events, though, you'd probably have fewer rooms or items in the game.

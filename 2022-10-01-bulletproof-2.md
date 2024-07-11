@@ -62,6 +62,8 @@ The capsule history of Mars almost makes me wish that this book *focused* on tha
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Speaking of history, the Atlanta history lesson seems both wildly out of place and only *barely* helpful for context, especially how it mostly glosses over---but occasionally mentions, at least---the racism central to the city's history.  For example, it doesn't have much to say about the Civil War, other than the trauma inflicted by burning Atlanta, and then mentions "race riots" without any [context](https://en.wikipedia.org/wiki/1906_Atlanta_race_riot).
 
 Maybe related, the half-winking refusal to explain Paragon's motivation for destruction---"**Bulletproof Blues** does not offer an official explanation for Paragon’s fall," the book says---feels like a cop-out, especially for a game.  Without making that decision at all, they can't use that answer to make the surrounding descriptions seem more real.  And while they couch it in giving gaming groups options, most role-playing game players and especially moderators already know that they can change anything about the world that better fits their story.  It feels like they would have served the purpose better by making official choices and suggesting alternatives, noting what else might change.  It also doesn't help that many of the alternatives describe Paragon as "snapping," which seems to trivialize mental health issues.
