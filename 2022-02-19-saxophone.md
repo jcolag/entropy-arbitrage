@@ -55,6 +55,8 @@ While not precisely part of the series, if you poke around on YouTube, you can f
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 While this is probably just a matter of taste in the spirit of surrealism, the fact that the objects-for-heads idea is inconsistent seems like a missed opportunity.  That is, the cigarette-head representing a smoker makes sense, and watching him light up is funny.  But given that he needs to be put out, it seems awkward that nobody else's head is relevant to their lives.  There are some obvious metaphors in use, but it seems like it's meant to be deeper...but only sometimes.
 
 Unfortunately, Tommy turns out to be something like the [Magical Negro](https://en.wikipedia.org/wiki/Magical_Negro) stereotype.

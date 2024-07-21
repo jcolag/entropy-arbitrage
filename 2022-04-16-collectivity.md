@@ -51,6 +51,8 @@ It's also nice to see at least an *attempt* to show [consensus-based governance]
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 This may be a matter of personal taste, and someone could easily fix it with some basic search-and-replace editing, but it feels like a problem that the author clearly wrote this as **Star Trek:  The Next Generation** fan-fiction, then changed some names in ways presumably meant to wink at the audience---I feel like a given author can get away with using an actor's name for a character inspired by that actor's work *once*, but not much more than that---but others in ways that come from an entirely unrelated and obscure franchise from his own self-published work.  Oh, and I have to assume that the *Bonaventure* itself takes its name from the old ship of the same name from [*The Time Trap*]({% post_url 2021-11-04-time-trap %}) (or the ships that it takes its name from), if you'll pardon me for momentarily donning my *Star Trek* hat.
 
 Similarly, the Collectivity seems so self-consciously based on Internet message-board culture that it almost demands *more* of an explanation than classic science fiction where writers based alien cultures on ancient civilizations.  Especially with the bionic devices hand-waved away as exoskeletons, making them alien at all seems an odd choice.

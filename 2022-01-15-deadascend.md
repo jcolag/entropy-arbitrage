@@ -57,6 +57,8 @@ Finally, the game knows what it wants to accomplish and does it.  There's no exp
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 While it's nice to see a game completely focused on a streamlined story, there also isn't much story to it.  There's more information about the world in the *blurb* than there is anywhere in the game itself.  We don't know who the character is, what city this is supposed to represent, what "the old radio tower" was for, or why the tower appears to have been sabotaged in ways that mostly only caused superficial damage.
 
 Similarly, as I hinted before, some puzzles feel unmotivated, like needing to pick up a bunch of near-identical pieces of ladder, then drop them---partly ordered---to actually *build* the ladder.  It's tedious, and I imagine difficult for people with poor motor coordination.

@@ -47,6 +47,8 @@ Interestingly, this is set in a world that has some deliberate diversity to it--
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Let's just get this out of the way:  The opening is infuriatingly detailed on how to operate an iPhone.
 
 Certainly the most frustrating thing about these chapters is that they're so repetitive.  It's just forty-plus pages, but somehow, we're told the history of these German data aggregation laws at least four times, and given the same background on M at least three times.
