@@ -54,6 +54,8 @@ That moment also reminds me that I should give the comic credit for desexualizin
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Now that I've gotten the good feelings out of the way...
 
 The story still tries to pitch trite comic book shop arguments as normal philosophical conversation and a universal experience.  However, somewhere along the line, the failing furniture store that could only survive with the help of an illiterate loan shark has become a thriving furniture store, but nobody can be bothered to talk about what changed, there.  Did our protagonist's exploits make him more confident?  Has the economy improved to where people are willing to invest in furniture?  Did Hannah burn down the competitors?  Has a gang enslaved the city's love-seats, to experiment on them beneath Pharos City?  That's none of our business, I guess.  But we *do* know everybody's opinions on Peacemaker, just in time (for us, at least) for the HBO Max series.  (Peacemaker, I mention by name, because his early adventures appear to be in the public domain.)

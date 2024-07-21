@@ -53,6 +53,8 @@ In fact, this may be damning with faint praise, but if you remove the right-wing
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 While this is a problem common throughout superhero storytelling, like our prior Midwestern superhero in [**The Fellowship of Heroes**]({% post_url 2021-04-10-fellowship %}) before him, this comic has a soapbox problem, airing views that are suspiciously fascist-friendly.
 
  * We open with how *sad* the cops are that they don't have enough time in the day to brutalize petty criminals.  I realize that I'm writing this in 2021, when nobody can (seriously) deny that street crime is largely a result of poverty, if only because it's not worthwhile for anybody else to engage in it.  But that doesn't make it any less an ugly premise.

@@ -61,6 +61,8 @@ Also, let's be clear:  No matter the quality, no matter my assessment, this is p
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Finding stories to read is a nightmare, and I'm not *entirely* convinced that the problem is that the website no longer exists.  This is a problem for most anthologies that we've seen, of course.  Because a project like this is going to attract writers who want to practice writing, the administration work falls behind and is almost never planned for in advance.  This might be the most egregious example, however, with the need to snake through the wiki just to find links to *any* stories, only to find out that the Internet Archive never went that deep to make copies, then trying to hunt for copies of those stories on an also-defunct blog.  Either that, or the endpoint of following the wiki links is a dead Amazon link to a book that hasn't been available for sale in years.
 
 I ended up picking five random months from the [archived Eroticatorium site](https://web.archive.org/web/20181003221527/http://eroticatorium.com) and picking a random story from each page, since I couldn't find a better way to get through this.  And again, I'm not completely sure that any of these stories are Free Culture, and that bothers me.
