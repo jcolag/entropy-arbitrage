@@ -47,6 +47,8 @@ I'm really struggling to find something nice to say about these chapters, since-
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I started out the book not hating Bartlett, since she was the only one not complaining about terrible colleagues.  Sections about her, however, only alternate between her insisting that her idea is stupid (sometimes cursing herself out for it) and detailing her sexual history.  In other words, her role is to make the fictional men in the book feel better, even though they don't actually exist.  To wit:
 
  > He exuded an unadorned masculinity that she found---contrary to her wishes, if not her expectation---to be almost overpoweringly sexually attractive.

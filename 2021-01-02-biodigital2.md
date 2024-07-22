@@ -48,6 +48,8 @@ And as with [last time]({% post_url 2020-12-26-biodigital %}), this continues th
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Somewhat predictably, it appears that Dr. Pascale Pacheco is introduced as a sex object.  Similarly, it feels like it's supposed to be funny that Peter has serious PTSD and dies, pretty much because he's "Crazy Peter," rather than a character.  Likewise, there's a run of chapters where Nick is actively dismissive of Casey Montgomery's trauma---even making sexual jokes at her expense---and I don't see much point.
 
 Speaking of Casey, I mentioned last time that the book had a chance to really impress me, if it followed through on the idea that Todd was bad at his job and being helped by people around him.  In this section...nope, Casey tell us that Todd was a genius, and his work was sabotaged as part of the conspiracy.  So, it's not that she was secretly the brains behind the operation.

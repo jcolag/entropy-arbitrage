@@ -48,6 +48,8 @@ I'm not going to be kind to *Twerk Witches*, so I'll just say now that it's real
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 I'm just going to say right out that *Twerk Witches* feels like all the pearl-clutching about twerking when it went mainstream.  It wasn't fun then---it felt like a lot of white, middle-aged men trying to make themselves hate something that clearly fascinated them---and it's not much fun to read now.  Similarly, it may just be a matter of taste---I see comments from people who loved it---but *Fifth Elrichian National Party Manifest* feels like an extended inside joke, where the joke is mostly that governments make a lot of rules that some people don't understand.
 
 Too many of the stories come off like book reports, summarizing incidents from some other story.  That's defensible, especially for the small word counts, but it does often make them too abstract to be of much interest.  Only a couple of them really even have characters with names and motivations.

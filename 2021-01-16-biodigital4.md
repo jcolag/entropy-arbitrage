@@ -58,6 +58,8 @@ And back to pettiness, I'm extremely happy that I can't remember one "Dijjy-Mike
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 The narrative around Casey feels like a placeholder that was never replaced.  She runs out of oxygen because a piece of paper is lit on fire, but not the candle that lit it.  Everything about her life has been monitored, but she has a "secret" dial-up access account that she can access from home.  She has this whole sequence trying to replace the Kali chip with something more primitive, so that she'll be ready when other characters arrive *with* a Kali chip.  I don't know if she was added after most of the story was written or Sundman just doesn't care about her, but it's jarring.
 
 And again, we're subjected to entire chapters of information that we've already seen being relayed in detail to someone else, with gems like the following.

@@ -44,6 +44,8 @@ There's also something vaguely interesting in how careless Chris is shown at the
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 We might as well start with the exposition being well beyond any rational standard.  Chris and Brittany go on endlessly about the quality of cartoons, the decline of civilization, automotive maintenance, Kirlian photography, superhero history, or just about any other topic.  When it's not that, it's narrating things that are happening.  On many pages, there are enough captions or word balloons that the characters have nowhere convenient to stand.
 
 Then, there's the litany of things that Chris and Brittany see as heralding the collapse of civilization:  Government, big-name superheroes, people questioning whether centering his religion in Crusader's identity marks him as part of a right-wing movement, Western animation being influenced by [anime](https://en.wikipedia.org/wiki/Anime) and/or [manga](https://en.wikipedia.org/wiki/Manga) (ironic, given how those *clearly* influenced Hayes's art), franchise reboots that introduce nuance and ambiguity, globalism, France, people suffering with personality disorders, divorce, men who live with their parents, women with belly button rings, exercise, the military, corporations, authority, and the East Coast of the United States.  All of those are suspect.

@@ -53,6 +53,8 @@ The big win, here, is almost certainly that the story has finally become relativ
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Bartlett starts this section with---I kid you not---"confusion in her addled noggin," and then the chapter goes on to invent a fictional form of anemia that seems to exist to literally link "strength" to "whiteness."
 
 Less racist, but just as artificial and pointlessly overwrought, is the "banter" between Nick and Jake, trying to convince us of their masculinity.  It's obviously supposed to be the moment where we realize how great Jake is, but the whole thing is just posturing by "commando" cosplayers, which turns into more annoying posturing with Casey...after he successfully hides from "hardcore spooks" for hours by standing in a chemical toilet booth, because I guess that's not someplace they'd look.
