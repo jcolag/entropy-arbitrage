@@ -51,6 +51,8 @@ Obviously, the central premise of a beloved game being played so much that its d
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 That you get two tries (and really *only* two tries, though you can delete the in-browser memory to replay, if you're technical enough to do that) to learn what you can, with no real signalling of how the story is structured, seems like a flaw, even though it was a deliberate choice by the authors.  There also isn't much to do or see, making this feel more like a short poem than anything else.
 
 ## Opportunities

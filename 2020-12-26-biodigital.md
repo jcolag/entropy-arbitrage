@@ -49,6 +49,8 @@ However, I'm going to admit outright, here, that I dislike a *lot* about this bo
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 Well, to start, I think I hate every character other than *maybe* Bartlett, with so many grumpy, self-entitled White dudes.  I mean, I feel like there's a sleeker version of this story where most of the male characters can be simplified down to one or two characters, without all the pop culture references crammed in.  I mentioned, earlier, that the likes of Nick and Todd feel drawn from life, but the downside to that is that they remind me of almost every former colleague I disliked, and the prospect of a novel filled with them isn't my idea of a good time.
 
 Even Bartlett---seemingly the one character who isn't a grumpy, self-entitled White dude---the characters (and author, given that it doesn't seem to get called out) basically treat her as a tool to satisfy Nick, either emotionally or sexually, which is depressing.  Even though she's supposed to be a brilliant trailblazer in her fields, she's effectively a passive bystander.  In fact, the casual misogyny, the angry rivalry between many of the men, the arbitrary violence, and the occasional fetishization of the military makes me wonder if this was supposed to mimic a Michael Bay script.
