@@ -12,6 +12,9 @@ spell: Yun Gyeongbokgung Webmentions Fictopedia Arcada enuf CPREP Miniboost Nono
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 (**Note**:  Apologies to anybody who waits for these posts in real time, but I had trouble publishing...)
 
 Look, in the nineteenth century, New York largely dropped the ball on slavery, constantly trying to find some new compromise between not having an open revolt from people who realized that the time had come or passed to abolish the institution, and not angering wealthy people who hated the idea of treating disadvantaged people like humans, especially if labor might cost them money.  Thank goodness that we no longer have *that* problem in this state, right...?  Ahem.

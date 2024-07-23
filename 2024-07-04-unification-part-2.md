@@ -11,6 +11,9 @@ spell: Riker Worf Troi Pardek Spock Neral Romulus Romulan Romulans vada Doohan S
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A monument featuring children pushing two hemispheres into a globe](/blog/assets/3377523551_a20576f4ef_o.png "I like that the artist realized that the exertion would make more sense if the subjects needed to climb steps as they did the work...")
 
 ## Disclaimer
