@@ -54,6 +54,8 @@ There are some decent ideas that I wish were fleshed out more with action, rathe
 
 ## What Works...Less Well?
 
+{% include lesswell.md %}
+
 We never really get a justification for the title.  Even *without* the typo---the English term is "[mother lode](https://en.wiktionary.org/wiki/mother_lode#English)," for what that's worth eight years the story was published---it doesn't make as much sense as an introductory story seems like it would want, since the find isn't particularly important.  In the previous section, I mentioned that the ship is an interesting concept, but the characters don't think of it as something that will make them a fortune after they salvage it.
 
 Like I mentioned, it's basically a collection of all the tropes I dislike, which isn't Collins-Rivera's fault for liking them.  But personally, the "main character is a brilliant-and-out-of-shape-but-bored salaryman who has a crush on the narration-says-she’s-attractive token woman" trope doesn't work for me, since it seems to be trying to sell the story on the idea that "he's a hero, **just like you**."  The "I found a way to not curse" profanities also grate on my ears.  There might be a mole on the crew for...someone, somehow.  And the story is highly expository for things that could easily have been part of the action or just ignored, with even a lot of the action happening away from where the narrator is focusing or just foiled.
