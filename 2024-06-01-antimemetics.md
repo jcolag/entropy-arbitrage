@@ -11,6 +11,9 @@ spell: Asnicar QNTM antimemetics antimemetic Alestair Binnie
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches **There Is No Antimemetics Division**.
 
 ![Marion preparing to give El an injection](/blog/assets/anti-memetics-ep2-00-45.png "The quieter scenes really make this")

@@ -12,6 +12,9 @@ spell: Nouveau Fýlakas Onomáton CPREP Gran Vitral del Ciudad Unported
 
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks [World Art Nouveau Day](https://en.wikipedia.org/wiki/World_Art_Nouveau_Day)---sometimes referred to as "WAND," because we almost never get a long name with a pronounceable acronym---celebrating...well, the [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) movement, often trying to convey a sense of dynamism and movement.  When you see works, from line art up to architecture, with little asymmetries, organic lines, and especially lines that seem to indicate motion, then you probably have something relevant.
 
 ![Gran Vitral Tiffany del Hotel Ciudad de Mexico](/blog/assets/80130778-panoramio.png "I spent far too long deciding which appropriately licensed picture I wanted to use to represent the Art Nouveau movement, suggesting that maybe I like the style a bit...")

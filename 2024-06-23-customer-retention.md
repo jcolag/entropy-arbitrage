@@ -13,6 +13,9 @@ spell: decruited Valkaama Skifo Sablo Cerbolavado Bambuo Pedalo wynn gha cuatril
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I wrote some more short epistolary fiction for the modern age, though I admittedly started it a while back, as you might note from any remaining small context clues.  You'll find (lengthy) explanations at the end of the post.
 
 ![A person facing a parted curtain revealing a wall of candid photographs](/blog/assets/4545786174_cca8d2de24_o.png "Would our going into a jealous rage win you back? [Yes] [Maybe Later]")

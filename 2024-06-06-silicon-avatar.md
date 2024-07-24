@@ -11,6 +11,9 @@ spell: Riker Datalore kelbonite fistrium Marr Brechtian Bertolt Starfleet Jenina
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A magnified snowflake](/blog/assets/Snowflake-Detail.png "Yes, I used the same image the last time the thing showed up.")
 
 ## Disclaimer
@@ -60,6 +63,9 @@ I believe that both minerals originate with this episode.
 In a maybe-interesting twist, we've finally found somebody who has no interest in talking to Data because of his awful family, rather than his nature as an android.
 
  > **DATA**: As I have speculated, the presence of refractory metals---
+
+* Ignore for ToC
+{:toc}
 
 Oh, look.  Data appears to believe that his speculation---his word, not mine---should qualify as fact.
 

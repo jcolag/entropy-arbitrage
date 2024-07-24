@@ -11,6 +11,9 @@ spell: QCo Jek Porkins Wookieepedia ZaAPSdYIQzVadLxbHU Sita Antimemetics Binnie 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Recently, somebody posted to the [Free Culture chat on Matrix](https://matrix.to/#/!ZaAPSdYIQzVadLxbHU:matrix.org?via=matrix.org) expressing concern about the faltering Free Culture movement.  I originally wrote the skeleton of this post as a response, but thought that the idea warranted a wider distribution, better editing, and more thorough detailing where I could manage it.
 
 ![A logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner](/blog/assets/117878252_3c00463c07_o.png "One day, I'll try to come up with something of my own to illustrate these sorts of posts, but for now, I'll keep hammering the logo for a defunct student organization...")

@@ -12,6 +12,9 @@ spell: Inti Raymi Fictopedia Sacsayhuamán de-post unrot∙link diclish ficts wi
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 In the remnants of the Incan Empire, the (approximate) winter solstice---summer, for those of us in the Northern Hemisphere---such as today, marks the new year and festival celebrating [their Sun god](https://en.wikipedia.org/wiki/Inti), [Inti Raymi](https://en.wikipedia.org/wiki/Inti_Raymi).  Today, a minority of Peruvians celebrate the festival as more of a historical artifact.
 
 ![A 2009 Inti Raymi celebration at Sacsayhuamán, outside Cusco](/blog/assets/83-Cuzco-Juin-2009.png "I imagine that the Incas didn't wear quite as many baseball caps, but otherwise...")

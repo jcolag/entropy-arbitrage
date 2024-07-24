@@ -22,6 +22,9 @@ spell: Zangemann Fodongo Jectoons Revoy FSFE Foodperson djinn Hereva Secily Doll
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This post should probably go fairly quickly, since I don't generally "do" news; I certainly would never call myself anything like a journalist.  However, I wanted to make sure that readers had updates on a few well-liked projects that we've talked about as part of the [Free Culture Book Club](/blog/tag/bookclub).
 
 ![A news set with the logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner, showing on screens behind the anchors](/blog/assets/free-culture-news.png "I may have put more work into this than warranted, and still did a mediocre job on the screen edges...")
