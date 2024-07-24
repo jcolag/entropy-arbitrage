@@ -12,6 +12,9 @@ spell: Catburglar Cynth Jerico Kyveri Drovdlic
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays **Catburglar**.
 
 ![Cynth, twirling a keychain in a hallway](/blog/assets/catburglar.png "You can snag the full animation of the key-twirl in the repository")

@@ -11,6 +11,9 @@ spell: Screamscape Antimemetics
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads a couple of poems from R/L Monroe.
 
 ![A line of ramshackle buildings in silhouette against a vividly colored sky dotted with ambiguous black and white flecks. A large black anomaly looms overhead](/blog/assets/Skyline.png "OK, a bit more than the two poems...")

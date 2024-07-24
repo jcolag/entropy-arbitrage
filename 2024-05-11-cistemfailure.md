@@ -11,6 +11,9 @@ spell: Cistemfailure Dooommmm Cistem transmisogynistic Riotskarecords Riotska Ca
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) listens to **Cistemfailure**.
 
 ![The album art, featuring a banjo crossed with bolt-cutters, in front of the band's name in a rough script](/blog/assets/a2784444150_10.png "This seems like only the second project that centers a banjo, and I don't know whether than qualifies as weird because it seems like too few or too many...")

@@ -14,6 +14,9 @@ spell: reenactor Romulans Duras Romulan Yar SHANTHI Riker Starfleet Tian Berelli
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An American Civil War reenactor sitting against a wood-pile to read a letter](/blog/assets/37270938511_c1d1650f0e_o.png "Dear Mom, while they call this a civil war, we seem to spend a lot of attention on the pretentious bald fellow telling us that he may not involve himself in our affairs, while lecturing us about our culture and how the Romulans may have created Poland Spring water as a trap.")
 
 ## Disclaimer
@@ -103,6 +106,9 @@ Much like Scott's habit revealed in [**The Search for Spock**]({% post_url 2022-
 For reference, Worf resigned his commission, in the previous episode.  He shouldn't have any "duty" to return to, certainly not on Picard's say-so.  Does Starfleet still have his space-[I-9](https://en.wikipedia.org/wiki/Form_I-9) on file?  His space-[W4](https://en.wikipedia.org/wiki/Form_W-4)?
 
 Anyway, since everybody involved realized that they wasted Denise Crosby in the first season by not giving Yar anything to do, and since the character's origins give the crew such a natural responsibility and affinity for a nominal enemy, which fits right into the show's new obsession with family drama, we can expect to see Sela---
+
+* Ignore for ToC
+{:toc}
 
 Wait, *what*?
 

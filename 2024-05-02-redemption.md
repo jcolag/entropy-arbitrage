@@ -11,6 +11,9 @@ spell: Klingons Duras Kurn Worf Gowron Guinan Lursa Etor reenactor Romulans star
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An American Civil War reenactor sitting against a wood-pile to read a letter](/blog/assets/37270938511_c1d1650f0e_o.png "Dear Mom, while they call this a civil war, we seem to spend a lot of attention on the pretentious bald fellow telling us that he may not involve himself in our affairs, while lecturing us about our culture and how the Romulans may have created Poland Spring water as a trap.")
 
 ## Disclaimer

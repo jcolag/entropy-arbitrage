@@ -12,6 +12,9 @@ spell: Hıdırellez Notoboto Lydda Hydyrlez Bakhchisarai Nitery Earburn transmed
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today, Turks and their neighbors celebrate spring in [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), though folk traditions describe it as honoring the meeting of two important Muslim prophets, and borrows a bit from the legend of [George of Lydda](https://en.wikipedia.org/wiki/Saint_George), celebrated around the same time in some other parts of Europe.
 
 ![Celebration of Hydyrlez in the Bakhchisarai region of the Republic of Crimea](/blog/assets/5ccd9a194a62b5-33270460-IMG-0735.png "Yeah, I brought Crimea into this.  What of it...?")

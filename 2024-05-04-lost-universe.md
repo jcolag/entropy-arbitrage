@@ -11,6 +11,9 @@ spell: Aldastron Exlaris Zangemann claire andreoli mailto Arketnum Beska Pereia 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads **The Lost Universe**.
 
 ![A serpentine dragon enveloping the Hubble Space Telescope as its mouth catches up to its tail](/blog/assets/lost-universe-cover.png "Starting with images like this, it seems like a massive missed opportunity to not tie this in with world-serpent myths from around the world, but NASA rarely consults me on the important issues...")
