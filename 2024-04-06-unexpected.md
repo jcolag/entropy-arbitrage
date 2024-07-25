@@ -14,6 +14,9 @@ spell: Lemmer-Webber EncryptedWhispers ShareAlike FunkWhale Crowdagger
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches **In Unexpected Places**.
 
 ![Two drone-like objects showing different perspectives on a computer-generated eyeball as they circle it](/blog/assets/in-unexpected-places.png "Having something else look at the eye makes a mildly interesting twist")

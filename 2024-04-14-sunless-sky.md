@@ -11,6 +11,9 @@ spell: leaveth eyeroll woohoo Gah hurty Nutso Alichino Malacoda Draghignazzo Bol
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![The April 2024 solar eclipse from the Indianapolis Speedway](/blog/assets/NHQ202404080308.png "Wait until the animals start acting weird, the wine-guzzling neighbor covering their face with a colander tells me...")
 
 We proudly(?) present a chat log from the afternoon of 2024 April 08, recently disclosed.
@@ -68,6 +71,9 @@ We proudly(?) present a chat log from the afternoon of 2024 April 08, recently d
  > Humanity will continue to thrive...to the limited extent that it has. {% emoji woohoo %}
 
  > I think the Demon One---
+
+* Ignore for ToC
+{:toc}
 
  > Gah, now they have me doing it.
 
