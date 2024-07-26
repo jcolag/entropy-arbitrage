@@ -12,6 +12,9 @@ spell: Notoboto sup Spoutible Bridgy Webmentions Fýlakas Onomáton Scuttlers Sl
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 153<sup>rd</sup> anniversary of the [Paris Commune](https://en.wikipedia.org/wiki/Paris_Commune), a revolutionary government that took control of a lot of the city for more than two months.  People didn't look particularly kindly on them, often complaining that the uprising broke the peace of society.  And predictably, communist governments since have pointed to the failure of the commune as reasons to act in a totalitarian manner, particularly the Khmer Rouge.
 
 ![A barricade protecting the Paris Commune](/blog/assets/Paris-Commune-barricade.png "Do you hear the people---no?  Another different aborted revolution...?")

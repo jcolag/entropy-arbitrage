@@ -11,6 +11,9 @@ spell:
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading *Airlock Bound*, from chapter 1 to chapter 5.
 
 ![The book's cover, featuring a person with their head engulfed in blue flames, wielding a sword](/blog/assets/airlock-bound.png "That jacket looks inconvenient for fighting, no...?")

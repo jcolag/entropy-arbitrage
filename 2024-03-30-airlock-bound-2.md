@@ -14,6 +14,9 @@ spell: Transcenda Lionetts
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) finishes reading *Airlock Bound*.
 
 ![A panel from the comic, featuring Gale repairing a domed roof](/blog/assets/airlock-bound-e4-p5-p6.png "OSHA would not permit this use of a ladder...")

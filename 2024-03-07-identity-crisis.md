@@ -11,6 +11,9 @@ spell: LAFORGE Leijten LaForge holodeck shuttlepod Starfleet Ogawa HEDRICK Breve
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A chameleon lying on a branch](/blog/assets/3260943249_eafed154f1_o.png "You had to know that you'd either get this or a black-light poster...")
 
 ## Disclaimer

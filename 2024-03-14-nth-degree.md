@@ -11,6 +11,9 @@ spell: Troi LaForge Riker LAFORGE Starfleet holodeck Worf Cytherians Qpid Cillia
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![The "Cosmic Cliffs" in the Carina Nebula](/blog/assets/cosmic-cliffs.png "Nothing to do with the episode, other than...space")
 
 ## Disclaimer
@@ -36,6 +39,9 @@ They've decided that we need to watch a presentation of Edmond Rostand 1897 play
 Oh, and you'll also presumably remember Barclay from [*Hollow Pursuits*]({% post_url 2023-09-21-hollow-pursuits %}).
 
  > **DATA**: Lieutenant Barclay's performance was adequate, but clearly not rooted in The Method approach. I do not understand why---
+
+* Ignore for ToC
+{:toc}
 
 Oh, look, Data has found the One True Way of learning to act, which he discovered in [*Devil's Due*]({% post_url 2024-02-01-devil-s-due %}).
 

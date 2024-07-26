@@ -12,6 +12,9 @@ spell: Notoboto sup tcl searchText $widget $searchTerm sel $replaceTerm jsonresu
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 235<sup>th</sup> anniversary of the [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) taking effect.  The law had and continues to have some spectacular flaws, but on the whole represented a milestone in the nature of governance that I can't help respecting.  Seriously, strip away that monster of an explanatory comma from the Preamble, and consider the core idea remaining.
 
  > We the People...do ordain and establish this Constitution for the United States of America

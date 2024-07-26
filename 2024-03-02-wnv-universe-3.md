@@ -15,6 +15,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) finishes reading **Woethief**, from *WoeNyl Saves Theila* to *Sentencing*, plus any supplemental material.
 
 ![The book's cover, featuring silhouettes of spiders, bat-wings, a woman, and characters in various action poses](/blog/assets/Woethief-Cover.png "Will this cover prove itself as recounting the plot faster than the book itself?  Time will tell...")

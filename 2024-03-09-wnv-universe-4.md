@@ -16,6 +16,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads stories from the *WNV Universe*.
 
 ![The book's covering, featuring a female silhouette set against a larger tusked silhouette, in a grassy field](/blog/assets/true-loves-kiss-cover.png "The series definitely has a specific aesthetic")

@@ -12,6 +12,9 @@ spell: Butterick je suis une protéine ser Ecole polytechnique
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![People milling around and talking, behind a projected glass screen that obscures them](/blog/assets/40466252685_3701e77720_o.png "Something about the light fixtures and air vent delights me, for some reason...")
 
 Over the last year or so, I've started to groan at the drum-beat of social media posts that feel like such a waste of effort, especially since they all seem to read as if the various users copied-and-pasted them from some original post with some tweaks.  In other words, you could replace them all with the same post.
