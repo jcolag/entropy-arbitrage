@@ -12,6 +12,9 @@ spell: Stardate Starbase LAFORGE Menthars holodeck LaForge Starfleet Troi eyerol
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A holographic arm hovering in an empty space](/blog/assets/10936215935_cbe5009802_o.png "Don't touch it; you don't know where that finger has been...")
 
 ## Disclaimer

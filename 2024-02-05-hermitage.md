@@ -12,6 +12,9 @@ spell: Notoboto Unported Pandoc Sdobnikov
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 260<sup>th</sup> anniversary of the opening of the [Hermitage Museum](https://en.wikipedia.org/wiki/Hermitage_Museum) in Saint Petersburg.  While Russia has---and, honestly, has always had---its problems on the world stage, they have managed to maintain one of the largest and oldest museums in the world...which also carries the dubious distinction of carrying a lot of art and history that we would now call *stolen*, sadly.
 
 ![The New Hermitage from the street entrance](/blog/assets/NewHermitage.png "I can fault the Russians for many things in their history, but careful attention to subtle ornamentation does not appear on that list...")

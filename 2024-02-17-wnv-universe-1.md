@@ -11,6 +11,9 @@ spell: woethief WoeNyl Nyla Valora Ankor Ildylia soulclaine Solitudes Thelia
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading **Woethief**, from *WoeNyl Fights Ankor* to *The Final Duel*.
 
 ![The book's cover, featuring silhouettes of spiders, bat-wings, a woman, and characters in various action poses](/blog/assets/Woethief-Cover.png "Will this cover prove itself as recounting the plot faster than the book itself?  Time will tell...")

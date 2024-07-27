@@ -12,6 +12,9 @@ spell: Kingett Goalball Onoriode Ademola Trajectum Oude Pekela
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads *Pointy Chances*.
 
 ![A retractable ballpoint pen in rainbow colors](/blog/assets/pointy-pen.png "Probably not actually Pointy, but I couldn't find anything more appropriate...")

@@ -11,6 +11,9 @@ spell: Lanel Krola Mirasta Durken Borg Ferengi Romulan Romulans Tava Sachi Bebe 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Martial arts training, where a student seems to knock over an instructor with a staff](/blog/assets/black-and-white-white-training-black-monochrome-sports-1101019-pxhere.com.png "Probably not their first contact, per se, but...")
 
 ## Disclaimer

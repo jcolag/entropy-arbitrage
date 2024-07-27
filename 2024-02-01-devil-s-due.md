@@ -11,6 +11,9 @@ spell: Garnav Ardra Worf Troi Ventaxian misattributed kirybabe
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A woman dressed in a devil costume](/blog/assets/283681860_051f3fc865_o.png "Somehow no less credible than a popular show with a significant budget managed...")
 
 ## Disclaimer

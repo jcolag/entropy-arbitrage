@@ -12,6 +12,9 @@ spell: Notoboto Huaynaputina Colca Tk Hualca Enking
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 424<sup>th</sup> anniversary of the massive eruption of [Huaynaputina](https://en.wikipedia.org/wiki/Huaynaputina) in what we now call southern Peru.  Records suggest that people may have seen indications of the impending eruption as early as December 1599, and that it lasted for half to nearly a full day, with ash falling in the area for weeks.
 
 If you live in the United States, you know about the eruption by reputation, even if you've never heard the name or connected it to a volcano.  For example, the trouble that the English had in establishing [Jamestown](https://en.wikipedia.org/wiki/Jamestown,_Virginia) and the [1605 California floods](https://en.wikipedia.org/wiki/California_flood_of_1605) both trace their origins to the eruption, and the entire Northern Hemisphere seems to have had at least one wet summer and colder winter around 1601.

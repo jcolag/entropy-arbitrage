@@ -11,6 +11,9 @@ spell: Moria Dani Amihud RespectChildren Papses Woethief Nyla Valora WoeNyl Anko
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches **Moria's Race**.
 
 ![Two cars jockeying for position in a race](/blog/assets/morias-race-screenshot.png "Almost there")

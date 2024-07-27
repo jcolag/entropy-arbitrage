@@ -11,6 +11,9 @@ spell: Stardate Brittain Starfleet Farpoint LAFORGE Troi LaForge Keiko Betazoid 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A shadowy figure standing in a foggy field](/blog/assets/man-landscape-tree-nature-silhouette-snow-1332197-pxhere.com.png "And then he starts screaming out the Fibonacci sequence...")
 
 ## Disclaimer
