@@ -11,6 +11,9 @@ spell: Worf Dirgo Gamelan Ogawa Pentarus hyronalin Auprès ma il fait bon Boothb
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A cave-like space with periodic lights along the left wall](/blog/assets/formation-cave-soil-caving-landform-conduit-762307-pxhere.com.png "Sometimes, a cave doesn't have any metaphorical value...")
 
 ## Disclaimer

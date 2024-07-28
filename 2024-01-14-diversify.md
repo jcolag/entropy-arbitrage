@@ -11,6 +11,9 @@ spell: Prusa DeVault Redmine Revoy vanishingly Kollywood Karthika Transmedia Pix
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As a quick note, while I didn't entirely plan it this way, you can consider this post to commemorate and celebrate the preceding **one thousand** posts.  I started this blog a bit more than four years ago, and in that time have gotten out the thousandth-and-first post (this one), containing---depending on how you count them---a total of somewhere around a million and a half words.  {% emoji party popper %}
 
 ![A logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner](/blog/assets/117878252_3c00463c07_o.png "Recycled from a previous Free Culture-centric post...")

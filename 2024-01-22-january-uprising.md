@@ -12,6 +12,9 @@ spell: Polonia Matejko Notoboto
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 161<sup>st</sup> anniversary of the start of Poland's [January Uprising](https://en.wikipedia.org/wiki/January_Uprising) against the Russian occupation.  It didn't completely succeed, in that the Russian Empire continued to occupy the region---the Kingdom of Poland would get handed over to Germany in 1915, and finally regain its independence in 1918---but it connected a lot of society and still influences the region's culture.
 
 ![The 1863 painting "Poland Enchained"](/blog/assets/Jan-Matejko-Polonia-1863-Poland-Enchained-MNK-XII-453-National-Museum-Kraków.png "The poster in the background looks like a prop from Doctor Who so that the characters can gasp at their new locale...")

@@ -11,6 +11,9 @@ spell: Zangemann Matthias Kirschner Brandstätter FSFE und Ein Märchen über Hi
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads **Ada & Zangemann**.
 
 ![A stereotypical older tech CEO bends to peer down at a young girl on a skateboard](/blog/assets/ada-a00.png "If your back does that, see a doctor instead of using it to menace children")

@@ -11,6 +11,9 @@ spell: Colourized Ne Humanis Crede Gans Farscape sub-etha Ananke
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) listens to the first two episodes of **Space Rover**, *Undocumented Features* and *Ne Humanis Crede*.
 
 ![Concept art for the podcast, featuring a Jeep-like vehicle with bright orange pontoons instead of wheels, and a satellite dish mounted to the hood](/blog/assets/SpaceRover-2016ConceptArt-Colourized.png "I've seen worse designs, honestly...")

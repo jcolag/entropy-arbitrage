@@ -12,6 +12,9 @@ spell: Lemmy Notoboto Miniboost Nohat Unported
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I don't suppose that anybody really *celebrates* today, but today marks the twenty-third anniversary of the launch of [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), which has grown from a project meant to crowdsource writing for the team's "real" encyclopedia, to one of the cornerstones of the Free Culture movement and arguably the Internet as a whole.  Likewise, where we initially all looked at Wikipedia skeptically as a source of information, we have since learned that we need to look at *all* sources of information skeptically.  A quick check tells me that roughly four out of every five posts on this blog contains at least one link to a Wikipedia article, so I suppose that I should celebrate, at least a bit.  {% emoji party popper %}  OK, that feels like enough.
 
 ![Wikipedia's logo, an incomplete sphere made of large, white jigsaw puzzle pieces. Each puzzle piece contains one glyph from a different writing system, with each glyph written in black](/blog/assets/Wikipedia-logo-version-2.png "Has the Wikimedia Foundation manufactured and sold stuffed toys of this globe?  I feel like that'd work far better than Jimbo randomly begging for money every so often...")
