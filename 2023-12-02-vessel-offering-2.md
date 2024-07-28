@@ -14,6 +14,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues reading **A Vessel for Offering** with Chapters Three and (half of) Four.
 
 ![A plain green book cover with an abstract crown glyph](/blog/assets/vessel-offering.png "Trying not to judge...well, you know")

@@ -11,6 +11,9 @@ spell: Stardate Onias Romulan Romulans LAFORGE Riker Ogawa Ferengi warbird Troi 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A misty field, tinted orange](/blog/assets/21413914314_963cde50f0_o.png "This covers the song and the gas, I suppose...")
 
 ## Disclaimer

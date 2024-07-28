@@ -11,6 +11,9 @@ spell: LAFORGE Dalen Quaice LaForge Selar Kosinski starbase Starfleet millicochr
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A length of string tied around an index finger](/blog/assets/String-around-finger.png "I need to...remember to buy more string, maybe?")
 
 ## Disclaimer

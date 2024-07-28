@@ -11,6 +11,9 @@ teaser: This week's projects include Notoboto and the December newsletter, mostl
 spell: Notoboto Nast Yaldā Tk PxHere
 ---
 
+* Ignore for ToC
+{:toc}
+
 I don't need to explain [Christmas]({% post_url 2019-12-24-christmas %}) to anyone, do I?  To gain favor among potential converts, Christians adapted an assortment of holidays adjacent to the winter-in-the-Northern-Hemisphere solstice as a raucous festival.  When the Industrial Revolution meant that Christmas festivities would put masses of raucous poor people in the same regions as wealthy people, a campaign---including such luminaries as Charles Dickens and Thomas Nast---reinvented Christmas as the quiet family holiday that we know today.
 
 ![A girl in a red cloak and hat carrying white ice skates over her shoulder in a snowy outdoor area](/blog/assets/outdoor-snow-cold-winter-girl-skate-669822-pxhere.com.png "Smart kid, finding a way to avoid the family fighting over who brought the best dessert")
