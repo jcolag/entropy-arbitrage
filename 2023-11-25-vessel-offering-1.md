@@ -11,6 +11,9 @@ spell: Unglue pseudo-Lovecraftian Whiston Nomar sfx envireon
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading **A Vessel for Offering** with Chapters One and Two.
 
 ![A plain green book cover with an abstract crown glyph](/blog/assets/vessel-offering.png "Trying not to judge...well, you know")

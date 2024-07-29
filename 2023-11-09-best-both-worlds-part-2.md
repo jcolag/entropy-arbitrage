@@ -12,6 +12,9 @@ spell: startrek Romulans Riker Starfleet Worf Unterarm
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A hairy arm with a QWERTY keyboard "embedded" into it](/blog/assets/8589339766_d438da8fff_o.png "Never trust a keyboard where touch-typing requires inviting a friend...")
 
 ## Disclaimer

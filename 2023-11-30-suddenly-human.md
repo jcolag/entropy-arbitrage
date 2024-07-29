@@ -11,6 +11,9 @@ spell: Woden Jono Worf Riker Endar Connaught Rossa Rossas Westphall McDuffie Enm
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Still scanning the galaxy](/blog/assets/eso0733a.png "Still scanning the galaxy")
 
 ## Disclaimer
