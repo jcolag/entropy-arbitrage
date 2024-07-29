@@ -11,6 +11,9 @@ spell: stardate Jouret Starfleet Romulan Ferengi Riker Dennehy LAFORGE Yar LaFor
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A person wearing headphones and holding a small, old mobile phone in front of their left eye showing a photograph of their left eye, while looking surprised at something](/blog/assets/2421386153_472cdbcb56_o.png "Oh, like he looks any sillier...")
 
 ## Disclaimer

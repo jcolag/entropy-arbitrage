@@ -11,6 +11,9 @@ spell: Transfigurations Stardate gelis LARP LAFORGE Geordi Worf LaForge eyeroll 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A view of a moodily lit bar with three bartenders working and the hand of one patron in the foreground](/blog/assets/person-restaurant-bar-meal-beverage-nightlife-705958-pxhere.com.png "🎶 Sometimes you want to go where nobody knows your name unless you have a spot in the main credits...")
 
 ## Disclaimer

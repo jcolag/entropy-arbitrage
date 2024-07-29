@@ -10,6 +10,9 @@ teaser: This week's projects include a sneak peek at the upcoming newsletter, so
 spell: Hashover Fýlakas Onomáton Miniboost Slackup Uxuyu Zoea Krikheli
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today, the [Remembrance Day for the Victims of Political Repression](https://en.wikipedia.org/wiki/Day_of_Remembrance_of_the_Victims_of_Political_Repressions), memorializes the victims of political repression in the former Soviet Union.
 
 ![The Return of the Names ceremony in Moscow, 2016](/blog/assets/Return-of-the-Names-29-10-2016-Moscow-A-01.png "The person to the far left, with a completely different style of jacket and attention drawn out of frame, seems wildly out of place...")

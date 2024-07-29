@@ -11,6 +11,9 @@ spell: Lwaxana Troi Riker Worf stardate Betazed Ferengi Aldabren Algolian Reitta
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A close-up of a glass chess set](/blog/assets/2338077903_051cc0bf04_o.png "Sorry, I couldn't find any pictures representing the crew's fear of middle-aged women who enjoy sex")
 
 ## Disclaimer
