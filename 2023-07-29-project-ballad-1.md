@@ -11,6 +11,9 @@ spell: followable Theiss Czapiewski Fusco Obake Monsterphone
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading **Project Ballad**, the first forty-five pages.
 
 ![The main cast of the comic, milling around in costume](/blog/assets/project-ballad-cover.png "William Ware Theiss does Eurovision?")

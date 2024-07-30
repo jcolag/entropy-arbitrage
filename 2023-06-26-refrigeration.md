@@ -10,6 +10,9 @@ teaser: This week's projects include my Mastodon Tool Trunk, my newsletter for J
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today celebrates [World Refrigeration Day](https://en.wikipedia.org/wiki/World_Refrigeration_Day), which...OK, look, *technically* this violates my internal and informal rules, because it amounts to a commercial for an industry, in this case established by the World Refrigeration Day Secretariat in Derbyshire, England.  However, they think too small.  Refrigeration changed the world, from allowing us to buy food out of season, in various forms, to reducing food waste, to enabling organ transplants, to allowing the distribution of some medication and vaccines, to helping us endure heat waves, and more, and at least they used [Lord Kelvin](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)'s birthday as the date.  Therefore, I say that we appropriate the holiday for our own purposes...
 
 If you don't love that, though, we also have the [International Day Against Drug Abuse and Illicit Trafficking](https://en.wikipedia.org/wiki/International_Day_Against_Drug_Abuse_and_Illicit_Trafficking) and the [International Day in Support of Victims of Torture](International Day in Support of Victims of Torture).  The former inspires...let's call them "mixed feelings," given the directions that the [War on Drugs](https://en.wikipedia.org/wiki/War_on_drugs) has taken.  And the latter?  Sure, we both support torture victims, but you didn't really want to start your week looking at pictures of that violence, did you...?

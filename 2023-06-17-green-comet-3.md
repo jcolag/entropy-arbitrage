@@ -14,6 +14,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) finishes the first quarter of a novel, from *Yellow Comet* to *The Visitor Stops Blinking*.
 
 ![The cover to Green Comet, featuring a green-tinted structure that looks like stone](/blog/assets/green-comet.png "Seems fairly literal, but sure.")

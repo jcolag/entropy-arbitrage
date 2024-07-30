@@ -10,6 +10,9 @@ teaser: This week's projects include a bunch more library updates and teasing a 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the [World Day Against Child Labor](https://en.wikipedia.org/wiki/World_Day_Against_Child_Labour)---OK, technically "Labour," since the ILO has worked out of Europe for over a hundred years, but I don't feel like hassling with the spell-checker---which raises awareness of and tries to spur activism against child labor.  This probably hasn't seemed like a big deal for most of us in recent years, but states with reactionary leadership in the United States have spent a lot of the past couple of years loosening restrictions on child labor laws in an effort to drive down wages...on top of deliberately acting cruel to children, by shielding their employers from liability in the case of workplace injuries.
 
 ![Child coal miners — drivers and mules, in Gary, West Virginia, mine](/blog/assets/Child-coal-miners-1908-crop.png "Learning productive skills, such as how to cover up black lung disease...")

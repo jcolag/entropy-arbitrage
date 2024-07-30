@@ -11,6 +11,9 @@ teaser: This week's projects include more library updates, as I rest up...
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 If you've followed this blog for more than a year, or (more likely) existed in the United States media landscape for the past few years, you probably already know that we---though largely Black communities in the United States---celebrate [Juneteenth](https://en.wikipedia.org/wiki/Juneteenth) or Emancipation Day today, recognizing the day following the Civil War, when the military (officially, at least) freed Texan slaves, the final state to have received the official declaration, due to its position in the southwest of the country at the time and the sunk cost by its leaders in maintaining slavery.  (No, really.  Its occasional independence, the Oklahoma panhandle, the Alamo, and a lot more all revolve around refusing to free slaves.)
 
 I mention this blog, because I have made an effort to recognize it in [2020]({% post_url 2020-06-19-week %}), [2021]({% post_url 2021-06-20-juneteenth %}), and [2022]({% post_url 2022-06-20-refugee %}), where you'll find my general thoughts on (frankly) one of the few holidays that we have that actually celebrates something unambiguously good, the dismantling of a toxic institution.

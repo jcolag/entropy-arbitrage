@@ -10,6 +10,9 @@ teaser: This week's projects include my Periodic Scripts and a mess of library u
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today celebrates [World Environment Day](https://en.wikipedia.org/wiki/World_Environment_Day), a platform to advocate for various environmental issues.  Every year, the committee behind it chooses a host city---or small country, in recent years---and theme.  While I can't find a reference to today's host, but the [official website](https://www.worldenvironmentday.global/) tells me that we have *Beat Plastic Pollution* serving as this year's theme.
 
 ![The helmet worn by the UN Peacekeepers force](/blog/assets/15636978156_5313675756_o.png "Do they pad them on the outside?  That seems irresponsible")

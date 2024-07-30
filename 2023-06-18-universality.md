@@ -15,6 +15,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I've always kicked around a vague idea for this discussion in the back of my mind, but never quite felt like I had the right to step forward and talk about it.  I don't want to speak too much about marginalized groups, because society doesn't treat me as marginalized.  However, I have seen it come up a few times and in different contexts, so I feel the need to say *something*, and [Pride Month](https://en.wikipedia.org/wiki/Pride_Month) seemed like an especially useful time to do that.
 
 Specifically, few things worry me more than when I hear people---particularly representing already-marginalized groups---worrying that they don't fit into the groups that they believe they should.

@@ -10,6 +10,9 @@ teaser: Since some people apparently still find the concept mysterious, I break 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Starting with a quick note, I originally wanted to post this last weekend in a timely manner, but didn't have the time to give it, given its length and lateness this morning.  During the intervening week, a lot of the rage around the decision has dissipated in the popular discourse, but I still want to get this out there, because equality hasn't become *less* important.
 
 In any case, as I've hinted at [once]({% post_url 2019-12-08-greetings %}) or [twice]({% post_url 2020-01-12-quora %}), I'll occasionally recycle some answers that I have written on Quora and update them for my current line of thinking, especially when current events suggest it.

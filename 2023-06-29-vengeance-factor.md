@@ -10,6 +10,9 @@ teaser: For this episode, we need to talk about Federation exceptionalism, profe
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![The Hatfields in 1897](/blog/assets/HatfieldClan.png "Wait. How did the Mirror Universe not change the doctor's name to Leonard Hatfield...?")
 
 ## Disclaimer

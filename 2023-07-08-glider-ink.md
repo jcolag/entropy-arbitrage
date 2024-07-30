@@ -10,6 +10,9 @@ teaser: This week brings us a short story trying to introduce a new-ish solarpun
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays *Someone Like You* from the **Glider Ink** project.
 
 ![A partially abstract scene at the Glider Hackerspace, with silhouettes working and moving around](/blog/assets/hackerspace_mike_liuzzi.png "I hope the giant orange bin gets a line.")

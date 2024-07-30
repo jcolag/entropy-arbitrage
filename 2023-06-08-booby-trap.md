@@ -11,6 +11,9 @@ teaser: The episode forces us to talk about dating, sexism, racism, privacy law,
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A person with their finger caught in an old-style, spring-loaded mousetrap, baited with a paper heart](/blog/assets/5265260921_15c339b2a9_o.png "Does this relate to the A-plot or the B-plot?  The world will ever wonder.")
 
 ## Disclaimer
@@ -78,6 +81,9 @@ Fully mechanical clocks (as opposed to far earlier mechanical clocks specificall
 I feel like I ask something like this every week, but how has "do the historical records talk about this" not become the first thing that they checked?
 
  > **DATA**: There are many fascinating records of Menthar battle strategy. They were exceptionally innovative. In fact, they were the first to use the Kavis Teke elusive maneuver as well as the passive lure stratagem that is comparable to Napoleon's---
+
+* Ignore for ToC
+{:toc}
 
 And Data needs to talk about irrelevant topics, because they definitely don't have a ticking clock.
 

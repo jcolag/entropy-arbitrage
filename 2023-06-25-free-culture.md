@@ -10,6 +10,9 @@ teaser: I try to give an overview of why I make a big deal on this blog about Fr
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As happens on some of these Sunday posts, the idea for this struck me quickly, and I tried to pull something together for today.  As a result, you might consider this a first draft of the actual post, since I guarantee that---if I ever took the time to carefully re-read it, which probably won't happen---I'd want to restructure most of it and probably rewrite half.  In other words, I apologize if this comes out messier than a typical post.
 
 ![A logo representing Free Culture, featuring a sketch of three definitely generic modular brick toys stacked as a corner](/blog/assets/117878252_3c00463c07_o.png "The original organization appears to have abandoned their use of the logo, so I might as well use it here...")

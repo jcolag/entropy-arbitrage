@@ -11,6 +11,9 @@ teaser: This week brings us a web comic in progress, set on a future Earth.
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads a web comic, **Let's Move Forward**.
 
 ![The cover to Let's Move Forward's prologue, featuring a family portrait of the Fairstones and a newspaper featuring one of them, set on a desk in front of a window.  Titles proclaim the prologue "The Last Day of Normal," and indicates the credits and license](/blog/assets/lets-move-forward-ch000-p000.png "I can't think of a single scenario where the newspaper ends up UNDER the standing picture, honestly.  It will fall...")

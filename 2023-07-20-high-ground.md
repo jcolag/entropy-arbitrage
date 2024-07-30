@@ -11,6 +11,9 @@ spell: Stardate rutia Ansata rutiar Acamar untrustworthiness Romulans Worf trico
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An 1867 Punch cartoon commenting on the Fenian Rising, featuring a sloppily dressed man sitting on a barrel labeled gunpowder while waving a torch around, and a family around him](/blog/assets/Fenian-guy-fawkesr1867reduced.png "The least-biased image that I could find representing terrorism, sadly...")
 
 ## Disclaimer
@@ -114,6 +117,9 @@ This *could* have made a difference to the plot.  But since we don't know why th
 Troi really knows how to think on her feet, doesn't she?  Yes, LaForge's plan involves ignoring the bomb and beaming himself unprotected into the vacuum of space...
 
  > **WESLEY**: No, sir, the readings are---
+
+* Ignore for ToC
+{:toc}
 
 Did Picard try to start a fist-fight with Finn...?
 
