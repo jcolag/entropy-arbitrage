@@ -12,6 +12,9 @@ spell: SaaH Grabiński Szary pokój mana heritor hauntings PxHere
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As many readers probably know, I like to think of different interesting ways to explain things---particularly software-----to people.  It probably comes from the days when I had a day job *and* taught both graduate computer science classes and adult education computer classes, where each of those contexts differs dramatically in terms of background, interest, and patience.
 
 ![An old, run-down house with a "haunted" look to it, with JavaScript code pushing through the structure](/blog/assets/black-and-white-house-window-building-chateau-old-1264128-pxhere-com-pdf-js.png "Would the property values rise or sink, I wonder, if we changed the code to Oberon or Leda...")
@@ -95,6 +98,9 @@ We have, in other words, our hauntings.  The presences that come along with soft
 You raise a good question, headings.
 
 ### Thank---
+
+* Ignore for ToC
+{:toc}
 
 Nope.  No, we will *not* do that.
 

@@ -12,6 +12,9 @@ spell: Tanuga Apgar Léger proto-Vulcan dicosilium Nel Riker Krag Manua Troi Sta
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Two abstract figures (farmers?) standing on opposite sides of a rectalinear figure, which one interprets as a number six and the other interprets as a number nine, due to their positions](/blog/assets/Point_of_view_bias.png "Yes, I see it.  No, I won't make the joke.  Take it to social media, if you must...")
 
 ## Disclaimer
@@ -47,6 +50,9 @@ Oh, and note Picard's grumpiness, which carries the suggestion that Picard doesn
 I assume that dicosilium has no relationship to [psyllium](https://en.wikipedia.org/wiki/Psyllium), though I can't find a closer match.  While many people have the surname [Krieger](https://en.wikipedia.org/wiki/Krieger_%28surname%29), I can't find any who might have discovered or specified a waveform; more likely, they named the waves after someone working on the show.
 
  > **RIKER**: Murder? Now wait a minute, you can't come on---
+
+* Ignore for ToC
+{:toc}
 
 What, does he think that he deserves an exemption from murder investigations?
 

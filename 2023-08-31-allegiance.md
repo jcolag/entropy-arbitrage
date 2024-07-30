@@ -11,6 +11,9 @@ spell: Farpoint Stardate Phyrox Caroli Browder Mitena Haro Starfleet Riker Bolia
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Ducklings follow a parent](/blog/assets/Ducks-in-a-row-following-leader.png "Ironically, the parent duck also plans on parking next to a random star to see how everybody reacts")
 
 ## Disclaimer

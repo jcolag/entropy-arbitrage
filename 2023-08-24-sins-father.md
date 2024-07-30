@@ -11,6 +11,9 @@ teaser: For this episode, we talk about plenty of Klingon culture, but also poor
 spell: Tanakh Stardate Riker Pagh Kurn Starfleet LaForge LAFORGE Worf Khitomer Romulan Intrépide mpec PxHere
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A gavel resting on an open book](/blog/assets/book-read-wood-guitar-hammer-brown-641052-pxhere.com.png "I feel like using these header images to recontextualize the episode into our own culture exposes them as somewhat silly, behind the solid set designs and decent acting...")
 
 ## Disclaimer

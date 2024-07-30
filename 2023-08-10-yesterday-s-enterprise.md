@@ -12,6 +12,9 @@ spell: aerostat Yar Worf Guinan Starfleet superstring Riker Romulan Ferengi tric
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An 1861 drawing of Professor Thaddeus S.C, Lowe's areostat Enterprise, arguably the ancestor of air and space programs](/blog/assets/Enterprise-Balloon-Corps-1861.png "Apologies for the crummy line-work; I couldn't find a decent-sized scan")
 
 ## Disclaimer

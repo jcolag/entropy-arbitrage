@@ -11,6 +11,9 @@ spell: uncredited PxHere
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads *Full Bloom*.
 
 ![A field of pink-to-purple flowers blooming in a grassy field](/blog/assets/nature-grass-plant-white-field-lawn-586790-pxhere.com.png "Pardon the shallow reading...")

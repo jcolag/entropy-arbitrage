@@ -11,6 +11,9 @@ spell: Notoboto Kaqchikel Iximché cson Tcl externalizer Colocho
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 In keeping with this month's accidental theme of oppressed populations telling colonizers where they can stuff their power and authority---a lot of the Caribbean celebrated various Emancipation Days early in the month, too, before the month's first developer diary post---today marks the 499<sup>th</sup> anniversary of the Kaqchikel Rebellion.  As the [Spanish invaded modern-day Guatemala](https://en.wikipedia.org/wiki/Spanish_conquest_of_Guatemala), they forged a handful of alliances, particularly with the [Kaqchikel](https://en.wikipedia.org/wiki/Kaqchikel_people).
 
 When a priest claimed that the Kaqchikel would inevitably destroy Spain, the Kaqchikel abandoned their alliance and joined the defense, which largely stalled Spanish advances for about six years.  Strip that story of its religious and maybe superstitious trappings, and consider that it only took *one person* to make an entire population rethink what side of history they wanted to stand on.

@@ -11,6 +11,9 @@ spell: Jamaharon Risa Riker Troi Gemarians Dachlyds Starfleet Icor Starbase Maje
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Three people in beach-wear playing a Twister-like game on a pad in the sand](/blog/assets/beach-people-summer-female-leg-clothing-764741-pxhere.com.png "Jamaharon seemed less interesting than presented on television...")
 
 ## Disclaimer

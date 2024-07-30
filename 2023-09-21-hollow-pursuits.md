@@ -12,6 +12,9 @@ spell: splaining LaForge LAFORGE Riker Starfleet Wes Geordi Guinan holodeck Troi
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A person sitting a bench engrossed in a video game in a dark space with red lighting](/blog/assets/game-games-electronics-screen-electronic-device-technology-1608777-pxhere.com.png "If I had the same colleagues, I'd probably spend more time playing video games, too...")
 
 ## Disclaimer

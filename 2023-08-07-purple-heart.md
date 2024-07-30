@@ -11,6 +11,9 @@ spell: Lemmy notoboto Jectoons Miniboost Tcl Tk boto botos nonogram Replybrary S
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 In the United States, today marks the 241<sup>st</sup> anniversary of the creation of the [Badge of Military Merit](https://en.wikipedia.org/wiki/Badge_of_Military_Merit), now known---or, arguably, succeeded by---the [Purple Heart](https://en.wikipedia.org/wiki/Purple_Heart).  While I don't generally go in for militarism, even I can accept that maybe we should at least briefly applaud those who sacrificed their bodies or entire lives to defending their country, even (or *especially*) if they didn't believe that the situation warranted military action.
 
 ![A Badge of Military Merit](/blog/assets/badge-of-military-merit.png "Not to derail the topic, but it vaguely surprises that, at least to my knowledge, nobody produces a military-themed parody of Lucky Charms cereal...")

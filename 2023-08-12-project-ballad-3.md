@@ -11,6 +11,9 @@ spell: Theiss Czapiewski Fusco PicaGeek BE Aureline Pannych Phyr rollergirl Kaba
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) finishes reading **Project Ballad**, the final forty pages, mostly prose.
 
 ![The main cast of the comic, milling around in costume](/blog/assets/project-ballad-cover.png "William Ware Theiss does Eurovision?")

@@ -11,6 +11,9 @@ spell: Gerakan Pramuka Notoboto Anakmadiun Unported Tcl Tk pnl kabang
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 While more recent than I would generally prefer, today marks the 62<sup>nd</sup> anniversary of the founding of the [Gerakan Pramuka](https://en.wikipedia.org/wiki/Gerakan_Pramuka_Indonesia), Indonesia's home-grown youth scouting organization, founded to overhaul the prior scouting movement to erase its British influences.  I wouldn't say that I find these organizations comfortable or devoid of criticism, but I do appreciate the sentiment of wanting to decolonize the institutions that affect the youth.
 
 ![Indonesian Scouts at the 8th Indonesian National Rover Moot July 8-17 2003](/blog/assets/Gerakan-Pramuka-Indonesia-Scouts-8th-Indonesian-National-Rover-Moot-2003.png "See, I would've called epaulets and a cloak too much, but he makes them work...")

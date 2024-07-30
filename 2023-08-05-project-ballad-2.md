@@ -11,6 +11,9 @@ spell: Theiss Czapiewski Fusco PicaGeek BE Auraline
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues reading **Project Ballad**, the second forty-five pages.
 
 ![The main cast of the comic, milling around in costume](/blog/assets/project-ballad-cover.png "William Ware Theiss does Eurovision?")

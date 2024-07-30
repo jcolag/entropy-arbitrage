@@ -10,6 +10,9 @@ teaser: For this episode, we talk about parenting, civil rights, and why the Fed
 spell: Lal Stardate Riker Selebi Selebi-Phikwe LaForge Troi Worf Starfleet hu-mansplaining Datalore Haftel Galor Coster Judyann Guinan Frakes Soong-type Romulan Romulans Salimfadhley Unported
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A frog swimming through frogspawn-filled water](/blog/assets/Frog_in_frogspawn.png "Sixteenth from the left, seven rows down, we can call Lal, if you insist")
 
 ## Disclaimer
@@ -106,9 +109,15 @@ They apparently don't have some magic technology for trimming hair.
 
  > **LAL**: Why do we have two hands? Why not three or four? Why is the sky black? Why do---
 
+* Ignore for ToC
+{:toc}
+
 Wow.  He made a huge deal about his concerns that people would shut him down whenever they felt like, in [*Datalore*]({% post_url 2022-08-11-datalore %}), but decided to inflict that on someone he calls his child.  Maybe Starfleet has a point about separating them...
 
  > **HAFTEL**: We all have enormous admiration for what Commander Data has already achieved, but we have superior facilities and personnel here at Galor Four. A starship is hardly a proper setting for this---
+
+* Ignore for ToC
+{:toc}
 
 You might recognize the admiral as [Nicolas Coster](https://en.wikipedia.org/wiki/Nicolas_Coster), who made the rounds on genre television about a decade prior to when this episode aired.
 
@@ -185,6 +194,9 @@ You know, because the Romulans spend so much time invading Federation territory.
 Again, they make it clear that androids don't have rights.
 
  > **PICARD**: There are times, sir, when men of good conscience cannot blindly follow orders. You acknowledge their sentience, but you ignore their personal liberties and freedom. Order a man to hand his child over to the state? Not while I am his captain. If you wish, you can accompany us to Starfleet, where we shall see---
+
+* Ignore for ToC
+{:toc}
 
 It took him long enough to get here.  It seems like he could have sped this argument up dramatically, had he...I don't know, maybe cited the legal case that he participated in, quoted the decision, and demanded to take this to Starfleet's leadership in the first place, instead of constantly trying to compromise on the rights of citizens.
 
