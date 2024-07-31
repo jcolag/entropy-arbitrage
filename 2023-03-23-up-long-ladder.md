@@ -11,6 +11,9 @@ teaser: For this episode, we talk about some future history, officers still igno
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A line of Irish dancers on a stage, all dressed in green, dancing in front of a band](/blog/assets/Irish-Dancers.png "Correct.  I could not find an image as stereotypical as what we see in the episode...")
 
 ## Disclaimer

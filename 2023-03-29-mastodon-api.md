@@ -10,6 +10,9 @@ teaser: The API doesn't really need much explanation, though I found a couple of
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Over the past couple of months, I've started a handful of [tools for working with Mastodon](https://github.com/jcolag/tool-trunk), based on---as you can probably guess---the [Mastodon API](https://docs.joinmastodon.org/client/intro/).  Initially, I planned to write up a post about the entire experience of working with the API, but things mostly flowed so smoothly that I couldn't see writing a post about things working.
 
 ![An AI-generated image of a brown and gray robot mastodon moving through a valley jungle](/blog/assets/wavKNbT207mwbN89FSIs--2--4v242.png "Not how I expected the server room to look, honestly...")

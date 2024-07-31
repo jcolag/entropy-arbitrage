@@ -9,6 +9,9 @@ thumbnail: /blog/assets/15-Hegasy-Cas9-DNA-Tool-Wiki-E-CCBYSA.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![CRISPR-Cas9 as a Molecular Tool Introduces Targeted Double Strand DNA Breaks](/blog/assets/15-Hegasy-Cas9-DNA-Tool-Wiki-E-CCBYSA.png "Mean CRISPR makes people old, I guess")
 
 ## Disclaimer

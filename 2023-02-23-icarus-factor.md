@@ -9,6 +9,9 @@ thumbnail: /blog/assets/The-Fall-of-Icarus.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A relief showing The Fall of Icarus, including the labyrinth, a head as the Sun, and Daedalus looking irritated at his son](/blog/assets/The-Fall-of-Icarus.png "Didn't the Sun star in Planet of the Apes?")
 
 ## Disclaimer
@@ -70,6 +73,9 @@ They decided to spy on a colleague, because he acted mildly angry.  I can't help
 This will surprise them, as if telling Worf that they've spoken about him behind his back shouldn't offend anybody.
 
  > **WORF**: Still, to die a true hero---
+
+* Ignore for ToC
+{:toc}
 
 We've gone back to that nonsense, again...?
 

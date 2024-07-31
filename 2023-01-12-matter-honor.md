@@ -9,6 +9,9 @@ thumbnail: /blog/assets/5188365617_e4817d73f5_o.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A group of people in Klingon costumes toasting something around a table](/blog/assets/5188365617_e4817d73f5_o.png "Why do we all sit on this side of the table?  Err...that side has no honor.  Sure.  Let's go with that.")
 
 ## Disclaimer

@@ -9,6 +9,9 @@ thumbnail: /blog/assets/FSHFYQYACNFN5ML2INUYJFFVMI.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![People lined up in Times Square for sandwiches during the Great Depression](/blog/assets/FSHFYQYACNFN5ML2INUYJFFVMI.png "What a difference a century and a million billboards make...")
 
 ## Disclaimer

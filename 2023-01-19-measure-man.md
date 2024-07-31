@@ -9,6 +9,9 @@ thumbnail: /blog/assets/36804045581_14ac148b2e_o.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A tailor measuring an adult male customer for a suit](/blog/assets/36804045581_14ac148b2e_o.png "Look, either I used something like this or make a reference to Dred Scott v Sandford.  Which would you really rather I make a snarky comment about...?")
 
 ## Disclaimer

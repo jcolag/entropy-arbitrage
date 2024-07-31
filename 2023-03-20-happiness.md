@@ -11,6 +11,9 @@ proofed: true
 offset: -29%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the [International Day of Happiness](https://en.wikipedia.org/wiki/International_Day_of_Happiness), a United Nations project to "make people around the world realize the importance of happiness within their lives."  It also includes a campaign to make people happier, through exactly the sorts of changes that you might expect, like reducing poverty and inequality, protecting the environment, and so forth.
 
 ![A smiling 95-year-old man from Pichilemu, Chile](/blog/assets/Mario-Canete-Farias-in-2007.png "I think that I might like the flannel/sweater/sport-coat combination...")

@@ -10,6 +10,9 @@ teaser: This week, we start an interesting visual novel that has some structural
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts playing through a visual novel, the prologue *Duel* to Volume Three *Of Growth, Economic and Cultural*.
 
 ![A cropped screenshot of the visual novel, showing a feminine troll character in a business suit, standing in a conference room](/blog/assets/snowbound-blood-hamiki.png "I've had secret meetings in dark conference rooms that felt FAR more awkward than this one did...")

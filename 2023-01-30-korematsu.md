@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Luggage-Japanese-American-internment.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today, California and other states celebrate [Fred Korematsu Day of Civil Liberties and the Constitution](https://en.wikipedia.org/wiki/Fred_Korematsu_Day), honoring the Japanese-American civil rights activist whose name you may recognize from [*Korematsu v US*](https://en.wikipedia.org/wiki/Korematsu_v._US), the Supreme Court case attempting to fight the internment of Japanese-Americans during World War II.
 
 ![Baggage held at an internment camp](/blog/assets/Luggage-Japanese-American-internment.png "A photographer somehow saw an internment camp and decided that the world needed to see the baggage claim.  Well, it saves us the trauma of looking at prisoners, so I guess I owe that lousy photographer some modest thanks...")

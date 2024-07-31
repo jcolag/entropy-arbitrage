@@ -15,6 +15,9 @@ offset: -32%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 In recent months, we've seen a variety of new social media sites appear.  Some already existed for a while, and have only recently gained prominence.  Others came about in response to the ongoing disasters at the major social media companies.
 
 ![A brick wall, with the command "Like me!" written as graffiti on the left, with a thumbs-up, opposite a superimposed (probably) feminine eye looking at it](/blog/assets/woman-wall-internet-red-communication-friendship-923229-pxhere.com.png "I'd sign up for a service like this, at least to try it out...")

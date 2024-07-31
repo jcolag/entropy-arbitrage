@@ -10,6 +10,9 @@ teaser: Someone finally calls out Picard's toxic masculinity, in an episode fill
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Doctors operating, presumably on a patient, circa 1965](/blog/assets/14356056541_d9e22ef6c7_o.png "We could improve this scene dramatically with blood-red robes and hats")
 
 ## Disclaimer

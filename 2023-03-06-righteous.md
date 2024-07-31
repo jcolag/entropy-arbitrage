@@ -10,6 +10,9 @@ teaser: This week's updates include new calendars and sentiment analysis for my 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today, in a self-explanatory part of the world, people celebrate the [European Day of the Righteous](https://en.wikipedia.org/wiki/European_Day_of_the_Righteous), originally a memorial for the Armenian Genocide, but now more broadly honoring people who have taken stands against authoritarians or crimes against humanity.
 
 ![All in blue, the European circle of stars logo to the left of the words "European Day of the Righteous"](/blog/assets/European-Day-of-the-Righteous-logo.png "I don't think that I've ever seen a holiday with its own logo")
