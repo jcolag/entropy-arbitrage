@@ -10,6 +10,9 @@ teaser: This week brings us an interactive murder mystery comedy, built around t
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays an interactive murder mystery.
 
 ![A (fake) computer game with a balding man wearing glasses, examining a glass as he walks through a hotel lobby](/blog/assets/0T7Xq2n9mQexs502W3ow--2--hh4hb.png "From this detail, I can deduce, as can any simpleton, that I need a refill...and that the blogger could not find an appropriately licensed image.")

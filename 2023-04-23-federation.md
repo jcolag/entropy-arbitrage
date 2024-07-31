@@ -12,6 +12,9 @@ recommend: We need to talk more about platform ownership
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As somewhat usual for a Sunday post around these parts, I've seen the same conversation echoing around social media.  And since I've replied to a handful of people bringing it up, it seems like a good idea for me to have a permanent version posted somewhere that people can find and build on it.
 
 ![A collage of various mascot characters from the Fediverse applications](/blog/assets/fediverse-mascots.png "Honestly, I didn't plan on putting in nearly this much work for this post's image")

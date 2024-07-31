@@ -13,6 +13,9 @@ teaser: We continue the visual novel, where our protagonist softens in the prese
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts playing through a visual novel, from volumes four *Of Stagecraft and Survival* to six *Of Feats, Culinary and Alchemical*.
 
 ![A screenshot of the visual novel, showing the moonlit "trash dunes" in the foreground, a cave entrance that resembles an open animal mouth in the background, and a dark ocean beyond that](/blog/assets/sbb-trash-dunes.png "If I had played this as a child, I would almost certainly have spent hours fantasizing about the trash dunes...")

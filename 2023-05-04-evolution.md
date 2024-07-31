@@ -10,6 +10,9 @@ teaser: For this episode, we talk about corruption, many ethical issues, and way
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An army of tiny robots crawling across a futuristic circuit board](/blog/assets/Yvbw6lszIPQkXU795ipu--2--lxjyk.png "No kill I?")
 
 ## Disclaimer
@@ -51,6 +54,9 @@ She *ran* Starfleet Medical, they told us.  This seems strange, given how quickl
 It doesn't surprise me that Picard doesn't see a problem.  Wesley has more or less pledged his loyalty, and he follows orders.
 
  > **CRUSHER**: Does he have many friends? Has he ever been in love? Jean-Luc, I'm worried. He's come so far, so fast, And since I've been back, I don't feel---
+
+* Ignore for ToC
+{:toc}
 
 Oh, I guess that this tells Picard's story, too:  He doesn't actually see anyone as an actual person, beyond their utility.
 

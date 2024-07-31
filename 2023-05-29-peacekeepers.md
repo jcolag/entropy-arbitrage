@@ -10,6 +10,9 @@ teaser: This week's projects include a collection of useful (to me) scripts, my 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today celebrates the [International Day of United Nations Peacekeepers](https://en.wikipedia.org/wiki/International_Day_of_United_Nations_Peacekeepers), paying tribute to those who have served in peacekeeping operations.
 
 If you wonder why you can't contact your American colleagues, we also celebrate [Memorial Day](https://en.wikipedia.org/wiki/Memorial_Day) on the last Monday of May, honoring military personnel who died while serving the country.  The media prefers to explain it as "the unofficial start of summer," because they'd just as soon not remind us that the wars that invariably benefit their parent corporations have a human cost to them, but *do* want to remind us to start shopping for barbecues and trips to the beach.

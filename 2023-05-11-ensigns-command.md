@@ -10,6 +10,9 @@ teaser: For this episode, we talk about racism, bad leadership, and the continue
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Ensign of the United States Coast Guard, with the Seal of the United States (the eagle with shield, arrows, olive branch, etc.) in the upper right, vertical red stripes everywhere except the upper right, and the Coast Guard logo near center-right](/blog/assets/Ensign_of_the_United_States_Coast_Guard.svg "The lettering on the seal seems a bit too fiddly, no?")
 
 ## Disclaimer

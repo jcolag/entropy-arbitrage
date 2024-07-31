@@ -10,6 +10,9 @@ teaser: For this episode, we talk safety, prejudice, professionalism, and toxic 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A stilt-root mangrove in Cilintang, Taman Nasional Ujung Kulon, Banten](/blog/assets/Rhizopora-stylosa-Found-in-Cilintang.png "See, this guy knows how to rhizome")
 
 ## Disclaimer

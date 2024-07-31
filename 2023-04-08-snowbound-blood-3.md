@@ -14,6 +14,9 @@ teaser: This week, we continue a visual novel that has mostly found its footing,
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts playing through a visual novel seven *Of Bounties and Botany* to nine *Of Gears, Green and Greenhorns*.
 
 ![A screenshot of the visual novel, showing our protagonist Secily on her motorcycle, looking into a forest](/blog/assets/sbb-forest-biking.png "I imagine that some seeing-the-forest-for-the-trees joke feels appropriate, here, but nothing useful comes to mind...")

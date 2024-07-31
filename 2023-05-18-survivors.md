@@ -10,6 +10,9 @@ teaser: For this episode, we look at life on colonies, the rights of artificial 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Artist's impression of an exoplanet around beta Pictoris, showing a disc permeated with carbon monoxide around the star, and cometary collisions in the distance](/blog/assets/eso1408a.png "One day, the episode will refer to an exoplanet that exists and an artist has tried to recreate...")
 
 ## Disclaimer
@@ -79,6 +82,9 @@ Ah, this sounds more like the Picard that we've grown to know over the past coup
 "Go faster"?  Riker comes up with the best plans...
 
  > **PICARD**: Good afternoon. I'm sorry if I startled you. I'm Jean-Luc Picard, Captain of the Enterprise. I have brought you something you will need if you're going to stay on Rana Four. It's a matter replicator. It has limited capabilities, but---
+
+* Ignore for ToC
+{:toc}
 
 Apparently, they can drop off replicators, though we don't know how much power that they can generate at that size.
 

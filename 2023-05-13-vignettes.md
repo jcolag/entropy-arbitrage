@@ -11,6 +11,9 @@ offset: -18%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads another web comic, the "first season" of fifty comics.
 
 ![A comic of the artist, holding up a comic of a frog for the audience to see, with a pile of other comics at his feet](/blog/assets/jectoons-season-1-cover.png "It seems like a bad sign that I want to read the comic about the foot, especially as the lead character of a series...")

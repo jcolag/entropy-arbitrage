@@ -10,6 +10,9 @@ teaser: Starfleet militarizes, while Pulaski pulls out all the bigotry, people c
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![The later moves of a game of Go between a human and an artificial intelligence; the credits describe which game, for those who want a more thorough description of the action, since I don't know the game well enough to describe it meaningfully](/blog/assets/AlphaGo-Fan-Huiren-aurka.png "If I cared less about copyright, I would've gone with a picture of A24's hotdog-finger gloves...")
 
 ## Disclaimer

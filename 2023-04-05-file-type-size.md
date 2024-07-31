@@ -10,6 +10,9 @@ teaser: I have some image-manipulation gimmickry that I needed to learn to sched
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Amusingly, I worked this out a while ago, when I finished the main work of the Mastodon-scheduling script in my [**Mastodon Tool Trunk**](https://github.com/jcolag/tool-trunk) in late January.  I meant to post about it then, but things got away from me, so you'll instead get a short post now.
 
 ![A black and white photograph of a bearded person in jeans and a leather jacket, drawing a complex image on a cobblestone surface](/blog/assets/man-sand-people-street-artist-material-1338169-pxhere.com.png "Sadly, you can't hire this guy to make things happen...")

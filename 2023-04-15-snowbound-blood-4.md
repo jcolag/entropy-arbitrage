@@ -15,6 +15,9 @@ teaser: We finish(!?) the visual novel on a cliffhanger, with abusive relationsh
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts playing through a visual novel, volumes ten *Of Shots, Animated and Leaden* to twelve *Of Love and Loss*.
 
 ![A screenshot of the visual novel, depicting downtown in "Stronghold 21," complete with widespread advertising](/blog/assets/sbb-s21-normal.png "I sort of enjoy the implication, here, that the news has carefully covered the bogus awards ceremony for the past two months or blinks or whatever they call them")

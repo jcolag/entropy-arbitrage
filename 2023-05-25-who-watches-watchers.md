@@ -10,6 +10,9 @@ teaser: This episode brings us model minorities, the ever-changing Prime Directi
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A photograph of the oddly angled peaks of Vasquez Rocks](/blog/assets/Vasquez_Rocks_2.png "I don't even want to get into how pointless it seems to dig the outpost into rocks nowhere in sight of the village...")
 
 ## Disclaimer

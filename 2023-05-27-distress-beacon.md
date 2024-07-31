@@ -13,6 +13,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads another role-playing game supplement.
 
 ![The cover to Distress Beacon, featuring an industrial-looking spaceship in a light-colored, gaseous background, viewed through shutters.  The titles refer to the Morse code for SOS, as well as the Saga Guide series and the Sword of Odin publisher](/blog/assets/distress-beacon.png "That poor ship looks broken to me, like someone made it out of old (upright) pianos and didn't bother to clean the knickknacks off the top.")

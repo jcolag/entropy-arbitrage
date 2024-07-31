@@ -10,6 +10,9 @@ teaser: This week's projects include the blog's code and infrastructure, one of 
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I apologize for mangling the name in the title, but the world generally sets aside today as the---take a deep breath for this one...---[Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War](https://en.wikipedia.org/wiki/Time_of_Remembrance_and_Reconciliation_for_Those_Who_Lost_Their_Lives_during_the_Second_World_War), which...you don't actually need me to explain that extremely specific name, do you?  In Europe especially, it carries added meaning as the anniversary of the [Allies accepting the German surrender](https://en.wikipedia.org/wiki/Victory_in_Europe_Day).
 
 If you find that too mainstream, you can celebrate a holiday that also involves death *and* ideas closely associated with Nazis, [White Lotus Day](https://en.wikipedia.org/wiki/White_Lotus_Day), the anniversary of the death of [Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky), founder of [Theosophy](https://en.wikipedia.org/wiki/Theosophists).
