@@ -13,6 +13,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads the main **Bulletproof Blues** role-playing game sourcebooks.
 
 ![The cover to The Evangelists of Mars, featuring Avalon blasting one of the Martians](/blog/assets/evangelists-mars.png "They keep saying that Mars needs women, but really, what would they even do with them but this...?")

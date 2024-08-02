@@ -9,6 +9,9 @@ thumbnail: /blog/assets/1991631014_bea0fb9612_o.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 You probably already know how this post goes.  Large blocks of the Western world celebrate [Halloween](https://en.wikipedia.org/wiki/Halloween), today, a holiday so ill-defined that a significant fraction of the people in your life probably did something related over the weekend or have something tonight, and few of their activities sound like anybody else's.  Long-time readers already know that I vastly prefer the [Day of the Dead](https://en.wikipedia.org/wiki/Day_of_the_Dead), starting tomorrow, with its clear purpose and more muted form of celebration.  Others, especially with some Brazilian heritage, might prefer [Saci Day](https://en.wikipedia.org/wiki/Saci_Day), which...I don't know, the Saci seem maybe a little problematic to me, but I could learn to love problematic things...
 
 ![A saci](/blog/assets/1991631014_bea0fb9612_o.png "That symmetrical foot will haunt my dreams for years to come...")

@@ -9,6 +9,9 @@ thumbnail: /blog/assets/31209212418_910d33ddf8_o.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An artist's rendition of colliding black holes](/blog/assets/31209212418_910d33ddf8_o.png "No less empty than their special effects, right...?")
 
 ## Disclaimer

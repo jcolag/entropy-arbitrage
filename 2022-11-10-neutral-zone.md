@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An augur buzzard, taking flight from a tree](/blog/assets/Augurbussard-Serengeti.png "You might say that they've taken this plot-line...down to the buzzard")
 
 ## Disclaimer

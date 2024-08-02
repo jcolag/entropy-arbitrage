@@ -10,6 +10,9 @@ offset: -18%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Because *please don't even get me started on Columbus*, the obnoxious, talentless kid, picked last in the national hero game on the world's playground, today, we celebrate [Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day) in the United States...at least, in the parts of the United States who feel embarrassed represented by an "explorer" with a terrible sense of direction and such a murderous rampage that even European royalty put him in prison.  If you find "well, we'll celebrate his victims, instead" feeling uncomfortable, I also think that [Nanomonestotse](https://en.wikipedia.org/wiki/Nanomonestotse)---an autumn celebration of peace---and [World Mental Health Day](https://en.wikipedia.org/wiki/World_Mental_Health_Day) might deserve some attention, too.
 
 ![A celebration of Indigenous Peoples' Day, including people in a circle, watching a dance](/blog/assets/New-Mexico-Indigenous-Peoples-Day-2019-03.png "If white people had participated in this in the '90s, I can promise that they'd all go home focused on the grass-less circle and arguing about crop circles...")

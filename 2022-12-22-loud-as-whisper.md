@@ -10,6 +10,9 @@ offset: -4%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Deaf artist Suliphone teaches children words from Lao sign language](/blog/assets/Lao-sign-language-025.png "I feel like the adults shouldn't look nearly so mortified, or the dog quite as disinterested, in this scene.")
 
 ## Disclaimer
@@ -151,6 +154,9 @@ Worf's complete ignorance of the existence of sign language seems mildly notable
 Notice that Pulaski either jumped or had Picard push her to give Riva some form of artificial hearing, despite his apparent inability to consent to such a thing, and his vocal pride about his difference from the majority; three officers even heard him state clearly that he plans to die deaf.  If Pulaski represents the medical community at large, that would certainly explain the lack of a deaf community and absence of sign language in the Federation.
 
  > **DATA**: Captain, I have reviewed and stored five distinct signing languages. Here is an example of the first. This is blue. This is a blue ocean. This is a blue ocean at sunset. This is two people walking along the beach by a blue ocean at sunset. This is two happy people in love walking along the beach by a blue ocean at sunset. This is two people---
+
+* Ignore for ToC
+{:toc}
 
 I feel like the proverbial broken record, dealing with this season of the show, but they have lives at stake, and yet Data thinks that he needs to provide Picard with extensive examples of sign language for his work to make sense.  I don't know if Data feels like it doesn't count unless he impresses somebody---we've all worked with someone like that, I assume---or that he doesn't think the *episode* counts unless somebody cuts him off for daring to speak.
 

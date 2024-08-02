@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Continuing our theme of "November only has one holiday in it, and it never falls on a Monday," today marks the 402<sup>nd</sup> anniversary of the signing of the [Mayflower Compact](https://en.wikipedia.org/wiki/Mayflower_Compact), one of the first governance documents created by European settlers in North America, and an early step of independence from England.  We shouldn't reserve much respect for the Pilgrims, who got lost, tried (and failed) to kidnap natives into slavery, and in many ways, have become emblematic of people who believe that "religious freedom" means the right to impose their religion on others.  *However*, the Compact identified the need for government and began the tradition of majoritarian decision-making, and so remains somewhat important.
 
 ![J.L.G. Ferris's painting, The Mayflower Compact, depicting Pilgrims signing the document](/blog/assets/The-Mayflower-Compact-1620-cph.png "Excuse me, but elementary school promised me buckles on hats, not a bunch of hippies and...maybe Conquistadors?")

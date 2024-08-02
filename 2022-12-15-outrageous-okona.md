@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Max-Amini-Persian-American-Stand-Up-Comedian-2015.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Stand-up comic Max Amini performing, with the face blurred to not call him out specifically](/blog/assets/Max-Amini-Persian-American-Stand-Up-Comedian-2015.png "What's the deal with replicators...?")
 
 ## Disclaimer

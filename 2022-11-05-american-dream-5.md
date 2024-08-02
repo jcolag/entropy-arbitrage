@@ -15,6 +15,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) finishes reading **American Dream**, chapters 24 -- 30.
 
 ![The cover to American Dream](/blog/assets/american-dream-cover.png "Unfortunately not something that I'd pick off the shelf, but still catches my interest")

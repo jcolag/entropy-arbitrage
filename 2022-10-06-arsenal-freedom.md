@@ -9,6 +9,9 @@ thumbnail: /blog/assets/vintage-antique-steel-military-army-tourism-1349531-pxhe
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A cannon outside a stone wall, partly covered in snow](/blog/assets/vintage-antique-steel-military-army-tourism-1349531-pxhere.com.png "But is the cannon canon...?")
 
 ## Disclaimer
@@ -90,6 +93,9 @@ He just tried to lift a probably injured person.  He'll go on to do this multipl
  > ...
  >
  > **LOGAN**: Lieutenant La Forge. Geordi. I know you want to do what's best for the Enterprise. So do I. Now the best thing---
+
+* Ignore for ToC
+{:toc}
 
 You'll notice that, so far throughout the season, LaForge seems to have the unique distinction of condescending officers questioning his right to command...
 

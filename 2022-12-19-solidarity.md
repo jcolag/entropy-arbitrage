@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Unity-In-Diversity-Opening-Ceremony-Wiki-Conference-Indi
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Tomorrow, we celebrate [International Human Solidarity Day](https://en.wikipedia.org/wiki/International_Human_Solidarity_Day), an observance to honor unity in diversity, raise awareness, and commit to solving global issues.
 
 ![A dance at a Wikipedia event on the unity-in-diversity theme](/blog/assets/Unity-In-Diversity-Opening-Ceremony-Wiki-Conference-India-CGC-Mohali-2016-08-05-6656.png "Somewhere, there exists a United-Nations-Backing-a-Dance-Dance-Revolution joke in this, but I don't have it...")

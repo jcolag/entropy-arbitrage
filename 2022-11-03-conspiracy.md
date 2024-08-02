@@ -9,6 +9,9 @@ thumbnail: /blog/assets/st-tng-conspiracy.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A sculpture of the Eye of Providence in Wayside chapel Geretsberg, with six insect legs added](/blog/assets/st-tng-conspiracy.png "The conspiracy has no patience for your issues.")
 
 ## Disclaimer

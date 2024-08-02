@@ -9,6 +9,9 @@ thumbnail: /blog/assets/circuit-board-brain.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A circuit-like pattern laid out over a human brain](/blog/assets/circuit-board-brain.png "I enjoyed making this more than watching the episode...")
 
 ## Disclaimer

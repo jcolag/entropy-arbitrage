@@ -10,6 +10,9 @@ offset: -23%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Note that, if you have read **Entropy Arbitrage** carefully for a while, you probably realize that I may have started writing this a while ago and then forgot about it.  Motivated readers (of whom I assume none actually exist in this context) could probably trawl through old posts and narrow down when I started thinking seriously about these ideas.
 
 Also, as a disclaimer, I find myself thinking about these ideas and rethinking them in real time, so please excuse any clumsy structuring on this post.  More than most posts, you might best think of this as a one-sided conversation.

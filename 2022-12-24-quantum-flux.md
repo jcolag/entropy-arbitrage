@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) investigates *Quantum Flux*, an adventure for the 6d6 role-playing game by Kieran Kowalski.
 
 ![The adventure's cover, featuring a woman in a science fiction helmet and armor firing a rifle to the side](/blog/assets/QuantumFlux-Digital-P2.png "I give it credit for getting through this entire story-line without once bringing up a single cargo-loading exoskeleton.")

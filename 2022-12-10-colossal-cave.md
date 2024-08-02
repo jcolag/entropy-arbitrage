@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays **Colossal Cave Adventure**.
 
 ![The Travertine speleothem in Great Onyx Cave](/blog/assets/8313139575_cebf70ac5d_o.png "The graphics don't live up to real life...")
