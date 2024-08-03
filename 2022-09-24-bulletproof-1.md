@@ -10,6 +10,9 @@ offset: -16%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads the main **Bulletproof Blues** role-playing game book.
 
 ![The third edition cover, prominently featuring Manticore, Vulcan, and Widow in Manhattan](/blog/assets/bulletproof-blues-3e.png "It definitely doesn't hide its inspirations...")

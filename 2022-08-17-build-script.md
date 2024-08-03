@@ -9,6 +9,9 @@ offset: -40%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 About a month ago, I mentioned [working on a private project with Inform 7]({% post_url 2022-07-25-caracas %}).  Among my problems with doing so, the IDE takes enough resources that I can count on the first phase of the compiler---Inform 7 to Inform 6, or "Natural Inform"---to crash my aging laptop about half the time.  (I'll frame this post around dealing with Inform, but the [tech tip](/blog/tag/techtips) actually takes on some nice conveniences for shell scripts.)
 
 ![The original version of Zork](/blog/assets/zork-original.png "You might fall into bottomless pits, here; no grues will get belly-aches from eating you.")

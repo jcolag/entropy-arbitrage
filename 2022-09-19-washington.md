@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Valley-Forge-prayer.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 In 1796, George Washington planned to retire from office, and as the first President of the United States, chose to do so with a [series of essays](https://en.wikipedia.org/wiki/George_Washington%27s_Farewell_Address) about his, and what he hoped had become the American, philosophy.  In it, he warns of people who want to empower states or blocs of states at the expense of the overall union, supports the Constitution, warns against the consolidation of political parties, commends moral education, acknowledges the need to go into debt to invest in the country, and so forth.  Not every thought quite has the relevance that it did at the time, and some seem laughable and even hypocritical today---such as warning against permanent alliances while discussing the United States *as* a permanent alliance to protect---but enough of the points still resonate that I encourage people to read it in full.
 
 ![Washington's prayer at Valley Forge](/blog/assets/Valley-Forge-prayer.png "...and I would love another tweed scarf like this one, and what do YOU want, kid-in-the-hat?")

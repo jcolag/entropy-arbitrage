@@ -10,6 +10,9 @@ offset: -24%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A stylized man in a red scarf and black slouch hat cradles a distraught woman](/blog/assets/black-mask-1923-10-01.png "Not Dixon Hill...probably.")
 
 ## Disclaimer
@@ -171,6 +174,9 @@ That assumes that this "Dixon Hill" thing has the structure of a game.  If we th
 Pardon me for jumping around the timeline---theirs and ours---but while we probably won't cover it, given its more direct political intent, **Deep Space Nine** still has a significant following.
 
  > **DATA**: The record will stand until the year 2026, when a shortstop for the London Kings---
+
+* Ignore for ToC
+{:toc}
 
 I imagine that they wanted to go for a joke that, in the future, even the British will get excited about baseball.  Or not.
 

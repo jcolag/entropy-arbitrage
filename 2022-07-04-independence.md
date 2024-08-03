@@ -9,6 +9,9 @@ thumbnail: /blog/assets/American-1902-Fourth-of-July-fireworks.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today celebrates [Independence Day](https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29) in the United States, maybe explaining why much of the business world goes dark.  Coincidentally [Abkhazia](https://en.wikipedia.org/wiki/Abkhazia), the [Northern Mariana Islands](https://en.wikipedia.org/wiki/Northern_Mariana_Islands), [Rwanda](https://en.wikipedia.org/wiki/Rwanda), and the [Philippines](https://en.wikipedia.org/wiki/Philippines) all celebrate similar holidays.  You find a variety of national celebrations, this time of year; I have no proof, but I *suspect* that they might all trace to some ancient solstice celebration involving color and fire---translating to fireworks---plus parades.
 
 ![Children of various ethnicities from around the United States and then-territories celebrate Independence Day outside the Capitol, next to Uncle Sam and Columbia](/blog/assets/American-1902-Fourth-of-July-fireworks.png "I don't know if the Filipino kid mortifies me or impresses me.")

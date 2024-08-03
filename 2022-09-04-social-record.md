@@ -10,6 +10,9 @@ offset: -16%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Given the news that Twitter plans to [roll out an edit button](https://twitter.com/Twitter/status/1565318587736285184?ref_src=twsrc%5Etfw), I wanted to dig out and expand on a small piece that I wrote for an early issue of the **Entropy Arbitrage** newsletter.
 
 ![A pixelated screenshot of a Twitter-like screen, using some of my own tweets](/blog/assets/twitter-mock-2022-09.png "Blurred to protect the timeliness of the post, not anybody's identity...")

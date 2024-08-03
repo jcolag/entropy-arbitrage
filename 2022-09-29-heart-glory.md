@@ -9,6 +9,9 @@ thumbnail: /blog/assets/6283771859_ac3f742e3d_o.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Tea and a crumpet](/blog/assets/6283771859_ac3f742e3d_o.png "Yes, what stuck with me is that the Klingons order something that sounds suspiciously like tea and crumpets, not any of the plot...")
 
 ## Disclaimer

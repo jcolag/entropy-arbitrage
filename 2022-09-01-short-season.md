@@ -9,6 +9,9 @@ thumbnail: /blog/assets/DP-21913-001.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![The Return of Persephone](/blog/assets/DP-21913-001.png "Would it have KILLED you to bring back some pomegranate?  Too soon...?")
 
 ## Disclaimer

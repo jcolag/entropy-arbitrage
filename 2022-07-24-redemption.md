@@ -13,6 +13,9 @@ offset: -18%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 <script src="/blog/assets/chart.js"></script>
 
 Quick, let's play **Name That Media**...

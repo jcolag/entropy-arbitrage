@@ -9,6 +9,9 @@ thumbnail: /blog/assets/music-black-and-white-people-crowd-concert-audience-8744
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks [World Population Day](https://en.wikipedia.org/wiki/World_Population_Day).  I've already written about how concerns about overpopulation invariably tie to bigotry, though this day traffics more in the concerns about the concrete problems causing and resulting from a growing population, such as family planning and human rights.
 
 ![A large crowd seated at a theater, photographed from behind](/blog/assets/music-black-and-white-people-crowd-concert-audience-874486-pxhere.com.png "Notice how nobody complains when the population density comes from people paying top-dollar for cramped seats.")

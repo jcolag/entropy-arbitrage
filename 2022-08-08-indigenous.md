@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today, we observe the [International Day of the World's Indigenous Peoples](https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples).  While it originally revolved around awareness and the protection of native rights, it has increasingly shifted towards environmental preservation as indigenous populations have increasingly taken such roles.
 
 ![Naga people engaging in their Hornbill Festival](/blog/assets/Hornbill-Festival.png "A hornbill festival")

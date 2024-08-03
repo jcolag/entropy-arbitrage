@@ -9,6 +9,9 @@ thumbnail: /blog/assets/etug-storybox-seminar-205002-pxhere.com.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![People in a classroom-like setup, with some intent on some activity, and others likely completed](/blog/assets/etug-storybox-seminar-205002-pxhere.com.png "Hey, everyone, look under the tables.  When we move, they move...")
 
 ## Disclaimer

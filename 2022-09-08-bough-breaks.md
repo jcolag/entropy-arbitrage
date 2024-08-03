@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Grie-Lost-City-of-Atlantis.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Artist's conception of Atlantis](/blog/assets/Grie-Lost-City-of-Atlantis.png "I couldn't find a polite image to suggest kidnappings, so have some Atlantean ruins.")
 
 ## Disclaimer
