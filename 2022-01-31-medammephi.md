@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Mae-Dam-Mae-Phi.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Among the [Ahom](https://en.wikipedia.org/wiki/Ahom_people), today is [Me-Dam-Me-Phi](https://en.wikipedia.org/wiki/Me-Dam-Me-Phi).  Like many winter holidays, it's easy to spot two roles, here.  On the surface, the holiday is literally about gifting to the family ancestors and sacrificing to the gods.  However, the deeper reality is that it brings the community together to create bonds between generations and promote a feeling of brotherhood.  It's obviously not widespread, but I think that we can all recognize something like Me-Dam-Me-Phi.
 
 ![A Me-Dam-Me-Phi service](/blog/assets/Mae-Dam-Mae-Phi.png "I know that it's unlikely, but I'm weirdly paranoid that the signs are either ethnic slurs and/or brand names...")

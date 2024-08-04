@@ -12,6 +12,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today is the [International Day of Education](https://en.wikipedia.org/wiki/International_Day_of_Education), adopted in only 2018, specifically celebrating the role of education in peace and sustainable development.
 
 ![Reading lessons in Laus](/blog/assets/Khamla-Panyasouk-of-Big-Brother-Mouse-reads-to-children.png "It worries me that this is the first that I'm learning about outdoor reading festivals")

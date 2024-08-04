@@ -10,6 +10,9 @@ offset: -26%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Yep, the best holiday that I could scrounge up for today is the absurdly obvious [Valentine's Day](https://en.wikipedia.org/wiki/Valentine%27s_Day).  It turns out that there were a bunch of Christian martyrs known as Valentine, which explains the varying contradictory claims about the "real" origins of the holiday.  Regardless of which Saint Valentine is supposed to be the one we care about, today, the celebration actually appears to have been a relatively recent creation, first reported by Geoffrey Chaucer in [*Parliament of Fowls*](https://en.wikipedia.org/wiki/Parlement_of_Foules) (1382), possibly even accidentally *created* in that poem, as later readers assumed that a then-current event was actually a widespread celebration.
 
 ![A painting of two women in dresses, one leaning on the other's shoulder, both staring at a flower in one's hands](/blog/assets/38_of_The_Quiver_of_Love.png "Would that yon bloom could be but a humble unmoored far-hearing device of some intelligence, we might use it to mark our relationship status as a thing less complicated on that venerable yet secular Book of Life.")

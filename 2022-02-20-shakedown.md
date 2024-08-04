@@ -10,6 +10,9 @@ offset: -25%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I don't know if there's an actual way for anyone but me to see it when it happens, other than monitoring every single page on a website.  However, particularly keen-eyed readers *might* have noticed that I updated the header image for my post on [**Star Trek**](/blog/tag/startrek)'s [*The Apple*]({% post_url 2020-09-10-apple %}).
 
 ![Three bristlebots](/blog/assets/2166476315_9b2f8cd945_o.png "Fluor-i-date!")

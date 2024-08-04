@@ -10,6 +10,9 @@ offset: -13%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An Iungimoji game in progress](/blog/assets/iungimoji.png "Stage 2:  Force the player to write a story based on the emoji and the order they were revealed?")
 
 Sour grapes:  Admittedly, I have no interest in jumping on the [Wordle](https://en.wikipedia.org/wiki/Wordle) bandwagon, even though I *did* do it with my [Daily Nonogram]({% post_url 2021-02-21-nonogram %}) before anybody had ever considered playing [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows)---or whatever your local version might be---with words[^1].  I'm exaggerating for effect, of course.  Josh Wardle seems to be a nice guy who did a clever thing well-designed to become popular, and deserves the rewards that he's received.  It's a far cry from my approach of dumping out something with no feedback, mentioning it on my blog, and basically just tinkering with it for my use.

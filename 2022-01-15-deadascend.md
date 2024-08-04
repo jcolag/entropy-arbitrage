@@ -10,6 +10,9 @@ offset: -26%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays **Dead Ascend**.  I apologize for those people expecting to read **Supertrans**, and will explain the sudden change in direction in the introduction below.
 
 ![Screenshot of the game](/blog/assets/dead-ascend-screenshot.png "A storeroom with art on the walls?  Sure, let's assume that's what it is...")

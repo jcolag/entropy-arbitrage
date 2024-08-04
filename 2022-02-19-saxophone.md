@@ -10,6 +10,9 @@ offset: -13%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) watches the **Your Face Is a Saxophone** web series.
 
 ![Blake pitching the YFIaS campaign](/blog/assets/your-face-is-a-saxophone-title.png "Do you look in the mirror often enough to prove him wrong?")

@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Diomedea-epomophora-portrait-SE-Tasmania.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![An albatross's head](/blog/assets/Diomedea-epomophora-portrait-SE-Tasmania.png "Southern Royal Albatross giving McCoy the stink-eye")
 
 ## Disclaimer

@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads **Dünnes Eis**.
 
 ![The cover to Dünnes Eis](/blog/assets/duennes-eis-cover.png "'A long walk off a short pier' might be a decent description of the book...")

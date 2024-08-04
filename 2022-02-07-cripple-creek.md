@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Cc_martiallaw.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the anniversary of the start of the [Cripple Creek Miners' Strike](https://en.wikipedia.org/wiki/Cripple_Creek_miners%27_strike_of_1894) in 1894, notable not just as a union victory, but also the only time in history---as the strike dragged on---that a United States state militia would be deployed in *support* of workers, rather than shooting at people to force them back to work.
 
 ![The town under martial law](/blog/assets/Cc_martiallaw.png "The modern world doesn't contain nearly enough of those small-wall-on-wheels gizmos...")
