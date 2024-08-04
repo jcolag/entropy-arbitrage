@@ -10,6 +10,9 @@ offset: -27%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads *Collectivity*.
 
 ![The Bonaventure traveling through space](/blog/assets/collectivity-bonaventure.png "These are NOT the voyages of those other folks...")

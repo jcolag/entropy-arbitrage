@@ -9,6 +9,9 @@ thumbnail: /blog/assets/play-kitten-cat-mammal-playful-fight-820025-pxhere.com.p
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Two kittens fighting in the grass](/blog/assets/play-kitten-cat-mammal-playful-fight-820025-pxhere.com.png "Let's not pretend that the writers thought of this episode in any other way...")
 
 ## Disclaimer

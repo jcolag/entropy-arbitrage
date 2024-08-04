@@ -10,6 +10,9 @@ offset: -14%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As a quick content advisory, this post will talk about issues that...certain people have insisted are "controversial."  That probably means race issues, gender issues, criminal justice, *maybe* the occasional insurrection, and the surrounding media coverage will come up.  I also center this on the United States, since I live here; I suspect that the broad idea works around the world, though.
 
 I almost stuffed it into [the mailing list](https://entropy-arbitrage.mailchimpsites.com/), but it quickly grew into a full post.  If you don't feel up to it, feel free to come back later or skip this one.  If not, I'll see you after the header image...

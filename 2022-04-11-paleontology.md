@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Mammut-americanum.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks the 226<sup>th</sup> anniversary of the first lecture on paleontology, *Mémoires sur les espèces d'éléphants vivants et fossiles* (*Memoirs on Living and Fossil Elephant Species*), delivered by [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier).  He would go on to coin the term [mastodon](https://en.wikipedia.org/wiki/Mastodon) for the ancient elephant that he had studied.
 
 ![Reconstruction of an American mastodon](/blog/assets/Mammut-americanum.png "All the pit's a stage...or something like that")

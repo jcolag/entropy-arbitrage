@@ -10,6 +10,9 @@ offset: -25%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today is the [International Day For Monuments and Sites](https://en.wikipedia.org/wiki/International_Day_For_Monuments_and_Sites)---also known as World Heritage Day---meant to draw attention to monuments and cultural heritage sites.
 
 If you don't find that worth celebrating, then you might also or instead find yourself mid-[Passover](https://en.wikipedia.org/wiki/Passover), recovering from [Easter](https://en.wikipedia.org/wiki/Easter), or observing [Ramadan](https://en.wikipedia.org/wiki/Ramadan), in which case, I hope that you have or had a great one.

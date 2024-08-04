@@ -10,6 +10,9 @@ offset: -31%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Ukrainian 1992 ₴5 stamp, featuring a rhythmic gymnast with a ribbon](/blog/assets/ukraine-1992-stamp.png "Not the Nexus ribbon")
 
 ## Disclaimer

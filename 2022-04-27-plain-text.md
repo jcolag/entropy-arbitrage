@@ -10,6 +10,9 @@ offset: -14%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As a quick advisory, this post talks about my approaches to organizing information, as a sneaky way to introduce readers---especially those of you who don't write software---to simple technologies that will allow you to make the most of developer tools, no matter what you actually do with your time.  I'll follow up this post on an irregular basis, introducing those tools and why you might want to care about them.
 
 ![Movable type](/blog/assets/wood-texture-number-symbol-alphabet-typography-672822-pxhere.com.png "Try not to organize your notes as depicted.")
