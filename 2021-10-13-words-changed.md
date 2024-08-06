@@ -9,6 +9,9 @@ offset: -5%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Chinese finger-counting system](/blog/assets/Chinese-counting.png "Hanging six doesn't sound as appealing, somehow.")
 
 A while ago, in [a developer journal post]({% post_url 2021-09-27-hiv %}), I mentioned that I worked on a new feature for [the **Entropy Arbitrage** newsletter](https://entropy-arbitrage.mailchimpsites.com/) which, if you're a subscriber---and if not, where *have* you been?---you saw in action about a week and a half ago.  Specifically, as of this month, the newsletter includes a list of posts that I've updated, so that readers can see that I've modified a post and decide if it's worth revisiting it.

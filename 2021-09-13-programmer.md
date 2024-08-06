@@ -9,6 +9,9 @@ thumbnail: /blog/assets/25392390163_d6a5321bfb_o.png
 offset: -31%
 ---
 
+* Ignore for ToC
+{:toc}
+
 I've never heard of [Day of the Programmer](https://en.wikipedia.org/wiki/Day_of_the_Programmer) before, but I happen to *be* a programmer, and it has a great name.  The date was chosen as the 256<sup>th</sup> (2<sup>8</sup>) day of the year.  In leap years, it's September 12<sup>th</sup>.
 
 ![A woman at a small table transferring code from her laptop to her phone](/blog/assets/25392390163_d6a5321bfb_o.png "Large windows don't make these multi-device moments any less tedious.")

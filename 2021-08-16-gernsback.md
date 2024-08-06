@@ -9,6 +9,9 @@ thumbnail: /blog/assets/blythe-hugo-gernsback.svg
 offset: -54%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today has a variety of interesting anniversaries, such as what was then [Tōhoku Imperial University](https://en.wikipedia.org/wiki/Tohoku_University) becoming Japan's first university to admit women as students or the [Battle of Plymouth](https://en.wikipedia.org/wiki/Battle_of_Plymouth), but what caught my eye was the 137<sup>th</sup> birthday of [Hugo Gernsback](https://en.wikipedia.org/wiki/Hugo_Gernsback), often called "the father of science fiction."  Gernsback was often a clumsy writer, but he pioneered many ideas that either predicted technological developments or became established tropes of the genre.
 
 ![Hugo Gernsback](/blog/assets/blythe-hugo-gernsback.svg "Sadly, the picture of him wearing television-goggles is still under copyright...")

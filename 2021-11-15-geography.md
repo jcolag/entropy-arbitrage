@@ -9,6 +9,9 @@ thumbnail: /blog/assets/world_phy.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As we approach "the holiday season," minor holidays dry up.  So, this week marks the start of Geography Awareness Week, a celebration that has sprouted around [Geographic Information System (GIS) Day](https://en.wikipedia.org/wiki/GIS_Day).  Normally, I'd ignore this as an industry patting itself on the back, but the United States Geological Survey and the Library of Congress have both sponsored it, so it's at least *slightly* more than satellite/mapping companies inflating their importance.
 
 ![A physical world map](/blog/assets/world_phy.png "The Earth, presented in the famous UFO projection")

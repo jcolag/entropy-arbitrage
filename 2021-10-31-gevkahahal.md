@@ -10,6 +10,9 @@ offset: -33%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 As I've mentioned [in the past]({% post_url 2020-10-31-pumpkin %}), I'm not personally a huge fan of Halloween.  Again, it's just a personal view, but I don't have much of a sweet tooth, don't find much horror to be "frightening" compared to the real world (that doesn't mean that it's not *good*, just not scary), and playing with identity feels silly to me.  That said, I know that many people---especially people working in the arts---love *all* of those, and I respect that.  And I'm well aware how stupid it would be to not indulge that world when there's an excuse to do so on the blog, like a Sunday post landing on Halloween.
 
 So, accept the following concept with my compliments, and I apologize in advance for its inevitable lack of eeriness.

@@ -10,6 +10,9 @@ offset: -25%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A reclining mer-man wearing a crown](/blog/assets/A-Crowned-Merman-Arthur-Rackham.png "Transformation to a fish-person can be so exhausting, you know?")
 
 ## Disclaimer

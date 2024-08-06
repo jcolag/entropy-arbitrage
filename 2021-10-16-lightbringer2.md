@@ -13,6 +13,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads the remaining issues of **Lightbringer**.
 
 ![Partial cover to Lightbringer #13](/blog/assets/lightbringer-20081112.png "Red, White, and Osprey, I guess")

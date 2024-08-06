@@ -8,6 +8,9 @@ summary: Discussing stories from Eroticature
 thumbnail: /blog/assets/tango-performing-arts-entertainment-dance-event-performance-1509727-pxhere.com.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) maybe reads, but probably not really---I'll explain later---a few of the stories from *Eroticature*.
 
 ![Salsa dancers (maybe)](/blog/assets/tango-performing-arts-entertainment-dance-event-performance-1509727-pxhere.com.png "Not accurate to any story...")

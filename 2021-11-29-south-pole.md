@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Bundesarchiv-Bild-102-09158-Expeditionsschiff-Byrds.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 Again, this time of year is short on holidays, due to people being busy with the bigger days of the year.  So, maybe slightly late, depending on how you count them, yesterday or today marks the ninety-second anniversary of the launch of [Richard Evelyn Byrd](https://en.wikipedia.org/wiki/Richard_E._Byrd)'s first Antarctic expedition.
 
 ![The Byrd expedition ship in heavy pack ice of the South Pole](/blog/assets/Bundesarchiv-Bild-102-09158-Expeditionsschiff-Byrds.png "Watch out for that icy patch.")

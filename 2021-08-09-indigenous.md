@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Nama-man-greeting-us-3693359757.png
 offset: -27%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A Nama man playing a traditional greeting](/blog/assets/Nama-man-greeting-us-3693359757.png "A traditional Nama greeting")
 
 Today marks the [International Day of the World's Indigenous Peoples](https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples), which I admit is a terrible name, given that we're all indigenous to the *world*.  But with development occurring at a rapid pace and so many languages precariously close to going extinct, it's worth taking a day to think about the real cultural diversity that most of us never see.

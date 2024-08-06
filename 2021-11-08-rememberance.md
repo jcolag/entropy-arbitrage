@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Intersex_Pride_Flag.png
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I talked about the situation with Intersex people on [Intersex Awareness Day]({% post_url 2021-10-25-intersex %}), so I won't go into it, here.  Today, however, is the [Intersex Day of Remembrance](https://en.wikipedia.org/wiki/Intersex_Day_of_Remembrance), also known as Intersex Solidarity Day.
 
 ![Intersex flag](/blog/assets/Intersex_Pride_Flag.png "I see no reason not to recycle the flag from two weeks ago...")

@@ -10,6 +10,9 @@ offset: -26%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads the first seven issues of **Lightbringer**.
 
 ![Our hero, psyching himself up for his origin story](/blog/assets/Carter-Grandholme.png "Our hero, fleeing from cries for help.")

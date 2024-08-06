@@ -9,6 +9,9 @@ thumbnail: /blog/assets/4901169636_78abb669bc_o.png
 offset: -14%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A canopy frame](/blog/assets/4901169636_78abb669bc_o.png "These workers get it.")
 
 Let's start with a concise summary, to get this post directly to the point, with apologies to anybody who might have been traumatized by the standardized testing industry.

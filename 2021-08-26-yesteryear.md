@@ -10,6 +10,9 @@ offset: -21%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Stone arch, with a blurred and recolored interior](/blog/assets/landscape-nature-rock-wilderness-mountain-architecture-746291-pxhere.com.png "Not the Guardian, part two")
 
 ## Disclaimer

@@ -8,6 +8,9 @@ summary: The enduring stupidity of age cohorts
 thumbnail: /blog/assets/technology-antique-old-phone-telephone-communication-494891-pxhere.com.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 Before we get started, I'd like to apologize to those of you who read this blog from the RSS feed; if you don't use RSS or didn't notice anything weird on the fourteenth, ignore this paragraph.  I think I caught it quickly enough for most cases, but depending on when your feed reader scanned my site, you might have gotten stuck looking at an unedited "pre-release" version of this post, because I fouled up the release date.  There's a few hundred more words and more pictures, in this version.
 
 ![Multiple generations of telephone](/blog/assets/technology-antique-old-phone-telephone-communication-494891-pxhere.com.png "All the pictures of generations of people had unfortunate racial connotations, so humor me on this one...")
