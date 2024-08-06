@@ -118,9 +118,6 @@ Troi really knows how to think on her feet, doesn't she?  Yes, LaForge's plan in
 
  > **WESLEY**: No, sir, the readings are---
 
-* Ignore for ToC
-{:toc}
-
 Did Picard try to start a fist-fight with Finn...?
 
  > **PICARD**: Doctor, I will be the judge of reasonable.

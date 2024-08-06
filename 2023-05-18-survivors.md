@@ -83,9 +83,6 @@ Ah, this sounds more like the Picard that we've grown to know over the past coup
 
  > **PICARD**: Good afternoon. I'm sorry if I startled you. I'm Jean-Luc Picard, Captain of the Enterprise. I have brought you something you will need if you're going to stay on Rana Four. It's a matter replicator. It has limited capabilities, but---
 
-* Ignore for ToC
-{:toc}
-
 Apparently, they can drop off replicators, though we don't know how much power that they can generate at that size.
 
  > **RISHON**: Kevin and I first saw each other on a ship at sea. He was a starving student with this threadbare suit and mismatched shoes. I was travelling with my parents who did not like the way that he kept hanging around. Two hours after I met him, I asked him to marry me. And he knew I was serious. I don't think that he has ever recovered from that day.

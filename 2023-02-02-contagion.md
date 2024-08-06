@@ -110,9 +110,6 @@ He plans to reduce the crew's stress about the danger on the ship, by forcing th
 
  > **DATA**: Captain, your original hypothesis is correct. Iconian is the parent tongue of a language family which consists of Iccobar, Dewan and Dinasian. I have constructed a basic working understanding through a comparison of common root words such as mother, father, child, home, tribe, food, life, death, yours, ours, mine---
 
-* Ignore for ToC
-{:toc}
-
 I see that Data still hasn't learned to match his descriptions to the amount of time available, nor has he figured out when what he wants to say applies to the task at hand.
 
  > **PICARD**: But that knowledge was passed down by the descendants of those who attacked this world. The victors invariably write the history to their own advantage. There is an unfortunate tendency in many cultures to fear what they do not understand. It's possible that their enemies, confronted with this technology, were driven to attack the Iconians out of fear.
@@ -132,9 +129,6 @@ You could even draw a parallel between the "demons of air and fire" nonsense of 
 Ableist humor from Picard.  Color me shocked.
 
  > **LAFORGE**: I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are just going crazy. If we had an expert, a Maddox, somebody, I---
-
-* Ignore for ToC
-{:toc}
 
 Maddox, as in Bruce, who we met in [*The Measure of a Man*]({% post_url 2023-01-19-measure-man %}) a couple of weeks ago.
 

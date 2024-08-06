@@ -55,9 +55,6 @@ It doesn't surprise me that Picard doesn't see a problem.  Wesley has more or le
 
  > **CRUSHER**: Does he have many friends? Has he ever been in love? Jean-Luc, I'm worried. He's come so far, so fast, And since I've been back, I don't feel---
 
-* Ignore for ToC
-{:toc}
-
 Oh, I guess that this tells Picard's story, too:  He doesn't actually see anyone as an actual person, beyond their utility.
 
  > **DATA**: The system automatically provides for self-correction, Captain. There has not been a systems-wide technological failure on a starship in seventy-nine years.

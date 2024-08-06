@@ -74,9 +74,6 @@ I like Picard's panic, here, as if the crew hasn't managed multiple epidemics.  
  >
  > **DATA**: I would estimate four billion, three hundred seventy-five million---
 
-* Ignore for ToC
-{:toc}
-
 I realize that I point this out in almost every episode, but especially here, Data has absolutely no legitimate reason to do this---other than that the writers find it funny---but every reason to keep his mouth shut.  As far as everyone in the scene knows, they have lives at stake with every second counting, and the sellers of the tanks surely already know how many doses they carry.  In fact, that information *probably* even shows up on a label, whereas Data can't see any filler material that might sit inside the tank or the size of the dispenser.
 
  > **CRUSHER**: T'Jon and Romas are feeling fine. In fact, too fine. Felicium's a narcotic.

@@ -72,9 +72,6 @@ We proudly(?) present a chat log from the afternoon of 2024 April 08, recently d
 
  > I think the Demon One---
 
-* Ignore for ToC
-{:toc}
-
  > Gah, now they have me doing it.
 
  > I think that the one demon might cry.  He seemed to look forward to the potential extermination or dominion or whatever they had as a plan.

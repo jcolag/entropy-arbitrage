@@ -155,9 +155,6 @@ Notice that Pulaski either jumped or had Picard push her to give Riva some form 
 
  > **DATA**: Captain, I have reviewed and stored five distinct signing languages. Here is an example of the first. This is blue. This is a blue ocean. This is a blue ocean at sunset. This is two people walking along the beach by a blue ocean at sunset. This is two happy people in love walking along the beach by a blue ocean at sunset. This is two people---
 
-* Ignore for ToC
-{:toc}
-
 I feel like the proverbial broken record, dealing with this season of the show, but they have lives at stake, and yet Data thinks that he needs to provide Picard with extensive examples of sign language for his work to make sense.  I don't know if Data feels like it doesn't count unless he impresses somebody---we've all worked with someone like that, I assume---or that he doesn't think the *episode* counts unless somebody cuts him off for daring to speak.
 
  > **PULASKI**: It's possible to install optical devices which look like normal eyes, and would still give you about the same visual range as the visor.

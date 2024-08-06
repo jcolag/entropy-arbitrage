@@ -99,9 +99,6 @@ You raise a good question, headings.
 
 ### Thank---
 
-* Ignore for ToC
-{:toc}
-
 Nope.  No, we will *not* do that.
 
 We might care for a couple of reasons, depending on what tasks we have in front of us.

@@ -51,9 +51,6 @@ I assume that dicosilium has no relationship to [psyllium](https://en.wikipedia.
 
  > **RIKER**: Murder? Now wait a minute, you can't come on---
 
-* Ignore for ToC
-{:toc}
-
 What, does he think that he deserves an exemption from murder investigations?
 
  > **PICARD**: Investigator, in our system of jurisprudence, a man is innocent until proved guilty.

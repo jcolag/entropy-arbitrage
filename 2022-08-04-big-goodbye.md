@@ -175,9 +175,6 @@ Pardon me for jumping around the timeline---theirs and ours---but while we proba
 
  > **DATA**: The record will stand until the year 2026, when a shortstop for the London Kings---
 
-* Ignore for ToC
-{:toc}
-
 I imagine that they wanted to go for a joke that, in the future, even the British will get excited about baseball.  Or not.
 
 As I write this, with four years left on the episode's timeline, DiMaggio's record still stands---with [Pete Rose](https://en.wikipedia.org/wiki/Pete_Rose) coming the closest in 1978---and nobody organizing the London Kings.

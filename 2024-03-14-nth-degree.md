@@ -40,9 +40,6 @@ Oh, and you'll also presumably remember Barclay from [*Hollow Pursuits*]({% post
 
  > **DATA**: Lieutenant Barclay's performance was adequate, but clearly not rooted in The Method approach. I do not understand why---
 
-* Ignore for ToC
-{:toc}
-
 Oh, look, Data has found the One True Way of learning to act, which he discovered in [*Devil's Due*]({% post_url 2024-02-01-devil-s-due %}).
 
 By the way, I forgot to mention it with that episode in expressing my distaste for how the media portrays Method Acting, but would it surprise you to find out that Stanislavsky presents most of his extreme exercises as *parodies* of terrible actors, rather than a proper way to conduct yourself as a performer?  [Bradley Cooper, Cillian Murphy and the myths of Method acting](https://theconversation.com/bradley-cooper-cillian-murphy-and-the-myths-of-method-acting-224340) recently covered this in detail, saving me the trouble of actually reading [**An Actor Prepares**](https://en.wikipedia.org/wiki/An_Actor_Prepares)...

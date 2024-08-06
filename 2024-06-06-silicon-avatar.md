@@ -64,9 +64,6 @@ In a maybe-interesting twist, we've finally found somebody who has no interest i
 
  > **DATA**: As I have speculated, the presence of refractory metals---
 
-* Ignore for ToC
-{:toc}
-
 Oh, look.  Data appears to believe that his speculation---his word, not mine---should qualify as fact.
 
  > **MARR**: My son died on Omicron Theta. He was sixteen when the colony was attacked. That is the reason I have become an expert on the Crystalline Entity. I have spent my life studying it, tracking it, and hoping someday to find it. And if I learn you have been helping that thing in any way whatsoever, I will see to it that you are disassembled piece by piece.

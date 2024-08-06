@@ -74,9 +74,6 @@ This will surprise them, as if telling Worf that they've spoken about him behind
 
  > **WORF**: Still, to die a true hero---
 
-* Ignore for ToC
-{:toc}
-
 We've gone back to that nonsense, again...?
 
  > **PULASKI**: Poor guy. Picked up a flu virus on our last stop at Nasreldine.

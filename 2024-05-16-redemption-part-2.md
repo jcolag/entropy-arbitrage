@@ -107,9 +107,6 @@ For reference, Worf resigned his commission, in the previous episode.  He should
 
 Anyway, since everybody involved realized that they wasted Denise Crosby in the first season by not giving Yar anything to do, and since the character's origins give the crew such a natural responsibility and affinity for a nominal enemy, which fits right into the show's new obsession with family drama, we can expect to see Sela---
 
-* Ignore for ToC
-{:toc}
-
 Wait, *what*?
 
 Never mind, I guess.  We'll never see Sela again, not even in the massive "let's go on adventures so that the protagonist can avoid dealing with loss" parts of **Picard**, the show that started out making such a big deal about Romulan refugees, or even the final season that literally exists to "get the band back together."  Go figure, right?  How embarrassing to waste Crosby twice...

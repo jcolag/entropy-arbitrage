@@ -82,9 +82,6 @@ I feel like I ask something like this every week, but how has "do the historical
 
  > **DATA**: There are many fascinating records of Menthar battle strategy. They were exceptionally innovative. In fact, they were the first to use the Kavis Teke elusive maneuver as well as the passive lure stratagem that is comparable to Napoleon's---
 
-* Ignore for ToC
-{:toc}
-
 And Data needs to talk about irrelevant topics, because they definitely don't have a ticking clock.
 
 Oh, what?  They only have *three hours*, you say...?
