@@ -9,6 +9,9 @@ thumbnail: /blog/assets/NMAAHC-2017_30_48_001.png
 offset: -17%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Harriet Tubman](/blog/assets/NMAAHC-2017_30_48_001.png "Harriet Tubman")
 
 As mentioned [last week]({% post_url 2020-03-02-bicker-clean %}), now that I have [Bicker](https://bicker.colagioia.net) mostly operational, I'm going to reduce the cadence of working on that code in order to make room for other projects.  But, I think the "developer journal" has been useful, so I'll continue on with the Monday morning posts.

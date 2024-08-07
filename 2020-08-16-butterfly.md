@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Camp-Funston-Kansas-NCP-1603.png
 offset: -30%
 ---
 
+* Ignore for ToC
+{:toc}
+
 As you probably know and may have forgotten, Donald Trump, alleged President of the United States, chose to "riff" at his August 10<sup>th</sup> White House Coronavirus Task Force press briefing, suggesting that the [Spanish flu](https://en.wikipedia.org/wiki/Spanish_flu) pandemic (February 1918 – April 1920, though he insists that it's a 1917 epidemic) ended [World War II](https://en.wikipedia.org/wiki/World_War_II) (1 September 1939 – 2 September 1945).
 
 ![Camp Funston](/blog/assets/Camp-Funston-Kansas-NCP-1603.png "Camp Funston, clearly the worst possible name for an emergency hospital")

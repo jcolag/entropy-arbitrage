@@ -8,6 +8,9 @@ thumbnail: /blog/assets/25392428253_f0416515b6_c.png
 offset: -25%
 ---
 
+* Ignore for ToC
+{:toc}
+
 As promised, this is the third part of a [short series](/blog/tag/career/) to provide some quick guidance for people who would like to reach out feelers into a possible software development career.  As I mentioned in the [first post]({% post_url 2020-04-12-career %}), a lot of this material is recycled from some of my old Quora answers, updated for current times and the tone of the blog.
 
 ![Discussing code](/blog/assets/25392428253_f0416515b6_c.png "Discussing code")

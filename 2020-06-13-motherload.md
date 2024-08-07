@@ -9,6 +9,9 @@ thumbnail: /blog/assets/pb-motherload-01.png
 offset: -50%
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) digs into the introduction to the *Stardrifter* series, **Motherload**, which unfortunately never spellchecked its title.
 
 ![Motherload](/blog/assets/pb-motherload-01.png "Motherload")

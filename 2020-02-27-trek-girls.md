@@ -9,6 +9,9 @@ thumbnail: /blog/assets/eso0722b.jpg
 offset: -20%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Exoplanet](/blog/assets/eso0722b.jpg "Exoplanet")
 
 ## Disclaimer

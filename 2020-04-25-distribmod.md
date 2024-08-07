@@ -9,6 +9,9 @@ thumbnail: /blog/assets/prague-shadows.jpg
 offset: -29%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Community](/blog/assets/prague-shadows.jpg "Community, back when clustering on a city street didn't risk people's lives")
 
 After [making the rounds](/blog/tag/socialshowdown) of non-corporate social networks, I developed the idea that decentralized systems have a *serious* problem with what is traditionally called moderation, but is really a sort of community cultivation or curation.  I'm going to use [Scuttlebutt]({% post_url 2020-01-25-scuttlebutt %}) as my example, though most of the same ideas would apply to any distributed network and at least some of it also applies to the federated networks.

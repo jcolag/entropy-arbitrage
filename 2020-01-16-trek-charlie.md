@@ -9,6 +9,9 @@ thumbnail: /blog/assets/External_view_of_a_Bernal_sphere.jpg
 offset: -25%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Bernal Sphere](/blog/assets/External_view_of_a_Bernal_sphere.jpg "Bernal Sphere")
 
 ## Disclaimer

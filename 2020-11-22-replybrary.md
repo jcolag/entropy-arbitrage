@@ -9,6 +9,9 @@ thumbnail: /blog/assets/4189390241_d6fef03f49_k.png
 offset: -18%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today---probably right as this post is released, but maybe plus or minus an hour or so, plus testing---marks the launch of [**Replybrary**](https://twitter.com/replybrary), a Twitter-bot that tries to provide useful links in political discussions on request.
 
 ![It's a robot!](/blog/assets/4189390241_d6fef03f49_k.png "It's a robot!")

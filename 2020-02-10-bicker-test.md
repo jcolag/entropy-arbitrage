@@ -9,6 +9,9 @@ thumbnail: /blog/assets/New_Inventions_of_Modern_Times_-Nova_Reperta-_The_Invent
 offset: -8%
 ---
 
+* Ignore for ToC
+{:toc}
+
 As [previously discussed]({% post_url 2020-01-06-bicker %}), I am currently in the process of remaking [Bicker](https://bicker.colagioia.net/) with modern technologies and architecture, hopefully along with lessons learned over the last decade about what makes a good community system.  In the interest of transparency, I'm using the blog as a kind of developer journal while I work, posting occasional updates as to where things stand.
 
 ![Invention of the Compass](/blog/assets/New_Inventions_of_Modern_Times_-Nova_Reperta-_The_Invention_of_the_Compass_plate_2_MET_DP841121.png "Invention of the Compass")

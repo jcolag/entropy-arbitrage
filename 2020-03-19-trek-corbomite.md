@@ -10,6 +10,9 @@ offset: -25%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Plasma Globe](/blog/assets/glowing-sun-atmosphere-glow-lamp-electricity-1236265-pxhere.com.png "Not the Fesarius")
 
 ## Disclaimer

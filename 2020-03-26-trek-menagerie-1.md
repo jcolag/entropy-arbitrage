@@ -9,6 +9,9 @@ thumbnail: /blog/assets/ARC-1976-AC76-0296.png
 offset: -10%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Building a Space Colony](/blog/assets/ARC-1976-AC76-0296.png "Building a Space Colony")
 
 ## Disclaimer

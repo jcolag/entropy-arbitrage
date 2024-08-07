@@ -9,6 +9,9 @@ thumbnail: /blog/assets/eso1905a.png
 offset: -30%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Artist's impression of exoplanet HR8799e](/blog/assets/eso1905a.png "Artist's impression of exoplanet HR8799e")
 
 ## Disclaimer

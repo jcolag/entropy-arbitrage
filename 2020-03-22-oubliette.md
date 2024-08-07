@@ -8,6 +8,9 @@ summary: An attempt at a Free Culture board game
 thumbnail: /blog/assets/wood-white-play-food-color-community-730015-pxhere.com.jpg
 ---
 
+* Ignore for ToC
+{:toc}
+
 One of my long-term projects that I never seem to actually get around to touching is to resurrect Elizabeth Magie's [**The Landlord's Game**](https://en.wikipedia.org/wiki/The_Landlord's_Game), the forerunner of [**Monopoly**](https://en.wikipedia.org/wiki/Monopoly_(game)) that was designed to contrast unregulated markets with [Georgism](https://en.wikipedia.org/wiki/Georgism), a proposed economic system where everybody is taxed for sitting on resources (primarily land, because this is an old idea), rather than taxing income or spending, to discourage centralized ownership of resources by making it too expensive to resell or rent unused resources.
 
 ![Game pieces](/blog/assets/wood-white-play-food-color-community-730015-pxhere.com.jpg "Game pieces")

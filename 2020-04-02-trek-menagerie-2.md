@@ -9,6 +9,9 @@ thumbnail: /blog/assets/trouvelot-jupiter-upside-down.jpg
 offset: -25%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Trouvelot's Jupiter, upside-down](/blog/assets/trouvelot-jupiter-upside-down.jpg "Trouvelot's Jupiter, upside-down")
 
 ## Disclaimer

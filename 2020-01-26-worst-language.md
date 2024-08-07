@@ -9,6 +9,9 @@ offset: -45%
 recommend: Designing the worst-possible programming language
 ---
 
+* Ignore for ToC
+{:toc}
+
 I'm trying something new, here, that I've hinted at [once]({% post_url 2019-12-08-greetings %}) or [twice]({% post_url 2020-01-12-quora %}), recycling some of the answers I have written on Quora and updating them for my current line of thinking.
 
 ![Sisyphus](/blog/assets/Friedrich_John_nach_Matthäus_Loder_Sisyphus_ubs_G_0825_II.jpg "Caution: Sisyphus at work")

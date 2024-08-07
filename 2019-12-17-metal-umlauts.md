@@ -9,6 +9,9 @@ thumbnail: /blog/assets/writing-book-vintage-antique-texture-old-629962-pxhere.c
 recommend: Messing around with Unicode
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Header Image](/blog/assets/writing-book-vintage-antique-texture-old-629962-pxhere.com.jpg "Writing with diacritical marks")
 
 [Unicode](https://en.wikipedia.org/wiki/Unicode)---the computer "alphabet" that includes all the characters you see on this page, plus most modern writing systems in common use (∂), plus punctuation and currency (௹), plus arrows and mathematical notation (↛), plus drawing symbols (✵), plus emoji (🐣), and more---has a lot going on in it beyond the obvious complexity of multiple formats (UTF-8, UTF-16, GB18030, UTF-32, BOCU, SCSU, UTF-7, and probably others) and [byte orderings](https://simple.wikipedia.org/wiki/Endianness).  The part that has grabbed my interest, recently, is the idea of [Normal Forms](https://en.wikipedia.org/wiki/Unicode_equivalence#Normalization), of which we have four.

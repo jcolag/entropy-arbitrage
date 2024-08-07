@@ -9,6 +9,9 @@ thumbnail: /blog/assets/hand-rock-wood-floor-cobblestone-wall-652711-pxhere.com.
 offset: -40%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Handshake](/blog/assets/hand-rock-wood-floor-cobblestone-wall-652711-pxhere.com.png "Handshake")
 
 As the title suggests, today is UNESCO's [International Day of Tolerance](https://en.wikipedia.org/wiki/International_Day_for_Tolerance).  Not much to be said about tolerance that I haven't said regarding the [Paradox of Tolerance]({% post_url 2020-07-12-tolerance %}), of course, so tolerate people, but be intolerant of intolerance of people.

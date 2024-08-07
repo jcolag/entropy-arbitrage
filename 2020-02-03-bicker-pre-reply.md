@@ -9,6 +9,9 @@ thumbnail: /blog/assets/animal-wildlife-zoo-america-mammal-squirrel-1362487-pxhe
 offset: -8%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Groundhog](/blog/assets/animal-wildlife-zoo-america-mammal-squirrel-1362487-pxhere.com.jpg "Groundhog, interrupted")
 
 As [previously discussed]({% post_url 2020-01-06-bicker %}), I am currently in the process of remaking [Bicker](https://bicker.colagioia.net/) with modern technologies and architecture, hopefully along with lessons learned over the last decade about what makes a good community system.  In the interest of transparency, I'm using the blog as a kind of developer journal while I work, posting occasional updates as to where things stand.

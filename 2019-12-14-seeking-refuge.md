@@ -10,6 +10,9 @@ offset: -32%
 recommend: A novel I wrote and the process behind it
 ---
 
+* Ignore for ToC
+{:toc}
+
 So...I kind of accidentally wrote a novel.
 
 ![The cover](/blog/assets/Refuge-Cover.png "Seeking Refuge's Cover")

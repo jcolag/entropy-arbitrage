@@ -9,6 +9,9 @@ thumbnail: /blog/assets/wood-antique-paper-ink-printing-art-919542-pxhere.com.jp
 offset: -50%
 ---
 
+* Ignore for ToC
+{:toc}
+
 As [previously discussed]({% post_url 2020-01-06-bicker %}), I am currently in the process of remaking [Bicker](https://bicker.colagioia.net/) with modern technologies and architecture, hopefully along with lessons learned over the last decade about what makes a good community system.  In the interest of transparency, I'm using the blog as a kind of developer journal while I work, posting occasional updates as to where things stand.
 
 ![Antique Printing Press](/blog/assets/wood-antique-paper-ink-printing-art-919542-pxhere.com.jpg "Antique Printing Press")

@@ -8,6 +8,9 @@ summary: Progress on assorted projects
 thumbnail: /blog/assets/Guarani_Family.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 Yesterday was the [International Day of the World's Indigenous Peoples](https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples), which has the virtue of being extremely precise in what it wants to be about and isn't trying to sell something.
 
 ![People indigenous to Paraguay or Brazil](/blog/assets/Guarani_Family.png "People indigenous to Paraguay or Brazil")

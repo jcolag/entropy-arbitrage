@@ -8,6 +8,9 @@ summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/GSFC_20171208_Archive_e000698.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![V404 Cygni](/blog/assets/GSFC_20171208_Archive_e000698.png "V404 Cygni")
 
 ## Disclaimer
@@ -91,8 +94,6 @@ The alternative explanation is also unfortunate:  The investigation wasn't thoro
 It's difficult to imagine a colonial governor being completely invisible while in office, unless the population is diffused over a wide area (unlikely, given how many of the witnesses know each other) or Kodos took active steps to hide from the citizens.
 
 Visually, it's worth mentioning that half of Leighton's face is covered, suggesting that he was disfigured during the incident and nobody has been able to heal him.
-
-
 
  > **KIRK**: History files. Subject, former Governor Kodos of Tarsus IV, also known as Kodos the Executioner. After that, background on actor Anton Karidian.
  >

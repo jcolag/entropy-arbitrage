@@ -8,6 +8,9 @@ summary: Famous people sure do like to defend their right to be terrible 🎻
 thumbnail: /blog/assets/hand-man-person-male-leg-portrait-987530-pxhere.com.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 An issue that has come up a lot in the past couple of weeks is [online shaming](https://en.wikipedia.org/wiki/Online_shaming), particularly what is colloquially known as "cancel culture."  If I'm an expert in anything, it's *definitely* not this, but since I've been talking about it a fair amount in online discussions, I want to get my thoughts in order.
 
 **Content Warning**:  This post is going to wander around a lot of subjects involving abuse, since that's tied up in the world of online shaming.  I won't dig into any details, but I'll refer to famous situations and names that might trigger one's anxiety, including racism, sexism, violence, sexual assault, and self-harm.  If that sounds like something that you might need to be careful about, this would be a good time to prepare yourself or decide to come back later.

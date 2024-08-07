@@ -9,6 +9,9 @@ thumbnail: /blog/assets/A_coloured_voting_box.png
 offset: -33%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Tomorrow is the [International Day of Democracy](https://en.wikipedia.org/wiki/International_Day_of_Democracy), a United Nations celebration of democracy in all member states.  This year's theme---perhaps unsurprisingly---is the [effects of COVID-19](https://www.un.org/en/observances/democracy-day) on democracy around the world.
 
 That makes it a good day to get involved.  Register to vote or check your voter registration, if you're in a country where that's not automatic.  If you have an election coming up and aren't a likely vector for spreading the coronavirus or the flu, consider signing up to become a poll worker.  Volunteer for a campaign or two [to get involved with a political party]({% post_url 2020-08-30-parties %}).  As authoritarians realize that their philosophy and rhetoric don't hold water and aren't compelling to anything like a majority, they're attacking democratic institutions and it's worth fighting back, especially when fighting back is that easy.

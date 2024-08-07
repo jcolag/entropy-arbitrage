@@ -9,6 +9,9 @@ thumbnail: /blog/assets/eso0526b.jpg
 offset: -24%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Asteroids](/blog/assets/eso0526b.jpg "Asteroids")
 
 ## Disclaimer

@@ -8,6 +8,9 @@ summary: "I announce an older project of mine that some people use"
 thumbnail: /blog/assets/slackbackup1.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Sentiment Analysis](/blog/assets/slackbackup1.png "Sentiment Analysis")
 
 A job and a couple of social groups have more or less standardized on Slack for internal communications.  One of the biggest problems with using Slack, for those who haven't had the experience, is the pricing scheme, which effectively holds your team's conversations for ransom by hiding older content and displaying banners announcing that the conversation is behind a paywall.  If a "team" is actually multiple Slack teams with different legal requirements, the cost can be extraordinarily high.

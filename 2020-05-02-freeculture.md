@@ -8,6 +8,9 @@ summary: The launch of an irregular series
 thumbnail: /blog/assets/6556307995_971219df67_c.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 One of the reasons that I wanted start *Entropy Arbitrage* was my concern that there are too few Free Culture "properties" out there, and of those that exist, there is too little discussion or criticism of them.
 
 ## Not Enough Free Culture

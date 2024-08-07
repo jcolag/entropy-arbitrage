@@ -9,6 +9,9 @@ thumbnail: /blog/assets/fettu-asteroids_cc.png
 offset: -66%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Asteroids](/blog/assets/fettu-asteroids_cc.png "Asteroids")
 
 ## Disclaimer

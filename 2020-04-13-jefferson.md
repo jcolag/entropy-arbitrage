@@ -8,6 +8,9 @@ summary: Progress on assorted projects
 thumbnail: /blog/assets/Thomas_Jeffersons_Monticello.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Monticello](/blog/assets/Thomas_Jeffersons_Monticello.png "Monticello")
 
 I've been *sort of* getting back into the swing of things after a couple of chaotic weeks.  This week still wasn't as productive as I would have liked, but it's still more than the "corrected a typo and updated some libraries" updates I've been making, and there are fewer things broken down around the house, so that's a victory, for now.

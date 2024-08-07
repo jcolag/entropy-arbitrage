@@ -9,6 +9,9 @@ thumbnail: /blog/assets/eso0603a.png
 offset: -17%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Icy exoplanet](/blog/assets/eso0603a.png "Icy exoplanet")
 
 ## Disclaimer

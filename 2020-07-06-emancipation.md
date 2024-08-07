@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Confrontation_between_a_policeman_wielding_a_night_stick
 offset: -30%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Besides some areas celebrating Independence Day on Saturday, on Sunday, Americans also commemorated the start of the [1934 West Coast Waterfront Strike](https://en.wikipedia.org/wiki/1934_West_Coast_waterfront_strike), when longshoremen in every port along the West Coast of the United States refused to work for four days.  Two workers were killed by police, with the now-familiar conflicting reports of the police innocently responding to reports of violence and protesters coming away injured versus the police provoking the protesters to violence.
 
 ![A confrontation](/blog/assets/Confrontation_between_a_policeman_wielding_a_night_stick_and_a_striker_during_the_San_Francisco_General_Strike,_1934_-_NARA_-_541926.jpg "A confrontation")

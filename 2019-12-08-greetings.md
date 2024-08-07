@@ -8,6 +8,9 @@ summary: An introductory post establishing boundaries
 thumbnail: /blog/assets/word-cafe-warm-advertising-france-sign-706601-pxhere.com.jpg
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Howdy](/blog/assets/word-cafe-warm-advertising-france-sign-706601-pxhere.com.jpg "Bonjour!")
 
 In case a blog needs any sort of introduction, this blog is going to be a variety of things.  Depending on who you are, some might interest you and some might send you away.  But they're all going to be here, because it's *all* going to be what I'm thinking about.

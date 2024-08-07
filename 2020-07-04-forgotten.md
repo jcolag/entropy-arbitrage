@@ -9,6 +9,9 @@ thumbnail: /blog/assets/forgottenblade.png
 offset: -28%
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) digs into **Forgotten**, an interactive experience that may or may not be a game.
 
 ![Title Screen](/blog/assets/forgottenblade.png "Title Screen for the game-within-a-game")

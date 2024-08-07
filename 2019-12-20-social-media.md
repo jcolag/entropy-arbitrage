@@ -11,6 +11,9 @@ recommend: The problems with social media
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Radio News](/blog/assets/Radio_News_Sep_1928_Cover.png "Radio News September 1928")
 
 Last August, news broke that Twitter's CEO [may have personally kept Alex Jones on the network](https://www.wsj.com/articles/inside-twitters-long-slow-struggle-to-police-bad-actors-1535972402?mod=e2tw), overruling the company's own moderation rules.  The most surprising thing about the story is that...people were surprised.  It _should_ have been more surprising that any of the so-called social media sites (Facebook, YouTube, Twitter, and so forth) banned him at all, because, well, hate speech is good for their bottom lines.

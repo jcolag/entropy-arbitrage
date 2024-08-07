@@ -10,6 +10,9 @@ offset: -20%
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Milky Way](/blog/assets/eso0932a.jpg "Milky Way")
 
 ## Disclaimer

@@ -14,6 +14,9 @@ update: [
 ]
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Coming together](/blog/assets/hand-number-finger-community-together-handle-773437-pxhere.com.png "Coming together")
 
 Stop me if you've heard this one before:  A conservative and a progressive have overcome their differences to have a conversation.  The progressive points out that there are things we should fix in the country---choose from infrastructure to the social safety net to environmental regulation to police reform, and pick whatever country you think is appropriate, here---because everything can always be improved.  In response, the conservative asks whether the progressive thinks that the country is the best and, if not, why the progressive hasn't emigrated somewhere better.

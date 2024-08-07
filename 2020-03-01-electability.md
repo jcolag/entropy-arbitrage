@@ -9,6 +9,9 @@ thumbnail: /blog/assets/sign-banner-street-sign-signage-vote-political-747227-px
 offset: -28%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Since [Super Tuesday](https://en.wikipedia.org/wiki/Super_Tuesday) is this Tuesday---not that I'll be voting that day, since New York's Primary isn't for another few weeks---I wanted to dig into one of the more pernicious words and a troublesome way of thinking that have been getting kicked around quite a bit, this election season.
 
 ![Vote](/blog/assets/sign-banner-street-sign-signage-vote-political-747227-pxhere.com.jpg "Vote")

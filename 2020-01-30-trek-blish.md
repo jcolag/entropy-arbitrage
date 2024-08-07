@@ -12,6 +12,9 @@ update: [
 ]
 ---
 
+* Ignore for ToC
+{:toc}
+
 These are some relatively minor notes on the James Blish episode adaptations, prose short stories often based on the early drafts of episodes, published by Bantam Books, from 1967 to 1977, plus a posthumous collaboration adapting the Harry Mudd episodes in 1978.
 
 ![Psychic](/blog/assets/hands-1461555427fAd.jpg "Psychic")

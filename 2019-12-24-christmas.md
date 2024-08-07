@@ -9,6 +9,9 @@ thumbnail: /blog/assets/christmas-lights-free-pictures-1-2515-3.jpg
 recommend: Dissecting a great holiday
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Christmas lights tied on a rope](/blog/assets/christmas-lights-free-pictures-1-2515-3.jpg "Christmas lights")
 
 I realize I'm presenting this like it's an unpopular opinion and it very much is not, but I like Christmas.  As a kid, I saw it as posing as a religious celebration, while actually being a much broader and more inclusive excuse to spend time with the people we care about.

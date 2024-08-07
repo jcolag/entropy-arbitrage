@@ -10,6 +10,9 @@ offset: -3%
 update: [2020-07-12-tolerance.md, 2020-03-08-are-do.md]
 ---
 
+* Ignore for ToC
+{:toc}
+
 As of yesterday afternoon, barring long shot---and, bluntly, stupid---lawsuits or a wild, unprecedented rebellion of electors, [Joe Biden will be the next President of the United States](https://www.voanews.com/2020-usa-votes/joe-biden-projected-winner-us-presidential-election).  Biden (with running mate Kamala Harris) has received more votes than any other presidential candidate in history and might receive as many as a hundred more electoral votes than Trump, so this is no minor victory and it's not likely to be overturned.  This is a result of extensive organizing that I would love to cover, here, but have neither the expertise nor the time, but it's well worth reading more about it, to understand how to change the country's direction.  Given that the Trump administration and its allies have worked hard to divide the country, silence voices, ignore science, and undermine faith in our institutions, the only disappointment is that the incumbent received any significant support.
 
 As a content advisory, this is going to dig into the results of the Trump presidency, as well as political polarization.  I'm not going to get too deep into any specific situation, but you surely know most of what we've been dealing with, so this would be a good time to decide whether you have the stomach for being reminded of them.

@@ -9,6 +9,9 @@ thumbnail: /blog/assets/eso1134b.png
 offset: -25%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Super-Earth HD 85512 b](/blog/assets/eso1134b.png "Super-Earth HD 85512 b")
 
 ## Disclaimer

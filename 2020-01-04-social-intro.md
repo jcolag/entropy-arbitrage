@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Social_graph.gif
 recommend: A long-term project facing off the Free Software social networks
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Social graph](/blog/assets/Social_graph.gif "Social graph")
 
 As mentioned, [for the new year]({% post_url 2019-12-31-new-year %}) and as fallout from [my discussion]({% post_url 2019-12-20-social-media %}) about corporate-run social media, I have a couple of longer-term projects in mind, including taking a closer look at the Free-as-in-Freedom social networks that are available, to see how they compare to the for-profit networks that exploit users.  At the time I previously wrote, I had already been looking at a couple of them and wanted to pursue the field in a bit more detail.
