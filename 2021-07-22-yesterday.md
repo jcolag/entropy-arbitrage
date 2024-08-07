@@ -8,6 +8,9 @@ summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/0401563~orig.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Nova Remnant](/blog/assets/0401563~orig.png "Nova Remnant")
 
 ## Disclaimer

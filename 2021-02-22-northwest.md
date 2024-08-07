@@ -9,6 +9,9 @@ thumbnail: /blog/assets/1889ConstitutionalConventionParadeBismarkND.png
 offset: -61%
 ---
 
+* Ignore for ToC
+{:toc}
+
 We narrowly missed a few interesting holidays that we (the blog) will presumably pick up in future years, but the big anniversary in the United States is probably the signing of the [Enabling Act of 1889](https://en.wikipedia.org/wiki/Enabling_Act_of_1889), which would create Washington State, Montana, North Dakota, and South Dakota.
 
 ![Constitutional Convention Parade](/blog/assets/1889ConstitutionalConventionParadeBismarkND.png "Constitutional Convention Parade")

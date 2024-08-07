@@ -9,6 +9,9 @@ thumbnail: /blog/assets/tree-forest-snow-winter-girl-fog-819272-pxhere.com.png
 offset: -49%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Foggy roads](/blog/assets/tree-forest-snow-winter-girl-fog-819272-pxhere.com.png "Foggy roads")
 
 In the past few weeks, I've seen...not "a surprising number" of comments online trying to buck the imagined software orthodoxy---because it's hard to surprise me after all these years in the industry---but I'll call the number anomalous and concerning.  It's concerning enough that I want to push back against the ideas, or at least try to build a framework around them before it gets out of control.

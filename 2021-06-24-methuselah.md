@@ -8,6 +8,9 @@ summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/17841296346_0a3e1d9aac_o.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Methuselah, in stained-glass](/blog/assets/17841296346_0a3e1d9aac_o.png "Methuselah, in stained-glass")
 
 ## Disclaimer

@@ -11,6 +11,9 @@ update: 2019-12-20-social-media.md
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Free speech](/blog/assets/136733958_d19086fe20_o.png "Free speech")
 
 When I started **Entropy Arbitrage**, the one post I had (mostly) ready to go for a long time was [Social and Anti-Social Media]({% post_url 2019-12-20-social-media %}), mostly beating up on the major social media sites for their participation in "outrage feedback loops."  That is, they refuse to moderate fascists and bigots, because fascists and bigots reliably make everyone (including themselves) angry and/or afraid.  Anger and fear are easy emotions to provoke and maintain the attention of our "lizard brains," while also wearing down our critical thinking.  With attention focused and little skepticism, we're more likely to pay attention to advertising.  And advertising brings money in to fund the site.

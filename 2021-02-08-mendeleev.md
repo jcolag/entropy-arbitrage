@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Medeleeff_by_repin.png
 offset: -28%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Dmitri Mendeleev](/blog/assets/Medeleeff_by_repin.png "Dmitri Mendeleev")
 
 We're light on holidays, this week, so it's the 187<sup>th</sup> birthday of [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev), the Russian chemist who (among other things) worked out the form of the [periodic table of elements](https://en.wikipedia.org/wiki/Periodic_table) that we're still familiar with.

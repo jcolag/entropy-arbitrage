@@ -9,6 +9,9 @@ thumbnail: /blog/assets/ChristopherPark3358.png
 offset: -31%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Today marks fifty-two years after the [Stonewall Rebellion](https://en.wikipedia.org/wiki/Stonewall_riots), a complex uprising against police raids on a so-called "gay bar."  Something often lost in the retellings are the roles of non-white people, such as [Marsha P. Johnson](https://en.wikipedia.org/wiki/Marsha_P._Johnson) and [Sylvia Rivera](https://en.wikipedia.org/wiki/Sylvia_Rivera), whose names should be on our mind, this time of year.
 
 ![Nearby Christopher Park](/blog/assets/ChristopherPark3358.png "Nearby Christopher Park")

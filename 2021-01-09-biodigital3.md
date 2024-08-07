@@ -14,6 +14,9 @@ update: [
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) continues to read **Biodigital**, a novel.
 
 ![That Overmind Emergent, Maybe?](/blog/assets/biodigital-cover.png "That Overmind Emergent, Maybe?")

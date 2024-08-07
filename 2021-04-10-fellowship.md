@@ -9,6 +9,9 @@ thumbnail: /blog/assets/FellowshipOfHeroesPanel.png
 offset: -18%
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) starts reading **The Fellowship of Heroes**, a superhero comic.
 
 ![Introducing Crusader](/blog/assets/FellowshipOfHeroesPanel.png "Introducing Crusader")

@@ -9,6 +9,9 @@ thumbnail: /blog/assets/Juneteenth_Flag.svg
 offset: -24%
 ---
 
+* Ignore for ToC
+{:toc}
+
 Happy (belated) Juneteenth National Independence Day!
 
 ![Juneteenth flag](/blog/assets/Juneteenth_Flag.svg "Juneteenth flag")

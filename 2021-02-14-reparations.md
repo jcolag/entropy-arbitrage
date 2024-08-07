@@ -10,6 +10,9 @@ offset: -18%
 recommend: Oddly, bigots explain reparations extremely well
 ---
 
+* Ignore for ToC
+{:toc}
+
 Before I get moving with this post, some quick advisories:
 
  * I'm going to talk about slavery and some people who (*still*) support slavery.

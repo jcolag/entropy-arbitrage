@@ -9,6 +9,9 @@ thumbnail: /blog/assets/wl_logo.png
 offset: -31%
 ---
 
+* Ignore for ToC
+{:toc}
+
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) reads a handful of randomly chosen stories from **The Wanderers' Library*, a collaborative writing experiment.
 
 ![The Wanderers' Library Emblem](/blog/assets/wl_logo.png "The Wanderers' Library Emblem")

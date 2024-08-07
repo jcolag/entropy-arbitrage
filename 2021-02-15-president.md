@@ -9,6 +9,9 @@ thumbnail: /blog/assets/no-business-transacted.png
 offset: -23%
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![No Business Transacted](/blog/assets/no-business-transacted.png "No Business Transacted")
 
 In the United States, we celebrate [Presidents' Day](https://en.wikipedia.org/wiki/Washington%27s_Birthday), based on George Washington's birthday, though Abraham Lincoln's birthday is near enough that the second Monday of the month is often closer to his than Washington's.  In some areas, while he was never President, [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass) as an unwilling Vice Presidential nominee, assumed to be born on the fourteenth and dying on the twentieth of February.

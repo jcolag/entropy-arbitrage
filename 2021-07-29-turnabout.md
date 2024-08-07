@@ -8,6 +8,9 @@ summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/32498689184_2d0c092796_o.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![Silhouettes of a man and woman arguing, with their outlines superimposed over each other](/blog/assets/32498689184_2d0c092796_o.png "I wish I had YOUR life...")
 
 ## Disclaimer

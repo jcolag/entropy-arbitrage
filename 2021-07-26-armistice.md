@@ -8,6 +8,9 @@ summary: Progress on assorted projects
 thumbnail: /blog/assets/Korean-War-armistice-agreement-1953.png
 ---
 
+* Ignore for ToC
+{:toc}
+
 Tomorrow will be the sixty-eighth anniversary of the [Korean Armistice Agreement](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement), a cease-fire that has been so successful that...the war has technically never ended, still governed by the armistice.  It wasn't until 2018 that the [Panmunjom Declaration](https://en.wikipedia.org/wiki/Panmunjom_Declaration) brought a commitment to find common ground, actually end the war, reconcile, and consider reunification.
 
 ![Signing the Armistice](/blog/assets/Korean-War-armistice-agreement-1953.png "Signing the Armistice")
