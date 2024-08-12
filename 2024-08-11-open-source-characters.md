@@ -27,7 +27,9 @@ Personally, as I've surely mentioned before, I don't really care for the charact
 
  > She has short, dark hair. She usually wears aviation goggles on top of her head and a scarf around her neck. Otherwise, she dresses in comfortable clothes. She is average size and has a good body image. She has loads of confidence and charisma. She appears to be Asian or Native American. She has a ready smile.
 
-Does fewer than sixty words make "a character"?  I mean, they couldn't even pick an ethnicity, instead going for the distasteful idea that we can't tell the difference between certain ethnicities, *and* the disinterest in bunches of Asia where people don't look related to the Chinese.
+Does fewer than sixty words make "a character"?  I mean, they couldn't even pick an ethnicity, instead going for the distasteful idea that we can't tell the difference between certain ethnicities, *and* the disinterest in bunches of Asia where people don't look related to the Chinese or distinguishing between Native American groups[^4].
+
+[^4]:  A reader kindly pointed out---to my chagrin, for not noticing it myself while assembling complaints---that this racial description also feels like lazy Orientalism and fetishism, while also making it an implicit part of the licensing deal that creators participate in those problems by choosing Jenny's ethnicity for themselves.  The choice marks the character as "exotic," but in a vague way that suspends the eventual blame for the creators using the character, not the creators *of* the character.
 
 I feel like this established an awful trend, where we got a flood of characters labeled "open source" who didn't have much more to them than a vague premise and sketchy picture, an entire line of literary [stone soups](https://en.wikipedia.org/wiki/Stone_Soup) in tin cans that abandons the communal premise of the story *and* of Free Culture.
 
@@ -39,7 +41,7 @@ The "important" part comes from the body of knowledge accumulated over the cours
 
 Critically, though, courts need to find characters [well-delineated](https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters) for those derived works to hold up as...well, derived works.  Classically, in [**The Maltese Falcon**](https://en.wikipedia.org/wiki/The_Maltese_Falcon_%28novel%29), Sam Spade didn't qualify as a character, since he largely sits through the plot as it unfolds, and doesn't rate as much more than a stock character when the story focuses on him at all.
 
-And I need to ask, here, does Jenny Everywhere seem well-delineated to anybody?  To put that question another way, without copying the description and somebody's art, could a person construct a character that violates an alleged Jenny Everywhere copyright?  As I look at it, unless all revelations about the character by different authors in their stories become a part of the character, I don't think that anybody could manage to pull it off[^4].
+And I need to ask, here, does Jenny Everywhere seem well-delineated to anybody?  To put that question another way, without copying the description and somebody's art, could a person construct a character that violates an alleged Jenny Everywhere copyright?  As I look at it, unless all revelations about the character by different authors in their stories become a part of the character, I don't think that anybody could manage to pull it off.
 
 The less interesting part of a character, from our perspective, comes from trademark law.  The trick to [using Mickey Mouse]({% post_url 2024-01-28-mouse %})'s public domain appearances in a non-Disney story involves making it absolutely clear to all parties that Disney does not endorse your work and that you don't seek to trade on Disney's reputation[^1].  A trademark serves as exactly what it sounds like it does, a "mark in trade" or a brand.  Almost every character that you can think of wanting to "pirate" from a corporate property has a trademark attached to it, whether registered or common law, because (for example) publishing a Superman story strongly suggests that you have an association with Warner Brothers and DC Entertainment, or at least want to ride on the recognition and popularity that they have built for the character over almost ninety years.
 
@@ -91,9 +93,9 @@ With [rite](https://en.wiktionary.org/wiki/rite) (religious custom) substituted 
 
 [^3]:  Again, we can't guarantee that common understanding, though.  People have treated the book as fully in the public domain, even though "reprint what you like" strongly suggests that we only have permission to extract verbatim sections for future publications.  I don't know what to tell you...
 
-After that, the [Free Software movement](https://en.wikipedia.org/wiki/Free_software_movement) previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of (not legally binding) pseudo-copyright symbol, 🄯 in this case, I assume that this situation took inspiration directly from the other.
+After that, the [Free Software movement](https://en.wikipedia.org/wiki/Free_software_movement) previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of another (not legally binding) pseudo-copyright symbol, 🄯 in this case, I assume that this situation took inspiration directly from the other.
 
-This indicates the problem.  When I ask what that phrase implies here, I use the verb "imply," because it has no legal meaning to state anything explicitly.
+This indicates the problem.  When I ask what that phrase implies here, I use the verb "imply," because it has no legal meaning to state anything explicitly.  You can't have a license of *vibes*.
 
 ### Speaking of Copyleft...
 
