@@ -15,6 +15,9 @@ spell: Wintle Barbalith Klinger Enola Principia Discordia multiversal Fictopedia
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 I don't generally bring up holidays unless they fall on the day, but on Tuesday---the thirteenth---the Internet celebrates [Jenny Everywhere Day](https://www.jennyeverywhereday.com/).  I started to mention it in *tomorrow's* developer diary, then that mention grew out of control in an already-enormous post, so I decided to extract it out into its own post, and use the "holiday" as a pretext to talk about somewhat broader issues.
 
 ![Line art and colored versions of Jenny](/blog/assets/Jenny-Everywhere-by-PencilInPain.png "We definitely need the scarf...")
@@ -87,13 +90,13 @@ Let's go a few steps further.  If we have indeed [reversed copyright](https://ww
 
 The phrase appears to originate with [**The Principia Discordia**](https://en.wikipedia.org/wiki/Principia_Discordia), with the following line at the end.
 
- > Ⓚ All Rites Reversed --- Reprint what you like
+ > &#x24da; All Rites Reversed --- Reprint what you like
 
 With [rite](https://en.wiktionary.org/wiki/rite) (religious custom) substituted for *right*, it still has no legal meaning, but "reprint what you like" seems to provide enough permission and guidance to understand most of their intent[^3].
 
 [^3]:  Again, we can't guarantee that common understanding, though.  People have treated the book as fully in the public domain, even though "reprint what you like" strongly suggests that we only have permission to extract verbatim sections for future publications.  I don't know what to tell you...
 
-After that, the [Free Software movement](https://en.wikipedia.org/wiki/Free_software_movement) previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of another (not legally binding) pseudo-copyright symbol, 🄯 in this case, I assume that this situation took inspiration directly from the other.
+After that, the [Free Software movement](https://en.wikipedia.org/wiki/Free_software_movement) previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of another (not legally binding) pseudo-copyright symbol, &#x1f12f; in this case, I assume that this situation took inspiration directly from the other.
 
 This indicates the problem.  When I ask what that phrase implies here, I use the verb "imply," because it has no legal meaning to state anything explicitly.  You can't have a license of *vibes*.
 
