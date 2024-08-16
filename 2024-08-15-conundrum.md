@@ -47,7 +47,7 @@ They've upgraded their day-drinking to gambling as an excuse for day-drinking.
 
  > **RIKER**: The rules on this ship do not change just because Ro Laren decides they do.
 
-No, but they do seem to change when almost everyone else decides that they do...
+No, but they do seem to change when almost anyone else decides that they do...
 
  > **PICARD**: No, let's umm...let's begin this with a show of good faith.
 
@@ -73,7 +73,7 @@ Does that *not* fall under operations?
 
  > **DATA**: Our scientists theorize the Lysians are using an energy wave, either plasma-based or a subspace interference pattern. The weapon severely disrupts a starship's computer system as well as the mental functions of its crew.
 
-Since we don't have much to do with this episode, I should point out that Data, lacking his routine identity, acts like a professional.  He doesn't waste time asking people to define English words or drift off on useless tangents.
+Since we don't have much to do with this episode, I should point out that Data, lacking his routine identity, acts like a professional.  He doesn't waste time asking people to define English words or drift off on useless tangents.  The Federation did that to him.
 
  > **PICARD**: Return fire.
 
@@ -97,7 +97,7 @@ I feel like this conversation should have happened in front of more people, no? 
 
  > **RIKER**: Well. I'm glad I ran into the two of you. When you have no memory of who you are, or who anybody else is, you find yourself---
 
-Womanizing?  Violating every human resources guideline?  No, wait, he does those things normally.  Apparently, he only wants to have his sorry sitcom moment of "terrified, because women might compare notes on him."
+Womanizing?  Violating every human resources guideline?  No, wait, he does those things normally.  Apparently, he only wants to have his "terrified, because women might compare notes on him" sorry sitcom moment.
 
 ## Conclusions
 
