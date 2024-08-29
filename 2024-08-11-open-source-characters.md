@@ -3,7 +3,7 @@ layout: post
 title: Open Source Characters
 date: 2024-08-11 07:33:12-0400
 categories:
-tags: [freeculture, licenses, rant]
+tags: [freeculture, license, rant]
 summary: Taking the impending Jenny Everywhere Day to think about the broader concept.
 thumbnail: /blog/assets/Jenny-Everywhere-by-PencilInPain.png
 teaser: I try to make a point about what makes a good license and a usable character, at the expense of poor Ms. Everywhere.
