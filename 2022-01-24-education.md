@@ -45,7 +45,7 @@ Maybe interesting to some readers, while the actual caching code was mostly stra
 
 Now, I freely admit that I'm not as diligent a tester as I should be.  I'm old enough to have always wanted automated testing systems, but spent at least a decade without them available.  However, even I can see that this is a *terrible* process, especially when rapid but minor changes are expected, especially when it's not being developed alongside changes to posts, so I tried to do better.  Waiting a minute or two just to find out that there's a bug is not only a delay, but also prevents my local server from running until I can patch the code and start over, meaning that I can't change tasks.
 
-The plugins are written in [Ruby](https://www.ruby-lang.org/en/), after all, so it would only be reasonable that a plugin can be tested using the same processes used to test any Ruby code.  However, my first attempts didn't go well, leading me to post [a question on Stack Overflow <i class="fab fa-stack-overflow"></i>](https://stackoverflow.com/q/70779122/3438854).
+The plugins are written in [Ruby](https://www.ruby-lang.org/en/), after all, so it would only be reasonable that a plugin can be tested using the same processes used to test any Ruby code.  However, my first attempts didn't go well, leading me to post [a question on Stack Overflow](https://stackoverflow.com/q/70779122/3438854).
 
 That question didn't bring in any responses beyond an up-vote, so I continued investigating and tinkering, leading to answering my own question, the next morning.  So, I now have a basic test harness for my GitHub plugin.  On Wednesday, I'll turn the aforementioned question, answer, and other thoughts into a [tech tips](/blog/tag/techtip) post to walk people through the process.
 

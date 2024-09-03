@@ -29,7 +29,7 @@ In Doctorow's case, it was someone looking for money, which is dangerous and obn
 
 As befits my lesser cultural weight, though, the shakedown that I received was goofier and maybe generalizable to some grand conspiracy.  Specifically, rather than a fake invoice, I got an e-mail that I'll paraphrase, since I'm obviously not going to ask permission to republish it.
 
- > Hi, we noticed that you are using our design/image on your website, [here]({% post_url 2020-09-10-apple %}).  Unfortunately, the attribution link is not correct.  It should be <https://example.com>, based on the requirements on [the Flickr <i class="fab fa-flickr"></i> page](https://www.flickr.com/photos/156555495@N04/38643510282).
+ > Hi, we noticed that you are using our design/image on your website, [here]({% post_url 2020-09-10-apple %}).  Unfortunately, the attribution link is not correct.  It should be <https://example.com>, based on the requirements on [the Flickr page](https://www.flickr.com/photos/156555495@N04/38643510282).
  >
  > Thanks in advance.
 

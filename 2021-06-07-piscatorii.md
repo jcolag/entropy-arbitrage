@@ -59,7 +59,7 @@ A couple more libraries were updated here, too.
 
 ## GitHub Profile
 
-The commit technically belongs to this week instead of last week, because the automated cycle doesn't trigger until after midnight, but for the people interested in this sort of thing, here are the changes to [my GitHub profile <i class="fab fa-github"></i>](https://github.com/jcolag).
+The commit technically belongs to this week instead of last week, because the automated cycle doesn't trigger until after midnight, but for the people interested in this sort of thing, here are the changes to [my GitHub profile](https://github.com/jcolag).
 
  * I touched up the text to be more coherent.
  * I added visualizations for [interaction streaks](https://github-readme-streak-stats.herokuapp.com/demo/), [language usage](https://github.com/anuraghazra/github-readme-stats), general statistics (same repository), some [silly trophies](https://github.com/ryo-ma/github-profile-trophy), and a [view counter](https://github.com/antonkomarev/github-profile-views-counter).

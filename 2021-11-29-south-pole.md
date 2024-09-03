@@ -20,7 +20,7 @@ Let's go get trapped in whatever the code equivalent of pack-ice is...
 
 ## Ask INTERN
 
-It took [asking a question on Stack Overflow <i class="fab fa-stack-overflow"></i>](https://stackoverflow.com/q/70085210/3438854), but [**Ask INTERN**](https://github.com/jcolag/ask-intern) now uses **INTERN**'s configuration file, so that the two programs can share the communications port number.  Opening and parsing the configuration file more than doubles the length of the small program, but that's more a testament to how concise the language is for the rest of the program.
+It took [asking a question on Stack Overflow](https://stackoverflow.com/q/70085210/3438854), but [**Ask INTERN**](https://github.com/jcolag/ask-intern) now uses **INTERN**'s configuration file, so that the two programs can share the communications port number.  Opening and parsing the configuration file more than doubles the length of the small program, but that's more a testament to how concise the language is for the rest of the program.
 
 Parsing JSON with the [Poison](https://hexdocs.pm/poison/Poison.html) library is easy enough, but the current version of the library doesn't work on Ubuntu's default version of Elixir.  So, I needed to install and set up the horribly named [Asdf](https://asdf-vm.com/), which allows for different projects to use different versions of the infrastructure.
 

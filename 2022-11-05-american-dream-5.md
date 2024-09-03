@@ -81,7 +81,7 @@ Finally, now that the title has become a part of the story, I finally need to as
 
 ## Opportunities
 
-As indicated above, you can find the GitHub <i class='fab fa-github'></i> repository, with [issue tracking](https://github.com/faridkhaheshi/americandream/issues) and [pull requests](https://github.com/faridkhaheshi/americandream/pulls).  The repository hasn't seen any updates since its creation, though, and Khaheshi doesn't seem to have much recent activity, so I can't vouch for his interest in feedback.
+As indicated above, you can find the GitHub repository, with [issue tracking](https://github.com/faridkhaheshi/americandream/issues) and [pull requests](https://github.com/faridkhaheshi/americandream/pulls).  The repository hasn't seen any updates since its creation, though, and Khaheshi doesn't seem to have much recent activity, so I can't vouch for his interest in feedback.
 
 ## What's Adaptable?
 

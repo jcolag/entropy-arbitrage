@@ -35,9 +35,9 @@ For years, I have heard cries for Twitter to allow users to edit posts.  A coupl
 
 And every time I see someone talk about the idea, I have to wonder...do people---even people at Twtitter---understand what Twitter *does*?
 
-As you probably know, I don't like Twitter or any social media, so I don't really care what happens to the company.  I *do* post to Twitter, as you know from the [Friday posts](/blog/tag/linkdump), and fully believe that you could probably do worse with your time than [follow me <i class="fab fa-twitter-square"></i>](https://twitter.com/jcolag) there.  But regardless of my personal feelings and even regardless of what Twitter's managers might think at any given time, editing tweets makes no sense, because of the way that society *uses* Twitter.
+As you probably know, I don't like Twitter or any social media, so I don't really care what happens to the company.  I *do* post to Twitter, as you know from the [Friday posts](/blog/tag/linkdump), and fully believe that you could probably do worse with your time than [follow me](https://twitter.com/jcolag) there.  But regardless of my personal feelings and even regardless of what Twitter's managers might think at any given time, editing tweets makes no sense, because of the way that society *uses* Twitter.
 
-**Update**:  I no longer post to Twitter, so I can't really recommend following me there.  Currently, you'll have the best luck [following me i class="fab fa-mastodon"></i> on Mastodon](https://mastodon.social/@jcolag/), instead.
+**Update**:  I no longer post to Twitter, so I can't really recommend following me there.  Currently, you'll have the best luck [following me on Mastodon](https://mastodon.social/@jcolag/), instead.
 
 ## Why People Care about Twitter
 
@@ -64,7 +64,7 @@ Naturally, results might not *quite* match that goal.  In fact, I would---and I 
 
 The reality of editing probably doesn't look quite so benign, because you can't make decisions about *how* people can edit things.
 
-Let's take a hypothetical example to explain.  Imagine if a fictional member of the United States Senate inexplicably [tweeted out <i class="fab fa-twitter-square"></i>](https://twitter.com/tedcruz/status/1395394254969753601) an announcement describing how he ogles the macho posturing of adversarial soldiers, and how much he dislikes his own country's military.  People might, naturally, find this at least mildly problematic, and the open, interactive nature of Twitter could result in the Senator receiving a fair amount of direct criticism for "adhering to [the United States of America's] Enemies, giving them Aid and Comfort," by praising its military and circulating its propaganda, something which Article III, Section 3 of the United States Constitution frowns upon.
+Let's take a hypothetical example to explain.  Imagine if a fictional member of the United States Senate inexplicably [tweeted out](https://twitter.com/tedcruz/status/1395394254969753601) an announcement describing how he ogles the macho posturing of adversarial soldiers, and how much he dislikes his own country's military.  People might, naturally, find this at least mildly problematic, and the open, interactive nature of Twitter could result in the Senator receiving a fair amount of direct criticism for "adhering to [the United States of America's] Enemies, giving them Aid and Comfort," by praising its military and circulating its propaganda, something which Article III, Section 3 of the United States Constitution frowns upon.
 
 In reaction, our imagined Senator might run away to Cancún in the middle of a crisis.  Wait, sorry, I lost track of things, there.  Let me try that one again.  Ahem.
 
@@ -74,7 +74,7 @@ In reaction to this criticism, our imagined Senator *might* consider that he mad
 
 ...And *then* he runs away to Cancún, hoping that no pesky independent journalists try to find out what happened to the puppies after the photo shoot.  **Allegedly**.
 
-Or consider the opposite situation.  A hypothetical provocateur CEO posts [a highly popular tweet](https://en.wikipedia.org/wiki/List_of_most-liked_tweets) that receives a massive amount of "positive engagement," likes and retweets.  Then, after the initial excitement about the comment or joke has died down, the imagined provocateur edits his tweet to [threaten employees considering forming a union <i class="fas fa-file-pdf"></i>](https://apps.nlrb.gov/link/document.aspx/09031d45833d3fce) by depriving them of stock options in the company.
+Or consider the opposite situation.  A hypothetical provocateur CEO posts [a highly popular tweet](https://en.wikipedia.org/wiki/List_of_most-liked_tweets) that receives a massive amount of "positive engagement," likes and retweets.  Then, after the initial excitement about the comment or joke has died down, the imagined provocateur edits his tweet to [threaten employees considering forming a union](https://apps.nlrb.gov/link/document.aspx/09031d45833d3fce) by depriving them of stock options in the company.
 
 He then goes on a press tour, using the performance of this tweet to "illustrate" a wild hatred for organized labor that doesn't actually exist.
 

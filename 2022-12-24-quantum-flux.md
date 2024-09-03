@@ -104,7 +104,7 @@ In a week, we'll start reading **Life Blood** by Thomas Hoover.  This books runs
 
 I don't like making that kind of time commitment, but it keeps us moving with a new author, at a time when my list of potential works to cover has grown precariously short.  This will take nine weeks, but after it, I have...a couple of games, maybe?  And I can't say for sure, yet, if those games actually have a narrative.  I also have two more novels on the list, but they both run significantly longer than **Life Blood**, and I *definitely* don't like the idea of an eighteen-week series of posts on a single novel.
 
-Therefore, I ask again for help.  If you know of any works---or want to create works---that fit these posts (fictional, narrative, Free Culture, available, and not by creators who we've already discussed), please tell me about them.  In fact, how about this:  Every person who points me to an appropriate work with an explanation will receive a free membership on [my ☕ Buy Me a Coffee page](https://buymeacoffee.com/jcolag).
+Therefore, I ask again for help.  If you know of any works---or want to create works---that fit these posts (fictional, narrative, Free Culture, available, and not by creators who we've already discussed), please tell me about them.  In fact, how about this:  Every person who points me to an appropriate work with an explanation will receive a free membership on [my Buy Me a Coffee page](https://buymeacoffee.com/jcolag).
 
 Anyway, while we wait for that, what did everybody else think about this adventure?
 

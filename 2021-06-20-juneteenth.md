@@ -74,7 +74,7 @@ Who could argue against celebrating the end of (most) slavery as a holiday?  Who
 
  > Their intent is to replace the Fourth of July with this new day, one that will inevitably focus on America's darkest moments.
 
-###### [<i class="fab fa-twitter-square"></i> Matt Rosendale, 16 June 2021, 7:33 PM](https://twitter.com/RepRosendale/status/1405307656642912256)
+###### [Matt Rosendale, 16 June 2021, 7:33 PM](https://twitter.com/RepRosendale/status/1405307656642912256)
 
 Huh.  I admit that I hadn't considered that particular possibility.
 

@@ -24,7 +24,7 @@ To give this series some sense of organization, check out some basic facts witho
  * Location:  <https://peer.madiator.cloud/w/vmPmME5XPWNc8uXSMe1xCk>
  * Released:  2020 -- 2023
  * License:  CC BY-SA
- * Creator:  [J.Y. Amihud <i class="fab fa-youtube"></i>](https://www.youtube.com/@jeisonlm)
+ * Creator:  [J.Y. Amihud](https://www.youtube.com/@jeisonlm)
  * Medium:  Computer animation
  * Length:  Approximately twenty-eight minutes
  * Content Advisories:  Dangerous situations, fear

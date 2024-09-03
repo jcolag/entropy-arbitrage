@@ -72,9 +72,9 @@ The consistency also suddenly falls apart at the end of the game, when the puzzl
 
 ## Opportunities
 
-If you follow the links around from the game's main page, you'll find the [GitHub <i class="fab fa-github"></i> repository](https://github.com/Larpon/DeadAscend).  Development seems to have stopped, but that may be more about people bringing issues or pull requests than about the creator's interests.
+If you follow the links around from the game's main page, you'll find the [GitHub repository](https://github.com/Larpon/DeadAscend).  Development seems to have stopped, but that may be more about people bringing issues or pull requests than about the creator's interests.
 
-From the GitHub page, you can find the [Itch.io <i class="fab fa-itch-io"></i> page](https://github.com/Larpon/DeadAscend), where you can pay what you want---yes, including nothing---for a pre-built version of the game that isn't a phone/tablet app.
+From the GitHub page, you can find the [Itch.io page](https://blackgrain.itch.io/dead-ascend), where you can pay what you want---yes, including nothing---for a pre-built version of the game that isn't a phone/tablet app.
 
 ## What's Adaptable?
 

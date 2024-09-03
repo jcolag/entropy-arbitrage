@@ -56,7 +56,7 @@ As one might expect from the results from a [game jam](https://en.wikipedia.org/
 
 ## Opportunities
 
-Other than the non-interactive discussions on the game's page, you could try to pitch in at the [Bitbucket <i class="fab fa-bitbucket"></i> repository](https://bitbucket.org/JohnGabrielUK/catburglar/src/master/), though I don't see any interaction there, either.
+Other than the non-interactive discussions on the game's page, you could try to pitch in at the [Bitbucket repository](https://bitbucket.org/JohnGabrielUK/catburglar/src/master/), though I don't see any interaction there, either.
 
 Note that, while all the fonts seem to have licenses that would probably allow their current uses, at least those that I checked do *not* come under Free Culture licenses.
 

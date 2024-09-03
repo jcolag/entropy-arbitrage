@@ -49,7 +49,7 @@ Note that we have dropped in on this unfinished, with only part of the prologue 
 
 And...well, they *came* out on alternate Thursdays up until recently, and the comic might have already gone extinct.  The website seems to have gotten overwritten with few pages archived anywhere.  And while I had the presence of mind to collect the page images themselves---I'll upload a copy to the Internet Archive, if it looks like the site won't return---I don't have the image descriptions or historical material that I'll talk about later.
 
-In fact, consider me confused, at this point.  Merrill has posted a [thread explaining the delay <i class="fab fa-mastodon"></i>](https://toot.site/@animerrillproductions/110576899281242549), and apparently can't have the static web pages available without an e-mail server.  I genuinely hope that the project comes back, but honestly, calling it "out until further notice" for such a distant and abstract reason doesn't inspire much confidence in me.
+In fact, consider me confused, at this point.  Merrill has posted a [thread explaining the delay](https://toot.site/@animerrillproductions/110576899281242549), and apparently can't have the static web pages available without an e-mail server.  I genuinely hope that the project comes back, but honestly, calling it "out until further notice" for such a distant and abstract reason doesn't inspire much confidence in me.
 
 **Update**, 2023 July 15:  The site has returned, seemingly where it left off shortly before this post originally went out.
 

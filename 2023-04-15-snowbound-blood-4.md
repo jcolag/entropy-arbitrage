@@ -71,7 +71,7 @@ Honestly, while this section has some great highlights, like the aforementioned 
 
 ## Opportunities
 
-You can pay what you want for the download---including nothing---on [the <i class="fab fa-itch-io"></i> Itch.io page](https://deconreconstruction.itch.io/snowbound-blood).  The page also seems to have gathered a small community around it.
+You can pay what you want for the download---including nothing---on [the Itch.io page](https://deconreconstruction.itch.io/snowbound-blood).  The page also seems to have gathered a small community around it.
 
 I should also mention that, due to the nature of [RenPy](https://www.renpy.org/), at least with the proper tooling, you can extract almost all the backgrounds, character images in various poses, music, script, and so forth, to adapt to your heart's content.
 
@@ -83,7 +83,7 @@ We don't get much information on it, but a character loves indie anime franchise
 
 In next week's post, we'll start listening to **Expedition Sasquatch**, a fiction podcast.  Given its total length, we'll split it into three blog posts, covering the first five episodes---*Good Morning Squatchers* to *Expedition Sasquatch Returns!*---in the first of the posts next time.
 
-As mentioned previously, by the way, the list of potential works to discuss has run low, so I need to ask for help, again.  If you know of any works---or want to create them---that fit these posts (fictional, narrative, Free Culture, available to the public, and not by creators who we've already discussed), please tell me about them.  Every person who points me to at least one appropriate work with an explanation will receive a free membership on [my ☕ Buy Me a Coffee page](https://buymeacoffee.com/jcolag).
+As mentioned previously, by the way, the list of potential works to discuss has run low, so I need to ask for help, again.  If you know of any works---or want to create them---that fit these posts (fictional, narrative, Free Culture, available to the public, and not by creators who we've already discussed), please tell me about them.  Every person who points me to at least one appropriate work with an explanation will receive a free membership on [my Buy Me a Coffee page](https://buymeacoffee.com/jcolag).
 
 Anyway, while we wait for that, what did everybody else think about the visual novel?
 

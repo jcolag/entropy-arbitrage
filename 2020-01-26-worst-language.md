@@ -16,7 +16,7 @@ I'm trying something new, here, that I've hinted at [once]({% post_url 2019-12-0
 
 ![Sisyphus](/blog/assets/Friedrich_John_nach_Matthäus_Loder_Sisyphus_ubs_G_0825_II.jpg "Caution: Sisyphus at work")
 
-To start off, I figured I would go with something fun---for me, I mean; you're on your own, dear reader---so this post is based on [<i class="fab fa-quora"></i> If you were given the job to make the worst possible but still usable general purpose language, what features would it have or not have?](https://www.quora.com/If-you-were-given-the-job-to-make-the-worst-possible-but-still-usable-general-purpose-language-what-features-would-it-have-or-not-have), which I originally answered on April 4th, 2014.  Obviously, it has been edited substantially to better fit the tone and format of **Entropy Arbitrage**.
+To start off, I figured I would go with something fun---for me, I mean; you're on your own, dear reader---so this post is based on [If you were given the job to make the worst possible but still usable general purpose language, what features would it have or not have?](https://www.quora.com/If-you-were-given-the-job-to-make-the-worst-possible-but-still-usable-general-purpose-language-what-features-would-it-have-or-not-have), which I originally answered on April 4th, 2014.  Obviously, it has been edited substantially to better fit the tone and format of **Entropy Arbitrage**.
 
 ## Excluding Irrelevant Choices
 

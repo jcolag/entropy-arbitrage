@@ -53,7 +53,7 @@ Each post will try to cover similar ground, so that I'm comparing the systems ap
  * Source Code Repository:  The place to go to get the network source, file issues, and contribute changes.
  * License:  The public license under which the server software is available.  To be involved in this Showdown, it *must* be an [OSI-approved license](https://opensource.org/licenses/category), since anything outside them won't be Free Software.
  * John's Account:  The place to connect with me on the network in question.
- * Font Awesome:  Where [<i class="fab fa-font-awesome"></i>](https://fontawesome.com/icons?d=gallery&s=brands&m=free) has a brand icon for the network, I'll list it.
+ * Font Awesome:  Where [Font Awesome](https://fontawesome.com/icons?d=gallery&s=brands&m=free) has a brand icon for the network, I'll list it.
 
 And then longer-form descriptions of how the network pans out.
 
