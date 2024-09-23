@@ -48,7 +48,7 @@ You might recognize the admiral as [Jacqueline Brookes](https://en.wikipedia.org
 
  > **PICARD**: This is an unhappy way to begin commencement. If you require any assistance, then the *Enterprise* is at your disposal.
 
-This seems rather self-important of Picard, doesn't it?  The Admiral presumably has the full resources of the entirety of Starfleet at her disposal---including his ship, since she outranks him---but offers his help that carries a clear conflict of interest.
+This seems rather self-important of Picard, doesn't it?  The Admiral presumably has the full resources of the entirety of Starfleet at her disposal---including his ship, since she outranks him---but his offer of help carries a clear conflict of interest.
 
  > **LOCARNO**: Captain, sir.
 
