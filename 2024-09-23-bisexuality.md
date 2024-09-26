@@ -25,7 +25,7 @@ Anyway, on we go to the projects.
 
 ## Codidact
 
-I gave another question a shot on Codidact:  [Our site incubator concept needs a re-think](https://meta.codidact.com/posts/292599/292615#answer-292615).  If you'd like an excuse to get involved with the community, this actually feels like a good answer for that, since a newcomer would definitely have better insight into the flaws in the existing system than somebody who has used the site for months or years.
+I gave another question a shot on Codidact:  [Our site incubator concept needs a re-think](https://meta.codidact.com/posts/292599/292615#answer-292615).  If you'd like an excuse to get involved with the community, this actually feels like a good question for that, since a newcomer would definitely have better insight into the flaws in the existing system than somebody who has used the site for months or years.
 
 Something to consider about the site in general:  I like that it seems to prefer to encourage conversation to "answer the question and move on," but it likewise seems troubling that the community that they've gathered seems mostly disinclined to such conversation.  In particular, I see that almost every answer across the site has a down-vote or two, as if somebody with a vendetta wants to hurt people who really don't care about the numbers, instead of talking out whatever emotional problem they need to deal with.
 
