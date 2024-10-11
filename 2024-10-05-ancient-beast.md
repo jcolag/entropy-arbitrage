@@ -42,7 +42,7 @@ I don't think that I can add much to that.  You go to the game's page, configure
 
 ## What Works Well?
 
-The game looks nice, which sounds uninteresting, but consider the variety of ideas, ranging from implausibly cartoon-like to provocative with a lot of stock fantasy material in between, that need to coexist on the same board and in different settings.  For example, the Gumble and the Hornhead ({% emoji notes %} should be friends... {% emoji notes %}) don't seem like they could ever fit the same world, more so when you have something like the Swine Thug, but the art makes most of them seem like you'd find them near each other.  The same goes for the music, which despite coming from a variety of composers and splitting into two genres, provides a similar feel.
+The game looks nice, which sounds uninteresting, but consider the variety of ideas, ranging from implausibly cartoon-like to provocative with a lot of stock fantasy material in between, that need to coexist on the same board and in different settings.  For example, the Gumble and the Hornhead ({% emoji musical notes %} should be friends... {% emoji musical notes %}) don't seem like they could ever fit the same world, more so when you have something like the Swine Thug, but the art makes most of them seem like you'd find them near each other.  The same goes for the music, which despite coming from a variety of composers and splitting into two genres, provides a similar feel.
 
 The game also plays well, for the most part.  While the strategy side will probably elude a lot of people for a while, like it does myself, I don't see many people having trouble figuring out the mechanics of play, other than poor terminology requiring you to "skip turn" to end your turn after taking it.
 
@@ -104,7 +104,7 @@ The story of two Dark Priests fighting strikes me as fairly flimsy, but the game
 
 ## Coming Attractions
 
-Coming up next week, we'll start "sample" another longer work, spending four weeks reading the first six chapters of **Restoration Day** by Deborah Makarios, starting with the first two, *Trouble Brewing* and *Downhill from Here*.  If you get to *Recognition*, then you've gone too far.
+Coming up next week, we'll start "sampling" another longer work, spending four weeks reading the first six chapters of **Restoration Day** by Deborah Makarios, starting with the first two, *Trouble Brewing* and *Downhill from Here*.  If you get to *Recognition*, then you've gone too far.
 
 {% include fchelp.md %}
 
