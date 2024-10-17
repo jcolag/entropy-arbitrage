@@ -6,7 +6,7 @@ categories:
 tags: [programming, project, dev-journal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Memory-plaque-of-founding-ISA-in-Prague.png
-offset: -30%
+offset: -20%
 teaser: This week's projects include the blog's code, preparation for The Light's Edge episodes, and another toy for The Light's Edge.
 spell: LLL GFCI Luděk Kovář Unported
 proofed: true
