@@ -7,7 +7,7 @@ tags: [free-culture, book-club]
 summary: Discussing the start of a longer novel
 thumbnail: /blog/assets/restoration-day.png
 offset: -38%
-teaser: This week sees a high fantasy novel of political intrigue.
+description: This week sees a high fantasy novel of political intrigue.
 spell: Arcelia Malin
 proofed: true
 ---
