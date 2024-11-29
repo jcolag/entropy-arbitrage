@@ -88,7 +88,7 @@ We proudly(?) present a chat log from the afternoon of 2024 April 08, recently d
 
  > They didn't understand what I meant, so I put it into terms that they could understand.
 
- > I went with the riddle about the doctor who can't operate on their child, even though the child's husband died in a car crash.
+ > I went with the riddle about the doctor who can't operate on their child, even though the child's father died in a car crash.
 
  > That, they understood, implausible as it seems.
 

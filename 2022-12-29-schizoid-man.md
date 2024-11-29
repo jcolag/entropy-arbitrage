@@ -46,7 +46,7 @@ Look, he emulated Riker's beard, here.  And while I don't want to argue about th
 
  > **DATA**: Why was she laughing?
 
-He raises a legitimate point.  Starfleet ostensibly employs Troi in order to help her colleagues deal with internal and external conflicts that come up when you live in an isolated community in almost constant danger.  This looks like a serious internal conflict; Data wants people to treat him with more respect, and he believes that Riker's beard "command's respect."  She also had *plenty* of notice to prepare herself for seeing something incongruous, since LaForge told her that Data wanted to test a new image.  And instead of acting like a professional, or even an adult, she laughed in the face of a colleague asking for her help, then abandoned him.
+He raises a legitimate point.  Starfleet ostensibly employs Troi in order to help her colleagues deal with internal and external conflicts that come up when you live in an isolated community in almost constant danger.  This looks like a serious internal conflict; Data wants people to treat him with more respect, and he believes that Riker's beard "commands respect."  She also had *plenty* of notice to prepare herself for seeing something incongruous, since LaForge told her that Data wanted to test a new image.  And instead of acting like a professional, or even an adult, she laughed in the face of a colleague asking for her help, then abandoned him.
 
  > **WESLEY**: Captain, I show the *Constantinople* in that general vicinity. She's a transport ship, used to ferry settlers. I'm showing two thousand and twelve colonists aboard.
 
@@ -142,7 +142,7 @@ Picard cites Shakespeare's [Sonnet 18](https://en.wikipedia.org/wiki/Sonnet_18),
  >
  > **PICARD**: No. He must not be lost. He's not simply an android. He's a life form, entirely unique.
 
-I can't help noticing that Picard does not argue this point, even though a defense of Data's personhood might sway Graves, since he doesn't currently believe that he has done anything wrong.  Rather than talk about Data as a peer and a person of value, Picard only discusses him as a unique creature.
+I can't help noticing that Picard does not argue this point, even though a defense of Data's personhood might sway Graves, since he doesn't currently believe that he has done anything wrong.  Rather than talk about Data as a peer and a person of value, Picard only discusses him as a unique object.
 
  > Captain's log, supplemental. We've said goodbye to Kareen Brianon, with the hopeful feeling that her future will be a bright one. The intellect of Ira Graves has been deposited into our computer. There is knowledge but no consciousness. The human equation has been lost.
 

@@ -73,7 +73,7 @@ He has recurring headaches because of that thing, and they all treat it as norma
  >
  > **RIKER**: Deuce. Six.
 
-See?  Look how much more engaged this gotten them.  They should play *this* game every week instead of poker...
+See?  Look how much more engaged this got them.  They should play *this* game every week instead of poker...
 
  > **DATA**: I have a hypothesis that may explain that, Captain. I have analyzed the recording Doctor Crusher made. Most of it is quite ordinary. One hundred fifty discussions about ship operations, two hundred, fifty-two conversations of a personal nature, five couples engaged in romantic encounters.
 
