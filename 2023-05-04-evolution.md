@@ -37,7 +37,7 @@ Also, we've lost track of Dr. Pulaski.  Diana Muldaur would move on to [**L.A. L
 
 I can only find one [Kavis](https://en.wikipedia.org/wiki/Kavis), a tiny village in Iran.
 
-[Neutronium](https://en.wikipedia.org/wiki/Neutronium)...exists hypothetically, generally some version of an element with no protons, therefore its nucleus has only electrons.  With no electron shells, the nuclei can touch and merge, assembling *extremely* hypothetical macroscopic atoms with no electrostatic forces to push the particles apart.  I don't believe that it happens in this franchise, but it often shows up in other franchises as the default "implausibly dense substance that blocks what it needs to block" technology.
+[Neutronium](https://en.wikipedia.org/wiki/Neutronium)...exists hypothetically, generally some version of an element with no protons, therefore its nucleus has only neutrons.  With no electron shells bound to a positively charged nucleus, the nuclei can touch and merge, assembling *extremely* hypothetical macroscopic atoms with no electrostatic forces to push the particles apart.  I don't believe that it happens in this franchise, but it often shows up in other franchises as the default "implausibly dense substance that blocks whatever it needs to block" technology.
 
  > **STUBBS**: Spectacular, isn't it, my young friend?
 
