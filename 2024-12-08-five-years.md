@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer Diary, Five Years of Entropy Arbitrage
+title: Five Years of Entropy Arbitrage
 date: 2024-12-08 09:21:05-0500
 categories:
 tags: [blog, celebration, meta]
