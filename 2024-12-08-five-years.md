@@ -22,7 +22,7 @@ Late this past summer, I noticed that the fifth anniversary of [my first blog po
 
 ![A fifth birthday party](/blog/assets/5122978902_81d43e375c_o.png "I don't actually do birthdays, other than as a pretext to make a big deal about friends, but...")
 
-Funny enough, it looks like Cory Doctorow's [Pluralistic had its five-year anniversary](https://pluralistic.net/) yesterday, completely unrelated.  He ran a post on his favorite of the header images that he put together.  Congratulates to him, too, then.
+Funny enough, it looks like Cory Doctorow's [Pluralistic had its five-year anniversary](https://pluralistic.net/) yesterday, completely unrelated.  He ran a post on his favorite of the header images that he put together.  Congratulations to him, too, then.
 
 We'll start with the literal blog itself, the code that powers everything.
 
@@ -86,7 +86,7 @@ We could look at the existing categories in somewhat more detail, though.
 
 ### Miscellaneous Sundays
 
-These posts have remained irregular, since they tend to take the largest amount of original writing and usually a time-sensitive reason for raising the issue.  They also tend to---like this post---run long, which absorbs unlimited time, and the time-sensitivity generally means that I usually can't break the post up over a couple of weeks.  Regardless, I've used the occasion to publish nine short stories, a couple of dozen pieces on politics, about a dozen posts recycling the aforementioned material from Quora, a seven-post series on attempting to change careers to software engineering, and much more.
+These posts have remained irregular, since they tend to take the largest amount of original writing and usually have a time-sensitive reason for raising the issue.  They also tend to---like this post---run long, which absorbs unlimited time, and the time-sensitivity generally means that I usually can't break the post up over a couple of weeks.  Regardless, I've used the occasion to publish nine short stories, a couple of dozen pieces on politics, about a dozen posts recycling the aforementioned material from Quora, a seven-post series on attempting to change careers to software engineering, and much more.
 
 In a lot of ways, I think of the Sunday posts---like this one---the "real" blog, the posts where nobody (frequently including me) knows what we'll get.  If you really wanted consistent topics, you'd go read some corporate blog, where consistency gives advertisers some reassurance that they can predict the demographics that they can lure in.  Around here, certain other days could give that kind of security, attracting software developers or Trekkies, but over Sunday-way, you might get anything from the Free Culture movement to abortion to translations of obscure fiction, not to mention plenty of anti-corporate jabs.
 
@@ -149,11 +149,11 @@ In a way, I've had to rediscover this idea.  In high school, I took a writing cl
 While I don't want to belabor this in an already-long post, I did want to briefly mention at least a selection of my favorite posts.  I don't necessarily love the *writing*, but they all give some sense of how I'd like the blog to feel.
 
 - [*Bank on It*]({% post_url 2023-03-19-banks %}):  One of my favorite stories of mine, I built on the events of the day to suggest the idea of super-villains creating destruction for the purpose of economic and political sabotage, which almost feels prescient, these days.
-- [*Ernest Hemingway's Visit from Saint Nicholas*]({% post_url 2023-12-24-visit %}):  While I didn't write the story, but I find the clash of styles absolutely delightful, and the story's copyright expired.
+- [*Ernest Hemingway's Visit from Saint Nicholas*]({% post_url 2023-12-24-visit %}):  While I didn't write the story, I find the clash of styles absolutely delightful, and the story's copyright expired.
 - [*A Heritage-Based Reading Schedule*]({% post_url 2022-07-03-reading %}):  This post holds a special place in my heart, because I actually refer to it regularly.  Every month, I need to remind myself where I want to source the quotes for my lunchtime Mastodon posts, or what criteria that I want to use to select books to read and sometimes films to watch.
 - The too-rare [Let's Fix](/blog/tag/letsfix) post:  I love the idea of taking either a famous media franchise or monopolistic corporation, figuring out the "central truth" that makes it useful, and designing a Free Culture replacement or working out how to force a company to behave.
 - [*Real Life in Star Trek, The Defector*]({% post_url 2023-07-06-defector %}):  While not an important or particularly enjoyable episode, it spurred me to talk about the silly idea that we should all find Shakespeare relevant to understanding culture, nationalistic paranoia, the in-universe love of 1970s animation, and the sporadic possible self-awareness by the writers.
-- [*Software as a Haunting (SaaH?)*]({% post_url 2023-08-06-code-haunting %}):  I propose an extreme way of thinking about software as something more interesting than an artificial tool.
+- [*Software as a Haunting (SaaH?)*]({% post_url 2023-08-06-code-haunting %}):  Here, I proposed an extreme way of thinking about software as something more interesting than an artificial tool.
 - [*Superheroes and Race*]({% post_url 2021-03-07-super %}):  In response to the online outrage at the possibility of casting a Black performer to play Superman, I examined why the character makes a lot more sense in that context, due to both his origins and portrayal.
 - [*Wanted --- Ethical Media Consumption*]({% post_url 2020-08-02-ethmedia %}):  Here, I talked about how I want a better framework for enjoying media responsibly, in a world where the funding might come from money laundering (and contributions from the military in exchange for script oversight), the director and star may have assaulted people, the studio may have scuttled the presence of gender and sexual minorities, and more.
 - [*Why Care about Free Culture?*]({% post_url 2023-06-25-free-culture %}):  I talk about why I have latched onto Free Culture as a cause, and why I'd like it to matter to you, too.
@@ -243,6 +243,6 @@ Some of those ideas will probably require software, while others "only" require 
 
 Again, thanks so much to everybody for reading!  And I can only hope that you continue to think of the posts here as worth your time.
 
-*- *
+* * *
 
 **Credits**:  The header image is [Stefan's fifth birthday school party](https://www.flickr.com/photos/35261188@N00/5122978902) by [Upsilon Andromedae](https://www.flickr.com/photos/upsand/), made available under the terms of the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) license.
