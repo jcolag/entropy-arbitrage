@@ -15,9 +15,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-{% cw #1 &mdash; This post talks frankly about politics.  If my using terms like "fascism" and "insurrection" might hurt your delicate feelings, then you might want to take a breath before reading or consider heading somewhere else. %}
+{% cw #1 --- This post talks frankly about politics.  If my using terms like "fascism" and "insurrection" might hurt your delicate feelings, then you might want to take a breath before reading or consider heading somewhere else. %}
 
-{% cw #2 &mdash; This post will talk about media that doesn't come under Free Culture licenses.  It'll probably also blend in some public domain works and throw in a couple of Free Culture works at the end, though. %}
+{% cw #2 --- This post will talk about media that doesn't come under Free Culture licenses.  It'll probably also blend in some public domain works and throw in a couple of Free Culture works at the end, though. %}
 
 During Donald Trump's first administration, journalists obsessed over how to most effectively give white supremacists and other fascists a platform, from "Nazi next door" profiles to giving them places to directly share their views with the world without any mediation.  They did this for a few reasons, none of them particularly *good*.  Most publicly, they did this as self-flagellation, insisting that people who know and care about immigrants, descendants of slaves, queer folks, and so forth "live in a bubble" and need to better know "the real America," where people see all those groups as an invasive force.  But it also fits well with a business model (advertising) that requires keeping the audience in a constant state of anxiety, not to mention that decades of media consolidation mean that the CEO would *really* like everybody to get on-board with policies that let them pillage the country.
 
