@@ -25,7 +25,7 @@ Let's check out the week's projects.
 
 {% github jcolag/entropy-arbitrage-code %}
 
-After a foul-up on my part, the text sizes on the index pages should look correct again.  One of the fixes last week for squeezing out the deprecated SASS code caused a problem there, but that process finally *also* completed.  Most readers shouldn't care about that, because the resulting CSS should look roughly the same, but if you find yourself working with Jekyll's Minima theme and the warnings bother you, checking what I changed in those commits might help.
+After a foul-up on my part, the text sizes on the index pages should look correct again.  One of the fixes last week for squeezing out the deprecated SASS code caused a problem there, but that process finally *also* completed.  Most readers shouldn't care about that, because the resulting styling should look roughly the same, but if you find yourself working with Jekyll's Minima theme and the warnings bother you, checking what I changed in those commits might help.
 
 Continuing on the cosmetic issues, the [tag list](/blog/tags) no longer shows underlines on the links, since the page doesn't really have any text to distinguish the links *from*, the explanation for comments now sits closer to the comment box, and headings in posts should no longer look like I picked the sizes randomly.
 
@@ -39,7 +39,7 @@ It requires running a small amount of JavaScript, but those of you reading on th
 window.addEventListener('load', (e) => {
   anchors = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
   links = document.querySelectorAll('#markdown-toc li > a');
-}
+});
 ```
 
 On loading the page, we initialize the aforementioned variables.  The `querySelectorAll()` method gives us a list of all elements on the page that fit the listed queries.  Anchors look for `h1` and similar elements on the page, all headings.  Links---terrible name, in retrospect---look for links in the bulleted list of the table of contents.  Actually, I should probably rename them both, anchors to headings and links to ToC entries.
@@ -75,7 +75,7 @@ This would make me much happier without JavaScript, but it does work.  As you sc
 
 ### Improved Content Warnings
 
-In yesterday's [post on fictional villains]({% post_url 2024-12-15-devils-detail %}), I noticed that the text of the content warnings didn't get converted to HTML, which would make sense.  As much as I believe that textual elements like content warnings should have as little styling applied as possible, but sometimes it needs italics to make sense---in the future, a warning might refer to a book or something, and would need to bold the title---and conservative styling shouldn't mean abandoning smart-quotes and appropriate dashes.
+In yesterday's [post on fictional villains]({% post_url 2024-12-15-devils-detail %}), I noticed that the text of the content warnings didn't get converted to HTML, which would make sense.  As much as I believe that textual elements like content warnings should have as little styling applied as possible, sometimes it needs italics (for example) to make sense---in the future, a warning might refer to a book or something, and would need to bold the title---and conservative styling shouldn't mean abandoning smart-quotes and appropriate dashes.
 
 As it turns out, I've done this before, and even documented it on the blog a couple of times, starting with the [2021 Yaldā Eve developer diary]({% post_url 2021-12-20-yalda %}), so I won't go into it the specific changes here.  However, I gave this its own section to mention two issues that led to yesterday's post getting delayed by a couple of hours.
 
@@ -85,11 +85,11 @@ First, as you might know from my [post on testing Jekyll plugins]({% post_url 20
 
 To my extreme frustration, my tests failed on a fundamental level, crashing on the plugin's attempt to retrieve site information.  That made no sense, since I have several other plugins that run exactly the same code, which have never given me any trouble, and I couldn't find *any* discussion of the error message online, though the state of search engines these days makes that meaningless.  But then, I hit on a key piece of evidence:  I didn't have test harness code for any of the plugins that do this Markdown-to-HTML conversion.
 
-While I wish that I could give you some insight that would help you test similar plugins---presumably, I need a different context object to pass in than `Liquid::ParseContext`---but I can tell you that ignoring the testing and restarting the server *did* show me that the code worked all along.
+While I wish that I could give you some insight that would help you test similar plugins---presumably, I need a different context object to pass in than `Liquid::ParseContext`---but I can tell you that.  Instead, I can tell you that ignoring the test scaffolding and restarting the server *did* show me that the code worked all along.
 
 That led to the second problem, though, empty content warnings.  This turned out to have a more fundamental reason that I should have already realized.  The content warning blocks, in previous versions, used paragraph elements (`<p>...</p>`) to contain the warning information.  However, when this code converts a string to Markdown, it wraps the text in a paragraph element of its own.  An HTML paragraph should only contain [phrasing content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#phrasing_content), though, of which paragraphs themselves don't qualify, so the inner paragraph vanishes.
 
-To fix this, the warnings now come as `div` elements, which can contain "flow content" (same link), and a paragraph definitely qualifies, there.
+To fix this, the warnings now come as `div` elements, which can contain "flow content" (same link, different section), and a paragraph definitely qualifies, there.
 
 ## Next
 
