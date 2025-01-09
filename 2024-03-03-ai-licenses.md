@@ -3,7 +3,7 @@ layout: post
 title: The Rise and (Likely) Fall of Anti-AI Licenses
 date: 2024-03-03 07:22:12-0500
 categories:
-tags: [art, harm, rant, technology]
+tags: [artificial-intelligence, art, harm, rant, technology]
 summary: Public licensing based on intended use seems prone to failure.
 thumbnail: /blog/assets/40466252685_3701e77720_o.png
 offset: -25%
