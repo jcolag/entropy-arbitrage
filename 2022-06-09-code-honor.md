@@ -152,7 +152,7 @@ I see that the violent anger at aliens doesn't end with Picard.  Notice that Yar
 
 Would more people go to therapy if the doctor recommended solving problems through racially motivated cat-fights?  Only one science fiction franchise has the courage to even ask...
 
-More seriously, what does Troi's job as "counselor" actually entail?  She doesn't seem attached to the medical staff, visually distances herself from the crew, doesn't seem to attend therapy sessions, doesn't abide by any confidentiality rules, and seems to broadly oppose a lot of Starfleet's principles, speaking dismissively about the Prime Directive and goading Picard into more than one violent confrontation.  Oh, and when Picard introduced her to Riker, she pressured Riker---her other boss---to acknowledge their prior relationship.
+More seriously, what does Troi's job as "counselor" actually entail?  She doesn't seem attached to the medical staff, visually distances herself from the crew, doesn't seem to attend therapy sessions, doesn't abide by any confidentiality rules, and seems to broadly oppose a lot of Starfleet's principles, speaking dismissively about the Prime Directive and goading Picard into more than one violent confrontation.  Oh, and when Picard introduced her to Riker, she pressured Riker---her other boss---to not acknowledge their prior relationship.
 
  > **PICARD**: Some of it I do understand. She is a rather lovely female.
  >
@@ -172,11 +172,11 @@ Apparently, the tradition continues of asking gift recipients why they don't per
 
 Having offended everybody else, by this point in the episode, *Star Trek* decides that it needs to have a hot take about...multi-blade razors, maybe?  I can't find a reference for whether cartridge razors made it to market by this point, and can't remember any commercials for the product until closer to the end of the series.
 
-That said, what *art* does clean-shaven LaForge mean?  If we saw him sculpting his serial number into his beard, or even just trimming a goatee, I might let this pass.  Instead, nothing about his presentation suggests that his artistic efforts anything unlike a chemical depilatory.  Was he the kid who always drew polar bears walking through a blizzard for his art projects?
+That said, what *art* does clean-shaven LaForge mean?  If we saw him sculpting his serial number into his beard, or even just trimming a goatee, I might let this pass.  Instead, nothing about his presentation suggests that his artistic efforts look any different from a chemical depilatory.  Was he the kid who always drew polar bears walking through a blizzard for his art projects?
 
  > **LAFORGE**: It's too old. And you didn't tell it very well.
 
-Apparently, LaForge doesn't understand human humor, either.  I don't want to imply that I find the joke---or Brent Spiner, for that matter---at all funny, of course.  But age has nothing to do with the quality of a joke.  The oldest known joke, preserved by Sumerians, says, "something which has never occurred since time immemorial; a young woman did not fart in her husband’s lap."  It almost certainly loses something in the translation, but the sentiment wouldn't seem remotely out of place in a family sitcom.  Dress it up as someone worried that their dainty significant other might leave them, instead of the weird headline format.
+Apparently, LaForge doesn't understand human humor, either.  I don't want to imply that I find the joke---or Brent Spiner, for that matter---at all funny, of course.  But age has nothing to do with the quality of a joke.  The oldest known joke, preserved by Sumerians, says, "something which has never occurred since time immemorial; a young woman did not fart in her husband’s lap."  It almost certainly loses something in the translation, but the sentiment wouldn't seem remotely out of place in a family sitcom.  Dress it up as someone worried that their dainty significant other might leave them, instead of the weird headline format, and a wife farting on her husband would probably get a laugh.
 
 And if that joke still basically works after almost four thousand years, the problem with Data's "joke" has nothing to do with its age.
 
