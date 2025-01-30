@@ -73,7 +73,7 @@ In short, skipping a bunch of steps, a badge consists of an image with metadata 
 
 Despite the grounding in education, though, that conversation sparked the idea that many communities---Free Culture came immediately to mind---could use the same or a similar scheme to reward collaborators or (eventually) maybe even hand out awards for exceptional work.  For a tacky but few-moving-parts example, I---or, more specifically, the blog---could release a "Featured in the [Free Culture Book Club](/blog/tag/book-club)" badge for each author whose work gets covered, so that interested authors have the option of using that on the project page.
 
-With all that explained, this new repository will house my attempt to create a minimal script that'll create those "fully baked" badges.  At this time, the code will insert metadata into a PNG-format image file, which should do the job, **if** you have the proper metadata.
+With all that explained, this new repository will house my attempt to create a minimal script that'll create those "fully baked" badges.  At this time, the code will (I hope correctly) insert metadata into a PNG-format image file, which should do the job, **if** you have the proper metadata.
 
 I don't know if anybody---including myself---will actually find a use for it, but the idea caught my interest enough that it seemed worth minimizing the burden of creating the badges to see how it shakes out.
 
