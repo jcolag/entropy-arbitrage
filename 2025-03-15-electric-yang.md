@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Culture Book Club — electric (yang)
-date: 2025-03-15 06:50:12-0500
+date: 2025-03-15 06:50:12-0400
 categories:
 tags: [free-culture, book-club]
 summary: Discussing a compilation album
