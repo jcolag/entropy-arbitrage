@@ -9,6 +9,7 @@ thumbnail: /blog/assets/wwoo-xii-wicked-witch-west.png
 offset: -7%
 description: Musings about the (pretty goofy) idea that watching Elphaba gives us fascists.
 spell: Elphaba mdash Boq Gayelette Glinda Idina Menzel vilein vilain villanus Folie Deux Kash retellings Crowdagger Racheal Beter Denslow
+recommend: The maybe-interesting distinctions between real-world and fictional villainy
 proofed: true
 ---
 
