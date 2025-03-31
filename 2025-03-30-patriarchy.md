@@ -9,13 +9,13 @@ thumbnail: /blog/assets/51422454714_61177f23c1_o.png
 offset: -25%
 description: Looking at patriarchy, masculinity, power, and related issues during Women's History Month.
 spell: Biewen nomadically Pelicot Esperluette
-proofed: 
+proofed: true
 ---
 
 * Ignore for ToC
 {:toc}
 
-Pardon the lateness on this one...
+Pardon the lateness on this one, and any sloppiness from trying to pull this together quickly...
 
 Like the other history-and-heritage months, I don't generally post much for Women's History Month, even though I often find myself thinking about gender roles.  And the latter part of that especially holds true this year, as we've had many---some might say far too many---displays of how masculinity and patriarchy work, here in the United States.
 
@@ -167,7 +167,7 @@ Many people have surely said it before me, but toxic/hegemonic masculinity means
 
 And that also helps explain so much of the administration's direction.  They want to gut "soft power" organizations---[USAID](https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development), the [Kennedy Center](https://en.wikipedia.org/wiki/John_F._Kennedy_Center_for_the_Performing_Arts), and so forth, not to mention dismantling political alliances---because the idea of convincing people to think better of you and to *trust* you makes no sense to them, in their world of hoping to become the alpha male[^2] through transactional plays for dominance.  They want to return to segregation on racial and health grounds, because men who think like them and who have no power need to feel like they can dominate *somebody*.  They want to restrict women's autonomy, because they can't convince you to associate masculinity with power if women feel empowered, too.  And they want transgender folks out of sports as a pretext to police gender roles, and to make sure that nobody notices that an awful lot of women can outperform an awful lot of men, regardless of broad statistics; if successful, they'll probably follow this with trying to shut down women's sports altogether.
 
-[^2]:  It occurs to me that the alpha male idea actually works really well here, both as a largely debunked nonsense idea from flawed studies, but in the specific flaws of the study, where the wolf pack studied lived in captivity with few resources.  And really, what better model could we have for gender roles than a dominance hierarchy enforced by the idea that you can never escape and/or that somebody will steal whatever you have if you fail to participate?
+[^2]:  It occurs to me that the alpha male idea actually works really well here, both as a largely debunked nonsense idea from flawed studies reflecting their anti-science positions, but in the specific flaws of the study, where the wolf pack studied lived in captivity with few resources.  And really, what better model could we have for gender roles than a dominance hierarchy enforced by the idea that you can never escape and/or that somebody will steal whatever you have if you fail to participate?
 
 They feel weak, and they fear everything, so they need to push everybody else down to claim their titles of dominance, even if only locally.  As I mentioned above, we can't dismantle patriarchy by kneeing some creeps in the groin, but to the loudest proponents of patriarchy[^3], it feels like that.
 
