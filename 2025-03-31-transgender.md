@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developer Diary, Transgender Day of Visibility
-date: 2025-03-31 07:23:05-0500
+date: 2025-03-31 07:23:05-0400
 categories:
 tags: [programming, project, dev-journal]
 summary: Progress on assorted projects
