@@ -31,7 +31,7 @@ For those of you interested in such things, I'll have the next issue of the [**E
 
 If you have signed up [on Mailchimp](https://entropy-arbitrage.mailchimpsites.com/), I still don't quite trust the company, but you'll get the e-mail on Saturday.  If you have subscribed on Buy Me a Coffee---at the link in the previous paragraph, click the *Follow* button to the upper-right of the page; no money will change hands---you'll get it on Tuesday morning, the sixth of May.  Since I never publish blog posts on Tuesdays, I find that a nicer match than Saturdays.
 
-What will you find inside?  As always, you'll find links to all the articles that I found interesting in my RSS feed or bookmarked, plus some analysis of blog traffic.  For April, I wrote a piece on the continued degradation of customer service in multiple senses of the word, discussed my media consumption slanted a bit towards Arab-American Heritage Month, and provided some plans for **The Light's Edge**.  If you've become a member on Buy Me a Coffee, then you have already seen previews for some of that.
+What will you find inside?  As always, you'll find links to all the articles that I found interesting in my RSS feed or bookmarked, plus some analysis of blog traffic.  For April, I wrote a piece on the continued degradation of customer service in multiple senses of the word, discussed my media consumption slanted a bit towards Arab American Heritage Month, and provided some plans for **The Light's Edge**.  If you've become a member on Buy Me a Coffee, then you have already seen previews for some of that.
 
 ## Mystic T-Square
 
