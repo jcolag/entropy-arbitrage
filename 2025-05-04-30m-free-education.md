@@ -1,6 +1,6 @@
 ---
 layout: post
-title: $30M — Remixed Classrooms
+title: $30M — Remixed Education
 date: 2025-05-04 11:58:03-0400
 categories: 
 tags: [30-million, books, diversity, education]
