@@ -27,7 +27,7 @@ You can skip most of this if you only care about working with local storage, but
 
 > as add all ask dad fad lad sad lad as sad fad dad add all ask
 
-The idea goes that, by repeating drills like this, your fingers build the muscle memory to distinguish between different parts of the keyboard as you type, in that example taking common short words using only the "home row."  Later drills would add the {% key G %} and {% key H %} keys as well as including longer words, then adding more keys over time.  Stenography relies more on 
+The idea goes that, by repeating drills like this, your fingers build the muscle memory to distinguish between different parts of the keyboard as you type, in that example taking common short words using only the "home row."  Later drills would add the {% key G %} and {% key H %} keys as well as including longer words, then adding more keys over time.  Stenography relies more on syllables than individual letters, but the same principle probably applies.
 
 Anyway, to keep myself practicing, I decided to start including a *Stenotype Corner* section in the developer diary posts, where I acknowledge what lessons that I've worked on, along with my speed and accuracy.  And it occurred to me that I should maybe try to partially automate this, so that I don't forget to include the section and (ideally) give it a data-driven basis.
 
@@ -159,7 +159,7 @@ Note, by the way, that *if* we had a convenient way of reading LevelDB to extrac
 
 ## Unsnap
 
-Anyway, that insight of selecting `hex(value)` gives us out final piece, because I can hack together a quick program to (a) turn the string of hexadecimal digits into a series of bytes, then (b) use the aforementioned Snappy C code to decompress the blob, and (c) print the result *if* it decompressed.  They provide a [library API](http://halobates.de/snappy.html) description, which chops down that research work to only finding the one function that I need.
+Anyway, that insight of selecting `hex(value)` gives us our final piece, because I can hack together a quick program to (a) turn the string of hexadecimal digits into a series of bytes, then (b) use the aforementioned Snappy C code to decompress the blob, and (c) print the result *if* it decompressed.  They provide a [library API](http://halobates.de/snappy.html) description, which chops down that research work to only finding the one function that I need.
 
 ```c
 #include "snappy.h"
