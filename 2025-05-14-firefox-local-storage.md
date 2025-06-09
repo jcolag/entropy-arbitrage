@@ -85,11 +85,9 @@ Querying `SELECT value FROM data WHERE key = 'whateverKeyWeCareAbout';` produces
 
 However, while the "something" that we get from the `value` column *might* come through as plain JSON---it looks like this happens when the browser serializes a smaller object, such as the `topSpeedPersonalBest` example---or it might come through as something more complicated, which resembles small fragments of the expected JSON interspersed with opaque binary sequences.  Take a look at however the blog will display an example.
 
-```
-ª{"has":27,"part":28,"set":19,"war	so3,"pe1,"spo/ 0,"stop":ha3,"wBhers":1_	C0W
-```
+...redacted...
 
-Actually, that doesn't carry over well in HTML.  Let's try a dump.
+Actually, that doesn't carry over well in HTML and breaks RSS, apparently.  Let's try a dump.
 
 ```
 00000000  aa 03 80 7b 22 68 61 73  22 3a 32 37 2c 22 70 61  |...{"has":27,"pa|
