@@ -50,6 +50,8 @@ During the week, I took this year's [Stack Overflow Developer Survey](https://me
 
 Also during the week, Wikipedia asked me---I did some minor editing about a decade ago, so I register as an "editor"---to take a survey on part of their [AI strategy](https://meta.wikimedia.org/wiki/Strategy/Multigenerational/Artificial_intelligence_for_editors), specifically around the prospective user interface for creating and managing AI-generated summaries of articles.  Short version, it looks like they'll keep this under human control, with summaries generated once on-demand, then hand-edited, and the ability to pull the plug wiki-wide for various reasons, but also...they really should build the summaries based on [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Main_Page), where you *need* careful summaries that strip everything down to the minimal points in a "language" amenable to translation, which I indicated on the survey multiple times.
 
+**Update**, 2025 June 11:  It would appear that [Wikipedia has started to reconsider{% cc %}](https://www.404media.co/wikipedia-pauses-ai-generated-summaries-after-editor-backlash/), after some backlash...
+
 In other words, the AI hype has grown so pervasive, that two frequently referenced repositories of important information have a position indicating that we don't have any choice, here.
 
 ## I Meant the Other Hype, Though
