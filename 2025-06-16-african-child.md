@@ -27,7 +27,7 @@ On to the week's projects.
 
 First, I should mention that I finished [**Art of Chording**](https://www.artofchording.com/). I don't know if I'd *strongly* recommend it, but it covered much of what I needed to start after the long introduction, and I actually typed most of this section using stenotype, looking up new words as I went. I'd call that a decent "proof of concept."
 
-In its place, I started reading the apparently none-Free Culture [**Learn Plover**](https://www.openstenoproject.org/learn-plover/lesson-3-english-sounds.html). I don't find it as engaging as the other, but maybe I'll get something out of it.
+In its place, I started reading the apparently non-Free Culture [**Learn Plover**](https://www.openstenoproject.org/learn-plover/lesson-3-english-sounds.html). I don't find it as engaging as the other, but maybe I'll get something out of it.
 
 Next, I managed to start and wrap up the sixth Typey Type drill, *One Syllable Words with Short-I Vowel*, in... more runs than I'd like to admit. But I did get through it, and moved on to *One Syllable Words with Short Vowels*, where I have plodded along fairly slowly, again.
 
