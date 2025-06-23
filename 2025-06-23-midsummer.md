@@ -7,7 +7,7 @@ tags: [programming, project, dev-journal]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mittsommerfest-in-Norwegen-Insel-Tysnes-IMG-4425WI.png
 offset: -30%
-description: This week's projects include Stenotype Corner, the blog's code, and some library updates.
+description: This week's projects include a computer crisis, Stenotype Corner, the blog's code, and some library updates.
 spell: stenotype Typey Codidact 
 ---
 
@@ -26,7 +26,7 @@ Anyway, on to the week's projects.
 
 No, not a new project with a funny name (yet), but my new laptop died yesterday, so I send this to you---if it gets sent at all---from the at-least-fifteen-year-old laptop that I used before that one.  I have a ticket in, pleading with System 76[^1] to help me get the thing running again, but expect some..."hiccups" until I can either fire that thing up or at least use its hard drive as an external device to this monster.  I still had code to push to the repository, so things won't look up-to-date, and I might not have the capacity to announce posts to the usual social media sites.
 
-[^1]:  I don't want to take a position on whether *you* should buy from them, especially since I only have the one experience, but I will point out that the one experience involved a mouse pad never quite working, erratic USB behavior, a fragile power supply that actually started sparking, and software crashes that (I believe) fouled up the hard drive leading to a painful recovery effort for the day leading up to the final maybe-heat-related crash in the evening.  Again, I don't want to tell you where to put your money, and I admit that the laptop had some power to it, but the fact that it lasted only a small fraction of the lifespan of almost any computer that I ever bought from an overstock warehouse seems extremely concerning.  (I reserve the right to take this back if, during the week, they reveal that I can get the thing running again without needing to buy anything.)
+[^1]:  I don't want to take a position on whether *you* should buy from them, especially since I only have the one experience, but I will point out that the one experience involved a mouse pad never quite working, erratic USB behavior (starting right after the warranty expired), a fragile power supply that actually started sparking, and software crashes that (I believe) fouled up the hard drive leading to a painful recovery effort for the day leading up to the final maybe-heat-related crash in the evening.  Again, I don't want to tell you where to put your money, and I admit that the laptop had some power to it, but the fact that it lasted only a small fraction of the lifespan of almost any computer that I ever bought from an overstock warehouse seems extremely concerning.  (I reserve the right to take this back if, during the week, they reveal that I can get the thing running again without needing to buy anything.)
 
 Honestly, count it as a minor miracle if *this* goes out on Monday morning.  And don't even ask about my backup plan if this laptop fails.  I have one and I don't like it.
 
