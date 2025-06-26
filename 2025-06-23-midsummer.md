@@ -8,7 +8,8 @@ summary: Progress on assorted projects
 thumbnail: /blog/assets/Mittsommerfest-in-Norwegen-Insel-Tysnes-IMG-4425WI.png
 offset: -30%
 description: This week's projects include a computer crisis, Stenotype Corner, the blog's code, and some library updates.
-spell: stenotype Typey Codidact 
+spell: stenotype Typey Codidact Tysnes nokogiri STOEUPB Klaviatura Sten Mashinki Bisheng Mittsommerfest Norwegen Insel
+proofed: true
 ---
 
 * Ignore for ToC
