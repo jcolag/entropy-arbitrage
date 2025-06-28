@@ -71,10 +71,10 @@ As mentioned, the Trump administration has, in effect, banned any government wor
 
 I know.  Some casual reader or other probably finds it disappointing that I turned to partisan politics for this.  But:
 
-= You can't exactly donate five bucks, fix things in a Forgejo repository, or leave encouraging comments when we live in a world where one political party wants to make the acknowledgement of female astronauts a *debate*, while transferring funding from the public agencies doing this work to private corporations that made "rapid unscheduled disassembly" a household term.
+- You can't exactly donate five bucks, fix things in a Forgejo repository, or leave encouraging comments when we live in a world where one political party wants to make the acknowledgement of female astronauts a *debate*, while transferring funding from the public agencies doing this work to private corporations that made "rapid unscheduled disassembly" a household term.
 - Free Culture revolves around cooperation, and so has an *inherent* (largely liberal) politics to it.
 
-When that party stops trying to erase projects like this, *I* can stop talking about opposing them politically to get more work like this.
+When that aggressing party stops trying to erase projects like this, *I* can stop talking about opposing them politically to get more work like this.
 
 ## What's Adaptable?
 
