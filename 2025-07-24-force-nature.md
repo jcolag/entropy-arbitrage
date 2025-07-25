@@ -65,7 +65,7 @@ I expect this sort of overt racism from Riker, but Crusher had an entire episode
  >
  > **LAFORGE**: Actually it's more a point of personal pride. These are my engines. And there's nothing wrong with a little friendly rivalry. Okay. Computer, how much have the conversion levels increased?
 
-The *Intrepid* last got a mention in [*Family*]({% post_url 2023-11-16-family %}), but I mostly quote this exchange to indicate La Forge's awkward pettiness.  Data pointed out that this efficiency will have absolutely no effect on the ship, so he literally only cares because somebody else might gain in status.  And he sees the world as a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game), so can't bring him support a colleague if he could get that status-bump instead.
+The *Intrepid* last got a mention in [*Family*]({% post_url 2023-11-16-family %}), but I mostly quote this exchange to indicate La Forge's awkward pettiness.  Data pointed out that this efficiency will have absolutely no effect on the ship, so he literally only cares because somebody else might gain in status.  And he sees the world as a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game), so can't bring himself to support a colleague if he could get that status-bump instead.
 
  > **DATA**: I began with simple conditioned response exercises and followed with environmental enhancement. Next I plan to explore bio-conditioning devices.
 
@@ -95,7 +95,7 @@ As usual, Picard can't pass up an opportunity to flaunt his power over an alien 
 
 Wait, what?  At the top of the episode, Picard told us that the region of space had strange properties[^2], which sounds like any passage would need to have a natural source.  And yet, the Federation appears to claim that they chopped their way through the weird space with machetes or something.
 
-[^2]:  By the way, why doesn't this tie in with the main plot?  Wouldn't it make sense for the locals to have discovered the warp drive troubles because the weirdness makes their neighborhood more vulnerable to subspace flooding into normal-space?  Or to make the local space an early *result* of warp drive?  Instead, it has even to do with the episode than the cat does.
+[^2]:  By the way, why doesn't this tie in with the main plot?  Wouldn't it make sense for the locals to have discovered the warp drive troubles because the weirdness makes their neighborhood more vulnerable to subspace flooding into normal-space?  Or to make the local space an early *result* of warp drive?  Instead, it has even less to do with the episode than the cat does.
 
  > **DATA**: I suppose I must accept that possibility. It may be that Spot lacks the intelligence necessary to learn the appropriate responses to my commands.
  >
@@ -161,7 +161,7 @@ Well, at least somebody has some minimal investment in accurate self-reflection,
 
 Notice, beyond the shallow metaphor, that they nail the assessment.  La Forge, and the rest of them, expect progress to happen without any effort, and don't see how progress can happen if they need to actually put in the work.  Especially right now, this problem affects *those people*, a bunch of weirdos living in the boonies who we'll never see or talk about again, and expecting these spoiled brats to take some responsibility for not making the universe worse goes a step too far.
 
-This goes to what I've said since the beginning about the difference between the original series and this one.  Kirk and his crew had their problems, but they always acknowledged that they lived in a world of transition, and needed to fight every day to become the better people who they wanted to see in the world.  By contrast, Picard and his crew believe that they inherited a paradise and pure hearts, so every revelation of injustice feels like a personal attack.  They want moral surety, and blame the messengers for, in effect, harshing their mellow.
+This goes to what I've said since the beginning about the difference between the original series and this one.  Kirk and his crew had their problems, but they always acknowledged that they lived in a world in transition, and needed to fight every day to become the better people who they wanted to see in the galaxy.  By contrast, Picard and his crew believe that they inherited a paradise and pure hearts, so every revelation of injustice feels like a personal attack.  They want moral surety, and blame the messengers for, in effect, harshing their mellow.
 
 And I know, it seems absurd to even imagine a philosophical force so dominant, in what looks superficially like a liberal democracy, that people would rather [dismiss experts](https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin) and [ignore the consequences of their own actions](https://en.wikipedia.org/wiki/Drill,_baby,_drill) than maybe even consider [behaving responsibly](https://www.motherjones.com/politics/2025/07/big-beautiful-bill-ban-state-ai-regulations-environmental-energy-climate/) for a while.  No society could act with so little foresight, so they look really silly up on the screen...
 
@@ -169,7 +169,7 @@ And I know, it seems absurd to even imagine a philosophical force so dominant, i
  >
  > **DATA**: I do not believe so, sir, and the resulting explosion would likely destroy the saucer section in the process.
 
-I feel like Riker should have known that setting off a bomb might powerful enough to propel them would also damage the ship.  On the other hand, we've all seen his approach to preparation, so maybe he doesn't actually know about such things.
+I feel like Riker should have known that setting off a bomb powerful enough to propel them would also damage the ship.  On the other hand, we've all seen his approach to preparation, so maybe he doesn't actually know about such things.
 
  > **RIKER**: Our hull stress is already critical. We can't handle many more jolts like that.
 
@@ -207,7 +207,7 @@ Similarly, a lot like the *New Ground* disaster, from a certain perspective, thi
 
  > **PICARD**: The Federation's sharing all our data with warp-capable species. We can only hope that they realize it's in their own interests and take similar action.
 
-Do treaties no longer exist?  I'd bet the Romulans, for example, would take the suggestion far more seriously if the Federation offered to not blame them for every bad thing that happens, or to pool resources to find a long-term solution, or even maybe offer to help feed their people.  But I guess that every government will do this on their own, instead, and not worry about the literal fabric of spacetime.
+Do treaties no longer exist?  I'd bet that the Romulans, for example, would take the suggestion far more seriously if the Federation offered to not blame them for every bad thing that happens, or to pool resources to find a long-term solution, or even maybe offer to help feed their people.  But I guess that every government will do this on their own, instead, and not worry about the literal fabric of spacetime.
 
  > **RABAL**: The gravitational shifts have already begun to affect my planet's orbit. Our climate is changing.
  >
