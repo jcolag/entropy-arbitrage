@@ -65,7 +65,7 @@ I expect this sort of overt racism from Riker, but Crusher had an entire episode
  >
  > **LAFORGE**: Actually it's more a point of personal pride. These are my engines. And there's nothing wrong with a little friendly rivalry. Okay. Computer, how much have the conversion levels increased?
 
-The *Intrepid* last got a mention in [*Family*]({% post_url 2023-11-16-family %}), but I mostly quote this exchange to indicate La Forge's awkward pettiness.  Data pointed out that this efficiency will have absolutely no effect on the ship, so he literally only cares because somebody else might gain in status.  And he sees the world as a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game), so can't bring himself to support a colleague if he could get that status-bump instead.
+The *Intrepid* last got a mention in [*Family*]({% post_url 2023-11-16-family %}), but I mostly quote this exchange to indicate La Forge's awkward pettiness.  Data pointed out that this efficiency will have absolutely no effect on the ship, so La Forge literally only cares because somebody else might gain in status.  And he sees the world as a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game), so can't bring himself to support a colleague if he could get that status-bump instead.
 
  > **DATA**: I began with simple conditioned response exercises and followed with environmental enhancement. Next I plan to explore bio-conditioning devices.
 
@@ -135,7 +135,7 @@ She at least has the excuse of not having watched the show...
 
  > **PICARD**: Doctor, is it possible for a ship to survive in there? Doctor. I'm sorry about your loss, but we need your help now.
 
-Again, it amazes me how openly dismissive they act towards these people.  La Forge acts shocked that they got something right, whereas Picard's body language and tone shows that he absolutely does *not* care about some foreigner's loss, except to the extent that the insincere emotional validation gets the guy to help.
+Again, it amazes me how openly dismissive they act towards these people.  La Forge acts shocked that they got something right, whereas Picard's body language and tone show that he absolutely does *not* care about some foreigner's loss, except to the extent that the insincere emotional validation gets the guy to help.
 
  > **DATA**: By using methods any reputable scientist would never employ.
 
@@ -163,7 +163,7 @@ Notice, beyond the shallow metaphor, that they nail the assessment.  La Forge, a
 
 This goes to what I've said since the beginning about the difference between the original series and this one.  Kirk and his crew had their problems, but they always acknowledged that they lived in a world in transition, and needed to fight every day to become the better people who they wanted to see in the galaxy.  By contrast, Picard and his crew believe that they inherited a paradise and pure hearts, so every revelation of injustice feels like a personal attack.  They want moral surety, and blame the messengers for, in effect, harshing their mellow.
 
-And I know, it seems absurd to even imagine a philosophical force so dominant, in what looks superficially like a liberal democracy, that people would rather [dismiss experts](https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin) and [ignore the consequences of their own actions](https://en.wikipedia.org/wiki/Drill,_baby,_drill) than maybe even consider [behaving responsibly](https://www.motherjones.com/politics/2025/07/big-beautiful-bill-ban-state-ai-regulations-environmental-energy-climate/) for a while.  No society could act with so little foresight, so they look really silly up on the screen...
+And I know, it seems absurd to even imagine a philosophical force so dominant, in what looks superficially like a liberal democracy, that people would rather [dismiss experts](https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin) and [ignore the consequences of their own actions](https://en.wikipedia.org/wiki/Drill,_baby,_drill) than maybe even consider [behaving responsibly](https://www.motherjones.com/politics/2025/07/big-beautiful-bill-ban-state-ai-regulations-environmental-energy-climate/) for a while.  No real society could ever act with so little foresight, so they look really silly up on the screen...
 
  > **RIKER**: Data, what if we forced an EPS discharge through the impulse reactor. Would that be enough to get us out of here?
  >
@@ -245,7 +245,7 @@ Anyway, those two proposals, given their similarity, make me think that Paramoun
 
 In the main post, I question whether those episodes might indicate that the Federation has started planning for the disaster---equivalent (to follow the allegory through) to [billionaires having bunkers constructed](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/bunkers-billionaires-survive-apocalypse-cost-features-1235822762/) or trying to colonize Mars with company towns instead of putting that money into getting solar panels on every roof and electric cars in every driveway---but even if they don't, it still seems wild to me that the franchise tries *so* hard to present this idea before it became a mainstream conversation[^4], only to shrug its shoulders and grumble about the equivalent of eco-terrorism inconveniencing their military action instead.
 
-[^4]:  You get into some weasely spaces, here, to my chagrin.  All environmentalism has gotten retroactively claimed by climate activists as "theirs," no matter what it aimed for, and the date of founding of the Climate Action Network fluctuates depending on who you ask.  But when this episode aired, COP1 sat two years in the future, and the ink on the [UNFCCC](https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) still felt a bit damp.  The conversation existed, in other words, but conversations about global environmentalism focused on [ozone depletion](https://en.wikipedia.org/wiki/Ozone_depletion) at the time, and this episode probably introduced a lot of us to the topic of climate change.
+[^4]:  You get into some weasely spaces, when talking about the timing of the climate justice movement, to my chagrin.  All environmentalism has gotten retroactively claimed by climate activists as "theirs," no matter what it aimed for, and the date of founding of the Climate Action Network fluctuates depending on who you ask.  But when this episode aired, COP1 sat two years in the future, and the ink on the [UNFCCC](https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) still felt a bit damp.  The conversation existed, in other words, but conversations about global environmentalism focused on [ozone depletion](https://en.wikipedia.org/wiki/Ozone_depletion) at the time, and this episode probably introduced a lot of us to the topic of climate change.
 
 ## Conclusions
 
