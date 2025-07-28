@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Payment Processing
-date: 2025-07-26 08:02:12-0400
+date: 2025-07-27 08:02:12-0400
 categories:
 tags: [harm, lets-fix, project]
 summary: Thinking about how we might create an independent payment processor
@@ -20,16 +20,16 @@ This post might not go anywhere, but the recent incident of [Itch.io "de-indexin
 
 I should probably point out that, in some ways, this probably doesn't look like my fight.  You probably won't find me selling not-safe-for-work projects, and I don't really engage with them, unless I have some other purpose for it, such as wanting to highlight it for the [Free Culture Book Club](/blog/tag/book-club).  However...
 
-a) *People*.  We should all support and at least try to protect people, and at least stop trying to find the division that makes things not our problem.
-b) I see adult material, people representing gender and sexual minorities, and sex workers as the social backbone of the Internet in many ways, and so if you make the Internet useless to them, then everything else starts fading away, too.
+1. *People*.  We should all support and at least try to protect people, and at least stop trying to find the division that makes things not our problem.
+2. I see adult material, people representing gender and sexual minorities, and sex workers as the social backbone of the Internet in many ways, and so if you make the Internet useless to them, then everything else starts fading away, too.
 
 At this point, I only really intend to do some of the broad thinking about this, because I don't know that the resources exist to fill this out.  But if somebody can fill in those blank spaces and, especially, if people want to collaborate, I'll do what I can to help get this off the ground.
 
 ## Disregarded
 
-I should note that, while popular "solutions" to this sort of problem, I have a handful of ideas for directions to avoid.
+I should note that, while these come across as popular "solutions" to this sort of problem, I have a handful of ideas for directions to avoid.
 
-First, cryptocurrencies seem out of the question.  Even its most zealous boosters don't actually use them as money.  As I once wrote, its design [revolves around waste]({% post_url 2021-05-16-crypto %}) to simulate the physical effort involved in mining precious metals, and so both has a nasty environmental footprint *and* serves to make the rich richer.  And because they designed the entire system to reject the "bloated" modern economy, they constantly find themselves needing fancy new innovations such as "escrow" or "insurance."
+First, cryptocurrencies seem out of the question.  Even their most zealous boosters don't actually use them as money.  As I once wrote, the design [revolves around waste]({% post_url 2021-05-16-crypto %}) to simulate the physical effort involved in mining precious metals, and so both has a nasty environmental footprint *and* serves to make the rich richer.  And because they designed the entire system to reject the "bloated" modern economy, they constantly find themselves needing fancy new innovations such as "escrow" or "insurance."
 
 Similarly, but for different reasons, I immediately write off community currencies.  I have always loved the idea, but if we can't guarantee that a vendor can pay their bills with hypothetical "Sim-ally-ons," then it doesn't make much sense to pay them in it.
 
@@ -68,7 +68,7 @@ sequenceDiagram
   Vendor->>Customer: Deliver (or not)
 {% endmermaid %}
 
-It places a slight burden on the customer, but it also puts them in control of the transaction, and verifies that they have held up their end of the bargain.  And, again, limiting this to no more than coordinating the parties prevents this from becoming a [Money Services Business](Money Services Business) that then requires a pile of [Money Transmitter](https://en.wikipedia.org/wiki/Money_transmitter) Licenses.
+It places a slight burden on the customer, but it also puts them in control of the transaction, and verifies that they have held up their end of the bargain.  And, again, limiting this to no more than coordinating the parties prevents this from becoming a [Money Services Business](https://en.wikipedia.org/wiki/Money_services_business) that then requires a pile of [Money Transmitter](https://en.wikipedia.org/wiki/Money_transmitter) Licenses.
 
 ### Choke-Points
 
@@ -87,8 +87,11 @@ flowchart TD
   sf --> p2[Processor]
   sf --> p3[Processor]
   p1 --> c1[Customer]
-  p2 --> c3[Customer]
-  p3 --> c2[Customer]
+  p2 --> c2[Customer]
+  p3 --> c3[Customer]
+  p1 --> c4[Customer]
+  p2 --> c5[Customer]
+  p3 --> c6[Customer]
   c1 --> mh[Money Handler]
   c2 --> mh
   c3 --> mh
@@ -98,13 +101,13 @@ As far as the money handler knows, they only have individuals sending each other
 
 In other words, the infrastructure places a "storytelling layer" on top of personal transactions, which directs the participants to make things work as if the system handled it, but little more than that.
 
-This doesn't insulate sales from the law, I don't think, because a sting operation could always make a purchase and use that as evidence against the vendor.  But this avoids creating any central target; law enforcement would need to investigate each suspect individually, rather than raiding a company.
+This doesn't insulate sales from the law, I don't think, because a sting operation could always make a purchase and use that as evidence against the vendor.  But this avoids creating any central target; law enforcement would need to investigate each suspect individually, rather than raiding a company.  And they need a reason to investigate, rather than asking a company to avoid certain legal classes of material.
 
 ### Encryption, Too
 
-Note that, with end-to-end encryption in the software, the payment processor might not even know what kinds of transactions go through.
+Note that, with end-to-end encryption in the software, the payment processor might not even know what kinds of transactions go through.  They only need to see where money goes, not why.
 
-Likewise, going back to the broad process, the invoice could include a "token"---some encrypted data that the customer uses in their payment to connect it to their order---which also prevents the money transfer platform from knowing anything about the transaction.
+Likewise, going back to the broad process, the invoice could include a "token"---some encrypted data that the customer uses in their payment to connect it to their order---which also prevents the money transfer platform from knowing anything about the transaction beyond the amount, sender, and recipient.
 
 Ideally, I'd like it if customers had some way of shielding their identities from vendors, too, but I suspect that none of the transfer platforms would allow that.
 
@@ -116,7 +119,7 @@ OK, now that I have provided a rough outline of what I want to build, we can get
 - Issues a unique identifier for every transaction.
 - Allows a third party to ask if that unique identifier equates to a transaction that conforms to the agreement.
 
-Ideally, it would also have a low enough barrier to entry for both the instance operators and customers that making a purchase doesn't become an ordeal.  Regardless of that, though, the third criteria on the list feels like the problem.  Without the ability to hit an API endpoint to ask "did transaction-A send amount-B from entity-C to entity-D at time-E?"---which shouldn't violate any privacy concerns, because only the two entities and their agents would have all five pieces of information, and this would only return true or false---then this can't separate out the (rare) dishonest claims.  If I can claim that I sent money that I actually kept, or that I failed to receive money, then this sort of system would actually make payments *less* useful than vendors hanging out a Venmo/Zelle/Stripe/whatever shingle and waiting for prospective customers to take the risk, because it adds a layer that might disagree with the payment transfer infrastructure.
+Ideally, it would also have a low enough barrier to entry for both the instance operators and customers that making a purchase doesn't become an ordeal.  Regardless of that, though, the third criteria on the list feels like the problem.  Without the ability to hit an API endpoint to ask "did transaction-A send amount-B from entity-C to entity-D at time-E?"---which shouldn't violate any privacy concerns, because only the two entities and their agents would have all five pieces of information, and then would only return true or false, not additional details---then this can't separate out the (rare) dishonest claims.  If I can claim that I sent money that I actually kept, or that I failed to receive money, then this sort of system would actually make payments *less* useful than vendors hanging out a Venmo/Zelle/Stripe/whatever shingle and waiting for prospective customers to take the risk, because it adds a layer that might disagree with the payment transfer infrastructure.
 
 Yes, most transfer systems allow you to give a third party read-only access to your account for auditing purposes, but...would you trust the equivalent of a local Mastodon moderator---or possibly multiple operators across multiple instances, depending on the specific design---with access to all your transactions under the pretext of validating a single purchase?  And yes, "we should encrypt that," but with an open protocol, how do you know *when* the interface encrypted the data?  Your particular instance could run different software, to broaden the resilience of the ecosystem, but now you need to trust so many more unpaid, unregulated volunteers to get this right.
 
