@@ -140,7 +140,7 @@ That sounds like busy-work to me, something that the computer probably already d
 
  > **TROI**: Worf, let's assume for a second you're right, that things did happen as you remember them. Are you saying that everyone's memory on this ship has been altered but yours?
 
-At this point in the series, this feels like a question that actually *did* fall out of an entirely different show.  Troi got almost exactly this question in [*The Child*]({% post_url 2022-11-24-child %}) and [*Night Terrors*]({% post_url 2024-02-29-night-terrors %}), not to mention her assorted "feeling great pain" that everybody tunes out.  La Forge had to deal with that nonsense not too long ago in [*Interface*]({% post_url 2025-06-12-interface %}).  The entire plots of [*Clues*]({% post_url 2024-02-08-clues %}), *The Game*, and [*Conundrum*]({% post_url 2024-08-15-conundrum %}) hinge on Data's unique perspective.  They took turns doing that to each other in [*Cause and Effect*]({% post_url 2024-09-12-cause-effect %}).  Maybe they should retire this line of reasoning, because everybody's mind/memory/personality except for one key person seems to happen to them a *lot*.
+At this point in the series, this feels like a question that actually *did* fall out of an entirely different show.  Troi got almost exactly this question in [*The Child*]({% post_url 2022-11-24-child %}) and [*Night Terrors*]({% post_url 2024-02-29-night-terrors %}), not to mention her assorted "feeling great pain" that everybody tunes out.  La Forge had to deal with that nonsense not too long ago in [*Interface*]({% post_url 2025-06-12-interface %}).  The entire plots of [*Clues*]({% post_url 2024-02-08-clues %}), *The Game*, and [*Conundrum*]({% post_url 2024-08-15-conundrum %}) hinge on Data's unique perspective.  They took turns doing that to each other in [*Cause and Effect*]({% post_url 2024-09-12-cause-effect %}).  Maybe they should retire this line of reasoning, because wiping everybody's mind/memory/personality except for one key person seems to happen to them a *lot*.
 
  > **RIKER**: Firing photon torpedoes. Full spread. Direct hit on their main reactor. They're returning fire.
 
@@ -188,11 +188,11 @@ Well, I mentioned a bunch of other episodes, so it'd feel wrong not to mention [
 
  > **WESLEY**: Captain, I'm picking up a minor subspace disturbance off the port bow.
 
-Notice that Ogawa only really got the one scene, but Wesley will loiter, as if the multiverse wants us to feel thankful for the version of the show that we have, because a slightly different quantum resonance thingie would've centered the self-entitled brat.
+Notice that Ogawa only really got the one scene, but Wesley will loiter, as if the multiverse wants us to feel grateful for the version of the show that we have, because a slightly different quantum resonance thingie would've centered the self-entitled brat.
 
  > **DATA**: It appears to be a quantum fissure in the space-time continuum.
 
-If you like that phrase, boy, does the final season of **Lower Decks** (and the spinoff it spent so much time trying to set up) have some good news for you...
+If you like that phrase, then boy, does the final season of **Lower Decks** (and the spinoff that it spent so much time trying to set up) have some good news for you...
 
  > **TROI**: We have a little girl, Shannara, she's two years old, and a three-year-old boy, Eric Christopher.
 
