@@ -45,9 +45,11 @@ The blurb for the repository.
 
 I should note that the project has another seventy-five-or-so thousand words in stories marked as in-progress.  I opted not to look at those, at least for now, given that the repository has some recent activity.
 
+**Update, 2025 September 05**:  Coming back to these posts after eighteen months, many of the points that I make feel more like unwarranted personal attacks than the "nudges and recommendations" that I envision presenting, which cuts directly against the point of these posts.  I want you to check these projects out and get involved.  I do think that the book could withstand some tender loving care, but more than that, I think that it *deserves* that care, to get it to live up to what the discussion guide envisions.  None of that justifies my unwarranted tone.  Please don't let it turn you off to the book, if a distinctive fantasy world with a Christian influence sounds like your jam.
+
 ## What Works Well?
 
-I had a *lot* of trouble finding something to like in this last stretch of the book, but I suppose that I should credit it for not shying away from its bleak ending.  I have to at least respect that commitment.
+I had a *lot* of trouble finding something to like in this last stretch of the book, but I do want to credit it for not shying away from its bleak ending.  I have to at least respect that commitment.
 
 And while I haven't brought it up before, I don't find it particularly interesting, but I should give the book some praise for creating a fantasy world that avoids the routine of "races" that all look like humans with mild prosthetics.  Did I ever figure out the difference between bat-spiders and spider-bats that [the first chapters]({% post_url 2024-02-17-wnv-universe-1 %}) assured us that we would care about?  No.  But I see maybe more potential, there, than giving us yet another kind of elf.
 

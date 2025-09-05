@@ -46,6 +46,8 @@ The blurb for the repository.
 
 I should note that the project has another seventy-five-or-so thousand words in stories marked as in-progress.  I opted not to look at those, at least for now, given that the repository has some recent activity.
 
+**Update, 2025 September 05**:  Coming back to these posts after almost eighteen months, many of these points feel more like unwarranted personal attacks than the "nudges and recommendations" that I envision presenting, which cuts directly against the point of these posts.  I want you to check these projects out and get involved.  I do think that the stories could withstand some tender loving care, and moreover I think that they *deserve* that care, because they have lofty ambitions.  None of that justifies my unwarranted tone.  Please don't let it turn you off to the stories, if a distinctive fantasy world with a Christian influence sounds like your jam.
+
 ## What Works Well?
 
 While the story has some unpleasant problems that I'll talk about in the next section, I do want to note that *True Love's Kiss* has the best writing in this series, by far.  The story has actual themes that it takes seriously, and *generally* doesn't repeat itself or describe things that don't need a description.
