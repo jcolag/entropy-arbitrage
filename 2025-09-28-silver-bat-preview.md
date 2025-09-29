@@ -5,7 +5,7 @@ date: 2025-09-28 08:03:05-0400
 categories:
 tags: [books, fiction, free-culture]
 summary: The promised first chapter of my novel as a preview/teaser
-thumbnail: /blog/assets/Seeking-Refuge-v2-Cover.png
+thumbnail: /blog/assets/refuge-cover-blank.png
 description: The night before the family business passes down, one final adventure to break up a sweatshop.
 spell: Jumaima Graustark Ouida Hepler Javasu Asmait Exley ExEx Cibola Delsante Wikinews Willcocks Caraboo Fictopedia ePUB Lambot Marais
 proofed: true
