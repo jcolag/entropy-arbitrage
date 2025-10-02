@@ -35,7 +35,7 @@ While I doubt that it'll come to anything, if only because it took a lot of reso
 
 ## Mini-Server, Part 12
 
-Rather than mess with the Briar Mailbox, this week, I opted instead to do something that I've wanted for a while, a bookmark manager.  After reviewing the options available, I settled on [Shiori](https://github.com/go-shiori/shiori/tree/master).  It took a bit of extra work to get it to work under a subfolder, as in this bit of the `systemd` description.
+Rather than mess with the Briar Mailbox, this week, I opted instead to do something that I've wanted for a while, install a bookmark manager.  After reviewing the options available, I settled on [Shiori](https://github.com/go-shiori/shiori/tree/master).  It took a bit of extra work to get it to work under a subfolder, as in this bit of the `systemd` description.
 
 ```ini
 [Service]
@@ -61,7 +61,7 @@ Oh, and you'll only see this in recent [posts](https://codeberg.org/jcolag/entro
 
 After some thought, I decided that, except for certain places where I want a semantically meaningful "name" for the footnote, such as using abbreviations for *Star Trek* episodes in the end-of-season summary posts, the most convenient route probably leads through short but unique nonsense strings.  And recalling my recent work making sure that [**Notoboto**](https://codeberg.org/jcolag/Notoboto) notes each have unique names, I remembered that I found a variety of smaller replacements for UUIDs, including [Nano IDs](https://github.com/mrdimidium/nanoid).
 
-The JavaScript implementation of the idea has a [collision calculator](https://zelark.github.io/nano-id-cc/), which convinced me that I could get away with six-character IDs.  At that length, you can spot them at a glance, but they don't take up much room, and they don't carry so much meaning that it seems weird to find them "out of order" (assuming that concept even makes sense).  This week, then, you should start seeing footnotes with identifiers such as `^KSZJId`, instead of a number.
+The JavaScript implementation of the idea has a [collision calculator](https://zelark.github.io/nano-id-cc/), which convinced me that I could get away with six-character IDs.  At that length, you can spot them at a glance, but they don't take up much room, and they don't carry so much meaning that it seems weird to find them "out of order" (assuming that concept even makes sense).  This week, then, you should start seeing footnotes with identifiers such as `^KSZJId`, instead of a number...in the Markdown source of the posts, I mean, not anything that normal people read.
 
 I wrote a quick program---call the API with a length and print the result---using the Rust implementation of Nano ID, then rigged up gEdit to run it as an "external tool" at a keystroke, so I can generate them without breaking up my workflow.
 
@@ -117,7 +117,7 @@ At some point in the future, I'd like to add parsers for the other three books o
 
 {% github Plan-Vert/open-letter %}
 
-I almost forgot about this, even though this accounts for probably most of my time on GitHub in the last month, let alone the week.  In short, David Heinemeier Hansson (DHH), "the Rails guy," has increasingly peddled bigotry and hate, and worked to silence liberal voices at his own company under the guise of keeping things "apolitical."  You all know how that scam always goes.  His regressive ideas qualify as normal things that people say, but disagreeing with him only invites pain and strife by doing politics.
+I almost forgot about this, even though it accounts for probably most of my time on GitHub in the last month, let alone the week.  In short, David Heinemeier Hansson (DHH), "the Rails guy," has increasingly peddled bigotry and hate, and worked to silence liberal voices at his own company under the guise of keeping things "apolitical."  You all know how that scam always goes.  His regressive ideas qualify as normal things that people say, but disagreeing with him only invites pain and strife by doing politics.
 
 This letter asks the Rails team to distance itself from him.  As an occasional Rails developer, I agree[^tP6Ya3], because I can't rightly recommend a platform to people when I know that they won't feel safe around its community.  He can spout whatever hatred that he wants on any forum that feels like tolerating him, but I don't want it attached to a platform that got a lot of people who he hates their entries into the industry.
 
