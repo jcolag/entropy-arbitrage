@@ -6,6 +6,9 @@ categories:
 tags: [books, fiction, free-culture]
 summary: A fairly deep dive into revising my novel and working with Quarkdown
 thumbnail: /blog/assets/Seeking-Refuge-v2-Cover.png
+update: [
+  2019-12-14-seeking-refuge.md,
+]
 description: Some reminiscing, some talking technology, some adventures in writing, and yes, a soft sales pitch.
 spell: quarkdown ePUB Blakeneys Eun-Ju CPREP Woosters Tè Qūşīyah Thayetmyo sapere aude docname doctype doclang pageformat GoogleFonts Comfortaa docauthors pagemargin currentpage tableofcontents maxdepth qd mktemp PixelsPerInch pdftk nohup rm Magick PDFtk Calibre SourceSansPro otf ttf sed Fodongo Lambot Marais Ardeco Chukina OFL
 proofed: true

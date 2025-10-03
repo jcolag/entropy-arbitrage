@@ -6,6 +6,10 @@ categories:
 tags: [books, fiction, free-culture]
 summary: The promised first chapter of my novel as a preview/teaser
 thumbnail: /blog/assets/refuge-cover-blank.png
+update: [
+  2019-12-14-seeking-refuge.md,
+  2025-09-14-revisit-silver-bat.md
+]
 description: The night before the family business passes down, one final adventure to break up a sweatshop.
 spell: Jumaima Graustark Ouida Hepler Javasu Asmait Exley ExEx Cibola Delsante Wikinews Willcocks Caraboo Fictopedia ePUB Lambot Marais
 proofed: true
