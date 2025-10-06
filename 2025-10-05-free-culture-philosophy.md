@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Defining Free Culture, Philosophy
-date: 2025-10-05 06:48:12-0400
+date: 2025-10-05 07:41:12-0400
 categories:
 tags: [education, free-culture, philosophy, quotes]
 summary: Part two of a fairly deep dive into Free Culture as a concept.
@@ -96,7 +96,7 @@ And you all know the big quote here, I assume, from [Isaac Newton's 1675 letter]
 
 > ...if I have seen further [than others], it is by standing on the shoulders of giants.
 
-The idea of giants calls to mind geniuses, though, and I feel like we've learned in the intervening centuries that neither science nor culture really moves forward through strokes of genius or finding giants.  Rather, to extend the standing metaphor, each of us stands on a platform built by our predecessors, and we build platforms atop them for our successors to climb a bit higher.  Routine research, and routine art has enough variation in it and enough small innovations driving it, that it creates far more opportunities for advancement than a single genius could ever provide.
+The idea of giants calls to mind geniuses, though, and I feel like we've learned in the intervening centuries that neither science nor culture really moves forward through strokes of genius or finding giants.  Rather, to extend the standing metaphor, each of us stands on a platform built by our predecessors, and we build platforms atop them for our successors to climb a bit higher.  Routine research, and routine art, has enough variation in it and enough small innovations driving it, that it creates far more opportunities for advancement than a single genius could ever provide.
 
 And that brings me to the Leo Tolstoy's [**What Is Art**](https://en.wikipedia.org/wiki/What_Is_Art%3F) (1898).
 
@@ -174,7 +174,7 @@ Similarly, nothing here appeals to some romanticized past when we had the free f
 
 And none of this tries to prescribe a structure, nor does it suggest that one must inevitably emerge from randomized behavior.  Free Culture *could* happen in a variety of ways, ranging from accidental to carefully structured.
 
-Those get into the space of negative liberty[^rOeZM3], limiting arguments to those which oppose people from restricting your actions.  Rather, this moves towards *positive liberty*, empowering and authorizing the audience to form a community that can take ownership of cultural works.
+Apart from my quick refutations, those all get into the space of negative liberties[^rOeZM3], limiting arguments to those which oppose people from restricting your actions.  Rather, I have tried to assemble a body of ideas to move more towards *positive liberty*, empowering and authorizing the audience to form a community that can take ownership of cultural works.
 
 [^rOeZM3]:  I have wanted to write these posts, especially this post, at least partly because of the libertarian (and more right-wing) stench that has pervaded the space, as people cite and praise the (sarcasm quotes) "important" people who built many of the foundational aspects.  I mean, you can't swing a dead *[Mus](https://en.wikipedia.org/wiki/Mus_%28genus%29) [disnii](https://en.wikipedia.org/wiki/Mickey_Mouse)* without finding somebody raving wide-eyed about [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence) casting the Internet as beyond "property, expression, identity, movement, and context," or [**The Cathedral and the Bazaar**](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) by the guy who believes every right-wing conspiracy theory, or pretty much anything written by [Antonin Scalia's former law clerk](https://en.wikipedia.org/wiki/Lawrence_Lessig), or anything by the [culturally insensitive transphobe](https://en.wikipedia.org/wiki/Nina_Paley).  And you can't have that at the root of a movement about inclusion and sharing and expect it to work.  I may come back to this later in these posts more explicitly, but I wanted to make sure that it at least got a mention.
 
@@ -182,7 +182,7 @@ At its best, Free Culture focuses on creating those voluntary connections---comi
 
 ## Coming Soon
 
-This post gives some idea of how Free Culture fits into the broader context of art and culture, and why, when it works well, it might feel like these projects help fix our atomized and maybe-broken culture.  When we get to the third part of this, we'll change direction again, slightly, and talk about the various threads of history that Free Culture pulls on.  And yes, that'll probably include a long digression on copyright and how the public domain looked for so long like the central allied cause of people actively sharing...even though copyright lets you do share.
+This post gives some idea of how Free Culture fits into the broader context of art and culture, and why, when it works well, it might feel like these projects help fix our atomized and maybe-broken culture.  When we get to the third part of this, we'll change direction again, slightly, and talk about the various threads of history that Free Culture pulls on.  And yes, that'll probably include a long digression on copyright and how the public domain looked for so long like the central allied cause of people actively sharing...even though copyright already let you share.
 
 See you then...
 
