@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 30M — Free Culture Studio
-date: 2025-11-02 07:30:00-0500
+date: 2025-11-02 06:40:00-0500
 categories:
 tags: [30-million, art, free-culture, indie]
 summary: A look at what Free Culture could do in media
