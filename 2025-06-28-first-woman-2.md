@@ -8,7 +8,7 @@ summary: Discussing a STEM-oriented comic
 thumbnail: /blog/assets/first-woman-2.png
 description: This week sees a comic that (literally) illustrates NASA's view of the near future.
 update: [
-  2025-06-20-first-woman-1.md
+  2025-06-21-first-woman-1.md
 ]
 spell: Gann Donoho LLM-boosters Forgejo Meshaya LCRT
 proofed: true
