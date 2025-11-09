@@ -81,6 +81,8 @@ People who enjoy action games can feel free to disagree, but it feels like the g
 
 Also, I may have had trouble understanding the game, or it may have implementation problems.  As a quick test after failing trial after trial, I tried reporting *every* ship, without bothering to consult the analyses.  And somehow, that led to rebel ships slipping through the dragnet.  I couldn't get more than barely adequate results, even in the (single) case where it appeared that I got everything right.  And without access to the code (see below), I couldn't tell you if this happens because I got something wrong or the game artificially ends.
 
+And I have to admit that it bothers me a bit that many planets take their names from popular culture not under Free Culture licenses.
+
 ## Opportunities
 
 Weirdly, I don't see any.  Even the GitHub repository linked from the game's page seems missing.  Although I suppose that you could check out the creator's other work.
