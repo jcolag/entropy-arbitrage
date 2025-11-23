@@ -29,6 +29,7 @@ For one, [Question Copyright announced the closure of its non-profit](https://qu
 Two years before that, [Students for Free Culture](http://freeculture.org/) shut down their wiki.  They actually serve(d) as a group promoting Free Culture, and without any web presence, most people have no idea whether they continue to do that.
 
 I'll start by saying that I don't think of the current situation as particularly new.  We've never had a strong or even vocal movement.  And the movement that we have had so far has gotten bogged down in an assortment of irrelevant issues.  Maybe, the movement has even largely focused on the wrong things.
+
 Mind you, in addition to the problem sitting around for a while, we also don't have complete ownership over it:  When have you last heard about "normal people"---you may have somebody in your life who specifically identifies as a fan of independent work of some sort, for example, and they don't count---getting excited about independent media at all, regardless of the licensing[^3]?  When did you last see somebody, other than the creator or their friends, try to publicize independent media?  And compare that to the last time you heard somebody try to sell someone else on a mainstream production.
 
 [^3]: I would bet that your answer starts with **Everything, Everywhere, All at Once** in 2022, and doesn't stretch much further than that, unless maybe you spend time with a particular variety of video game fan.
