@@ -190,7 +190,7 @@ I feel the need to point out that, when Picard said to list all effects, Data ch
 
  > **DATA**: Veridian Three is uninhabited. However, Veridian Four supports a pre-industrial humanoid society.
 
-Sounds like their version of the Prime Directive applies, to me.  They need to let Soran do what he wants, because stopping him would interfere with the natural development of the pre-industrial society.  After all, [*Emergence*]({% post_url 2025-10-30-emergence %}) that some kinds of creatures have a fixed purpose, such as death, and we should accept that quietly...
+Sounds like their version of the Prime Directive applies, to me.  They need to let Soran do what he wants, because stopping him would interfere with the natural development of the pre-industrial society.  After all, [*Emergence*]({% post_url 2025-10-30-emergence %}) told us that some kinds of creatures have a fixed purpose, such as death, and we should accept that quietly...
 
 Anyway, we'll stop here for the week, and pick things up in the next scene, after Picard gives the order to go.
 
@@ -211,8 +211,6 @@ We have several scenes showing us that they don't or can't deal with grief in a 
 They still see Romulan plots around every corner, even when all evidence points to them as the victims in a situation.  People also seem to see a desire to join Starfleet as inherently important.
 
 Picard, at least, seems to have bizarre ideas of family, almost laying claim to a nephew who might eventually have a similar interest to him.  And this continues to hint that Picard comes from an extremely wealthy background.
-
-
 
 ### The Weird
 
