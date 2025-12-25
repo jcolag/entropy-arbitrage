@@ -8,7 +8,7 @@ labels: [st-tng, st-tng-film]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/not-borg-earth.png
 description: For this half of the film, we need to talk about self-entitlement, microaggressions, disinterest in protecting life, and more.
-spell: tng Locutus Riker LAFORGE Riker Troi Worf Zephram Alfre Woodard stardate Starfleet Romulans Romulan Hylas Vulcans JHTksR EMH Picardo Ooby Dooby Krige QyeJEH Neelix ricin mikadago
+spell: tng Locutus Riker LAFORGE Riker Troi Worf Zefram Alfre Woodard stardate Starfleet Romulans Romulan Hylas Vulcans JHTksR EMH Picardo Ooby Dooby Krige QyeJEH Neelix ricin mikadago
 proofed: true
 ---
 

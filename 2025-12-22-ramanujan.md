@@ -4,7 +4,7 @@ title: Developer Diary, Srinivasa Ramanujan
 date: 2025-12-22 06:59:05-0500
 categories:
 tags: [programming, project, dev-journal]
-labels: []
+labels: [blog, mini-server, salavi]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Srinivasa-Ramanujan.png
 description: This week's projects include SaLaVI and the blog.
@@ -25,7 +25,7 @@ And on to the week's projects.
 
 For anybody wondering what happened with the "refreshed" server that I mentioned a couple of weeks ago, it didn't go well.  Debian installed fine, and everything *looked* normal for about a week while I let it run in the corner.  But things didn't go well, maybe predictably, once I decided to trust the thing.
 
-As far as I could tell without actively monitoring anything, the machine stayed running consistently for about a week in a half, the later part of which I started slowly installing things.  I set up NGINX without any trouble, followed by Jellyfin.  I didn't *do* anything with Jellyfin, because I hope that whatever new media server that I use can import everything from the existing but under-powered server.
+As far as I could tell without actively monitoring anything, the machine stayed running consistently for about a week and a half, the later part of which I started slowly installing things.  I set up NGINX without any trouble, followed by Jellyfin.  I didn't *do* anything with Jellyfin, because I hope that whatever new media server that I use can import everything from the existing but under-powered server.
 
 Before I did that---because the server running Windows *also* seemed to generally run until I tried to stream something to the television---I decided to try something more taxing.  I landed on building [Graphite](https://graphite.art/), since I would like to get that running but don't want to set up all the requirements on a Raspberry Pi.  And wouldn't you know it, any part of the installation that took a while, the system would abruptly shut down, with no way of restarting it until it spontaneously decided to turn back on.
 

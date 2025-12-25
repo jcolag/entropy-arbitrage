@@ -7,7 +7,7 @@ tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/String-around-finger.png
 teaser: For this short post, we need to talk about who has the privilege of sounding correct, the economics of a militarized taxi service, and lax discipline for indigo children.
-spell: LAFORGE Dalen Quaice LaForge Selar Kosinski starbase Starfleet millicochranes Zephram Troi holodeck Ferengi Riker Rickyukon
+spell: LAFORGE Dalen Quaice LaForge Selar Kosinski starbase Starfleet millicochranes Zefram Troi holodeck Ferengi Riker Rickyukon
 proofed: true
 ---
 
@@ -50,7 +50,7 @@ Kosinski showed up in [*Where No One Has Gone Before*]({% post_url 2022-06-23-go
 
  > **LAFORGE**: We did a test run while we were still at the starbase. Here's what the computer recorded.
 
-You'll notice that the computer measures the subspace field in millicochranes, presumably a reference to Zephram Cochrane, who we met in [*Metamorphosis*]({% post_url 2020-10-08-meta %}).
+You'll notice that the computer measures the subspace field in millicochranes, presumably a reference to Zefram Cochrane, who we met in [*Metamorphosis*]({% post_url 2020-10-08-meta %}).
 
  > **CRUSHER**: No. I'll talk to Troi.
  >

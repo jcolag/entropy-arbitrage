@@ -7,7 +7,7 @@ tags: [scifi, startrek, closereading]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/baby-white-rhino.png
 teaser: For this episode, we need to talk about the treatment of refugees, heteronormativity, possibly weaponizing mass transit, and more.
-spell: Worf Troi Solio mathjax stardate Bilana soliton solitons t_P sqrt frac hbar LAFORGE Zephram Lapsang suchong Rozhenko Bonsall Dorn Starfleet gilvo Corvan gilvos Ro alien-ness Kahless Morath Riker Ja dar Chicxulub Ehleyr Storti
+spell: Worf Troi Solio mathjax stardate Bilana soliton solitons t_P sqrt frac hbar LAFORGE Zefram Lapsang suchong Rozhenko Bonsall Dorn Starfleet gilvo Corvan gilvos Ro alien-ness Kahless Morath Riker Ja dar Chicxulub Ehleyr Storti
 proofed: true
 ---
 
@@ -43,9 +43,9 @@ Why does anybody talk to him?  They *know* that he'll do this...
 
 Also, only nanoseconds?  Again, I find myself obliged to pedantically correct Data's pedantry, because surely, [Planck time](https://en.wikipedia.org/wiki/Planck_units)---usually defined as $$t_P = \sqrt{\frac{\hbar G}{c^5}}$$, in case you ever need that information---would make a far more appropriate unit for "moments in history," since we define the units entirely on physical context and actually don't have even a theoretical framework to deal with shorter durations, leading some physicists to assume that no shorter spans of time (or the other dimensions that we measure, for their relevant Planck units) exist.
 
- > **LAFORGE**: No, no, no, no. I mean, we're going to see something that people will talk about for years. I mean, think about it. No more bulky warp engines or nacelles. A ship just generates a Soliton wave and then rides it through space like a surfboard. This is going to be like being there to watch Chuck Yeager break the sound barrier, or Zephram Cochrane engage the first warp drive.
+ > **LAFORGE**: No, no, no, no. I mean, we're going to see something that people will talk about for years. I mean, think about it. No more bulky warp engines or nacelles. A ship just generates a Soliton wave and then rides it through space like a surfboard. This is going to be like being there to watch Chuck Yeager break the sound barrier, or Zefram Cochrane engage the first warp drive.
 
-Imagine the bizarre idea of this crew watching Zephram Cochrane---who we met in [*Metamorphosis*]({% post_url 2020-10-08-meta %}), by the way---engage the first warp drive, like *that* would ever happen...
+Imagine the bizarre idea of this crew watching Zefram Cochrane---who we met in [*Metamorphosis*]({% post_url 2020-10-08-meta %}), by the way---engage the first warp drive, like *that* would ever happen...
 
 [Chuck Yeager](https://en.wikipedia.org/wiki/Chuck_Yeager), meanwhile, served as an Air Force (and Army Air Force, before that) test pilot who, indeed, broke the sound barrier on October 14, 1947, going to retire from the Air Force as a Brigadier General in 1975.  He'll get at least one more mention in this series, and also looms large in the inspiration for **Enterprise**, another decade in this episode's future.
 
