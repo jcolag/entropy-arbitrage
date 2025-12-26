@@ -128,7 +128,7 @@ It seems worth mentioning that they filmed this scene to give Picard all the cre
  >
  > **RIKER**: You did, ten years from now. You've got fifty-eight minutes, Doc. You better get on that checklist.
 
-I don't know why I love the quote because it actually has legs, or because---despite quoting it---Riker and the rest of the crew seem to have no interest in the advice.  We wouldn't even have the film, if the crew didn't chafe at having the galaxy's attention focused anywhere but on them.
+I don't know if I love the quote because it actually has legs, or because---despite quoting it---Riker and the rest of the crew seem to have no interest in the advice.  We wouldn't even have the film, if the crew didn't chafe at having the galaxy's attention focused anywhere but on them.
 
  > **DANIELS**: They're on the move again. The Borg just overrun three of our defense checkpoints. They've taken over decks five and six. They've adapted to every modulation on our weapons. It's like we're shooting blanks.
 
@@ -271,7 +271,7 @@ I mean, surely the writers didn't have *this* deep a plan, even retroactively wi
 
 Also, back to the part that I crossed out as a cheap joke:  How has Picard stayed in his position for four or five years, when anybody can see that he has debilitating post-traumatic stress, putting his crew and ship at risk, and---as we have seen and as this outburst illustrates---still refuses to see a therapist?  I mean, episodes such as [*Coming of Age*]({% post_url 2022-09-22-coming-age %}) and [*Thine Own Self*]({% post_url 2025-09-11-thine-own-self %}) do show that Starfleet places a high value on people who can send their colleagues to their deaths without remorse, but I would imagine that even they would have frowned on deliberately killing people begging for help, proposing dissolving all organic material in an area (including the crew) in hopes of killing a few enemies, putting the entire crew in danger, and setting the galaxy up for conquest, all because he doesn't want to show fear.
 
-And that brings us up to the top, because even if we quietly ignore the effects of trauma because we don't want to suggest that Picard should "demean" himself by dealing with his psychological health, then the incident has also raised two separate ways that expose Picard as a merciless warmonger.  He took the Borg request for diplomatic help as an opportunity to wage war
+And that brings us up to the top, because even if we quietly ignore the effects of trauma because we don't want to suggest that Picard should "demean" himself by dealing with his psychological health, then the incident has also raised two separate ways that expose Picard as a merciless warmonger.  He took the Borg request for diplomatic help as an opportunity to wage war and would rather fight a war of attrition than put an end to an almost inevitable advance.
 
  > **COCHRANE**: Engage.
 
