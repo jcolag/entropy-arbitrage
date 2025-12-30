@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Journey's End
 date: 2025-10-09 17:50:05-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Taos-Pueblo-2017-05-05.png
 description: For this episode, we need to talk about colonists, disadvantaged populations, refusing immoral orders, and more.

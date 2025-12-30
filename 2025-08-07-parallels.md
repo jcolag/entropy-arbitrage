@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Parallels
 date: 2025-08-07 17:38:08-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/5912062168_f295e253e6_o.png
 description: For this episode, we need to talk about biased translation, treatment of foreign cultures and other bigotries, user interface design, status, and more.

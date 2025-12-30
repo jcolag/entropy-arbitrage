@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Eye Of The Beholder
 date: 2025-09-25 17:08:08-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/15151335634_07b552f170_o.png
 description: For this episode, we need to talk about ableism, therapy, respecting colleagues' time, gender roles, and more.

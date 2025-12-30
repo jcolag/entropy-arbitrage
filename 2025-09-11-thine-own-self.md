@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Thine Own Self
 date: 2025-09-11 17:40:10-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/image-from-rawpixel-id-8786458-original.png
 description: For this episode, we need to talk about pursuing status, using trauma as an assessment tool, anti-intellectualism, and a bunch of digressions.

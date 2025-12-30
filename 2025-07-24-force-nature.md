@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Force of Nature
 date: 2025-07-24 17:48:03-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/2594326010_71c309e890_o.png
 offset: -21%

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Firstborn
 date: 2025-10-16 17:15:00-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/3625048445_5fc2d478f1_o.png
 description: For this episode, we need to talk about the propensity to violence, racism, and (a bit) more.

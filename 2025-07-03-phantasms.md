@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Phantasms
 date: 2025-07-03 17:44:14-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/4991062521_8ea6e73c1e_o.png
 description: For this episode, we need to talk about microaggressions, sexism, privacy, and more, including maybe too much talking about cat-care.

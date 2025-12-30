@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Gambit part 2
 date: 2025-06-26 17:59:14-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/11145442074_3beeab97d8_o.png
 offset: -20%

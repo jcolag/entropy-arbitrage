@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Inheritance
 date: 2025-07-31 17:41:11-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/16536113251_c02d76ac27_o.png
 description: For this episode, we need to talk about protecting vulnerable populations, elopement, the treatment of older women, prudishness, and more.

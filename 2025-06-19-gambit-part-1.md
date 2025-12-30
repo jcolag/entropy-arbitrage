@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Gambit part 1
 date: 2025-06-19 17:19:12-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/priest-rabbi-minister-duck-bar.png
 description: For this episode, we need to talk about racism, sexism, grief, and more.

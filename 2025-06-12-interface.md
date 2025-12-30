@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Interface
 date: 2025-06-12 17:04:02-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/open-source-drone.png
 description: For this episode, we need to talk about ableism, racism, grief, family relationships, and more.

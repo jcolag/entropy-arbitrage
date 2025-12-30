@@ -4,6 +4,7 @@ title: Real Life in Star Trek, All Good Things, part 1
 date: 2025-11-13 17:16:01-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/2832684989_7366145f71_o.png
 offset: -25%

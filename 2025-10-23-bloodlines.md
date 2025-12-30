@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Bloodlines
 date: 2025-10-23 17:45:00-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/trecho-dificil-dessa-escalada.png
 description: For this episode, we need to talk about grief, safety, inequality, international politics, and more.

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Emergence
 date: 2025-10-30 17:28:13-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s7]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Voiture-restaurant-29.png
 description: For this episode, we need to talk about dealing with new life, invasions of privacy, preparation, and (a bit) more.
