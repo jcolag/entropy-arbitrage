@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Cost of Living
 date: 2024-09-26 17:05:05-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/6999881107_627e807ff3_o.png
 teaser: For this episode, we need to talk about contracts, bigotry, management, clothing, and a bit more.

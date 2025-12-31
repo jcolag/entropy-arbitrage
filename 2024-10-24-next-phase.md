@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Next Phase
 date: 2024-10-24 17:30:00-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/nature-wall-portrait-museum-predator-reptile-813932-pxhere.com.png
 description: For this episode, we need to talk about racism (as always), physical contact, grief, and more.

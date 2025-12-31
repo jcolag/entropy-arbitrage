@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Power Play
 date: 2024-08-22 17:36:06-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/52061548861_95273ca7ef_o.png
 teaser: For this episode, we need to talk about safety, respectability politics, and a tiny bit more.

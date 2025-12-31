@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Inner Light
 date: 2024-10-31 17:01:01-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/38304600821_0aac6e602b_o.png
 offset: -28%

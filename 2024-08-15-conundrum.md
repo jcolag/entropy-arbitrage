@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Conundrum
 date: 2024-08-15 17:32:10-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/GSFC_20171208_Archive_e002049.png
 offset: -38%

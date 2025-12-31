@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Redemption Part 2
 date: 2024-05-16 17:44:14-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/37270938511_c1d1650f0e_o.png
 update: [

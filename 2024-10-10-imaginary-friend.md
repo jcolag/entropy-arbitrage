@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Imaginary Friend
 date: 2024-10-10 17:22:01-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/2408033451_18206191bc_o.png
 teaser: For this episode, we need to talk about travel restrictions, authoritarians, therapy, and more.

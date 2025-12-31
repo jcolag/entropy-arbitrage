@@ -4,6 +4,7 @@ title: Real Life in Star Trek, A Matter of Time
 date: 2024-07-11 17:43:06-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/240086966_1f04572a86_o.png
 offset: -24%

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Perfect Mate
 date: 2024-10-03 17:28:11-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/research-archaeology-digging-digger-archaeologist-human-action-1145298-pxhere.com.png
 teaser: For this episode, we need to talk about fundamental rights, racism, status, sexual politics, secret dolphins, and more.

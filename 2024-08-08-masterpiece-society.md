@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Masterpiece Society
 date: 2024-08-08 17:40:10-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/6217337528_36331bbb08_o.png
 offset: -4%

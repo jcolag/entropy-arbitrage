@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Hero Worship
 date: 2024-07-25 17:01:01-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/4189390241_d6fef03f49_k.png
 teaser: For this episode, we need to talk about safety, therapy, and (not much) more.

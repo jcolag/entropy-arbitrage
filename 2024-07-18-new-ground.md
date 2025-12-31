@@ -4,6 +4,7 @@ title: Real Life in Star Trek, New Ground
 date: 2024-07-18 17:51:06-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/baby-white-rhino.png
 teaser: For this episode, we need to talk about the treatment of refugees, heteronormativity, possibly weaponizing mass transit, and more.

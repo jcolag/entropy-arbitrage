@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Unification Part 1
 date: 2024-06-27 17:25:10-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/3377523551_a20576f4ef_o.png
 teaser: For this episode, we need to talk about paranoia, logic obsessions, self-entitlement, racialized careers, and more.

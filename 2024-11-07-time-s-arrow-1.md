@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Time's Arrow, part 1
 date: 2024-11-07 17:43:01-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Mark-Twain-in-the-lab-of-Nikola-Tesla-1894.png
 offset: -28%

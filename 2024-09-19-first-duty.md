@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The First Duty
 date: 2024-09-19 17:46:01-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/4935102522_12f5ec6bcd_o.png
 teaser: For this episode, we need to talk about bigotry, corruption, and a bit more.

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Cause and Effect
 date: 2024-09-12 17:29:14-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/SpaceX-Falcon9-CRS7-Explosion-19236222595.png
 offset: -40%

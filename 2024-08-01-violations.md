@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Violations
 date: 2024-08-01 17:51:06-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s5]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/8665657878_9a2021378b_o.png
 teaser: For this episode, we need to talk about sexism, safety, racism, for-profit healthcare, and more.
