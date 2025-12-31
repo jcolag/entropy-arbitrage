@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Galaxy's Child
 date: 2024-02-22 17:31:14-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/10936215935_cbe5009802_o.png
 offset: -23%

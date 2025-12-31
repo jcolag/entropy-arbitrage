@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Nth Degree
 date: 2024-03-14 17:38:11-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/cosmic-cliffs.png
 teaser: For this episode, we need to talk about setting employees up to fail, fearing confrontation, sexual harassment, double-standards, and more.

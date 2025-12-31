@@ -4,6 +4,7 @@ title: Real Life in Star Trek, First Contact
 date: 2024-02-15 17:52:02-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/black-and-white-white-training-black-monochrome-sports-1101019-pxhere.com.png
 teaser: For this episode, we need to talk about authoritarians, civil rights, and (only a bit) more.

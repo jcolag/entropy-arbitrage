@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Best of Both Worlds Part 2
 date: 2023-11-09 17:45:00-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/8589339766_d438da8fff_o.png
 offset: -21%

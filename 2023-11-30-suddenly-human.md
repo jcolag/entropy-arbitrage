@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Suddenly Human
 date: 2023-11-30 17:47:02-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0733a.png
 teaser: For this episode, we talk about race, class, and child custody.

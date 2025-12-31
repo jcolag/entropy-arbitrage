@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Night Terrors
 date: 2024-02-29 17:36:01-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/man-landscape-tree-nature-silhouette-snow-1332197-pxhere.com.png
 teaser: For this episode, we need to talk about the War on Drugs, jealousy, imagined invincibility, unprofessional behavior, and more.

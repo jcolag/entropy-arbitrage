@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Identity Crisis
 date: 2024-03-07 17:06:06-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/3260943249_eafed154f1_o.png
 teaser: For this episode, we need to talk about emotions, security, genocide, and (a bit) more.

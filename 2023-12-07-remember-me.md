@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Remember Me
 date: 2023-12-07 17:56:11-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/String-around-finger.png
 teaser: For this short post, we need to talk about who has the privilege of sounding correct, the economics of a militarized taxi service, and lax discipline for indigo children.

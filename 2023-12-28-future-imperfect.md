@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Future Imperfect
 date: 2023-12-28 17:27:12-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/21413914314_963cde50f0_o.png
 teaser: For this episode, we need to talk about racism, sexism, the lack of progress in a decade, and more.

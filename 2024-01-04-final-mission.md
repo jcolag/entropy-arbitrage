@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Final Mission
 date: 2024-01-04 17:10:10-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/formation-cave-soil-caving-landform-conduit-762307-pxhere.com.png
 teaser: For this episode, we (mostly) need to talk about social class and the pressure put on children.

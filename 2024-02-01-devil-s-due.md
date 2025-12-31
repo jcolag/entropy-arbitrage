@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Devil's Due
 date: 2024-02-01 17:17:02-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s4]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/283681860_051f3fc865_o.png
 teaser: For this episode, we need to talk about respecting foreign governments, misogynistic terms, dime-store devils, and more.
