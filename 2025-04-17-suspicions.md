@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Suspicions
 date: 2025-04-17 17:37:01-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/16139252568_c7675dc4e4_o.png
 description: For this episode, we need to talk about bigotry, the scientific method, and a bit more.

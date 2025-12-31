@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Man of The People
 date: 2024-12-05 17:44:14-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/53159150369_f7ed65aac4_o.png
 offset: -24%

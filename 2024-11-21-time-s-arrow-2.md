@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Time's Arrow, part 2
 date: 2024-11-21 17:16:13-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Chinatown-San-Francisco-California-ca-1895.png
 description: For this episode, we need to talk about policing, selective readings of the future, and more.

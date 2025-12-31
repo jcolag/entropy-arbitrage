@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Realm of Fear
 date: 2024-11-28 17:24:09-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/5184961419_3f137bc06b_o.png
 description: For this episode, we need to talk about therapy, racism, safety, authoritarianism, and more.

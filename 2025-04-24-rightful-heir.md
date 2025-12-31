@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Rightful Heir
 date: 2025-04-24 17:17:02-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/6772546493_40b57f8ea1_o.png
 description: For this episode, we need to talk about racism, the Federation's reputation, and a bit more that surprisingly doesn't include religion.

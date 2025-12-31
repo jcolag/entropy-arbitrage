@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Chain of Command, Part 1
 date: 2025-01-23 17:32:02-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/DF-SD-06-14259.png
 description: For this episode, we need to talk about professionalism, international paranoia, professionalism, and (a bit) more.

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Ship in a Bottle
 date: 2025-02-06 17:57:12-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Ship-in-a-bottle-Gaff-schooner1.png
 offset: -27%

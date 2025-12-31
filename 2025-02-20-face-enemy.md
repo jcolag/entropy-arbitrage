@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Face of the Enemy
 date: 2025-02-20 17:41:11-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/325700186_9288d03ce8_o.png
 offset: -26%

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Birthright, part 1
 date: 2025-03-06 17:58:13-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/190062220_508ef7df5a_o.png
 description: For this episode, we need to talk about therapy, ideas on what qualifies as intellectual, ethnic categories, and more.

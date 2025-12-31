@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Starship Mine
 date: 2025-03-20 17:12:12-0400
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/3573744364_b8ea6c7803_o.png
 description: For this episode, we need to talk about poor social skills and violence, in a shockingly disinterested episode.

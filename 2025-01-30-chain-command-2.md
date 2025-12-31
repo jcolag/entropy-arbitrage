@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Chain of Command, Part 2
 date: 2025-01-30 17:02:02-0500
 categories:
 tags: [sci-fi, star-trek, close-reading]
+labels: [st-tng, st-tng-s6]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/45272805025_f1be87f926_o.png
 offset: -16%
