@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Offspring
 date: 2023-08-17 17:15:00-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Frog_in_frogspawn.png
 teaser: For this episode, we talk about parenting, civil rights, and why the Federation would care so much about studying a new android.

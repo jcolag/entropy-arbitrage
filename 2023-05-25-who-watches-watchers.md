@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Who Watches the Watchers
 date: 2023-05-25 17:46:01-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Vasquez_Rocks_2.png
 teaser: This episode brings us model minorities, the ever-changing Prime Directive, autocracy, religion, and more.

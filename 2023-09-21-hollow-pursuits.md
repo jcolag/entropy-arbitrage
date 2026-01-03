@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Hollow Pursuits
 date: 2023-09-21 17:57:12-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/game-games-electronics-screen-electronic-device-technology-1608777-pxhere.com.png
 offset: -21%

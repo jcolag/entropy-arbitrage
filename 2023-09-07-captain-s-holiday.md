@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Captain's Holiday
 date: 2023-09-07 17:06:06-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/beach-people-summer-female-leg-clothing-764741-pxhere.com.png
 teaser: This episode brings us a glimmer of progress in gender relations (but not much), the return of the old anti-intellectual streak, racism, and more.

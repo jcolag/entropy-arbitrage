@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Vengeance Factor
 date: 2023-06-29 17:39:09-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/HatfieldClan.png
 teaser: For this episode, we need to talk about Federation exceptionalism, professionalism, bigotry, the complete disinterest in healing people, and more.

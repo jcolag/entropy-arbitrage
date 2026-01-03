@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Allegiance
 date: 2023-08-31 17:01:01-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Ducks-in-a-row-following-leader.png
 teaser: This episode brings us musings on (dysfunctional) leadership, some racism, sexual harassment, secret plagues, and singing.

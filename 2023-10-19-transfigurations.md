@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Transfigurations
 date: 2023-10-19 17:28:13-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/person-restaurant-bar-meal-beverage-nightlife-705958-pxhere.com.png
 teaser: This week, we need to talk about slack time, locker room talk, misogyny, and ignoring refugees fleeing oppression.

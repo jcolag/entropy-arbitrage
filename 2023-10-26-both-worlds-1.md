@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Best of Both Worlds, Part One
 date: 2023-10-26 17:54:09-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/2421386153_472cdbcb56_o.png
 teaser: For this episode, we talk about poor planning, war efforts, sexism, job status, Earth's prominence, and Patrick Stewart's fake abs.

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Evolution
 date: 2023-05-04 17:23:08-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Yvbw6lszIPQkXU795ipu--2--lxjyk.png
 teaser: For this episode, we talk about corruption, many ethical issues, and way too much baseball.

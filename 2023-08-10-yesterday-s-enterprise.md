@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Yesterday's Enterprise
 date: 2023-08-10 17:53:08-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Enterprise-Balloon-Corps-1861.png
 offset: -35%

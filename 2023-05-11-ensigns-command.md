@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Ensigns of Command
 date: 2023-05-11 17:13:13-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Ensign_of_the_United_States_Coast_Guard.svg
 teaser: For this episode, we talk about racism, bad leadership, and the continued refusal to plan ahead.

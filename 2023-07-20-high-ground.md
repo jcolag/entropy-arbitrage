@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The High Ground
 date: 2023-07-20 17:36:06-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Fenian-guy-fawkesr1867reduced.png
 teaser: For this episode, we talk about negotiating with terrorists, sexism, professionalism, and more.

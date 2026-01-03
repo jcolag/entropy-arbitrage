@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Survivors
 date: 2023-05-18 17:17:02-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso1408a.png
 teaser: For this episode, we look at life on colonies, the rights of artificial humans, pacifism, genocide, and more.

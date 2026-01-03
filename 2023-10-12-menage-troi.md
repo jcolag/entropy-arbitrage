@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Ménage à Troi
 date: 2023-10-12 17:56:11-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/2338077903_051cc0bf04_o.png
 teaser: For this episode, we need to talk about so much racism and sexism, again, but we can also make fun of Wesley's wardrobe.

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Booby Trap
 date: 2023-06-08 17:33:03-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/5265260921_15c339b2a9_o.png
 offset: -31%

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, A Matter of Perspective
 date: 2023-08-03 17:07:07-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Point_of_view_bias.png
 offset: -38%
