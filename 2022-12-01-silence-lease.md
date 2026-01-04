@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Where Silence Has Lease
 date: 2022-12-01 17:18:03-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/31209212418_910d33ddf8_o.png
 proofed: true

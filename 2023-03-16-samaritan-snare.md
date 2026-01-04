@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Samaritan Snare
 date: 2023-03-16 17:26:11-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/14356056541_d9e22ef6c7_o.png
 teaser: Someone finally calls out Picard's toxic masculinity, in an episode filled with status obsession and ableism.

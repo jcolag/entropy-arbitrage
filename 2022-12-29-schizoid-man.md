@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Schizoid Man
 date: 2022-12-29 17:26:11-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/circuit-board-brain.png
 proofed: true

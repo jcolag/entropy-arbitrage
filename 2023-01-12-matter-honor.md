@@ -4,6 +4,7 @@ title: Real Life in Star Trek, A Matter of Honor
 date: 2023-01-12 17:18:03-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/5188365617_e4817d73f5_o.png
 proofed: true

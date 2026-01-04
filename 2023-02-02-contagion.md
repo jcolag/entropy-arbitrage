@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Contagion
 date: 2023-02-02 17:20:05-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Al-menos-35-periodistas-y-activistas-en-El-Salvador-fueron-espiados-con-Pegasus.png
 proofed: true

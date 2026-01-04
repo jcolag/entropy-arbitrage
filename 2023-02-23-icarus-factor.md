@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Icarus Factor
 date: 2023-02-23 17:40:10-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/The-Fall-of-Icarus.png
 proofed: true

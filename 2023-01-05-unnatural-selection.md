@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Unnatural Selection
 date: 2023-01-05 17:15:00-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/15-Hegasy-Cas9-DNA-Tool-Wiki-E-CCBYSA.png
 proofed: true

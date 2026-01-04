@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Loud As A Whisper
 date: 2022-12-22 17:08:08-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Lao-sign-language-025.png
 offset: -4%

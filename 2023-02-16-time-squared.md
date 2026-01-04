@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Time Squared
 date: 2023-02-16 17:32:02-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/FSHFYQYACNFN5ML2INUYJFFVMI.png
 proofed: true

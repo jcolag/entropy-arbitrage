@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Up The Long Ladder
 date: 2023-03-23 17:53:08-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Irish-Dancers.png
 offset: -21%

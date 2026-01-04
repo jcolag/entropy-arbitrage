@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Measure of a Man
 date: 2023-01-19 17:48:03-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/36804045581_14ac148b2e_o.png
 proofed: true

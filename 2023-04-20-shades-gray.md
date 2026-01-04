@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Shades of Gray
 date: 2023-04-20 17:43:13-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Rhizopora-stylosa-Found-in-Cilintang.png
 teaser: For this episode, we talk safety, prejudice, professionalism, and toxic masculinity. If you skip only one post in this series of posts, make it the one where I don't have anything significant to talk about because the series writers decided on a clip show...

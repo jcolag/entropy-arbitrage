@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Outrageous Okona
 date: 2022-12-15 17:10:10-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Max-Amini-Persian-American-Stand-Up-Comedian-2015.png
 proofed: true

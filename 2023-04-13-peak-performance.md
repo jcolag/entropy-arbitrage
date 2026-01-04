@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Peak Performance
 date: 2023-04-13 17:52:07-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s2]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/AlphaGo-Fan-Huiren-aurka.png
 teaser: Starfleet militarizes, while Pulaski pulls out all the bigotry, people cheat at games, Picard rails against doing emotional labor for his reports, but people (finally) suggest that you should treat people who act emotional as if they have emotions.
