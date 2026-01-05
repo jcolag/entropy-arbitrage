@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Arsenal Of Freedom
 date: 2022-10-06 17:23:08-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/vintage-antique-steel-military-army-tourism-1349531-pxhere.com.png
 proofed: true

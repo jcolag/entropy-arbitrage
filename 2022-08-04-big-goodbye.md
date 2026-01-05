@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Big Goodbye
 date: 2022-08-04 17:57:12-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/black-mask-1923-10-01.png
 offset: -24%

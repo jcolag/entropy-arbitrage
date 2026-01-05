@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Too Short A Season
 date: 2022-09-01 17:18:03-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/DP-21913-001.png
 proofed: true

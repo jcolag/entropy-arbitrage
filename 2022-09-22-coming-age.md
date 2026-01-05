@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Coming Of Age
 date: 2022-09-22 17:52:07-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/etug-storybox-seminar-205002-pxhere.com.png
 proofed: true

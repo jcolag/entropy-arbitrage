@@ -4,6 +4,7 @@ title: Real Life in Star Trek, When The Bough Breaks
 date: 2022-09-08 17:52:07-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Grie-Lost-City-of-Atlantis.png
 proofed: true

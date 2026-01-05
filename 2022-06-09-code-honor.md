@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Code Of Honor
 date: 2022-06-09 17:55:10-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/play-kitten-cat-mammal-playful-fight-820025-pxhere.com.png
 proofed: true

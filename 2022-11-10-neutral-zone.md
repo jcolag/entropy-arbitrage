@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Neutral Zone
 date: 2022-11-10 17:29:14-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Augurbussard-Serengeti.png
 offset: -20%

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Heart of Glory
 date: 2022-09-29 17:39:09-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/6283771859_ac3f742e3d_o.png
 proofed: true

@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Conspiracy
 date: 2022-11-03 17:11:11-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/st-tng-conspiracy.png
 proofed: true

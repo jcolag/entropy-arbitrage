@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Symbiosis
 date: 2022-10-13 17:40:10-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tng, st-tng-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/raw-opium.png
 proofed: true
