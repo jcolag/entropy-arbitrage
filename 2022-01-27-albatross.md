@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Albatross
 date: 2022-01-27 17:55:28-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tas]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/Diomedea-epomophora-portrait-SE-Tasmania.png
 proofed: true

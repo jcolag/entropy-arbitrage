@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Yesteryear
 date: 2021-08-26 17:28:28-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tas]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/landscape-nature-rock-wilderness-mountain-architecture-746291-pxhere.com.png
 offset: -21%

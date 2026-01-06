@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Ambergris Element
 date: 2021-11-11 17:10:01-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-tas]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/A-Crowned-Merman-Arthur-Rackham.png
 offset: -25%
