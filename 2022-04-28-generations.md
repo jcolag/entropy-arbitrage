@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Generations
 date: 2022-04-28 17:28:04-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-film]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/ukraine-1992-stamp.png
 offset: -31%
