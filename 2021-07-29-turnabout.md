@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Turnabout Intruder
 date: 2021-07-29 17:28:28-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/32498689184_2d0c092796_o.png
 ---

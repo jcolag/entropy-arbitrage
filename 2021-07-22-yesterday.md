@@ -4,6 +4,7 @@ title: Real Life in Star Trek, All Our Yesterdays
 date: 2021-07-22 17:48:28-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/0401563~orig.png
 ---

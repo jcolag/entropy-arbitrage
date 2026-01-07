@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Requiem for Methuselah
 date: 2021-06-24 17:35:28-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s3]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/17841296346_0a3e1d9aac_o.png
 ---
