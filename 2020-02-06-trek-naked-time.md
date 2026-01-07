@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Naked Time
 date: 2020-02-06 18:38:19-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0603a.png
 offset: -17%

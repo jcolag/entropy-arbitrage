@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Menagerie, Part II
 date: 2020-04-02 17:11:15-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/trouvelot-jupiter-upside-down.jpg
 offset: -25%

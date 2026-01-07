@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Conscience Of The King
 date: 2020-04-09 17:37:15-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/GSFC_20171208_Archive_e000698.png
 ---

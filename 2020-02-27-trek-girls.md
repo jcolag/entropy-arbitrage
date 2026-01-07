@@ -4,6 +4,7 @@ title: Real Life in Star Trek, What Are Little Girls Made Of?
 date: 2020-02-27 17:09:15-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso0722b.jpg
 offset: -20%

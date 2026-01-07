@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Dagger of the Mind
 date: 2020-03-12 17:26:15-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/eso1905a.png
 offset: -30%

@@ -3,6 +3,7 @@ layout: post
 title: Real Life in Star Trek, Blish Supplement
 date: 2020-01-30 17:24:32-0500
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/hands-1461555427fAd.jpg
 update: [

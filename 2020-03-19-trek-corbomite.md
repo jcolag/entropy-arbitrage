@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Corbomite Maneuver
 date: 2020-03-19 17:35:15-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/glowing-sun-atmosphere-glow-lamp-electricity-1236265-pxhere.com.png
 offset: -25%

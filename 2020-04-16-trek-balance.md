@@ -4,6 +4,7 @@ title: Real Life in Star Trek, Balance of Terror
 date: 2020-04-16 17:40:09-0400
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
 thumbnail: /blog/assets/fettu-asteroids_cc.png
 offset: -66%

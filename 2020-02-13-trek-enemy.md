@@ -4,6 +4,7 @@ title: Real Life in Star Trek, The Enemy Within
 date: 2020-02-13 17:12:19-0500
 categories:
 tags: [scifi, startrek, closereading]
+labels: [st-1966, st-1966-s1]
 summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek (Note - Sexual assault referenced)
 thumbnail: /blog/assets/eso1134b.png
 offset: -25%
