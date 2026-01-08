@@ -4,6 +4,7 @@ title: Developer Diary, World Statistics Day
 date: 2025-10-20 06:59:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-move, codidact, key-wand]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/WorldStatsDay-Logo-ES-b.png
 offset: -30%

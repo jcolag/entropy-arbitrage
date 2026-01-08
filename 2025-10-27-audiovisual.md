@@ -4,6 +4,7 @@ title: Developer Diary, Audiovisual Heritage
 date: 2025-10-27 07:21:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-move, codidact, library-updates, newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Dukane-Record-Automatic-Filmstrip-Projector.png
 offset: -38%
