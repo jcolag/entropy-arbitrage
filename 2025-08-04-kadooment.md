@@ -4,6 +4,7 @@ title: Developer Diary, Kadooment
 date: 2025-08-04 08:36:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, mermaid, mini-server, notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/2821350680_dbdbb4a17e_c.png
 offset: -30%

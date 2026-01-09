@@ -4,6 +4,7 @@ title: Developer Diary, International Day of Democracy
 date: 2025-09-15 08:02:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-move, mini-server]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/discurso-funebre-pericles.png
 offset: -30%

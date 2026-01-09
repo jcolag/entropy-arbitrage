@@ -4,6 +4,7 @@ title: Developer Diary, Miguel de Cervantes
 date: 2025-09-29 07:09:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-move, mini-server, newsletter, open-letter, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Cervantes-Jáuregui.png
 offset: -38%
