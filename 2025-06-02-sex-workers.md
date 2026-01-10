@@ -4,6 +4,7 @@ title: Developer Diary, International Sex Workers' Day
 date: 2025-06-02 06:42:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [boring-css, library-updates, open-badges, small-things, stenotype]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Sex-worker-statue-Oudekerksplein-Amsterdam.png
 offset: -6%
@@ -34,7 +35,7 @@ My fifth week of this experience, sticking with the second lesson, *One-syllable
 
 In any case, I'll likely move to the next lesson today or tomorrow, now that I can fairly consistently type in the mid-twenties words per minute with a mid-to-high-nineties accuracy for these words.
 
-## Getting to Carnegie Hall but with Huge Transit Gaps
+### Getting to Carnegie Hall but with Huge Transit Gaps
 
 I'd like to raise another trouble that struck me during the week, and wish that I had a clearer way around:  The *modality* of stenography cuts against practice.
 

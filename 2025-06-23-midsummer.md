@@ -4,6 +4,7 @@ title: Developer Diary, Midsummer
 date: 2025-06-23 08:41:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, library-updates, mini-server, stenotype]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mittsommerfest-in-Norwegen-Insel-Tysnes-IMG-4425WI.png
 offset: -30%
