@@ -4,6 +4,7 @@ title: Developer Diary, Grounation Day
 date: 2025-04-21 07:13:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, open-badges]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Flag-of-Ethiopia-1897-1974.png
 offset: -30%

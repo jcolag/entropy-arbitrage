@@ -4,7 +4,7 @@ title: Free Culture Book Club — Sol Levante
 date: 2026-01-10 06:51:12-0500
 categories:
 tags: [free-culture, book-club]
-labels: [novella, cc-by-sa]
+labels: [animation, cc-by-sa, film]
 summary: Discussing a large-studio narrative test case
 thumbnail: /blog/assets/sol-levante-action.png
 offset: -15%
