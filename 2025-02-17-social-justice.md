@@ -4,6 +4,7 @@ title: Developer Diary, World Eve of Social Justice
 date: 2025-02-17 07:52:05-0500
 categories:
 tags: [programming, project, dev-journal]
+label: [blog, library-updates]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Eleanor-Roosevelt-UDHR.png
 description: This week's projects include the blog's code and a quick library update.

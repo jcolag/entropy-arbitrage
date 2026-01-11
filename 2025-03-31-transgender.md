@@ -4,6 +4,7 @@ title: Developer Diary, Transgender Day of Visibility
 date: 2025-03-31 07:23:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, newsletter, notoboto, open-badges, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/trans-visibility.png
 offset: -38%

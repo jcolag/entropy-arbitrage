@@ -4,6 +4,7 @@ title: Developer Diary, Freedom to Marry Day
 date: 2025-02-10 07:12:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, open-badges]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Wedding-in-New-Orleans-November-11-2017.png
 description: This week's projects include the blog's code and more work on Open Badges.

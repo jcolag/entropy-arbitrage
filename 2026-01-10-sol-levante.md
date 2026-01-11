@@ -23,7 +23,7 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
  * Full Title:  **Sol Levante**
- * Location:  <https://opencontent.netflix.com/>, <https://www.google.com/url?q=https%3A%2F%2Fwww.netflix.com%2Fwatch%2F81017017&sa=D&sntz=1>
+ * Location:  <https://opencontent.netflix.com/>, <https://www.netflix.com/watch/81017017&sa=D&sntz=1>
  * Released:  2020
  * License:  CC BY
  * Creator:  Netflix
@@ -81,4 +81,4 @@ Anyway, while we wait for that, what did everybody else think about the animatio
 
 * * *
 
-**Credits**:  The header image comes from the book's repository, presumed under the same license as the book.
+**Credits**:  The header image comes from the film itself.

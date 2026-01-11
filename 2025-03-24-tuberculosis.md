@@ -4,6 +4,7 @@ title: Developer Diary, World Tuberculosis Day
 date: 2025-03-24 08:43:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/TB-poster.png
 offset: -30%
