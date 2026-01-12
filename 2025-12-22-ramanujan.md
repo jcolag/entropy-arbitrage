@@ -4,7 +4,7 @@ title: Developer Diary, Srinivasa Ramanujan
 date: 2025-12-22 06:59:05-0500
 categories:
 tags: [programming, project, dev-journal]
-labels: [blog, mini-server, salavi]
+labels: [blog, graphite, mini-server, salavi]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Srinivasa-Ramanujan.png
 description: This week's projects include SaLaVI and the blog.

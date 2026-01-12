@@ -4,7 +4,7 @@ title: Developer Diary, Disaster Risk Reduction
 date: 2025-10-13 07:07:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [codeberg-move, key-wand, mini-server]
+labels: [codeberg-move, glance, key-wand, mini-server, qr-frame]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Turun-palo-1827.png
 offset: -30%

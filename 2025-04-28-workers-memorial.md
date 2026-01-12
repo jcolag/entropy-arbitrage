@@ -4,7 +4,7 @@ title: Developer Diary, Workers' Memorial Day
 date: 2025-04-28 07:28:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [mystic-t-square, library-updates, newsletter]
+labels: [mystic-t-square, library-update, newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/WMD-ribbon.png
 offset: -38%

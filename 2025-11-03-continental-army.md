@@ -4,7 +4,7 @@ title: Developer Diary, US Continental Army
 date: 2025-11-03 07:18:05-0500
 categories:
 tags: [programming, project, dev-journal]
-labels: [blog, codeberg-move, library-updates, notoboto]
+labels: [blog, codeberg-move, library-update, notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Seal-US-Board-of-War-and-Ordnance.png
 description: This week's projects include the blog's code, the Concept-Net Random Walk, Notoboto, a multiplication game, an alternate Type Time, my class management scripts, uManage's reports, a color namer, a keyword search, my Twitter archive, and some library updates.

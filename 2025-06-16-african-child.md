@@ -4,7 +4,7 @@ title: Developer Diary, Day of the African Child
 date: 2025-06-16 07:19:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [codidact, library-updates, stenotype]
+labels: [codidact, library-update, stenotype]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Fally-Ipupa-joins-MONUSCO.png
 offset: -30%

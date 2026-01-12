@@ -4,7 +4,7 @@ title: Developer Diary, International Sex Workers' Day
 date: 2025-06-02 06:42:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [boring-css, library-updates, open-badges, small-things, stenotype]
+labels: [boring-css, library-update, open-badges, ruby, small-things, stenotype]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Sex-worker-statue-Oudekerksplein-Amsterdam.png
 offset: -6%

@@ -4,7 +4,7 @@ title: Developer Diary, Pohela Boishakh
 date: 2025-04-14 07:41:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [blog, codidact, open-badges]
+labels: [blog, codidact, open-badges, ruby]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mangal-Shobhajatra-in-Dhaka.png
 offset: -30%

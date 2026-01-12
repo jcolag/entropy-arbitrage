@@ -4,7 +4,7 @@ title: Developer Diary, Long Count Begins
 date: 2025-08-11 07:07:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: [blog, ham-newsletter, mini-server]
+labels: [blog, fresh-rss, ham-newsletter, mini-server, nginx]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/East-side-of-stela-C-Quirigua.png
 offset: -30%
