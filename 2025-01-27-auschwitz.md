@@ -4,6 +4,7 @@ title: Developer Diary, Liberation of Auschwitz
 date: 2025-01-27 07:55:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, dashboard, javascript, newsletter, open-badges]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Auschwitz-Liberation-1945.png
 offset: -38%

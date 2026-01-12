@@ -4,6 +4,7 @@ title: Developer Diary, Anti-Corruption Day
 date: 2024-12-09 07:54:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, html, library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/student-in-Uvira-spreads-anti-corruption-message.png
 offset: -30%

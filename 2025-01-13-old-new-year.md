@@ -4,6 +4,7 @@ title: Developer Diary, Old New Year's Eve
 date: 2025-01-13 07:12:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [dashboard]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Ukraine-bear-costume.png
 description: This week's projects include continued minor tweaks for my Morning Dashboard.

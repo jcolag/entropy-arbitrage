@@ -4,6 +4,7 @@ title: Developer Diary, Day of Reconciliation
 date: 2024-12-16 07:05:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, javascript]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Flag-of-South-Africa.svg
 offset: -28%
