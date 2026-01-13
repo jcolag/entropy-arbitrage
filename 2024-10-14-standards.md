@@ -4,6 +4,7 @@ title: Developer Diary, World Standards Day
 date: 2024-10-14 07:45:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, cohost, lights-edge]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Memory-plaque-of-founding-ISA-in-Prague.png
 offset: -20%

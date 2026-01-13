@@ -4,6 +4,7 @@ title: Developer Diary, Susan B. Anthony
 date: 2024-11-18 07:12:05-0500
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, library-update, ruby]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Daily-Graphic-Woman-Who-Dared.png
 offset: -30%

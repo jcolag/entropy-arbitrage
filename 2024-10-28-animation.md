@@ -4,6 +4,7 @@ title: Developer Diary, International Animation Day
 date: 2024-10-28 07:43:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-profile, cohost, lights-edge, newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Animexample3.png
 offset: -8%

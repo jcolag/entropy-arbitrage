@@ -4,6 +4,7 @@ title: Developer Diary, World Statistics Day, Belated
 date: 2024-10-21 07:13:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, cohost, lights-edge]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Standard-Normal-Distribution.png
 offset: -30%
