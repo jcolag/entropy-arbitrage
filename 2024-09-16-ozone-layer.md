@@ -4,6 +4,7 @@ title: Developer Diary, Ozone Day
 date: 2024-09-16 07:20:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codidact, fictopedia, ham-newsletter, lights-edge, notoboto, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Ozone-over-southern-hemisphere-Sep11-1957-2001.gif
 offset: -48%

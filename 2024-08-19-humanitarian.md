@@ -4,6 +4,7 @@ title: Developer Diary, World Humanitarian Day
 date: 2024-08-19 08:10:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-profile, css, fictopedia, html, lights-edge]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/2995064256_853fd34d7c_o.png
 offset: -8%

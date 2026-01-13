@@ -4,6 +4,7 @@ title: Developer Diary, Coast Guard Day (belated)
 date: 2024-08-05 07:23:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, css, fictopedia]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Coast_Guard_Day_2013_by_Cory_Mendenhall.png
 offset: -15%

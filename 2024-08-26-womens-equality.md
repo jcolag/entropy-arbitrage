@@ -4,6 +4,7 @@ title: Developer Diary, Women's Equality Day
 date: 2024-08-26 07:31:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-profile, lights-edge, newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/30004393205_1c983b741d_o.png
 offset: -15%

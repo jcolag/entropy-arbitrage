@@ -4,6 +4,7 @@ title: Developer Diary, Celebrate Bisexuality Day
 date: 2024-09-23 07:10:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codidact, cohost, css, lights-edge]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Bisexual_Pride_Flag.svg
 offset: -30%

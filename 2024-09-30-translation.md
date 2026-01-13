@@ -4,6 +4,7 @@ title: Developer Diary, International Translation Day
 date: 2024-09-30 07:47:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [library-update, lights-edge, newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Rosetta-Stone-front-face.png
 offset: -15%

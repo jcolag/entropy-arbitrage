@@ -4,6 +4,7 @@ title: Developer Diary, Chrysanthemum Day
 date: 2024-09-09 07:15:05-0400
 categories:
 tags: [programming, project, dev-journal]
+labels: [blog, codeberg-profile, lights-edge, notoboto, social-media, tcl]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Chrysanthemum.show.png
 offset: -8%
