@@ -4,6 +4,7 @@ title: Developer Diary, Eruption of Huaynaputina
 date: 2024-02-19 07:04:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [lights-edge, notoboto, php]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/3587376222_a401a77c8f_o.png
 offset: -15%

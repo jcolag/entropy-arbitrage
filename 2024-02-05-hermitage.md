@@ -4,6 +4,7 @@ title: Developer Diary, Hermitage Museum
 date: 2024-02-05 07:07:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, dashboard, ham-newsletter, notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/NewHermitage.png
 offset: -15%

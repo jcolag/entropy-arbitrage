@@ -4,6 +4,7 @@ title: Developer Diary, United States Constitution
 date: 2024-03-04 07:18:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [json-resume, newsletter, notoboto, tcl]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/us-constitution-signing.png
 offset: -15%

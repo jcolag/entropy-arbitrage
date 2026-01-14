@@ -4,6 +4,7 @@ title: Developer Diary, Paris Commune
 date: 2024-03-18 07:41:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, library-update, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Paris-Commune-barricade.png
 offset: -15%
