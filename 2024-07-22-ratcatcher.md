@@ -4,6 +4,7 @@ title: Developer Diary, Ratcatcher's Day
 date: 2024-07-22 08:03:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, fictopedia, mini-server]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/ma-131907.png
 offset: -15%

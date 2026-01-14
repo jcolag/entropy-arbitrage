@@ -4,6 +4,7 @@ title: Developer Diary, Emancipation Day (observed)
 date: 2024-07-08 08:27:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, fictopedia, library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Henry-Highland-Garnet.png
 offset: -15%

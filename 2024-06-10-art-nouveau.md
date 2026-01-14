@@ -4,6 +4,7 @@ title: Developer Diary, Art Nouveau Day
 date: 2024-06-10 07:44:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, cprep, dashboard, library-update, lights-edge, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/80130778-panoramio.png
 offset: -15%

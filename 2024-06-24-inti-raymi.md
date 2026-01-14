@@ -4,6 +4,7 @@ title: Developer Diary, Inti Raymi
 date: 2024-06-24 07:24:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, fictopedia, library-update, lights-edge, newsletter, post-news]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/83-Cuzco-Juin-2009.png
 offset: -15%
