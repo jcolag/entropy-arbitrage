@@ -4,6 +4,7 @@ title: Developer Diary, Hıdırellez
 date: 2024-05-06 07:13:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, earburn, lights-edge, notoboto, social-media, tcl]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/5ccd9a194a62b5-33270460-IMG-0735.png
 offset: -15%
