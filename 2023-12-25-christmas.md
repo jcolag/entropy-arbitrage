@@ -4,6 +4,7 @@ title: Developer Diary, Christmas 🎄
 date: 2023-12-25 07:49:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [newsletter, notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/outdoor-snow-cold-winter-girl-skate-669822-pxhere.com.png
 offset: -15%

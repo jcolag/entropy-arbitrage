@@ -4,6 +4,7 @@ title: Developer Diary, January Uprising
 date: 2024-01-22 07:21:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Jan-Matejko-Polonia-1863-Poland-Enchained-MNK-XII-453-National-Museum-Kraków.png
 offset: -15%

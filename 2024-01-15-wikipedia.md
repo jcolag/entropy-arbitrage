@@ -4,6 +4,7 @@ title: Developer Diary, Wikipedia
 date: 2024-01-15 07:14:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [notoboto, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Wikipedia-logo-version-2.png
 offset: -15%
