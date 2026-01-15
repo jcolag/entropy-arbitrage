@@ -4,6 +4,7 @@ title: Developer Diary, Día de la Revolución
 date: 2023-11-20 07:34:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, json-resume, pebble]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Feliz-Dia-de-la-Revolucion-Mexico.png
 teaser: This week's projects include my Pebble archive, a theme for JSON Resume, and some blog corrections.

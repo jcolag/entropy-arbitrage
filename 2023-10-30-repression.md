@@ -4,6 +4,7 @@ title: Developer Diary, ...Victims of Political Repressions
 date: 2023-10-30 07:41:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, library-update, newsletter, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Return-of-the-Names-29-10-2016-Moscow-A-01.png
 teaser: This week's projects include a sneak peek at the upcoming newsletter, social media changes, the blog's code, and library updates.
