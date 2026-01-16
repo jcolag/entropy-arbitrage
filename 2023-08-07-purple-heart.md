@@ -4,6 +4,7 @@ title: Developer Diary, Purple Heart
 date: 2023-08-07 07:08:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [labels, notoboto, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/badge-of-military-merit.png
 teaser: This week's projects include reporting back on Saturday's "office hours," new project Notoboto, and a batch of library updates.

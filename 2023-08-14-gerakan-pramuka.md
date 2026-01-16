@@ -4,6 +4,7 @@ title: Developer Diary, Gerakan Pramuka
 date: 2023-08-14 06:56:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Gerakan-Pramuka-Indonesia-Scouts-8th-Indonesian-National-Rover-Moot-2003.png
 teaser: This week's projects include Notoboto (my new note-taking app replacement) and not much else.

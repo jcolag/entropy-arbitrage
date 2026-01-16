@@ -4,6 +4,7 @@ title: Developer Diary, Kaqchikel Rebellion
 date: 2023-08-28 07:00:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [newsletter, notoboto]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Iximche.png
 teaser: This week's projects include Notoboto and the August newsletter, pretty much.
