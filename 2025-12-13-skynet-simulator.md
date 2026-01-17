@@ -4,7 +4,7 @@ title: Free Culture Book Club — Skynet Simulator
 date: 2025-12-13 07:27:12-0500
 categories:
 tags: [free-culture, book-club]
-labels: [ai, mit, sci-fi, video-game]
+labels: [artificial-intelligence, mit, sci-fi, video-game]
 summary: Discussing a quick hacking game
 thumbnail: /blog/assets/walterlicinio-ccby4-37.png
 offset: -21%
