@@ -4,6 +4,7 @@ title: Developer Diary, Juneteenth
 date: 2023-06-19 06:53:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Emancipation-Day-in-Richmond-Virginia-1905.png
 offset: -45%

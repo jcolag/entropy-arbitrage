@@ -4,6 +4,7 @@ title: Developer Diary, World Refrigeration Day
 date: 2023-06-26 07:14:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [newsletter, social-media, tool-trunk]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Baron-Kelvin.png
 teaser: This week's projects include my Mastodon Tool Trunk, my newsletter for June, and social media changes.

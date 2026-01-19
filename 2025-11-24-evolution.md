@@ -4,7 +4,7 @@ title: Developer Diary, Evolution Day
 date: 2025-11-24 07:15:05-0500
 categories:
 tags: [programming, project, dev-journal]
-labels: [newsletter, codeberg-profile, salavi, mastodon-tool-trunk, library-update]
+labels: [newsletter, codeberg-profile, salavi, tool-trunk, library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Darwin-s-finches-Gould.png
 offset: -38%

@@ -4,6 +4,7 @@ title: Developer Diary, World Day Against Child Labor
 date: 2023-06-12 06:33:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [kabang, library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Child-coal-miners-1908-crop.png
 teaser: This week's projects include a bunch more library updates and teasing a secret project.

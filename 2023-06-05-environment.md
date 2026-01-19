@@ -4,6 +4,7 @@ title: Developer Diary, World Environment Day
 date: 2023-06-05 06:49:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [bash, library-update, periodic-scripts]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/15636978156_5313675756_o.png
 teaser: This week's projects include my Periodic Scripts and a mess of library updates.
