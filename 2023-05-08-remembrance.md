@@ -4,6 +4,7 @@ title: Developer Diary, WWII Remembrance
 date: 2023-05-08 07:10:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [bash, blog, newsletter, periodic-scripts, tool-trunk]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/keitel-111-SC-206292.png
 teaser: This week's projects include the blog's code and infrastructure, one of the scripts that manage my life, and my Mastodon Tool Trunk.

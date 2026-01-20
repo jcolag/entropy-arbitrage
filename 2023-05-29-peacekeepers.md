@@ -4,6 +4,7 @@ title: Developer Diary, Day of UN Peacekeepers
 date: 2023-05-29 07:08:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [boring-css, newsletter, periodic-scripts, tool-trunk]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Blue-helmet.png
 teaser: This week's projects include a collection of useful (to me) scripts, my Mastodon Trunk Rummager, and Boring CSS, plus a reminder of my upcoming newsletter issue.
