@@ -4,6 +4,7 @@ title: Developer Diary, European Day of the Righteous
 date: 2023-03-06 06:35:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, dashboard, link-dump, tool-trunk]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/European-Day-of-the-Righteous-logo.png
 teaser: This week's updates include new calendars and sentiment analysis for my Morning Dashboard, finally getting my Mastodon scheduler script working, and adding these teasers to all blog announcements.

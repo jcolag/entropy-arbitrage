@@ -4,6 +4,7 @@ title: Developer Diary, International Day of Happiness
 date: 2023-03-20 06:32:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, javascript, socialite]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mario-Canete-Farias-in-2007.png
 teaser: This week's updates include new project Socialite and the blog's code.

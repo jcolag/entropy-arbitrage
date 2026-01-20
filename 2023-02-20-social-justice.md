@@ -4,6 +4,7 @@ title: Developer Diary, World Day of Social Justice
 date: 2023-02-20 06:40:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, javascript, twitter-archive]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/27758131387_302d739453_o.png
 offset: -15%
