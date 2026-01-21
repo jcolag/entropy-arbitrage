@@ -4,6 +4,7 @@ title: Developer Journal, International Human Solidarity Eve
 date: 2022-12-19 06:49:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [library-update, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Unity-In-Diversity-Opening-Ceremony-Wiki-Conference-India-CGC-Mohali-2016-08-05-6656.png
 proofed: true

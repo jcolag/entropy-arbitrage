@@ -4,6 +4,7 @@ title: Developer Diary, Fred Korematsu Day
 date: 2023-01-30 06:55:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [tool-trunk]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Luggage-Japanese-American-internment.png
 proofed: true
