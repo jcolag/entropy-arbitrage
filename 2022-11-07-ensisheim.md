@@ -4,6 +4,7 @@ title: Developer Journal, Ensisheim Meteorite
 date: 2022-11-07 06:32:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [cprep, github-profile]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/chronicles-nuremberg-ensisheim.png
 proofed: true

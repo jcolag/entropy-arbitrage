@@ -4,6 +4,7 @@ title: Developer Journal, Indigenous Peoples' Day
 date: 2022-10-10 06:48:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [globe, javascript]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/New-Mexico-Indigenous-Peoples-Day-2019-03.png
 offset: -18%

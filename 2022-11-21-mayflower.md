@@ -4,6 +4,7 @@ title: Developer Journal, Mayflower Compact
 date: 2022-11-21 06:39:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, library-update, social-media]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/The-Mayflower-Compact-1620-cph.png
 offset: -20%

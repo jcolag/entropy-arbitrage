@@ -4,6 +4,7 @@ title: Developer Journal, Halloween 🎃
 date: 2022-10-31 07:06:05-0400
 categories:
 tags: [programming, project, devjournal, recipe]
+labels: [blog, chasing-phantoms, cprep, financial, recipe]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/1991631014_bea0fb9612_o.png
 proofed: true
