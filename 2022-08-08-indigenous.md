@@ -4,6 +4,7 @@ title: Developer Journal, Indigenous Peoples Day
 date: 2022-08-08 06:59:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [globe, iungimoji, javascript]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Hornbill-Festival.png
 offset: -20%

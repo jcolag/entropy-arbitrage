@@ -4,6 +4,7 @@ title: Developer Journal, Washington's Farewell Address
 date: 2022-09-19 07:05:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [globe, iungimoji, mystic-t-square]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Valley-Forge-prayer.png
 proofed: true
