@@ -4,6 +4,7 @@ title: Developer Journal, World Population Day
 date: 2022-07-11 06:47:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [mystic-t-square, trivia]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/music-black-and-white-people-crowd-concert-audience-874486-pxhere.com.png
 proofed: true

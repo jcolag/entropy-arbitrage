@@ -4,6 +4,7 @@ title: Developer Journal, Independence Day
 date: 2022-07-04 07:32:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [library-update, mystic-t-square]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/American-1902-Fourth-of-July-fireworks.png
 proofed: true
