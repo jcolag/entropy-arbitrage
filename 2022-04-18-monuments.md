@@ -4,6 +4,7 @@ title: Developer Journal, World Heritage Day
 date: 2022-04-18 06:17:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, library-update, small-things]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Great-Wall-of-China.png
 offset: -25%

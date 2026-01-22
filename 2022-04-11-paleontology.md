@@ -4,6 +4,7 @@ title: Developer Journal, First Paleontology Lecture
 date: 2022-04-11 06:50:05-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [dashboard, globe, library-update]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mammut-americanum.png
 proofed: true
