@@ -4,6 +4,7 @@ title: Developer Journal, Valentine's Day 💘
 date: 2022-02-14 06:42:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, css, library-update, miniboost]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/38_of_The_Quiver_of_Love.png
 offset: -26%

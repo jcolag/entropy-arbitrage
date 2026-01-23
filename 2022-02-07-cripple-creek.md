@@ -4,6 +4,7 @@ title: Developer Journal, Cripple Creek Miners' Strike
 date: 2022-02-07 07:19:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, dashboard, ham-newsletter, library-update, miniboost]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Cc_martiallaw.png
 proofed: true
