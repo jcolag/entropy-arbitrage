@@ -4,6 +4,7 @@ title: Developer Journal, Me-Dam-Me-Phi
 date: 2022-01-31 06:59:05-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, dashboard]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Mae-Dam-Mae-Phi.png
 proofed: true
