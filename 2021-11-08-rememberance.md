@@ -4,6 +4,7 @@ title: Developer Journal, Intersex Solidarity Day
 date: 2021-11-08 06:40:03-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [intern]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Intersex_Pride_Flag.png
 proofed: true

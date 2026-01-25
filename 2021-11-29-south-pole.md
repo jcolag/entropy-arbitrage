@@ -4,6 +4,7 @@ title: Developer Journal, Byrd Antarctic Expedition
 date: 2021-11-29 06:42:03-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, elixir, intern]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Bundesarchiv-Bild-102-09158-Expeditionsschiff-Byrds.png
 proofed: true

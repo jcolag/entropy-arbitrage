@@ -4,6 +4,7 @@ title: Developer Journal, Geography Awareness Week
 date: 2021-11-15 06:40:03-0500
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, intern, library-update, small-things]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/world_phy.png
 proofed: true
