@@ -4,6 +4,7 @@ title: Developer Journal, Indigenous Peoples Day
 date: 2021-08-09 06:34:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, doritis-onomaton, fylakas-onomaton, ham-newsletter]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Nama-man-greeting-us-3693359757.png
 offset: -27%

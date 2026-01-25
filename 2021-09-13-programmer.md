@@ -4,6 +4,7 @@ title: Developer Journal, Day of the Programmer
 date: 2021-09-13 07:29:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, miniboost, quotation-extractor]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/25392390163_d6a5321bfb_o.png
 offset: -31%

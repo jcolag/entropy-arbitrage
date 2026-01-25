@@ -4,6 +4,7 @@ title: Developer Journal, Hugo Gernsback's Birthday
 date: 2021-08-16 06:32:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [doritis-onomaton, flutter, fylakas-onomaton]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/blythe-hugo-gernsback.svg
 offset: -54%

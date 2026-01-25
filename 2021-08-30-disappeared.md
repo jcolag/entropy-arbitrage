@@ -4,6 +4,7 @@ title: Developer Journal, Day of the Disappeared
 date: 2021-08-30 07:00:31-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, fylakas-onomaton, library-update, ruby]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Bandera-de-los-Desaparecidos-Dia-de-la-Memoria.png
 offset: -31%
