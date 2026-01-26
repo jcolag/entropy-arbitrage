@@ -4,6 +4,7 @@ title: Developer Journal, Stonewall Uprising
 date: 2021-06-28 07:32:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [cprep, fylakas-onomaton]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/ChristopherPark3358.png
 offset: -31%

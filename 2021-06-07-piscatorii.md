@@ -4,6 +4,7 @@ title: Developer Journal, Ludi Piscatorii
 date: 2021-06-07 07:11:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [emoji, github-profile, language-tool, library-update, miniboost]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/PonteSantAngeloRom.png
 offset: -42%

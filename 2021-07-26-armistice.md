@@ -4,6 +4,7 @@ title: Developer Journal, Korean Armistice Anniversary Eve
 date: 2021-07-26 06:32:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, doritis-onomaton, fylakas-onomaton, nonogram]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Korean-War-armistice-agreement-1953.png
 ---
