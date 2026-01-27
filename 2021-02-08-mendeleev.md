@@ -4,6 +4,7 @@ title: Developer Journal, Mendeleev's Birthday
 date: 2021-02-08 07:24:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [nonogram]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Medeleeff_by_repin.png
 offset: -28%

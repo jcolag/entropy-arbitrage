@@ -4,6 +4,7 @@ title: Developer Journal, Presidents' Day
 date: 2021-02-15 06:45:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [nonogram]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/no-business-transacted.png
 offset: -23%

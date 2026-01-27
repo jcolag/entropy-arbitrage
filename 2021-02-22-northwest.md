@@ -4,6 +4,7 @@ title: Developer Journal, Northwest States Anniversary
 date: 2021-02-22 06:46:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [cprep, nonogram]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/1889ConstitutionalConventionParadeBismarkND.png
 offset: -61%
