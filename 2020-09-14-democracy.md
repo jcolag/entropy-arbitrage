@@ -4,6 +4,7 @@ title: Developer Journal, International Eve of Democracy
 date: 2020-09-14 08:09:23-0400
 categories:
 tags: [programming, project, devjournal, uxuyu]
+labels: [blog, miniboost]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/A_coloured_voting_box.png
 offset: -33%

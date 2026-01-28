@@ -4,6 +4,7 @@ title: Developer Journal, Indigenous Peoples Day
 date: 2020-08-10 07:07:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [blog, small-things]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Guarani_Family.png
 ---

@@ -4,6 +4,7 @@ title: Developer Journal, September Eve
 date: 2020-08-31 06:50:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [uxuyu]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Les_Très_Riches_Heures_du_duc_de_Berry_septembre.png
 ---
