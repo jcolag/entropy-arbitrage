@@ -4,6 +4,7 @@ title: Developer Journal, International Day for Tolerance
 date: 2020-11-16 06:32:23-0400
 categories:
 tags: [programming, project, devjournal]
+labels: [javascript, twitterbot]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/hand-rock-wood-floor-cobblestone-wall-652711-pxhere.com.png
 offset: -40%
