@@ -4,6 +4,7 @@ title: Developer Journal, Stonewall Uprising (Belated)
 date: 2020-06-29 06:46:12-0400
 categories:
 tags: [programming, project, devjournal, uxuyu]
+labels: [blog, newsletter, vscode]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Stonewall_Inn_1969.jpg
 offset: -85%

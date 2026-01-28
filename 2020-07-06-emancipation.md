@@ -4,6 +4,7 @@ title: Developer Journal, Bloody Thursday (Belated)
 date: 2020-07-06 07:04:23-0400
 categories:
 tags: [programming, project, devjournal, uxuyu]
+labels: [blog, ethics, harm, safety, uxuyu]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Confrontation_between_a_policeman_wielding_a_night_stick_and_a_striker_during_the_San_Francisco_General_Strike,_1934_-_NARA_-_541926.jpg
 offset: -30%
