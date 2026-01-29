@@ -1,0 +1,137 @@
+---
+layout: post
+title: Real Life in Star Trek, Next Generation Final Summary
+date: 2026-01-19 17:26:05-0400
+categories:
+tags: [scifi, startrek, closereading]
+labels: [summary]
+summary: <i class="far fa-hand-spock"></i> The outside world in Star Trek
+thumbnail: /blog/assets/eso0733a.png
+---
+
+* Ignore for ToC
+{:toc}
+
+![Still scanning the galaxy](/blog/assets/eso0733a.png "Still scanning the galaxy")
+
+## Disclaimer
+
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+
+## Previously...
+
+The project was outlined [in this post]({% post_url 2020-01-02-trek-00 %}), for those falling into this from somewhere else.  In short, this is an attempt to use the details presented in *Star Trek* to assemble a view of what life looks like in the Federation.
+
+This is neither recap nor review; those have both been done to death over fifty-plus years.  It *is* a catalog of information we learn from each episode, though, so expect everything to be a potential "spoiler," if that's an [irrational fear](https://www.theguardian.com/books/booksblog/2011/aug/17/spoilers-enhance-enjoyment-psychologists) you have.
+
+Rather than list every post in the series here, you can easily find them all on [the *startrek* tag page](/blog/tag/startrek/).
+
+## Star Trek, Final Summary
+
+While I'll continue rewatching the franchise and writing about it, this is *basically* the end of the project.  Rather than merely collect the prior summaries---[first season]({% post_url 2020-08-06-season1 %}), [second season]({% post_url 2021-02-11-season2 %}), [third season]({% post_url 2021-08-12-season3 %}), [The Animated Series]({% post_url 2022-03-03-animated %}), and [the films]({% post_url 2022-05-05-films %})---I'd rather briefly talk about some broader themes from the franchise so far that seem explicit to me, but fans and modern writers seem to prefer to quietly ignore.  I may collect the summaries into a more cohesive text later, and turn it into a book with detailed citations, sort of inverting the format so far.  Not now, though.
+
+## Raffle Reminder
+
+As a reminder, since the end of the project is **here**...
+
+As mentioned when discussing [*The Slaver Weapon*]({% post_url 2021-11-18-slaver %}), I don't really have a use for the two Foster adaptations of animated episodes that I bought.  I don't own them as part of a collection, and they're not great episodes, so the odds that I'll ever revisit them or display them are extremely low.
+
+Because of that, I have decided to take the excuse to experiment with self-promotion and raffle off the two paperback books.  They defy the low expectations that I had based on the seller's own assessment in that they're whole and completely readable, but still definitely think of them as reading copies---covers are bent and cracked, the pages of another curl---and not showpieces.
+
+If you'd like one of the two books, sign up for a monthly membership of any amount on [my Buy Me a Coffee page](https://www.buymeacoffee.com/jcolag).  When I publish my summary post for all the original cast content, 2022 May 12<sup>th</sup>, with two weeks remaining---I'll randomly choose a member for each book (weighted by number of months donating) and work with you to make sure that your book winds up on your doorstep, no matter where that doorstep happens to be in the world, along with a handwritten note, if you want to see my terrible handwriting.
+
+Nobody's going to offend me if they don't contribute at all.  Nobody's going to offend me if they contribute for just one month and then cancel.  This is an experiment, and the only wrong outcome is (honestly) that I keep the books on a shelf and forget about them, when they could have gone to a better home.
+
+{% github jcolag/entropy-arbitrage %}
+
+If you don't have the money to spend, you have my sympathies.  I will also consider people who jump over to the blog's version control repository---link to the right, or just above, if you read this in an RSS feed reader---and do some proofreading.
+
+You'll need a GitHub account.  Then, you should probably walk through their tutorial to learn how the system works, if you haven't used it before.  Then, click the "Fork" button on the repository's page, make the changes, and create a pull request.  Please mention `@jcolag` in the description, so that it notifies me, and feel free to contact me if any of that sounds too confusing, and I'll both try to walk you through it and update this paragraph with what I learn from you in the process.
+
+I'll announce the results of the drawing---if any---in next week's post.
+
+## Conclusions
+
+In many ways, the headline most likely reads something like *Star Trek Looks a Lot Like the 1960s*, unsurprisingly so, since they developed the show at that time for an audience at that time.  As I hinted at the started of the project, the most immediate inspirations for this project included the widespread complaints around the first season of **Discovery** failing to establish a utopian world for Starfleet to defend.  I think that we've found that the show contains no description of the Federation, but that the time period does *not* represent a utopia, far from it, in fact.
+
+### Personal Growth
+
+The most interesting aspect that I can think of about the series revolves around many of the characters not resembling their reputations in popular culture.  In fact, fans view most of the main characters as almost the opposite of how their dialogue and actions portray them.
+
+ * Kirk, far from the swaggering action-hero, repeatedly shows himself as someone *capable* of action, but preferring to carefully weigh his actions and their effects on others, blaming himself for every death under his command.  Likewise, fans remember Kirk as constantly seducing women, while the reality veers closer to him often using seduction as a key part of a plan to save the crew, which then falls apart when the woman sees through him.
+   * At the risk of revealing minor plot points for a current show, contrast Kirk's deep introspection and care with the complete self-absorption on display in **Picard**.  Nothing has any importance to the characters, unless it pertains to the Picard legacy or repairs his dysfunctional families, both biological and found, establishing him as the patriarch.  And the show constantly assures him and us that he bears no responsibility for the consequences of his choices.
+ * Paired with Kirk's image as a ladies' man is Janice Rand, unceremoniously shuffled away to pair the male crew with more women.  Often viewed as merely a young woman with a crush on her boss, her few appearances show her as almost as competent as Kirk, while also often serving to shed a light on the culture's pervasive sexism.
+ * Spock's reputation as a kind statesman for people to emulate similarly falls apart, as he openly harasses everyone (except for Kirk) that he works with, and spends more time assuring people of his masculinity than he seems to spend working.  Even "facts" about his life seem to crumble, as he openly informs an attractive woman that his alleged mandatory reproductive cycle is more of a minimum, and increasingly uses skills that he claimed that his society treated as personal or embarrassing.  However, we also have complexity in Spock's story, as others target him with racist comments and microaggressions, which he occasionally admits cause him grief.
+ * Similarly, McCoy has a reputation as the "humanist" of the crew, who cares deeply about everyone and dismisses the harshness of technology.  However, in action, we see him constantly expose himself as a sexist bigot, who only seems to care about people when he can yell at Spock for not performing sufficient grief or concern for his tastes.  Without a need to shame Spock, he all but obsesses over treating the crew based on maximizing their productivity.  In some rare cases---particularly in adaptations---he admits that he resents aliens for showing that humans don't actually have a special place in the universe.
+ * Likewise, Scott has a strong reputation as a kindly avuncular figure obsessed with machinery.  Instead, we find an outright fascist, who pads his estimates to look substantially more talented than he would if he spoke honestly and avoided putting the crew in danger.  This seems doubly damning when we see Kirk---a decade younger and with less specialization in or experience with the engines---make engineering recommendations that the full-time engineer can't figure out on his own.
+
+By contrast, Sulu and Chekov seem mostly as-advertised, growing into leaders, while Uhura unfortunately manages to come off as a cipher until the end.  However, almost every minor character makes a *terrible* showing, assuming that they have any lines, often motivated entirely by misogyny---in the hallways waiting to harass any woman who walks by---or racism, though several pleasantly defy that generalization.
+
+### Economics
+
+Again, contrary to fan lore, we seem to find massive inequality time and again.  Some people have the wealth to own entire planets and interact with Starfleet as a sovereign government.  Others seem condemned to a life of physical labor.  Some can afford to zip around the galaxy, while entire worlds live on the edge of famine or plague.  The capital classes use patents to keep technologies out of the hands of entire worlds.
+
+Similarly, while some have everything they could ever need, supply chains seem ragged enough to require frequent military intervention to deliver food and medication.  Meanwhile, the Federation also has a robust underground economy, where someone with sufficient wealth has access to everything from illegal drugs to unmonitored transportation to slaves.
+
+The central economy of the Federation, though, mostly revolves around colonizing new worlds and forcing them to produce for the rest of the organization, with the discovery habitable planets often treated as Starfleet's top priority.  People frown upon colonies that merely sustain themselves, and people generally write colonists off, assuming that they won't survive long.
+
+### Social Justice
+
+Racism and sexism have been constants throughout the series.  Early episodes sprinkled them in like separate vignettes to inform viewers what it feels like for someone to catcall them or to imply that they have divided loyalties because of where their ancestors lived.  About the only form of discrimination that we *don't* see is discrimination based on religion.
+
+While we see some attempts at progress in early episodes, prison reforms turned out to involve substantial abuse, leaving the Federation with retributive justice, including hard labor and *possibly* executions.
+
+### Overall
+
+I find it worth noting that we rarely *see* civilian life at all.  Nobody walks in front of the camera to (visually or otherwise) explain how Federation Credits work, how people spend their leisure time, or (with a couple of exceptions) the state of racial integration in Federation institutions.  However, just like when dealing with people, where they focus their attention in novel situations tends to reveal their values, so I feel like we can have some confidence in the conclusions drawn.
+
+As mentioned, nothing about the Federation sounds like a utopia with its problems solved.  Often, they struggle to advance a progressive agenda, with almost all progress coming suddenly in the last decade or two, and the run ends mired in authoritarian conspiracy theories, even as it tries to point to a future where human characters (by editorial edict) won't argue with each other.  Importantly, though---even though the revelation doesn't fit our project---the *Enterprise* crew often exposes how people generally build their utopias on a foundation of inequality and hope that nobody notices.
+
+## Topics Satirized
+
+Maybe the biggest surprises in the series included how many episodes could *easily* have had the past few years in mind.  We've seen worries about the disintegration of a pluralistic society, medical racism, microaggressions, sexism, irrational fascists with lousy hair, support of "polite" fascism with great hair, and---my personal favorite---an epidemic spread by some jerk who refused to wear his PPE correctly.
+
+Going a few steps further, in a novel, Gene Roddenberry himself tells us that any interpretation that we might have about the series would seem wildly optimistic, because the series was probably political propaganda sold as entertainment.  And if true, then we see that propaganda evolve into a right-wing fear of aliens spreading their evil religion to conquer the Federation by deluding the unwashed masses.  And the next few weeks might make us question how seriously they meant that authoritarian shift.
+
+## Going, to Varying Degrees of Boldness
+
+If you'll pardon my indulging myself, I'd like to talk a bit about the "breadcrumbs" that the franchise has dropped, as compared to where the franchise has gone, and how fans have responded.
+
+First, as I may have mentioned before and will certainly mention again in a couple of weeks, a vocal minority of *Star Trek* fans have frequently expressed anger at *any* expansion to the franchise.  I've already talked about how both Paramount and fans barely acknowledged the existence of **The Animated Series** for decades.  The missteps made by **The Next Generation**'s writers---characters that seemed like lazy clones of most of the original crew, dialogue seemingly cribbed from daytime dramas, unfortunate racial choices, checking in on characters who don't have a role in the story in every episode, and so forth---amplified when combined with sexism and racism.  Angry fans tried to replicate that for **Deep Space Nine**, suggesting that the writers could never come up with a story on a fixed space station (ha!), while standing with bigots who couldn't accept seeing a Black man in charge in "their" franchise; you can still hear people talking about Avery Brooks having "crazy eyes" for his enthusiasm.  **Voyager** had its own problems, but sexism worked against it multiple times, too, and it amazes me that the show survived seven seasons.  Fans actively fought **Enterprise** until networks cancelled it, complaining about literally everything, until they almost killed off the franchise.  And I suspect that we all watched as **Discovery** abruptly changed directions *twice*, in hopes of shutting up angry fans who didn't like holograms or modern design or a Black woman protagonist, and assumed that Roddenberry filmed the original series as a documentary that we must respect in the most trivial ways.
+
+And now we have shows in the franchise that mostly bank on nostalgia, making occasional heavy-handed political statements---though often hedged enough to mean anything that the viewer might want to hear---but mostly trying to serve as "comfort food," and I'll get to the problems with that in a minute.
+
+First, though, I want to quickly run through the show ideas that the franchise---particularly the films---seem to tease, and probably would have been a joy to watch...well, at least for me.
+
+ * It'd be inappropriate to skip [**Assignment:  Earth**]({% post_url 2021-02-04-earth %}), the original planned spinoff.  The parts of this (second) season of **Picard**---minus the parts assuring an elderly, respected, wealthy, white man of his importance to the universe, I mean, or letting him cheat his way through decades of therapy coming to terms with his parents---show what such a series could look like.
+ * **Phase II and a Half** probably wouldn't work as a real title, but as I mentioned over the past few weeks, **The Animated Series** and the films introduce a wide array of interesting new officers, then basically discards each of them in rapid succession.  Even if they had to recast the entire group, it feels like undoing the assorted deaths and giving them a ship could have worked.
+ * **My Kingdom for a [Sargh <i class="fas fa-copyright"></i>](http://klingon.wiki/Word/Sargh)** would have a pre-Federation Klingon---or a small group of Klingons---stranded on Earth near London in the Elizabethan Era, where he (or she) becomes the author who we know as Shakespeare.  You could either go entirely with comedy, or you could take a quasi-educational route, where episodes revolve around comparing a play with similar prior plays, as Shakespeare takes his "import" and reshapes it to fit Earth culture.  And, of course, you could play up the [conspiracy theories](https://en.wikipedia.org/wiki/Shakespeare_authorship_question) by joining the [alleged "real" authors](https://en.wikipedia.org/wiki/List_of_Shakespeare_authorship_candidates) of the plays into a secret society looking to discredit the strange playwright, some of whom our protagonist will eventually need to duel.
+ * **Housekeeping** would spin primarily out of **The Voyage Home**, but would tell the story of the crew tasked with crisscrossing their way through the timeline, cleaning up after Starfleet crews who...applied a substandard level of care, shall we say?  At least early stories would follow prior time travel adventures, meeting similar or the same people, but---much like **Lower Decks**, which I'll talk about in a bit---once people understand the concept, you can just jump into an original episode, with no prior source material.
+
+Presumably, later shows provide additional ideas, but I watched the films most recently, so those, I remember.
+
+In any case, while I appreciate that Paramount+ has given the franchise an opportunity to expand, I sit somewhere between "sadly, they didn't write this for an audience including me" and "they could have made this much better."  For example, **Discovery** finally found a niche where people stopped complaining, but I wish that we could have seen more of the "Make Qo'noS Great Again" plot that had so many fans angry, instead of casting it aside to remind us that they made a capital-p *prequel*, then just skipping the plot.  Maybe critically for my argument, they have removed the show from having any effect on the shared universe *and* made the characters almost obsessively optimistic, all seemingly to distance it from its first season.
+
+Then, **Picard** and **Lower Decks** feel almost like the same show, in that they both want to produce the thirty-something-th seasons of **The Next Generation**.  **Picard** started out literally trying to get his family back, literally trying to bring back Data and finding a replacement, but also making time to see what Riker has done with his life.  **Lower Decks** especially feels like a disappointment, because the comedic frame and the "second contact" premise both put it in a terrific position to criticize the franchise's flawed tropes, and ask it to do better.  Instead, the show uncritically laughs along with---for example---"Klingons have similar names" jokes, the anti-Semitic portrayal of Ferengi, the ableist portrayal of the Pakled, the franchise's obsession with action, and so forth.
+
+However, **Picard** then tried to outdo that mess, by showing its "people no longer have material needs" protagonist---we'll get to that episode in November, I guess, and I'll mention this again then---lives on a massive estate staffed by refugee servants, who cater to his every whim.  You could call him a hypocrite for this, sitting atop massive generational wealth and suggesting that the unhoused maybe just prefer outdoor living, because they could just become self-made like he did.  You *could* call him that, but then the second season rushed us into a "would you prefer it if we had literal fascists as characters, instead?" plot.
+
+**Prodigy**, similarly, seems to want to just make more **Voyager** episodes, sometimes, but also sometimes...doesn't seem to know its own plot.  Halfway through the season, I have no idea what anyone wants, or who or what the writers want me to care about.  However, I *do* know that they join the parts of the franchise with no qualms about portraying the Ferengi as anti-Semitic canards...
+
+And as I publish this, the second episode of **Strange New Worlds** plays on my television, but the first episode looks like they *really* just wanted to remake the original series to feel more like **The Next Generation**.  And I don't have high hopes for the show, when I'm *pretty* sure---feel free to correct me in the comments, if I missed something important---that the first episode ended with Pike telling us that World War III happened, because democracies---particularly the United States---didn't give fascist insurrectionists power.  A [lost cause](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy) story makes a certain amount of sense for Pike, I guess, given that his appearances on **Discovery** suggested that he wanted to see people feel threatened by his religious faith, but the episode doesn't seem to want to call him wrong.  Hilariously, the writers point to the time-wars from **Enterprise** to justify rewriting the timeline, as if the Eugenics Wars still needed to sit in *our* futures.
+
+An important aspect of all the shows has been that the Federation has no more growth in store, only expansion.  Unlike the original series showing us progress in real time and people wondering what the future might hold or question their place in the world, the good and the bad, later shows---**Deep Space Nine** excepted---seem to want to assure us that "the good guys won."  When people question the Federation's value, they usually do so insincerely, making claims about the Federation's success as comparable to a Borg invasion, as straw-men for the protagonists to tear down.  The "second generation" shows would have occasional "special episodes" talking about whether artificial beings deserve equal rights, but it doesn't seem to ever extend beyond the protagonists.
+
+And even today, the "third generation" shows, when we see---specifically in **Picard**, though not exclusively---a Federation struggling with bigotry against artificial life and a massive influx of refugees, they find any distraction to keep us from focusing on the plot points that *they* introduced.  We should worry about the objectification of Tallinn (sacrificing her life to move the plot along), but not Laris (an employee from a disadvantaged background, with whom Picard flirts) and the other Romulans.  We should care about Data, *Voyager*'s Doctor, and Soji, but not the artificial laborers that the Federation began dismantling.  We shouldn't care about the Borg, even cheering the protagonists on as they slaughter them, until Jurati retroactively becomes their queen.
+
+I don't know if I had a firm point in all of that.  However, if I did, that point might resemble the idea that fans have a responsibility to police each other.  We have a right to complain about things that we don't like or point out things that could improve.  But we shouldn't tolerate "this isn't **real** *Star Trek*" from ourselves or others.  We shouldn't accept the feeling that all of *Star Trek* must be specifically for us, because we liked other parts of it.  And we should beware, whenever the franchise wants to make us feel comfortable about our history.  History---all history---has ugly parts, and we can either grapple with the ugliness and work to make the future better, or ignore the ugliness and let it fester...
+
+## Next
+
+This post technically finishes the original project as envisioned, so I won't blame readers who don't care what next week brings.  However, for those interested in continuing this exploration of strange, new worlds---the abstract concept, not the series---be back in seven days for...I don't know, maybe the worst pilot episode in the franchise, *Encounter at Farpoint, Part 1*.  On the other hand, I probably haven't watched it since the premiere, so maybe I've spent these decades hating a brilliant television pilot.  Time will tell...
+
+#### <i class="far fa-hand-spock"></i>
+
+* * *
+
+**Credits**: The header image is [The planet, the galaxy and the laser](https://www.eso.org/public/images/eso0733a/) by the [ESO](https://www.eso.org) and [Yuri Beletsky](Yuri Beletsky), released under the terms of a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
