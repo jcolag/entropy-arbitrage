@@ -4,6 +4,7 @@ title: Bicker Progress - (Almost) Inventors' Day
 date: 2020-02-10 06:41:55-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [javascript]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/New_Inventions_of_Modern_Times_-Nova_Reperta-_The_Invention_of_the_Compass_plate_2_MET_DP841121.png
 offset: -8%

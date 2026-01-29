@@ -4,6 +4,7 @@ title: Bicker Progress - Groundhog Day (Belated)
 date: 2020-02-03 06:46:55-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [css, html, javascript]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/animal-wildlife-zoo-america-mammal-squirrel-1362487-pxhere.com.jpg
 offset: -8%

@@ -4,6 +4,7 @@ title: Bicker Progress - End of February
 date: 2020-02-24 07:15:55-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [recipe, javascript, translation]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/cute-pet-kitten-cat-mammal-close-up-997331-pxhere.com.jpg
 offset: -38%

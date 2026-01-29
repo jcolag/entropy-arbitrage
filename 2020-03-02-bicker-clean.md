@@ -4,6 +4,7 @@ title: Bicker Progress - In Like a Lion
 date: 2020-03-02 06:49:20-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [bash, javascript]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/cute-pet-kitten-cat-mammal-close-up-997331-pxhere.com.jpg
 offset: -38%

@@ -4,6 +4,7 @@ title: Bicker Progress - First (Belated) Mensiversary
 date: 2020-02-17 07:15:55-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [javascript]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/wood-antique-paper-ink-printing-art-919542-pxhere.com.jpg
 offset: -50%

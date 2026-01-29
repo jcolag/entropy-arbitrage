@@ -4,6 +4,7 @@ title: Project Updates, Harriet Tubman Day
 date: 2020-03-09 07:03:32-0400
 categories:
 tags: [programming, project, devjournal, css, jekyll]
+labels: [bash, blog, cprep, html, javascript, library-update]
 summary: Progress on the blog and a new (small) project
 thumbnail: /blog/assets/NMAAHC-2017_30_48_001.png
 offset: -17%

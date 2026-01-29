@@ -4,6 +4,7 @@ title: Bicker Progress - MLK Day
 date: 2020-01-20 07:09:24-0500
 categories: programming
 tags: [ruby, rails, programming, project, devjournal, bicker]
+labels: [font, markdown, sql]
 summary: Progress report on Bicker
 thumbnail: /blog/assets/light-construction-repair-welding-darkness-lighting-598394-pxhere.com.jpg
 offset: -28%
