@@ -4,6 +4,7 @@ title: Developer Journal, Jefferson's Birthday
 date: 2020-04-13 07:21:12-0400
 categories:
 tags: [programming, project, devjournal, bicker, uxuyu, font]
+labels: [miniboost, silver-bat]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Thomas_Jeffersons_Monticello.png
 ---
