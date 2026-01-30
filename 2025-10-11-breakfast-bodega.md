@@ -4,6 +4,7 @@ title: Free Culture Book Club — Breakfast at the Bodega
 date: 2025-10-11 06:38:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, film]
 summary: Discussing a short film calling itself a Brooklyn fairy-tale of sorts.
 thumbnail: /blog/assets/breakfast-bodega.png
 offset: -21%

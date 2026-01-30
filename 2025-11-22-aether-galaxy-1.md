@@ -4,6 +4,7 @@ title: Free Culture Book Club — Aether Galaxy, part 1
 date: 2025-11-22 07:33:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, setting, sci-fi, short-story, space-opera]
 summary: Discussing the background of an open space opera setting.
 thumbnail: /blog/assets/aether-galaxy.png
 offset: -21%

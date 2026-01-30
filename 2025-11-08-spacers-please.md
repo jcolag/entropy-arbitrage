@@ -4,6 +4,7 @@ title: Free Culture Book Club — Spacers Please
 date: 2025-11-08 06:50:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [mit, sci-fi, video-game]
 summary: Discussing a game about tracking a dangerous rebellion.
 thumbnail: /blog/assets/spacers-please.png
 offset: -21%

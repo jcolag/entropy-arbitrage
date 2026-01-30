@@ -4,6 +4,7 @@ title: Free Culture Book Club — AI Future Day, Part 2
 date: 2025-10-25 06:29:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [artificial-intelligence, cc-by-sa, novella, prose, sci-fi]
 summary: Discussing an online novella about the future of AI in school.
 thumbnail: /blog/assets/35168590506_48d03d0a39_o.png
 offset: -21%

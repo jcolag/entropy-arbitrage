@@ -4,6 +4,7 @@ title: Free Culture Book Club — Steamboat Sailor Brawl
 date: 2025-11-01 07:13:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, comic]
 summary: Discussing an online comic bringing together two famous cartoon characters.
 thumbnail: /blog/assets/ssb-title.png
 offset: -21%

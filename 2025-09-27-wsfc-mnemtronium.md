@@ -4,6 +4,7 @@ title: Free Culture Book Club — Wikiversity SF Challenge 1
 date: 2025-09-27 07:34:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, gdfl, prose, sci-fi, short-story, wikimedia]
 summary: Discussing a short science fiction story from a surprising place
 thumbnail: /blog/assets/Imoggination.ogg.360p-1.png
 offset: -21%

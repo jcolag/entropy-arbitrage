@@ -4,6 +4,7 @@ title: Free Culture Book Club — Cult of the Nu Girl
 date: 2025-09-20 06:58:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, music]
 summary: Discussing an acoustic apocalypse album
 thumbnail: /blog/assets/cult-nu-girl.png
 offset: -21%

@@ -209,7 +209,7 @@ Wait, did Riker's invasive questions, at Troi's prompting, affect the "story"?  
 
 I guess that we'll cram in the entire crew doing shtick, if this drags on long enough.
 
-Honestly, I often find myself wondering how this franchise makes its casting decisions.  Do they love these few characters so much that they keep looking for reasons to stuff their performers into new shows, or do the performers show up to the studio every day making sad puppy dog eyes at people until they land another job?  I can't imagine that any writers structed the story around Troi and Riker, *and* wrote in a voice-only part for Data, because anything in the *plot* demanded it.
+Honestly, I often find myself wondering how this franchise makes its casting decisions.  Do they love these few characters so much that they keep looking for reasons to stuff their performers into new shows, or do the performers show up to the studio every day making sad puppy dog eyes at people until they land another job?  I can't imagine that any writers structured the story around Troi and Riker, *and* wrote in a voice-only part for Data, because anything in the *plot* demanded it.
 
  > **RIKER**: What do you know about the Treaty of Algeron?
  >
