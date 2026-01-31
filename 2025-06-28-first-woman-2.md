@@ -4,6 +4,7 @@ title: Free Culture Book Club — First Woman, Expanding Our Universe
 date: 2025-06-28 07:30:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [comic, public-domain, sci-fi]
 summary: Discussing a STEM-oriented comic
 thumbnail: /blog/assets/first-woman-2.png
 description: This week sees a comic that (literally) illustrates NASA's view of the near future.

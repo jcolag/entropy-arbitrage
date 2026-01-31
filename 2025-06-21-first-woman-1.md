@@ -4,6 +4,7 @@ title: Free Culture Book Club — First Woman — Dream to Reality
 date: 2025-06-21 07:09:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [comic, public-domain, sci-fi]
 summary: Discussing a STEM-oriented comic
 thumbnail: /blog/assets/first-woman-1.png
 description: This week sees a comic that (literally) illustrates NASA's view of the near future.

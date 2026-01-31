@@ -4,6 +4,7 @@ title: Free Culture Book Club — Meteorite
 date: 2025-05-31 08:16:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, mit, sci-fi, video-game]
 summary: Discussing a short video game
 thumbnail: /blog/assets/meteorite-introduction.png
 description: This week sees a small first-person shooter.

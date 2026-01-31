@@ -4,6 +4,7 @@ title: Free Culture Book Club — The Pink and Black Album
 date: 2025-06-07 07:30:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, music, punk]
 summary: Discussing some music
 thumbnail: /blog/assets/a0627020452_10.png
 description: This week sees a queer punk album.

@@ -4,6 +4,7 @@ title: Free Culture Book Club — Soul Space
 date: 2025-07-05 07:09:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, sci-fi, setting]
 summary: Discussing a science fiction role-playing setting
 thumbnail: /blog/assets/Transfiguration-by-Feofan-Grek.png
 description: This week sees a Christian mysticism science-fiction role-playing game setting.

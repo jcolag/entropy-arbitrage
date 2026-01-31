@@ -4,6 +4,7 @@ title: Free Culture Book Club — Trois écoles, part 1
 date: 2025-07-12 07:41:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, novel, sci-fi]
 summary: Discussing an incomplete French novel
 thumbnail: /blog/assets/trois-ecoles-cover.png
 description: This week sees the start of a French science fiction novel.
