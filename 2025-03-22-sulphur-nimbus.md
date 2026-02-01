@@ -4,6 +4,7 @@ title: Free Culture Book Club — Sulphur Nimbus
 date: 2025-03-22 07:09:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [fantasy, mpl, video-game]
 summary: Discussing a video game
 thumbnail: /blog/assets/sulfur-nimbus.png
 offset: -38%

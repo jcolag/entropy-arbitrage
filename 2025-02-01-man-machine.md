@@ -4,6 +4,7 @@ title: Free Culture Book Club — The Man Behind the Machine
 date: 2025-02-01 07:50:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, film, sci-fi]
 summary: Discussing a short science fiction film
 thumbnail: /blog/assets/man-behind-machine.png
 offset: -14%

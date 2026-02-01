@@ -4,6 +4,7 @@ title: Free Culture Book Club — acoustic (yin)
 date: 2025-03-08 07:56:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, music, spoken-word]
 summary: Discussing a compilation album
 thumbnail: /blog/assets/acoustic-yin.png
 offset: -38%

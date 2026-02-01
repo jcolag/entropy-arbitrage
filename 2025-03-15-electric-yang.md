@@ -4,6 +4,7 @@ title: Free Culture Book Club — electric (yang)
 date: 2025-03-15 06:50:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, music, spoken-word]
 summary: Discussing a compilation album
 thumbnail: /blog/assets/electric-yang.png
 offset: -38%

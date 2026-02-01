@@ -4,6 +4,7 @@ title: Free Culture Book Club — Secrets in the Static
 date: 2025-04-19 07:09:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, rpg]
 summary: Discussing a role-playing game set in a forgotten town
 thumbnail: /blog/assets/Sony_tv_set_0001.png
 offset: -38%
