@@ -4,6 +4,7 @@ title: Free Culture Book Club — floodlight up. liquid god
 date: 2024-12-14 07:48:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by, folk, music, punk]
 summary: Discussing a folk punk album
 thumbnail: /blog/assets/floodlight-up-liquid-god.png
 offset: -38%

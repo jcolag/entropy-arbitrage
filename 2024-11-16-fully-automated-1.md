@@ -4,6 +4,7 @@ title: Free Culture Book Club — Fully Automated! part 1
 date: 2024-11-16 07:12:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, role-playing, rpg, solarpunk]
 summary: Discussing a solarpunk-themed role-playing game
 thumbnail: /blog/assets/fully-automated-cover.png
 offset: -38%

@@ -4,6 +4,7 @@ title: Free Culture Book Club — Morrisa Jeanine
 date: 2024-08-24 07:25:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, music]
 summary: Discussing some (probably) R&B
 thumbnail: /blog/assets/nature-outdoor-people-girl-woman-bench-1335874-pxhere.com.png
 offset: -18%

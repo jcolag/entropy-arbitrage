@@ -4,6 +4,7 @@ title: Free Culture Book Club — Ancient Fire
 date: 2024-11-30 07:35:12-0500
 categories:
 tags: [free-culture, book-club]
+labels: [poetry, public-domain]
 summary: Discussing a poetry collection
 thumbnail: /blog/assets/ancient-fire-cover.png
 offset: -38%

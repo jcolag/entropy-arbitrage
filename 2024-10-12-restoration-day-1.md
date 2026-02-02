@@ -4,6 +4,7 @@ title: Free Culture Book Club — Restoration Day, part 1
 date: 2024-10-12 07:45:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, fantasy, prose, novel]
 summary: Discussing the start of a longer novel
 thumbnail: /blog/assets/restoration-day.png
 offset: -38%

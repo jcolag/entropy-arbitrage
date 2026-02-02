@@ -4,6 +4,7 @@ title: Free Culture Book Club — Viaje a la Tierra del Quebracho
 date: 2024-08-10 07:30:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [animation, cc-by, film]
 summary: Discussing a short animated work of historical fiction
 thumbnail: /blog/assets/quebracho.png
 teaser: This week sees a short animation about the exploitation of the rainforest and its inhabitants.

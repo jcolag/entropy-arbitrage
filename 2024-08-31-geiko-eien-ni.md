@@ -4,6 +4,7 @@ title: Free Culture Book Club — Geiko Eien Ni
 date: 2024-08-31 07:19:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [cc-by-sa, cyberpunk, prose, short-story]
 summary: Discussing a story inspired by a single image
 thumbnail: /blog/assets/2916308593_fa428042e9_o.png
 offset: -7%

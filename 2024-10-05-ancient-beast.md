@@ -4,6 +4,7 @@ title: Free Culture Book Club — Ancient Beast
 date: 2024-10-05 06:53:12-0400
 categories:
 tags: [free-culture, book-club]
+labels: [agpl, cc-by-sa, fantasy, strategy, video-game]
 summary: Discussing a turn-based strategy game
 thumbnail: /blog/assets/ancient-beast.png
 offset: -18%
