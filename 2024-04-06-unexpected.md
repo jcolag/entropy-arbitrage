@@ -4,6 +4,7 @@ title: Free Culture Book Club — In Unexpected Places
 date: 2024-04-06 07:38:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [animation, cc-by-sa, film]
 summary: Discussing an animated short
 thumbnail: /blog/assets/in-unexpected-places.png
 teaser: This week sees a quick, abstract, and peppy animation.

@@ -4,6 +4,7 @@ title: Free Culture Book Club — Raiders of the Unix Seas
 date: 2024-07-13 07:50:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, programming, video-game]
 summary: Discussing a command-line game
 thumbnail: /blog/assets/black-pearl.png
 offset: -20%

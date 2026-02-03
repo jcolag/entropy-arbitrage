@@ -4,6 +4,7 @@ title: Free Culture Book Club — Catburglar
 date: 2024-05-18 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [mit, heist, video-game]
 summary: Discussing a stealth platformer game
 thumbnail: /blog/assets/catburglar.png
 offset: -14%

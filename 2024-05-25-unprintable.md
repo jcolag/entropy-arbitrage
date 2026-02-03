@@ -4,6 +4,7 @@ title: Free Culture Book Club — Unprintable
 date: 2024-05-25 07:22:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [art, poetry, public-domain]
 summary: Discussing a variety of items
 thumbnail: /blog/assets/Skyline.png
 teaser: This week sees an online storefront of free digital art of various types.

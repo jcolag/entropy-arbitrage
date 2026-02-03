@@ -4,6 +4,7 @@ title: Free Culture Book Club — Cistemfailure
 date: 2024-05-11 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, folk, music, punk]
 summary: Discussing a punk folk album
 thumbnail: /blog/assets/a2784444150_10.png
 teaser: This week sees an album of politically charged music.

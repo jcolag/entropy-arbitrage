@@ -4,6 +4,7 @@ title: Free Culture Book Club — The Lost Universe
 date: 2024-05-04 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [public-domain, fantasy, role-playing, rpg, sci-fi, setting]
 summary: Discussing a role-playing adventure
 thumbnail: /blog/assets/lost-universe-cover.png
 teaser: This week sees an RPG adventure involving a bit of science and a bit of magic.

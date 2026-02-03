@@ -4,6 +4,7 @@ title: Free Culture Book Club — There Is No Antimemetics Division
 date: 2024-06-01 07:14:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, film, scp]
 summary: Discussing an adaptation of an SCP story
 thumbnail: /blog/assets/anti-memetics-ep2-00-45.png
 teaser: This week sees a live-action iteration of probably the most famous SCP story.
