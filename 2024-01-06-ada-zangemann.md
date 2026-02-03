@@ -4,6 +4,7 @@ title: Free Culture Book Club — Ada & Zangemann
 date: 2024-01-06 07:30:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, short-story, prose]
 summary: Discussing a children's book
 thumbnail: /blog/assets/ada-a00.png
 teaser: This week sees a recent children's book about Free Culture.

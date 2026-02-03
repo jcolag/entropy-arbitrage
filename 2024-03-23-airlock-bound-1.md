@@ -4,6 +4,7 @@ title: Free Culture Book Club — Airlock Bound, part 1
 date: 2024-03-23 08:15:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [comic, fantasy, novella, prose, public-domain]
 summary: Discussing a fantasy universe
 thumbnail: /blog/assets/airlock-bound.png
 teaser: This week sees the first half (so far) of a serialized fantasy story about freedom and slavery with a graphical adaptation.

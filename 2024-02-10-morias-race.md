@@ -4,6 +4,7 @@ title: Free Culture Book Club — Moria's Race
 date: 2024-02-10 07:09:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [animation, cc-by-sa, film]
 summary: Discussing an animated film
 thumbnail: /blog/assets/morias-race-screenshot.png
 teaser: This week sees a recent animated film about a girl who wants to race.

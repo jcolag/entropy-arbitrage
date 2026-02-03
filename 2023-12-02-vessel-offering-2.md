@@ -4,6 +4,7 @@ title: Free Culture Book Club — A Vessel for Offering, part 2
 date: 2023-12-02 07:27:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, novel, prose, sci-fi]
 summary: Discussing the start of a lengthy novel
 thumbnail: /blog/assets/vessel-offering.png
 teaser: This week sees the start of a long novel that we may not finish.

@@ -4,6 +4,7 @@ title: Free Culture Book Club — Pointy Chances
 date: 2024-02-03 07:09:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, prose, romance, short-story]
 summary: Discussing a short story
 thumbnail: /blog/assets/pointy-pen.png
 offset: -25%

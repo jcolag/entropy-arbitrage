@@ -4,6 +4,7 @@ title: Free Culture Book Club — WNV Universe — Other
 date: 2024-03-09 07:09:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, fantasy, novel, prose]
 summary: Discussing a fantasy universe
 thumbnail: /blog/assets/true-loves-kiss-cover.png
 teaser: This week sees a collection of short stories continuing the fantasy world introduced in Woethief.

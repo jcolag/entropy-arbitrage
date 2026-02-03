@@ -4,6 +4,7 @@ title: Free Culture Book Club — Space Rover, part 1
 date: 2024-01-13 08:01:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [audio-drama, cc-by-sa, gdfl, sci-fi]
 summary: Discussing a science fiction podcast
 thumbnail: /blog/assets/SpaceRover-2016ConceptArt-Colourized.png
 teaser: This week sees the first half of a science fiction podcast.

@@ -4,6 +4,7 @@ title: Free Culture Book Club — WNV Universe — Woethief 2
 date: 2024-02-24 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, fantasy, novel, prose]
 summary: Discussing a fantasy universe
 thumbnail: /blog/assets/Woethief-Cover.png
 teaser: This week sees the middle of a novel introducing a fantasy world.
