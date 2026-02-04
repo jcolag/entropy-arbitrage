@@ -4,6 +4,7 @@ title: Free Culture Book Club — Full Bloom
 date: 2023-09-30 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, fantasy, prose, short-story]
 summary: Discussing a short story
 thumbnail: /blog/assets/nature-grass-plant-white-field-lawn-586790-pxhere.com.png
 teaser: This week brings us a short story with a unique fantasy backdrop.

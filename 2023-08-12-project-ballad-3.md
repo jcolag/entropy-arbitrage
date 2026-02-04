@@ -4,6 +4,7 @@ title: Free Culture Book Club — Project Ballad, part 3
 date: 2023-08-12 07:59:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, comic, incomplete-archive, prose, short-story]
 summary: Discussing an earlier web comic
 thumbnail: /blog/assets/project-ballad-cover.png
 teaser: This week brings us an anti-climactic end to the introduction, plus some loosely related prose stories.
