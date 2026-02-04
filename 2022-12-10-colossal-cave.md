@@ -4,6 +4,7 @@ title: Free Culture Book Club — Colossal Cave Adventure
 date: 2022-12-10 06:54:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [interactive-fiction, public-domain]
 summary: Discussing the first major piece of Interactive Fiction
 thumbnail: /blog/assets/8313139575_cebf70ac5d_o.png
 offset: -20%

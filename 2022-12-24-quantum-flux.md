@@ -4,6 +4,7 @@ title: Free Culture Book Club — Quantum Flux
 date: 2022-12-24 07:03:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [adventure, cc-by-sa, rpg, sci-fi, setting, space-opera]
 summary: Discussing a role-playing game adventure
 thumbnail: /blog/assets/QuantumFlux-Digital-P2.png
 offset: -20%

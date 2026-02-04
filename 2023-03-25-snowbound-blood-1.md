@@ -4,6 +4,7 @@ title: Free Culture Book Club — Snowbound Blood part 1
 date: 2023-03-25 07:37:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, mit, video-game, visual-novel]
 summary: Discussing a visual novel
 thumbnail: /blog/assets/snowbound-blood-hamiki.png
 teaser: This week, we start an interesting visual novel that has some structural issues, but also interesting characters in a solid presentation.
