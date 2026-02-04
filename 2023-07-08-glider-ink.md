@@ -4,6 +4,7 @@ title: Free Culture Book Club — Someone Like You
 date: 2023-07-08 06:57:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, prose, short-story, solarpunk]
 summary: Discussing a short story in a larger universe
 thumbnail: /blog/assets/hackerspace_mike_liuzzi.png
 teaser: This week brings us a short story trying to introduce a new-ish solarpunk franchise about a hackerspace.

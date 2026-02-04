@@ -4,6 +4,7 @@ title: Free Culture Book Club — Jectoons Random Vignettes
 date: 2023-05-13 07:15:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, comic]
 summary: Discussing a web comic
 thumbnail: /blog/assets/jectoons-season-1-cover.png
 teaser: This week brings us a fun single-panel, twice-weekly comic.

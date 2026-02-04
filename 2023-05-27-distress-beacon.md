@@ -4,6 +4,7 @@ title: Free Culture Book Club — Distress Beacon
 date: 2023-05-27 07:28:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, horror, rpg, setting, sci-fi, setting, space-opera]
 summary: Discussing a role-playing game supplement
 thumbnail: /blog/assets/distress-beacon.png
 teaser: This week brings us a (bare bones) space opera setting with some horror elements.

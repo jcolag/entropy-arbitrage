@@ -4,6 +4,7 @@ title: Free Culture Book Club — Snowbound Blood part 4
 date: 2023-04-15 06:55:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, mit, video-game, visual-novel]
 summary: Discussing a visual novel
 thumbnail: /blog/assets/sbb-s21-normal.png
 update: [

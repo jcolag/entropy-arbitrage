@@ -4,6 +4,7 @@ title: Free Culture Book Club — Let's Move Forward
 date: 2023-06-24 07:35:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, comic, gpl, solarpunk]
 summary: Discussing a web comic
 thumbnail: /blog/assets/lets-move-forward-ch000-p000.png
 offset: -21%

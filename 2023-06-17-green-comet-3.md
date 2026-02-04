@@ -4,6 +4,7 @@ title: Free Culture Book Club — Green Comet, part 3
 date: 2023-06-17 07:01:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, novel, prose, sci-fi]
 summary: Discussing (part of) a long novel
 thumbnail: /blog/assets/green-comet.png
 teaser: The novel briefly comes to life and tries to introduce a mystery, as we set it aside for a while.

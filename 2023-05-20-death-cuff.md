@@ -4,6 +4,7 @@ title: Free Culture Book Club — Death off the Cuff
 date: 2023-05-20 08:17:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [detective, interactive-fiction, public-domain, video-game]
 summary: Discussing an interactive fiction mystery
 thumbnail: /blog/assets/0T7Xq2n9mQexs502W3ow--2--hh4hb.png
 teaser: This week brings us an interactive murder mystery comedy, built around the stock "detective exposes the murderer" scene.
