@@ -4,6 +4,7 @@ title: Free Culture Book Club — Collectivity
 date: 2022-04-16 06:40:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [adaptation, cc-by-sa, prose, satire, sci-fi, short-story]
 summary: Discussing Collectivity
 thumbnail: /blog/assets/collectivity-bonaventure.png
 offset: -27%
