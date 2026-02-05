@@ -4,6 +4,7 @@ title: Free Culture Book Club — American Dream, part 4
 date: 2022-10-29 06:38:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [farsi, mit, prose, novel]
 summary: Discussing American Dream
 thumbnail: /blog/assets/american-dream-cover.png
 update: [

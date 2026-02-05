@@ -4,6 +4,7 @@ title: Free Culture Book Club — Bulletproof Blues, part 1
 date: 2022-09-24 07:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, role-playing, rpg, setting, superhero]
 summary: Discussing the Bulletproof Blues role-playing game
 thumbnail: /blog/assets/bulletproof-blues-3e.png
 offset: -16%
