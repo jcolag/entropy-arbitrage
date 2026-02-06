@@ -4,6 +4,7 @@ title: Free Culture Book Club — Dünnes Eis, part 1
 date: 2022-03-12 06:33:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, novella, prose]
 summary: Discussing Dünnes Eis
 thumbnail: /blog/assets/duennes-eis-cover.png
 offset: -20%

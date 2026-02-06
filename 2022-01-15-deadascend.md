@@ -4,6 +4,7 @@ title: Free Culture Book Club — Dead Ascend
 date: 2022-01-15 07:09:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [mit, point-and-click, video-game]
 summary: Discussing the Dead Ascend game
 thumbnail: /blog/assets/dead-ascend-screenshot.png
 offset: -26%

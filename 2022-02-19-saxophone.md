@@ -4,6 +4,7 @@ title: Free Culture Book Club — Your Face Is a Saxophone
 date: 2022-02-19 07:09:12-0500
 categories:
 tags: [freeculture, bookclub]
+labels: [animation, cc-by, film, series]
 summary: Discussing Your Face Is a Saxophone
 thumbnail: /blog/assets/your-face-is-a-saxophone-title.png
 offset: -13%
