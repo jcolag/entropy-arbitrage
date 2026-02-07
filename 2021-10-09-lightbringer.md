@@ -4,6 +4,7 @@ title: Free Culture Book Club — Lightbringer, Part 1
 date: 2021-10-09 07:10:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [comic, public-domain, superhero]
 summary: Discussing the first half of Lightbringer
 thumbnail: /blog/assets/Carter-Grandholme.png
 offset: -26%

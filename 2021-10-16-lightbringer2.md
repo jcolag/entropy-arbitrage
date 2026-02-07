@@ -4,6 +4,7 @@ title: Free Culture Book Club — Lightbringer, Part 2
 date: 2021-10-16 06:57:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [comic, public-domain, superhero]
 summary: Discussing the remaining half of Lightbringer
 thumbnail: /blog/assets/lightbringer-20081112.png
 offset: -78%
