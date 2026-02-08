@@ -4,6 +4,7 @@ title: Free Culture Book Club — The Fellowship of Heroes
 date: 2021-04-10 07:06:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by, comic, superhero]
 summary: Discussing the Fellowship of Heroes
 thumbnail: /blog/assets/FellowshipOfHeroesPanel.png
 offset: -18%

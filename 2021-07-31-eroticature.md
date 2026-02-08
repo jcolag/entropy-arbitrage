@@ -4,6 +4,7 @@ title: Free Culture Book Club — Eroticature
 date: 2021-07-31 07:06:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [adult, cc-by, open-setting-license, prose, short-story]
 summary: Discussing stories from Eroticature
 thumbnail: /blog/assets/tango-performing-arts-entertainment-dance-event-performance-1509727-pxhere.com.png
 ---
