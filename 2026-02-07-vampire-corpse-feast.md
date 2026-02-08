@@ -10,6 +10,7 @@ thumbnail: /blog/assets/vampire-corpse-feast.png
 offset: -28%
 description: This week sees a horror-comedy adventure game.
 spell:  buttle Lilychad Zamfir Ahria Klever
+proofed: true
 ---
 
 * Ignore for ToC
