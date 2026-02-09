@@ -4,6 +4,7 @@ title: Free Culture Book Club — The Wanderers' Library
 date: 2021-02-13 06:09:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [adaptation, cc-by-sa, prose, short-story]
 summary: Discussing a selection from The Wanderers' Library
 thumbnail: /blog/assets/wl_logo.png
 offset: -31%

@@ -4,6 +4,7 @@ title: Free Culture Book Club — Biodigital, ch 53–end
 date: 2021-01-23 06:06:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, cyberpunk, prose, novel, sci-fi, thriller]
 summary: Continuing the discussion of Biodigital
 thumbnail: /blog/assets/biodigital-cover.png
 offset: -31%
