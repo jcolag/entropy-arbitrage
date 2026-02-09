@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-To celebrate Black History Month, this year, I want to gesture at the arguable ur-text of the event, Carter G. Woodson's [**The Negro in Our History**](https://en.wikipedia.org/wiki/The_Negro_in_Our_History) from 1922, apparently developed earlier, but delayed in public due to wartime paper shortages.  As Ibram X. Kendi recounted three years ago, [it quickly met resistance {% cc %}](https://www.theatlantic.com/books/archive/2023/02/miseducation-of-negro-book-black-history-ap-african-american-studies/673045/) a couple of years later, when people opposed the book for---you couldn't make this up if someone put you on the spot---its "antiklan" stance, claiming that they would also oppose "proklan" book, demanding a book ban.
+To celebrate Black History Month, this year, I want to gesture at the arguable ur-text of the event, Carter G. Woodson's [**The Negro in Our History**](https://en.wikipedia.org/wiki/The_Negro_in_Our_History) from 1922, apparently developed earlier, but delayed in public due to wartime paper shortages.  As Ibram X. Kendi recounted three years ago, [it quickly met resistance {% cc %}](https://www.theatlantic.com/books/archive/2023/02/miseducation-of-negro-book-black-history-ap-african-american-studies/673045/) a couple of years later, when people opposed the book for---you couldn't make this up if someone put you on the spot---its "antiklan" stance, claiming that they would also oppose "proklan" books, demanding a book ban.
 
 ![A one-room school instructing dozens of Black people in nineteenth-century attire](/blog/assets/teaching-freedmen.png "You don't often get a Standing Room Only classroom experience, these days.")
 
