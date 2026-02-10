@@ -4,6 +4,7 @@ title: Free Culture Book Club — Biodigital, ch 1–13
 date: 2020-12-26 07:06:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, cyberpunk, prose, novel, sci-fi, thriller]
 summary: Discussing Biodigital
 thumbnail: /blog/assets/biodigital-cover.png
 offset: -31%
