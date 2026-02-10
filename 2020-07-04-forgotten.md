@@ -4,6 +4,7 @@ title: Free Culture Book Club - Forgotten
 date: 2020-07-04 07:11:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc0, fantasy, interactive-fiction, mit, sci-fi]
 summary: Discussing Forgotten
 thumbnail: /blog/assets/forgottenblade.png
 offset: -28%
