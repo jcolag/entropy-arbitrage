@@ -4,6 +4,7 @@ title: Free Culture Book Club
 date: 2020-05-02 07:49:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [announcement]
 summary: The launch of an irregular series
 thumbnail: /blog/assets/6556307995_971219df67_c.png
 ---

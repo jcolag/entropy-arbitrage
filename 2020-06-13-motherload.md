@@ -4,6 +4,7 @@ title: Free Culture Book Club — Stardrifter - Motherload
 date: 2020-06-13 07:47:12-0400
 categories:
 tags: [freeculture, bookclub]
+labels: [cc-by-sa, novel, prose]
 summary: Discussing Motherload, introducing the Stardrifter series
 thumbnail: /blog/assets/pb-motherload-01.png
 offset: -50%
