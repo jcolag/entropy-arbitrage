@@ -28,7 +28,7 @@ To give this series some sense of organization, check out some basic facts witho
  * License:  CC BY-SA
  * Creator:  Tomasi Leonardo
  * Medium:  Plays
- * Length:  Approximately 
+ * Length:  Approximately fourteen thousand (Italian) words
  * Content Advisories:  Cartoon violence, reference to the work of several disgraced people
 
 This should go without saying---even though I plan to repeat it with every Book Club installment---but *Content Advisories* do not suggest any sort of judgment on my part, only topics that come up in the work that I noticed and might benefit from a particular mood or head space for certain audiences.  I provide it to help you make a decision, rather than a decision in and of itself.
