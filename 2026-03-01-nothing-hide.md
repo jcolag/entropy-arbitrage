@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nothing to Hide
-date: 2026-03-01 07:41:05-0500
+date: 2026-03-01 07:48:05-0500
 categories:
 tags: [politics, privacy, rant]
 labels: [discord]
