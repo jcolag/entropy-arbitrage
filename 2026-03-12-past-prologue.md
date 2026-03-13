@@ -31,7 +31,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## Past Prologue
 
-Since last time, nothing happened, because **The Next Generation** continues.
+Since last time, nothing happened, because **The Next Generation** continues its winter hiatus.
 
 Actually, something did happen, technically, because I somehow got the episode order wrong.  If you pay careful attention to the *Stay Tuned* sections, then you might recall that I announced that this episode would cover *A Man Alone*.  I assume that I ran into some sort of off-by-one error, overlooking this hour.
 
@@ -65,7 +65,7 @@ A monitoring device, such as...his badge?
 
  > **TAHNA**: My name is Tahna Los. Request political asylum. Kira?
 
-Unrelated to the line except for the timing, going into the credits reminds me of something that I forgot to mention a couple of weeks ago:  This show finally tries to unify its "trade dress" with the then-current films, using a typeface (or two) that actually match fairly well to create a cohesive "brand," instead of **The Next Generation**'s insistence on using an entirely different typeface, a commercial font (Crillee) first release in 1980, despite modifying **The Motion Picture**'s main theme as its own.
+Unrelated to the line except for the timing, going into the credits reminds me of something that I forgot to mention a couple of weeks ago:  This show finally tries to unify its "trade dress" with the then-current films, using a typeface (or two) that actually matches fairly well to create a cohesive "brand," instead of **The Next Generation**'s insistence on using an entirely different typeface, a commercial font (Crillee) first released in 1980, despite modifying **The Motion Picture**'s main theme as its own.
 
 Oh, actually somebody probably also wants to know that [Jeffrey Nordling](https://en.wikipedia.org/wiki/Jeffrey_Nordling) (no, not Combs) plays Tahna, though he still has most of his recognizable roles ahead of him at this point.
 

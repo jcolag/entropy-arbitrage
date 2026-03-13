@@ -4,7 +4,7 @@ title: Free Culture Book Club — Vampire Corpse Feast
 date: 2026-02-07 07:09:12-0500
 categories:
 tags: [free-culture, book-club]
-labels: [comic, cc-0]
+labels: [cc-0, video-game]
 summary: Discussing a game about a quirky vampire family
 thumbnail: /blog/assets/vampire-corpse-feast.png
 offset: -28%
