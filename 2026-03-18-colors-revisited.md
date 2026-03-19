@@ -33,7 +33,7 @@ That said, we (in developing software) don't always have access to a professiona
 
 [^3R3s1G]:  You want good results *except* for the times when you want deliberately bad results.  When I hack together a prototype to demonstrate an idea, I learned quickly to make it as ugly as possible, with scribbled lines, clashing colors that violate the brand guidelines, and barely readable fonts.  When I haven't done that, people tried to put it into production...
 
-Having some background in the space also helps you communicate with the sorts of designers that you'll want to work with.  You'll need to deal with people who work entirely on vibes and have no firm concept of how colors go together, too, but you'll also get plenty who can have a real conversation about how to add a new color or whatever.
+Having some background in the space also helps you communicate with the sorts of designers who you'll want to work with.  You'll need to deal with people who work entirely on vibes and have no firm concept of how colors go together, too, but you'll also get plenty who can have a real conversation about how to add a new color or whatever.
 
 ## Color Spaces
 
@@ -182,7 +182,7 @@ Then, a couple of weeks ago, I converted the colors to okLCH.  The next steps?
 
 It does make sense to use relative colors to only define a single hue.  Aside from making the color scheme clearer, it would also allow me to occasionally have a blog post that "rotates" the color scheme to a new set of hues.  I wouldn't expect to do that often if at all, but I like the premise.
 
-For example, if the site defines all colors based on the yellow, something like `calc(var(--yellow)+150)`, and if a post includes a `style` element distinct from the main site style which says `--base: 142`, then the light-mode background color becomes a green *equivalent to* the yellow in boldness and lightness, plus an associated purple-red and blue, and the contrasts should mostly hold up.  At least in theory, you could imagine using this sort of thing to "theme" a post for a holiday[^BJCQ7m], or to separate a certain kind of post visually from the rest of the blog.
+For example, if the site defines all colors based on the yellow "base," something like `calc(var(--base)+150)`, and if a post includes a `style` element distinct from the main site style which says `--base: 142`, then the light-mode background color becomes a green *equivalent to* the yellow in boldness and lightness, plus an associated purple-red and blue, and the contrasts should mostly hold up.  At least in theory, you could imagine using this sort of thing to "theme" a post for a holiday[^BJCQ7m], or to separate a certain kind of post visually from the rest of the blog.
 
 [^BJCQ7m]:  If you want an even wilder possibility that I would definitely never use on the blog, if you set up all the colors like this, then you could also run JavaScript like `document.documentElement.style.setProperty('--base', '294');`, which changes the *entire* color scheme at once.  For the right project, you could call `setInterval()` and have the color scheme slowly "rotate" through every hue variation.
 
