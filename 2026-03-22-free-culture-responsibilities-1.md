@@ -7,7 +7,7 @@ tags: [education, free-culture]
 labels: []
 summary: Part five (six?) of a fairly deep dive into Free Culture as a concept.
 thumbnail: /blog/assets/117878252_3c00463c07_o.png
-description: Finally explaining Free Culture from the ground up, this time how it works mechanically
+description: Finally explaining Free Culture from the ground up, this time what we might owe projects
 update: [
   2025-09-21-define-free-culture-1.md,
   2025-10-05-free-culture-philosophy.md,
