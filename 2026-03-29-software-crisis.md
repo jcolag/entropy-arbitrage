@@ -36,7 +36,7 @@ Back when I went to school, we didn't explicitly talk about it often, but every 
 - Low-quality and inefficient software
 - Unmaintainable code
 
-I know, it seems mind-boggling to imagine a software industry plagued by cost-overruns, low quality, and a complete lack of maintainability, doesn't it?  Imagine the turvy-topsy world where teams struggle to push software out the door on time, and most of what gets out there has severe problems, rather than today when nothing ever goes wrong.  Seriously, they position this as an artifact of some Dark Ages.
+I know, it seems mind-boggling to imagine a software industry plagued by cost-overruns, low quality, and a complete lack of maintainability, doesn't it?  Imagine the turvy-topsy world where teams struggle to push software out the door on time, and most of what gets out there has severe problems, rather than today when nothing ever goes wrong.  Seriously, they position this as an artifact of some Dark Age mess.
 
 > With the increase in the complexity of the software, many software problems arose because existing methods were inadequate.
 
@@ -62,7 +62,7 @@ By the way, I lied (or oversimplified) above, when talking interactions through 
 
 You remember exponential growth rates from prior posts, right?  The "hockey-stick charts" all describe exponential growth.  To refresh memories, let's look at a chart comparing exponential growth to the aforementioned quadratic growth.
 
-{% chart OLpLBw||{
+{% chart OLpLBw|A comparison of exponential and quadratic growth, both growing slowly and then faster, but the exponential curve growing so rapidly that the quadratic curve looks like a flat line near zero||{
   type: 'line',
   data: {
     datasets: [
@@ -188,7 +188,7 @@ Despite the value of the metaphor, teams don't treat it like debt.  If you borro
 
 I'll actually add a fourth problem, something that *absolutely* has benefits, but also compounds the complexity problems:  Code generation.  When you use a web application framework, you generally provide some specification---a set of data models, for example---and run some utilities that build out all the code that provides the basis for your application.  Under ideal circumstances, you leave most of this code alone and only add what makes your application interesting.
 
-However, your application now has piles of code, and more importantly piles of potential interaction points, that you didn't create and may never bother to validate.  It *should* reduce the difficulty to not need to do not need anybody to write and test that code, because (one hopes) the application framework developers put more effort into most cases than individual developers could, but it still leaves you with many more interaction points that might go wrong.
+However, your application now has piles of code, and more importantly piles of potential interaction points, that you didn't create and may never bother to validate.  It *should* reduce the difficulty to do not need anybody to write and test that code, because (one hopes) the application framework developers put more effort into most cases than individual developers could, but it still leaves you with many more interaction points that might go wrong.
 
 Again, I find code-generation mostly helpful, especially if you can do it through a reliable, audited process, and it keeps that code behind some interface that restricts interaction.  We haven't gotten there yet, for reasons that elude me, but even failing that, *not* writing and debugging boilerplate code improves things better than everybody writing and debugging (in effect) the same code.
 
@@ -210,7 +210,7 @@ They see the Software Crisis, but like the Wikipedia page suggests, they can onl
 
 Don't get me wrong, here.  Companies absolutely *do* spend time on features that no user wants.  Every media website monitors your usage while filling up the screens with advertisements, pop-ups insisting that they need to flood your e-mail inbox or send you notifications or whatever.  Everything now has an AI chatbot to politely ask if you want to do the only thing that you can do on the page/screen while covering the buttons that you need to do it.  Following Apple's example, every commercial operating system vendor wants to decide whether you should have permission to use any particular piece of software.  Everything wants your attention, needs an account, wants to send you text messages, wonders why you don't want to *hang out* with it, because it thought your were buddies.
 
-The Free Software people use the term "anti-features," because nobody pays for a product or service and wishes that wasted more of their time and worked less reliably.  They do all serve purposes, though, only not on your behalf.  You can agitate for stopping companies from doing that, but calling it "bloat" won't work, because the companies see it as useful revenue.
+The Free Software people use the term "anti-features," because nobody pays for a product or service and wishes that it wasted more of their time and worked less reliably.  They do all serve purposes, though, only not on your behalf.  You can agitate for stopping companies from doing that, but calling it "bloat" won't work, because the companies see it as useful revenue.
 
 ## What to Do
 
@@ -272,7 +272,7 @@ It also seems worth mentioning, here, that this can include cutting features, ha
 
 In college, I had a professor who talked about software reliability, and used to sketch out a failure-rate curve like the following.
 
-{% chart e57Mvh||{
+{% chart e57Mvh|A chart predicting failure rates as a cumulative distribution function, small chances compounding over time to rise from zero and asymptotically approach one||{
   type: 'line',
   data: {
     datasets: [
@@ -321,7 +321,9 @@ In college, I had a professor who talked about software reliability, and used to
 
 The specific numbers on the graph don't necessarily mean anything; he did sketch it on a chalkboard, after all.  However, the shape describes the idea that potential faults add up quickly to having a near-complete chance of some failure or other, eventually.
 
-Other professors mocked this, insisting that this described hardware, not software.  Hardware wears out over time, but software (they insisted) has a dangerous period where you might find some bugs, but if it survives that period, it'll probably never go wrong.  They said this in the years before everybody needed to scramble to fix [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem) bugs in decades-old software, so we know that they had their acts together when it comes to predicting software that'll probably work forever. {% emoji eyeroll %}
+Other professors mocked this, insisting that this described hardware, not software.  Hardware wears out over time, but software (they insisted) has a dangerous period where you might find some bugs, but if it survives that period, it'll probably never go wrong.  They said this in the years before everybody needed to scramble to fix [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem) bugs in decades-old software, so we know that they had their acts together when it comes to predicting software that'll probably work forever[^ZvQbRJ]. {% emoji eyeroll %}
+
+[^ZvQbRJ]:  Weirdly, most of them got many other things right, so I don't know why they refused to listen to the literal reliability researcher here.
 
 In fact, in the years since, we have seen this sort of graph proven out, I think.  For any significant project created through current processes, it will have plenty of bugs, only some of which will get caught by the Quality Assurance process...a process that (by the way) companies keep trying to squeeze out as a waste of money.  And so the longer that people use the software, the more likely it becomes that somebody will trip over one of those bugs too subtle for testing to find.
 
@@ -347,17 +349,17 @@ Full disclosure, I keep promising myself that I'll finally learn one of these sy
 
 I mentioned this before in general, but as part of a solution, treat technical debt *like* debt.  Take out debt when it enables the team to work better.  Understand the effective "interest rate."  Factor managing the debt into schedules, and try to pay it off before it consumes the schedule.
 
-Many teams have (or claim that someday they'll have) periodic "refactoring sprints," where the team refuses to add new features or fix bugs for the duration.  That, however, sounds pathological, like a person spending one month every year only paying credit card bills instead of paying rent or buying food.  It can help solve the problem, but usually comes at a new cost.
+Many teams have (or claim that someday they'll have) periodic "refactoring sprints," where the team refuses to add new features or fix bugs for the duration to pay down that technical debt.  That, however, sounds pathological, like a person spending one month every year only paying credit card bills instead of paying rent or buying food.  It can help solve the problem, but usually comes at a new cost.
 
 However, the idea of servicing the debt remains important.
 
 ### Better Tools
 
-Returning again to my school-days, the literature used to talk about the **expressivity** of programming languages, the idea that every of a ratio between the amount of code written and the amount of work that the code does.
+Returning again to my school-days, the literature used to talk about the **expressivity** of programming languages, the idea that every language (and library, and so forth) has a ratio between the amount of code written and the amount of useful work that the code does.
 
 For the traditional example, let's say that you want to initialize a list with the even numbers in some range.  In a language with low expressivity, you need to manually type each number into the program; the longer the list, the more time you need to spend.  In a more-expressive language, you can define the relationship between the distance into the list (the index) and the value that you want, so that you can say that each item in the list should hold something like `2 * i + 14` to give you some even numbers.  We have programming languages that fall all around that range.
 
-At this point, the conversation would shift towards the speculative.  What *could* we have in a language that would make it more expressive?  As a typical example of a suggested feature, if you have a loop---itself a tool of expression, preventing us from repeating code to repeat tasks---that lists a set of items, and you want all pairs, then you need a nested loop, one loop that covers every item, and another that, for each item, covers every item again.  If you want triples, then you need a third nested loop, and so forth.  The programmer needs to keep cloning that loop inside prior clones, making for an unreadable mess that takes time.  However (the examples would go), what if the language already knew that pattern could exist, and so had a "keep nesting this loop" command?  Then, you might have code that can generate any length sets of all items with compact code by saying "nest the loop based on this variable to that maximum depth," cleanly readable and far more expressive.
+At this point, the conversation would shift towards the speculative.  What *could* we have in a language that would make it more expressive?  As a typical example of a suggested feature, if you have a loop---itself a tool of expression, preventing us from repeating code to repeat tasks---that lists a set of items, and you want all pairs, then you need a nested loop, one loop that covers every item, and another that, for each item, covers every item again.  If you want triples, then you need a third nested loop, and so forth.  The programmer needs to keep cloning that loop inside prior clones, making for an unreadable mess that takes time to write and test.  However (the examples would go), what if the language already knew that pattern could exist, and so had a "keep nesting this loop" command?  Then, you might have code that can generate any length sets of all items with compact code by saying "nest the loop based on this variable to that maximum depth," cleanly readable and far more expressive.
 
 Somehow, the conversation stalled at this point.  We got some *minor* advances.  For example, Ruby has the single-line conditional statements.
 
