@@ -83,7 +83,7 @@ We'll start with a question that I used in 2008 for a network-programming midter
 
 > Construct a protocol to conduct votes in a "secret ballot" style.  A user may submit a question, a list of answers, a list of authorized voters, and an expiration time.  Those authorized users may then vote from among the provided options.  When all authorized voters have responded, each of their clients should receive a message declaring the winner.
 
-I explained the experiment in the query to prevent the thing from warning me about teaching and giving it the context of what the class would have covered before the exam.
+I explained the experiment in the query to prevent the thing from warning me about cheating, and giving it the context of what the class would have covered before the exam.
 
 ### Sample Answer
 
