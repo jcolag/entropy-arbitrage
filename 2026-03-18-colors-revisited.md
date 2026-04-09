@@ -8,6 +8,9 @@ labels: [css, format, math]
 summary: Digging back into (CSS) colors
 thumbnail: /blog/assets/3624468931_872fccafc3_o.png
 description: Looking back at an early post with an eye on modern web technologies.
+update: [
+  2020-03-11-colors.md
+]
 spell: oklch ncnExi nm UgrQlR bI hsl okLCH calc rgb Palsson
 proofed: true
 ---
