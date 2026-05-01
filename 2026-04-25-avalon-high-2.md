@@ -6,6 +6,9 @@ categories:
 tags: [free-culture, book-club]
 labels: [cc-by-sa, comic]
 summary: Discussing another chunk of an early web comic
+update: [
+  2026-04-18-avalon-high-1.md
+]
 thumbnail: /blog/assets/avalon-high-title.png
 description: This week sees a comic about a high school.
 spell:  Ceilidh MacFarlene Staedtler Geddy ABygB
