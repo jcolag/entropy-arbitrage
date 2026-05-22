@@ -42,7 +42,7 @@ In fact, that seems...important, maybe?  The Cardassians trashed the station whe
 
  > **O'BRIEN**: You might want to warn Kira before she sees her file.
 
-Look, I love the idea that billions of Bajorans all believe that they played such a pivotal role in the resistance that their every mention in official files would include paragraphs of raging profanity.  However, given the breakdown of O'Brien's lines so far, I can't see this as anything other than a follow-up to his "have you ever *served* with any Bajoran woman...?" question in [*Emissary*]({% post_url 2026-02-26-emissary-1 %}).
+Look, I love the idea that billions of Bajorans all believe that they each played such a pivotal role in the resistance that their every mention in official files would include paragraphs of raging profanity.  However, given the breakdown of O'Brien's lines so far, I can't see this as anything other than a follow-up to his "have you ever *served* with any Bajoran woman...?" question in [*Emissary*]({% post_url 2026-02-26-emissary-1 %}).
 
  > **SISKO**: Kai Opaka. Why would she be here?
 
@@ -80,7 +80,7 @@ He says this with the clarity that sounds like they'll quiz us on the factoid la
 
  > **KIRA**: Point-three-five light years, bearing two-two-nine mark four-one.
 
-I almost said that it almost sounds criminal not to investigate at that distance and direction---twenty-two degrees (probably) clockwise and forty-one degrees up comes pretty close to right in front of them---but I should do the math, since Sisko kindly gave us a benchmark to work with.  If the fastest ship would take sixty-seven years to travel seventy thousand light-years, then that comes to a bit over a thousand years (just shy of 1,045) light-years per year, or a bit less than three light-years per day.
+I almost said that it almost sounds criminal not to investigate at that distance and direction---twenty-two degrees (probably) clockwise and forty-one degrees up comes pretty close to right in front of them---but I should do the math, since Sisko kindly gave us a benchmark to work with.  If the fastest ship would take sixty-seven years to travel seventy thousand light-years, then that comes to a bit over a thousand years (slightly less than 1,045) light-years per year, or a bit less than three light-years per day.
 
 First and unexpectedly, this seems absurdly low.  As I have mentioned before, in [**First Contact**]({% post_url 2025-12-18-first-contact-1 %}), Picard tells/will tell Sloane that the Federation includes a hundred fifty planets across eight thousand light years.  If Picard meant that as a diameter, then it takes about eight years to traverse the Federation, shipping, travel, and so forth, which seems to not match anything that we've seen.
 
@@ -88,7 +88,7 @@ More relevant to this line, though, thirty-five hundredths of a light year would
 
  > **KIRA**: Shields are down. Forward thrusters are gone. We're losing power.
 
-Maybe they should stop taking these things through the wormhole.  I mean, sure, it'd probably feel embarrassing to pay for trips on other ships going through, but [*Vortex*]({% post_url 2026-05-14-vortex %}) last week similarly indicated that they didn't build these things to deal with any unexpected hassle.
+Maybe they should stop taking these things through the wormhole.  I mean, sure, it'd probably feel embarrassing to pay for trips on other ships going through, but [*Vortex*]({% post_url 2026-05-14-vortex %}) last week similarly indicated that they didn't build them to deal with any unexpected hassle.
 
  > **ODO**: But they're nearly three hours overdue.
  >
