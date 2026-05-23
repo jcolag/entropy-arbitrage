@@ -48,7 +48,7 @@ In English, that translates to this.
 
 I saw the author announce the first seven chapters in rapid succession in March, but it doesn't look like it has moved since then.  For now, then, we'll need to look at it as an introductory short story, and hope that the author hasn't forgotten the rest of the story.
 
-Oh, and as usual, for the sake of expediency, I chose to read this via machine translation, so I can't guarantee that some nuance or depth got lost.
+Oh, and as usual, for the sake of expediency, I chose to read this via machine translation, so I can't guarantee that some nuance or depth won't get lost.
 
 ## What Works Well?
 
