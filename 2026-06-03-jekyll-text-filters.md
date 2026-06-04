@@ -76,7 +76,7 @@ In other words, I found it impossible to debug the problem, because the system d
 
 Finally, the real discovery.
 
-In moving things around in frustration, I discovered that Jekyll and/or Liquid wants one and only one of each named filter module.  Best guess, which I could probably confirm if I cared more deeply about the mechanics, it probably picks the first in alphabetical order and silently discards the others.
+In moving things around in frustration, I discovered that Jekyll and/or Liquid wants one and only one of each named filter module.  Best guess, which I could probably confirm if I cared more deeply about the mechanics, it probably picks the first file in alphabetical order and silently discards the others.
 
 And after all that, I managed to get both filters running by putting both methods into the same file.
 
