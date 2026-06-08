@@ -4,7 +4,7 @@ title: Free Culture Book Club — The Minos Paradox
 date: 2026-06-06 07:16:12-0400
 categories:
 tags: [free-culture, book-club]
-labels: [cc-by-sa, music, punk]
+labels: [animation, cc-by-sa, film, mythology, sci-fi]
 summary: Discussing a short science fiction film
 thumbnail: /blog/assets/minos-paradox.png
 offset: -8%
