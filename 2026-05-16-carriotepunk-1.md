@@ -41,6 +41,7 @@ This should go without saying---even though I plan to repeat it with every Book 
 The book's page has the following description.
 
 > Double récit sur le thème de l’errance, Carriotepunk est une nouvelle qui se promène sur des territoires post-capitalistes fictifs, où éoliennes à tambours et panneaux solaires alimentent les communautés qui ont fait de l’entraide une règle fondamentale. Un moment de lecture sous forme de voyage paisible, en suivant d’un côté le parcours d’un enfant recueilli sur la route, et en parallèle celui d’une jeune femme nomade qui a choisi d’aller se rendre utile de l’autre côté de la montagne, avec un chariot solaire pour bagage.
+{: lang="fr" }
 
 In English, that translates to this.
 

@@ -59,8 +59,10 @@ I'll add some quick notes after the story.
 ## Japan, 1917
 
 「フィールドマーシャルタクヤさん、はじめまして、ありがとうございます！」
+{: lang="ja" }
 
 「それは非常に面白いです。 私の私のろくでなしの友人のどれがこのスタントの代価を払ったのですか？」
+{: lang="ja" }
 
 Right, it probably *would* be better to just auto-translate to English, rather than deal with Niklas and Hirota trying to speak Japanese.
 

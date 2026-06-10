@@ -38,6 +38,7 @@ This should go without saying---even though I plan to repeat it with every Book 
 The author describes the project as follows.
 
 > Стихи распространяются на условиях лицензии Creative Commons Attribution-Share-Alike, конкретная версия данной лицензии указана в нижней части страниц произведений. Если коротко, то лицензия позволяет любое использование работ (в том числе, коммерческое) при условии, что вы указываете автора использованного произведения и распространяете производную работу на тех же условиях (подробнее можно прочитать здесь). Буду рад, если моё творчество послужит кому-либо.
+{: lang="ru" }
 
 Admittedly, I can only read a handful of words in Russian myself, so in English, that reads as follows.
 
@@ -66,6 +67,7 @@ Nothing comes to mind that I wouldn't have raised last time.
 The page says this.
 
 > Если вам понравились мои стихи и вы желаете отблагодарить меня материально, то можете сделать пожертвование
+{: lang="ru" }
 
 In English, that says this.
 

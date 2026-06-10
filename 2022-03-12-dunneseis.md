@@ -33,7 +33,14 @@ This should go without saying---even though I'm going to repeat it with every Bo
 
 ## Dünnes Eis
 
-Here's the book's blurb, translated into English.
+Here's the book's blurb.
+
+ > V. ist ein Mann, der alles hat und alles richtig machen will. Er trägt Verantwortung und ist sich dessen bewusst. Die tragende Rolle, die er bei der Ausgestaltung unserer neuen, vernetzten Gesellschaft spielt, stellt ihn auf die Probe.
+ >
+ > Eine Novelle über die Bundesrepublik Deutschland am Anfang des 21. Jahrhunderts. 
+{: lang="de" }
+
+Or if you'd rather have that translated into English.
 
  > V. is a man who has everything and wants to do everything right. He bears responsibility and is aware of it. The key role it plays in shaping our new, networked society puts it to the test.
  >
