@@ -107,6 +107,8 @@ By the way, for the first few years, I considered changing my rules briefly in l
 
 Since the post went out six years ago, the Blender team has put out another five short films, with **Singularity** dropping about a month and a half ago.  If you follow them on social media, such as the [Blender Studio Mastodon account](https://mastodon.social/@BlenderStudio), they release previews through most of a film's development process.  Probably importantly, especially starting with the justifiably famous **Sintel**, except for the occasional project made (like **Elephants Dream**) primarily to demonstrate the technology, storytelling has taken the spotlight in many of these films, even though they all serve primarily as bait to bring in monthly subscribers who get more convenient access to the models that go into each film.
 
+**Update, 2026 June 25**:  Not even a week after this post went out, the Blender Foundation posted to their blog to point out that [**Elephants Dream** dropped twenty years ago](https://studio.blender.org/blog/20-years-of-open-movies-what-is-next/) this year, and that they plan to celebrate it by moving towards feature-length films.
+
 ## Coming Attractions
 
 Next time, we'll wrap up **Neon Northern Lights**, from *Weirdness* to the end of the main book, plus the *Echoes of Freedom* adventure.
