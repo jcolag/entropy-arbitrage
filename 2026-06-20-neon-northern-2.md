@@ -9,7 +9,8 @@ summary: Discussing an RPG setting
 thumbnail: /blog/assets/neon-northern-lights.png
 offset: -8%
 update: [
-  2020-06-20-dream.md
+  2020-06-20-dream.md,
+  2026-06-13-neon-northern-1.md
 ]
 description: This week sees a cyberpunk setting for an apparently obscure RPG system.
 spell:  Barakiel Aeterna Floraverse Jathia Sintel
