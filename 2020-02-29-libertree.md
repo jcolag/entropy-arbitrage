@@ -15,7 +15,7 @@ There's more detail in [this post]({% post_url 2020-01-04-social-intro %}), but 
 
 Feel free to contribute your own findings as I go, either on the same networks or pointers to and descriptions of any networks I may have missed.
 
-![Maple Leaves](/blog/assets/autumn-atmosphere-1.jpg)
+![Maple Leaves](/blog/assets/autumn-atmosphere-1.jpg "An uninspiring choice, I suppose")
 
 Note that I've added a specific [socialshowdown tag](/blog/tag/socialmedia/) to easily collect these posts, if you want to easily find the others in the series.
 
