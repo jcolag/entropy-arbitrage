@@ -222,7 +222,7 @@ The episode goes to some weird places, but we squeeze a bit of information out.
 
 ### The Good
 
-Sisko puts honest effort into threading the needle between doing the morally right thing and recklessly violating protocol, allowing the action while reprimanding it for the .
+Sisko puts honest effort into threading the needle between doing the morally right thing and recklessly violating protocol, allowing the action while reprimanding it for the problems caused.
 
 ### The Bad
 
