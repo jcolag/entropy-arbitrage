@@ -175,6 +175,34 @@ Hell, Creative Commons still insists on using a "we all know it when we see it" 
 
 When I talk about the movement(s) under attack, the philosophical divisions mostly don't exist anymore---because everybody with sway over the movement has apparently decided to cede ground to the people who described *themselves* as not interested in principles---so we now have this never-ending stream of scammers looking for loopholes in licenses.  They want to buy the underlying copyrights to projects that have gotten some traction, so that they can make demands of people creating derivative works by exploiting those loopholes.  Or they want to coast through in general, such as the big nuisance, these days.
 
+### (New) Ancient History
+
+**Update, 2026 July 17**:  When I sent out this post, I half-expected push-back that I dredged up mostly ancient history.  After all, I all but went dumpster-diving for what the OSI said almost twenty-five years ago.  Surely, none of this history lesson could have any bearing on the current state of affairs, right?
+
+> The kernel project has been and will continue to be about the technology.
+>
+> Sure, the social angle of working on open source is important and often a very motivating part of the project, but in the end that's a side benefit, not the _point_ of the project.
+>
+> This is *NOT* some kind of "social warrior" project, never has been, and never will be.
+>
+> In the kernel community we do open source because it results in better technology, not because of religious reasons.
+
+Welcome to **two-and-a-half days** after this post originally went out, when Linus Torvalds aggressively [defended the Linux kernel from maintainers not wanting to fix up AI contributions](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/).
+
+He sees an operating systems kernel that nobody owns and anybody can improve as only technology, describing "the social angle" that makes it all work---turning it into something more than yet another minor historical curiosity, like its most direct inspiration [Minix](https://en.wikipedia.org/wiki/Minix)---as a *side benefit*.  Also, kiddo, nobody has non-ironically used the term "Social Justice Warrior" in something like a decade.  And who gets it *wrong*?
+
+Actually, I know who gets it wrong, the person who claims that we can't dispute AI's usefulness on the basis that it increases *maintainer workloads*.  In other words, he doesn't care that this loads up his fairly literal legacy with technical debt that'll take decades to sort out.  In that sense, it makes perfect sense that he can't even get his "you people actually care about making the world better" insult right.
+
+And I want to make it clear that this outburst shouldn't surprise anybody.  Anybody who hasn't automatically discounted what women and non-white folks involved in Linux development have said already knew for *decades* that Torvalds created the "tech bro" stereotype shortly after creating Linux.  I don't point this out to indicate some deep disappointment---though I admittedly don't know if I can trust an operating system kernel that prioritizes code quantity over code quality---but rather to point out that the *stop worrying about ethics* faction of Free Culture still influences people to make incredibly short-sighted decisions in public.
+
+> Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it.
+>
+> Or just walk away.
+
+If you don't like the self-destructive policy, you can always run your own version of the project (without his funding) or give up on Linux entirely, according to him.  I suppose that we should credit him for personal growth, since he used to wish harm on people who disagreed with him.
+
+Anyway, speaking of bad AI policy...
+
 ## Artificial Inconvenience
 
 As hinted above, in many ways, the industry behind Large Language Models combines both the other two types of attacks that I've talked about.
