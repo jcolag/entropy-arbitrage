@@ -207,10 +207,10 @@ But for now, this definitely fits my requirements.  The first one is just a litt
 
 The last big step is setting this up so that I can get at it through my existing web server.  Unfortunately, this is non-trivial.
 
- * Express.js is running its own web server, so I can't just dump the files onto my existing server, which is served by [Apache](https://httpd.apache.org/).
- * I don't see any evidence of a Node.js web framework that Apache will just run, like it will a Ruby or PHP application.
- * In theory, I *could* run the web server on a separate port and just point everybody to `:5000` or whatnot, but Apache server is configured to automatically rewrite all HTTP requests to HTTPS and this application doesn't do HTTPS.
- * The right way to handle this, then, is to use Apache as a **proxy**, asking it to act like a conduit between the browser and the "real" web server.  However, I followed four separate sets of instructions on how to do this and couldn't get it to work.
+ * Express.js is running its own web server, so I can't just dump the files onto my existing server, which is served by [ASF `httpd`](https://httpd.apache.org/).
+ * I don't see any evidence of a Node.js web framework that `httpd` will just run, like it will a Ruby or PHP application.
+ * In theory, I *could* run the web server on a separate port and just point everybody to `:5000` or whatnot, but `httpd` server is configured to automatically rewrite all HTTP requests to HTTPS and this application doesn't do HTTPS.
+ * The right way to handle this, then, is to use `httpd` as a **proxy**, asking it to act like a conduit between the browser and the "real" web server.  However, I followed four separate sets of instructions on how to do this and couldn't get it to work.
  * I should be able to "cheat" and have Express.js use a self-signed certificate.  That works for my own computer, but not for my server, since the rules are presumably different.
  * Finally, I can use [Let's Encrypt](https://letsencrypt.org/) for a certificate, but...well, once again, that's non-trivial.
 

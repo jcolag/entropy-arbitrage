@@ -130,7 +130,7 @@ There were the obligatory people telling me that application frameworks were all
 
 There were people pitching their favorite Rails-like framework, with no indication as to how it's an improvement over Rails other than their preference of underlying language.
 
-However, other than one mention of [Apache Beam](https://beam.apache.org/)---which is for specific needs that I don't think I have---it seemed like the idea of "the modern counterpart to what Ruby on Rails was to the state-of-the-art in 2006" wasn't even *comprehensible* to that community.
+However, other than one mention of [ASF Beam](https://beam.apache.org/)---which is for specific needs that I don't think I have---it seemed like the idea of "the modern counterpart to what Ruby on Rails was to the state-of-the-art in 2006" wasn't even *comprehensible* to that community.
 
 What I find most peculiar about this is that software development is an industry where we generally don't go more than a few days without somebody pitching a new programming language, protocol, design philosophy, user interface design system, or other Way to Do Things.  Everybody wants to do more with the time that we have.  Developing web apps, though, doesn't seem to have changed much in fifteen years.
 
