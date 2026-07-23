@@ -12,7 +12,7 @@ thumbnail: /blog/assets/6556307995_971219df67_c.png
 * Ignore for ToC
 {:toc}
 
-One of the reasons that I wanted start *Entropy Arbitrage* was my concern that there are too few Free Culture "properties" out there, and of those that exist, there is too little discussion or criticism of them.
+One of the reasons that I wanted start *Entropy Arbitrage* was my concern that there are too few Free Culture "properties" out there, and of those that exist, there is too little discussion of them.
 
 ## Not Enough Free Culture
 
@@ -24,7 +24,7 @@ However, I wanted something different in the world, too, hence *The League of th
 
 ## Not Enough Discussion of Free Culture
 
-This series will be the start of the other half of that goal, digging into various Free Culture narrative works I can find, providing some basic information about them, and talking about my impressions.  There's a lot of material out there, and the *best* case (in my eyes) would be to find the worlds that are in the most need of some tender loving care.  The spirit of Free Culture, after all, is probably better served highlighting content that is poorly made, since that's an easier place to build collaboration than boring material with high production values.
+This series will be the start of the other half of that goal, digging into various Free Culture narrative works I can find, providing some basic information about them, and talking about my impressions.  There's a lot of material out there, and the *best* case (in my eyes) would be to find the worlds that are in the most need of some tender loving care.  The spirit of Free Culture, after all, is probably better served highlighting content that is poorly made, since that's an easier place to build collaboration than material with high production values.
 
 Of course, I don't always have the patience required to sit and read an entire novel in enough time to make this a weekly series of posts, so these posts may not show up on a weekly schedule and the posts that make it out might only cover longer works (like novels) incrementally.
 
