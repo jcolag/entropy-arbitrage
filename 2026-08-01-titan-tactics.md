@@ -5,13 +5,13 @@ date: 2026-08-01 08:00:12-0400
 categories:
 tags: [free-culture, book-club]
 labels: [cc-by-sa, rpg, video-game]
-summary: Discussing a pre-Internet French comic
+summary: Discussing a fantasy computer role-playing game
 thumbnail: /blog/assets/titan-tactics.png
 offset: -8%
 update: [
   2020-07-11-manuel.md
 ]
-description: This week sees an older comic scanned from paper as animals get organized.
+description: This week sees a game that tries to preserve a twist.
 spell:  Tyrmyr Skathi Dualshock umbramagus Aseprite
 proofed: true
 ---
