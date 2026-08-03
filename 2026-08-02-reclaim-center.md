@@ -4,7 +4,7 @@ title: Reclaim the Center
 date: 2026-08-02 07:28:12-0400
 categories:
 tags: [politics]
-labels: []
+labels: [rant]
 summary: A missing political idea that has nagged
 thumbnail: /blog/assets/5734973533_6aa31cd008_o.png
 offset: -41%
