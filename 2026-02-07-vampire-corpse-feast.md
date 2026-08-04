@@ -55,7 +55,7 @@ We have that, plus controls, and you know what I know...
 
 ## What Works Well?
 
-The game feels consistent, to me.  If you have nostalgia for the [fantasy console](https://en.wikipedia.org/wiki/Fantasy_video_game_console)'s inspiration, then you'll probably feel at home.  Nothing looked like a placeholder.
+The game feels consistent, to me.  If you have nostalgia for the {% wiki Fantasy_video_game_console|fantasy console|en %}'s inspiration, then you'll probably feel at home.  Nothing looked like a placeholder.
 
 And while this might come down to taste, I *think* that the tone works well, openly absurd, but "toy ominous" moments.  The frogs, in particular, feel completely nonsensical but also almost work...
 

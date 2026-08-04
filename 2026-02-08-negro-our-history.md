@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-To celebrate Black History Month, this year, I want to gesture at the arguable ur-text of the event, Carter G. Woodson's [**The Negro in Our History**](https://en.wikipedia.org/wiki/The_Negro_in_Our_History) from 1922, apparently developed earlier, but delayed in public due to wartime paper shortages.  As Ibram X. Kendi recounted three years ago, [it quickly met resistance {% cc %}](https://www.theatlantic.com/books/archive/2023/02/miseducation-of-negro-book-black-history-ap-african-american-studies/673045/) a couple of years later, when people opposed the book for---you couldn't make this up if someone put you on the spot---its "antiklan" stance, claiming that they would also oppose "proklan" books, demanding a book ban.
+To celebrate Black History Month, this year, I want to gesture at the arguable ur-text of the event, Carter G. Woodson's {% wiki The_Negro_in_Our_History|**The Negro in Our History**|en %} from 1922, apparently developed earlier, but delayed in public due to wartime paper shortages.  As Ibram X. Kendi recounted three years ago, [it quickly met resistance {% cc %}](https://www.theatlantic.com/books/archive/2023/02/miseducation-of-negro-book-black-history-ap-african-american-studies/673045/) a couple of years later, when people opposed the book for---you couldn't make this up if someone put you on the spot---its "antiklan" stance, claiming that they would also oppose "proklan" books, demanding a book ban.
 
 ![A one-room school instructing dozens of Black people in nineteenth-century attire](/blog/assets/teaching-freedmen.png "You don't often get a Standing Room Only classroom experience, these days.")
 
@@ -24,9 +24,9 @@ We should probably thank those *anti*-antiklan folks, in a way, because even tho
 
 ## Digression
 
-As an aside, it seems worth taking the opportunity, here, to remind everybody that the KKK at this point in history looked a heck of a lot like proto-Trekkies, but with sexist and racist comments instead of making pew-pew noises and arguing over the best captain.  The [Ku Klux Klan Act](https://en.wikipedia.org/wiki/Ku_Klux_Klan_Act) in 1871 did a fairly good job[^_IpB_U] of wiping out the original organization.  The incarnation from the early twentieth century originated largely as a fan club for [**The Birth of a Nation**](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation), which featured a lightly fictionalized Klan.
+As an aside, it seems worth taking the opportunity, here, to remind everybody that the KKK at this point in history looked a heck of a lot like proto-Trekkies, but with sexist and racist comments instead of making pew-pew noises and arguing over the best captain.  The {% wiki Ku_Klux_Klan_Act|Ku Klux Klan Act|en %} in 1871 did a fairly good job[^_IpB_U] of wiping out the original organization.  The incarnation from the early twentieth century originated largely as a fan club for {% wiki The_Birth_of_a_Nation|**The Birth of a Nation**|en %}, which featured a lightly fictionalized Klan.
 
-And then, a couple of decades later, this version of the racists suffered a massive blow from...*Superman*.  Activist Stetson Kennedy infiltrated various white supremacist terrorist groups in the mid-1940s and, concerned that they would have connections in law enforcement and other government organizations, turned to the production team for [**The Adventures of Superman**](https://en.wikipedia.org/wiki/The_Adventures_of_Superman_%28radio_series%29) to develop a month-long arc exposing the silliness of the organization, driving down membership.  It wouldn't really pull back together until white people decided that the Civil Rights Movement had "gone too far" by suggesting that maybe we shouldn't underpay Black people for their work or lynch them for getting too close to a white woman.
+And then, a couple of decades later, this version of the racists suffered a massive blow from...*Superman*.  Activist Stetson Kennedy infiltrated various white supremacist terrorist groups in the mid-1940s and, concerned that they would have connections in law enforcement and other government organizations, turned to the production team for {% wiki The_Adventures_of_Superman_%28radio_series%29|**The Adventures of Superman**|en %} to develop a month-long arc exposing the silliness of the organization, driving down membership.  It wouldn't really pull back together until white people decided that the Civil Rights Movement had "gone too far" by suggesting that maybe we shouldn't underpay Black people for their work or lynch them for getting too close to a white woman.
 
 [^_IpB_U]:  I should note that the Trump administration has begun talking about using the Act as a way of stopping---you guessed it---Black people from protesting.
 
@@ -50,8 +50,8 @@ He does (earlier in the paragraph) mostly cite this in various history texts, bu
 - A 1712 slave revolt in New York City nearly burned the city to the ground.
 - Other revolts occurred South Carolina, Virginia, Boston, Georgia, on slave ships, and more.
 - After a 1741 slave revolt in New York, the city burned thirteen participants alive, hanged eighteen, and dumped eighty on a ship, with a random smattering of other executions.
-- The [Somerset decision](https://en.wikipedia.org/wiki/Somerset_v_Stewart) hinted at the possibility of abolition.
-- "Probably"---his word, not mine---some slaves from the [1619 group](https://en.wikipedia.org/wiki/The_1619_Project) became so successful that they owned plantations and slaves.
+- The {% wiki Somerset_v_Stewart|Somerset decision|en %} hinted at the possibility of abolition.
+- "Probably"---his word, not mine---some slaves from the {% wiki The_1619_Project|1619 group|en %} became so successful that they owned plantations and slaves.
 - Underground education began to prepare slaves for the abolition of slavery.
 - The rise of harsh punishment for runaway slaves.
 - States ban intermarriage between racial groups, with more harsh but unequal punishment.
@@ -170,7 +170,7 @@ I don't agree with everything that Woodson says[^xPB0yG], as you can probably gu
 
 [^xPB0yG]:  I would also say that some passages could use a significant editing pass, but this book went through quite a few editions after this, so that editing may well have already happened.
 
-First, and most prominently, other than the specifics of the [AF of L](https://en.wikipedia.org/wiki/American_Federation_of_Labor) at the time, bigotry hasn't changed.  I don't mean that the Civil Rights Movement failed or any nonsense like that; I mean that the racists haven't changed their story in a hundred years.  For example, you might have noticed where he describes...
+First, and most prominently, other than the specifics of the {% wiki American_Federation_of_Labor|AF of L|en %} at the time, bigotry hasn't changed.  I don't mean that the Civil Rights Movement failed or any nonsense like that; I mean that the racists haven't changed their story in a hundred years.  For example, you might have noticed where he describes...
 
 > ...the inadequate school facilities, contending that it is poor logic to insist that the Negroes must be denied certain privileges because of their undeveloped state and at the same time be refused those opportunities for improvement necessary to make themselves worthy of those privileges which they are denied.
 

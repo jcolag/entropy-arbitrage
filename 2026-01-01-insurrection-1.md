@@ -21,7 +21,7 @@ Before we get going, I'd like to wish everybody a Happy New Year, with the usual
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,15 +39,15 @@ And as a quick note, I want to reiterate that we break new ground with this post
 
  > **STARFLEET OFFICER #1**: Base to Ensign McCauley and Ensign Gilles, please report to area seven and assist the edaphology team.
 
-Shockingly, they did *not* invent [edaphology](https://en.wikipedia.org/wiki/Edaphology), one of the two branches of soil science.
+Shockingly, they did *not* invent {% wiki Edaphology|edaphology|en %}, one of the two branches of soil science.
 
  > **GALLATIN**: Admiral Dougherty is waiting for this. Transmit it to the ship.
 
-You might (or might not, with the prosthetics) recognize Gallatin as [Gregg Henry](https://en.wikipedia.org/wiki/Gregg_Henry), who has shown up pretty much everywhere for about half a century.
+You might (or might not, with the prosthetics) recognize Gallatin as {% wiki Gregg_Henry|Gregg Henry|en %}, who has shown up pretty much everywhere for about half a century.
 
  > **ANIJ**: Who are they?
 
-You might recognize Anij as Broadway star [Donna Murphy](https://en.wikipedia.org/wiki/Donna_Murphy), probably best known for playing the antagonist in Disney's **Tangled**.
+You might recognize Anij as Broadway star {% wiki Donna_Murphy|Donna Murphy|en %}, probably best known for playing the antagonist in Disney's **Tangled**.
 
 Also, other than the goofy invisibility suits, you might notice the similarity so far to [*Who Watches the Watchers?*]({% post_url 2023-05-25-who-watches-watchers %}).
 
@@ -107,7 +107,7 @@ They all look so self-satisfied having Riker interrupt Worf---which certainly tr
 
  > **PICARD**: Yew-cheen chef-faw, Regent Cuzar. Welcome aboard the Enterprise.
 
-I gather that, despite what you might read in the credits, you heard some part of Mozart's [String Quartet No. 17](https://en.wikipedia.org/wiki/String_Quartet_No._17_%28Mozart%29) wrapping up shortly before this.
+I gather that, despite what you might read in the credits, you heard some part of Mozart's {% wiki String_Quartet_No._17_%28Mozart%29|String Quartet No. 17|en %} wrapping up shortly before this.
 
  > **CUZAR**: Captain Picard, may I welcome you in the time-honored tradition of my people. We are so honored to be accepted within the great Federation family.
 
@@ -127,7 +127,7 @@ I also need to stress that we have only hit the ten-minute mark.  I might not ma
 
  > **DOUGHERTY**: He's not acknowledging any Starfleet protocols. Not responding to any of our hails.
 
-You might recognize the admiral as [Anthony Zerbe](https://en.wikipedia.org/wiki/Anthony_Zerbe), who made consistent appearances on the large and small screen from the early 1960s and only really tapering off about a decade ago.
+You might recognize the admiral as {% wiki Anthony_Zerbe|Anthony Zerbe|en %}, who made consistent appearances on the large and small screen from the early 1960s and only really tapering off about a decade ago.
 
  > **DOUGHERTY**: None. Now he's holding our people hostage down there.
 
@@ -147,7 +147,7 @@ Apparently, "I knew I should've made that left turn at Albuquerque" will work at
 
  > **RU'AFO**: I never should have let you talk me into that duck blind in the first place. Your Federation procedures have made this mission ten times as difficult as it needed to be.
 
-The credits largely did this for me, but you presumably recognize the commander as [F. Murray Abraham](https://en.wikipedia.org/wiki/F._Murray_Abraham).
+The credits largely did this for me, but you presumably recognize the commander as {% wiki F._Murray_Abraham|F. Murray Abraham|en %}.
 
  > **DOUGHERTY**: I prefer to wait until we can share the benefits with all the people of the Federation.
 
@@ -219,7 +219,7 @@ For comparison, do you know Alberti?  No, I doubt that you do, because he wrote 
 
  > **PICARD**: Data was rehearsing a production of H.M.S. Pinafore just before he left. {% emoji musical notes %} *A British tar is a soaring soul, as free as a mountain bird. His energetic first should be ready to resist a dictatorial word*. {% emoji musical notes %} Sing, Worf, sing! {% emoji musical notes %} *His nose should pant*... {% emoji musical notes %}
 
-You can see as well as I can from the screen that this comes from *A British Tar* from [**H.M.S. Pinafore**](https://en.wikipedia.org/wiki/H.M.S._Pinafore).
+You can see as well as I can from the screen that this comes from *A British Tar* from {% wiki H.M.S._Pinafore|**H.M.S. Pinafore**|en %}.
 
 Anyway, I appreciate that Worf wants no part of this.  I admittedly started looking around for airlocks to jump out of, myself, to get away from it, before realizing that my living room doesn't have any...
 
@@ -343,7 +343,7 @@ I swear, if this doofus tries to solve this with a strongly worded e-mail, I wil
 
 He literally tried to do exactly that thing in [*Journey's End*]({% post_url 2025-10-09-journey-s-end %}), and again a few weeks later in [*Preemptive Strike*]({% post_url 2025-11-06-preemptive-strike %}), showing that *he* didn't learn any lesson the first time.  Does he not watch the show?
 
-Also, I feel really uncomfortable with his characterization of this as a problem of size.  For example, 1960s South Africa had about three million white citizens, out of a total of roughly sixteen million.  The government, at that time, began the forced relocation of at least three-and-a-half million Black citizens to segregated neighborhoods, many of which overlapped with or became the so-called [Bantustans](https://en.wikipedia.org/wiki/Bantustan), with the intent of cutting off their South African citizenship.  Would that not qualify as a dark chapter, because a small ruling class imposed it on a larger group, almost certainly intending to expand to the other ten million non-white citizens so that they could become the majority?  I assume that we could find other examples, arguably including the current administration of the United States.
+Also, I feel really uncomfortable with his characterization of this as a problem of size.  For example, 1960s South Africa had about three million white citizens, out of a total of roughly sixteen million.  The government, at that time, began the forced relocation of at least three-and-a-half million Black citizens to segregated neighborhoods, many of which overlapped with or became the so-called {% wiki Bantustan|Bantustans|en %}, with the intent of cutting off their South African citizenship.  Would that not qualify as a dark chapter, because a small ruling class imposed it on a larger group, almost certainly intending to expand to the other ten million non-white citizens so that they could become the majority?  I assume that we could find other examples, arguably including the current administration of the United States.
 
  > **PICARD**: A perfect moment?
  >
@@ -393,7 +393,7 @@ However, since the admiral brought it up, we once again have this unhinged appea
 
  > **PICARD**: Who the Hell are we to determine the next course of evolution for these people?
 
-Doesn't he do exactly that whenever he insists that the Prime Directive forbids him from saving lives?  I realize that this gets into [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem) territory (and the anti-abortion nonsense that embraced it for a long time), but *Homeward* did start with him planning to watch and record the violent death of an entire civilization, which feels a heck of a lot like making such a determination.
+Doesn't he do exactly that whenever he insists that the Prime Directive forbids him from saving lives?  I realize that this gets into {% wiki Trolley_problem|Trolley Problem|en %} territory (and the anti-abortion nonsense that embraced it for a long time), but *Homeward* did start with him planning to watch and record the violent death of an entire civilization, which feels a heck of a lot like making such a determination.
 
  > **PICARD**: Our partners are nothing more than petty thugs.
 
@@ -401,7 +401,7 @@ In all fairness, one could say the same about their partners...
 
  > **DOUGHERTY**: On Earth, petroleum once turned petty thugs into world leaders. Warp drive transformed a bunch of Romulan thugs into an Empire. We can handle the Son'a. I'm not worried about that.
 
-Interesting choices of good outcomes, no?  None of the countries running primarily on oil money have the best track record on human rights, for example, to say nothing of the damage to the environment and individuals that the industry has done.  I mean, even ignoring what has come out *since* the film came out, this story feels suspiciously similar to the [Osage murders](https://en.wikipedia.org/wiki/Osage_Indian_murders), violence to drive out hundreds of natives because somebody wants the resources there.  And speaking of damage to the environment, we might also connect that warp drive comment with the plot of *Force of Nature*.
+Interesting choices of good outcomes, no?  None of the countries running primarily on oil money have the best track record on human rights, for example, to say nothing of the damage to the environment and individuals that the industry has done.  I mean, even ignoring what has come out *since* the film came out, this story feels suspiciously similar to the {% wiki Osage_Indian_murders|Osage murders|en %}, violence to drive out hundreds of natives because somebody wants the resources there.  And speaking of damage to the environment, we might also connect that warp drive comment with the plot of *Force of Nature*.
 
  > **PICARD**: Someone probably said the same thing about the Romulans a century ago.
 

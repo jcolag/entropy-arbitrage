@@ -16,9 +16,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Reviving the former Emancipation Day/[Fifth of July](https://en.wikipedia.org/wiki/Fifth_of_July_%28New_York%29), New York celebrates the first Monday of the month as Abolition Commemoration Day, marking the state's 1827 abolition of slavery.  While the state declared Emancipation Day to coincide with the country's Independence Day on the fourth, fears about violence from white people---legitimate, given that anti-abolitionist riots would rip New York City apart about seven years later---convinced many Black people to celebrate a day later.
+Reviving the former Emancipation Day/{% wiki Fifth_of_July_%28New_York%29|Fifth of July|en %}, New York celebrates the first Monday of the month as Abolition Commemoration Day, marking the state's 1827 abolition of slavery.  While the state declared Emancipation Day to coincide with the country's Independence Day on the fourth, fears about violence from white people---legitimate, given that anti-abolitionist riots would rip New York City apart about seven years later---convinced many Black people to celebrate a day later.
 
-[**What to the Slave Is the Fourth of July?**](https://en.wikipedia.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F) comes out of such a celebration.  In fact, let's listen.
+{% wiki What_to_the_Slave_Is_the_Fourth_of_July%3F|**What to the Slave Is the Fourth of July?**|en %} comes out of such a celebration.  In fact, let's listen.
 
 <iframe
   allowfullscreen=""

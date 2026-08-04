@@ -14,7 +14,7 @@ proofed: true
 
 While I don't expect to go through *all* [Black History Month](/blog/tag/black-history-month) reprinting the works of Black writers, I do like the excuse to highlight it.  And while last week we had the final chapter of Carter G. Woodson's [**The Negro in Our History**]({% post_url 2026-02-08-negro-our-history %}) largely because I found and enjoyed it, this time I wanted fiction that actually fit the season.
 
-Part of the first generation of fully freeborn African Americans, born a decade after the end of the American Civil War, [Alice Dunbar Nelson](https://en.wikipedia.org/wiki/Alice_Dunbar_Nelson)...did a lot.  You'll find her journalism, prose fiction, poetry, political activism, and more.  In a lot of ways, you can see her as a "founder" of the Harlem Renaissance, bot central to the movement and well established in her career by the 1920s, and sadly dead by 1935 at the age of only sixty.  And then, even in death, she became an important journalist of sorts, with her diaries used by researchers to piece together the lives of Black women during and after Reconstruction.
+Part of the first generation of fully freeborn African Americans, born a decade after the end of the American Civil War, {% wiki Alice_Dunbar_Nelson|Alice Dunbar Nelson|en %}...did a lot.  You'll find her journalism, prose fiction, poetry, political activism, and more.  In a lot of ways, you can see her as a "founder" of the Harlem Renaissance, bot central to the movement and well established in her career by the 1920s, and sadly dead by 1935 at the age of only sixty.  And then, even in death, she became an important journalist of sorts, with her diaries used by researchers to piece together the lives of Black women during and after Reconstruction.
 
 ![A Mardi Gras celebration in New Orleans, the street packed](/blog/assets/Twain-mardi-gras.png "How do the kids handle images like this?  Tag yourself?")
 
@@ -22,7 +22,7 @@ This post presents her *A Carnival Jangle*, a short story from **Violets and Oth
 
 [^NaSzEq]:  OK, three reasons, because yes, I *did* throw this post together at the last minute, as you might have guessed by how late this went out...
 
-Second, as you can probably guess by the title, the story takes place at [Carnival](https://en.wikipedia.org/wiki/Carnival), which starts...tomorrow, I believe---reaching its height on Tuesday for [Mardi Gras](https://en.wikipedia.org/wiki/Mardi_Gras)---making this the time to present it.  I don't really engage with the late-winter/early-spring Christian holidays, but I appreciate the spectacle of Carnival.
+Second, as you can probably guess by the title, the story takes place at {% wiki Carnival|Carnival|en %}, which starts...tomorrow, I believe---reaching its height on Tuesday for {% wiki Mardi_Gras|Mardi Gras|en %}---making this the time to present it.  I don't really engage with the late-winter/early-spring Christian holidays, but I appreciate the spectacle of Carnival.
 
 And with that, other than a quick advisory that you'll get some outdated and troublesome terms for Native Americans and only a couple of tiny edits to modernize the text[^x22CYc], I'll get out of the way and let Nelson entertain you.
 

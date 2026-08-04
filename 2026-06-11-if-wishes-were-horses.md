@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,7 +34,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 For context, this episode sits between [*Suspicions*]({% post_url 2025-04-17-suspicions %}) and [*Rightful Heir*]({% post_url 2025-04-24-rightful-heir %}).
 
- > **QUARK**: You see that thing on his hand? It's a baseball mitten. Every afternoon, the boy goes up to play. His father brought a program with famous players. You ever hear of [Tris Speaker](https://en.wikipedia.org/wiki/Tris_Speaker) or [Ted Williams](https://en.wikipedia.org/wiki/Ted_Williams) or Buck Bokai?
+ > **QUARK**: You see that thing on his hand? It's a baseball mitten. Every afternoon, the boy goes up to play. His father brought a program with famous players. You ever hear of {% wiki Tris_Speaker|Tris Speaker|en %} or {% wiki Ted_Williams|Ted Williams|en %} or Buck Bokai?
 
 Links to the two real players in the quote, since I don't know nearly enough about baseball to say anything useful about them other than "I've heard of them, too."  Bokai, they've teased for a few episodes, now.
 
@@ -74,7 +74,7 @@ And this feels like the first time when we see these two together when she doesn
 
  > **RUMPELSTILTSKIN**: Don't look so distraught. I'm only here to offer you my services if you should need them.
 
-You might recognize The Stilt as [Michael J. Anderson](https://en.wikipedia.org/wiki/Michael_J._Anderson), known so much more as The Man from Another Place in **Twin Peaks** than dozens of other projects.  After a too-low offer to reprise that role in **Twin Peaks:  The Return**, Anderson and David Lynch got into a strange feud probably best left ignored.
+You might recognize The Stilt as {% wiki Michael_J._Anderson|Michael J. Anderson|en %}, known so much more as The Man from Another Place in **Twin Peaks** than dozens of other projects.  After a too-low offer to reprise that role in **Twin Peaks:  The Return**, Anderson and David Lynch got into a strange feud probably best left ignored.
 
 Oh, and since I'll probably never have an opportunity to bring it up anywhere else, some readers might recall reports about a decade ago that researchers Jamie Tehrani and Sara Graca Da Silva used data techniques from biology and evolution, along with references across many texts, to [estimate the histories of fairy tales](https://pmc.ncbi.nlm.nih.gov/articles/PMC4736946/), suggesting that the Rumpelstiltskin story probably has predecessors going back over four thousand years, possibly shy of the split between the Western/European branch of Indo-European languages (that almost all have versions) and the Indo-Iranian branch (which don't).
 
@@ -84,7 +84,7 @@ Oh, and since I'll probably never have an opportunity to bring it up anywhere el
 
  > **BOKAI**: Hello, Ben.
 
-And you might recognize our third ball player as [Keone Young](https://en.wikipedia.org/wiki/Keone_Young), who has shown up...pretty much everywhere, including daytime dramas, a before-its-time multiracial medical drama a few years prior to this episode, and voice roles.
+And you might recognize our third ball player as {% wiki Keone_Young|Keone Young|en %}, who has shown up...pretty much everywhere, including daytime dramas, a before-its-time multiracial medical drama a few years prior to this episode, and voice roles.
 
  > **BASHIR**: Why am I fighting this? Why am I fighting this? I have no good answer to that question.
 
@@ -110,7 +110,7 @@ Have you ever heard somebody lash out about their lack of fear who actually didn
 
  > **BOKAI**: Well, that was baseball's epitaph, wasn't it. Nobody seemed to have time for us anymore. I could've played five more years if they hadn't killed the game.
 
-We get some minor sports history, here.  If, in roughly 2370, he died more than two hundred years prior, then they most likely had that final [World Series](https://en.wikipedia.org/wiki/World_Series) in 2142, since he mentions in some other line that it took place "in forty-two."  By then, other entertainment had displaced it, with (another not-quotable line) only three hundred fans in the stands.
+We get some minor sports history, here.  If, in roughly 2370, he died more than two hundred years prior, then they most likely had that final {% wiki World_Series|World Series|en %} in 2142, since he mentions in some other line that it took place "in forty-two."  By then, other entertainment had displaced it, with (another not-quotable line) only three hundred fans in the stands.
 
 Weirdly, despite baseball's reputation of having fans who obsess over data collection, I can't find World Series attendance record for each game per year, only the top attendance records (and, inexplicably, the total number of attendees per season across the entire league) showing that about half the 1959 series (games 3--5) brought in more than ninety-two thousand spectators in Los Angeles, which doesn't really give us much scale.
 

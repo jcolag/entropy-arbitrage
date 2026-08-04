@@ -35,7 +35,7 @@ I hate the phrase, because they almost certainly believe that they pay more than
 
 ### Obligatory MMT Moment
 
-Before we get to that, let me digress a bit.  The "fair share" thing feels even more nonsensical, because at least in the United States---as [Modern Monetary Theory](https://en.wikipedia.org/wiki/Modern_Monetary_Theory) points out---money pretty much grows on trees.  We don't get equal access to the tree, by any means, because...that would solve problems and make exploitation harder.  But since most people don't use cash for most purposes, most money gets into the economy because a bank added a number to a spreadsheet, and the Treasury gives it a thumbs-up.
+Before we get to that, let me digress a bit.  The "fair share" thing feels even more nonsensical, because at least in the United States---as {% wiki Modern_Monetary_Theory|Modern Monetary Theory|en %} points out---money pretty much grows on trees.  We don't get equal access to the tree, by any means, because...that would solve problems and make exploitation harder.  But since most people don't use cash for most purposes, most money gets into the economy because a bank added a number to a spreadsheet, and the Treasury gives it a thumbs-up.
 
 It takes a *little* more than that, sure, like an expectation that someone will pay the money back someday, but not much more, and most of that added complexity exists to make the system feel legitimate rather than putting a hard restriction anywhere.  This means that, in a real way, taxes don't "go" anywhere.  They don't pay for anything.
 
@@ -121,7 +121,7 @@ In other words, having a billion dollars provides a heck of a lot more value tha
 
 ### Wealth Hoarders
 
-*I don't know, John*, I hear you cry from the back of the room.  *If that idea held true, then antisocial people would hoard wealth, and you'd end up with increasingly unstable systems that would bleed over into other fields.*  And...yes?  I'd like to introduce you to (someone insert a picture of me dramatically gesturing at everything around us) the world under late-stage capitalism.  If you want more than half-joking hand-waving, most studies show that economies with high [Gini coefficients](https://en.wikipedia.org/wiki/Gini_coefficient) have unstable economies, and then political polarization and instability.  Again, allow me to gesture emphatically at the economy, the political polarization, the climate, and so forth.
+*I don't know, John*, I hear you cry from the back of the room.  *If that idea held true, then antisocial people would hoard wealth, and you'd end up with increasingly unstable systems that would bleed over into other fields.*  And...yes?  I'd like to introduce you to (someone insert a picture of me dramatically gesturing at everything around us) the world under late-stage capitalism.  If you want more than half-joking hand-waving, most studies show that economies with high {% wiki Gini_coefficient|Gini coefficients|en %} have unstable economies, and then political polarization and instability.  Again, allow me to gesture emphatically at the economy, the political polarization, the climate, and so forth.
 
 In other words, I agree with you.  If my idea holds, then the wealthy would destabilize the economy and politics, **exactly as they do**.  It doesn't prove my premise, but it tells me that the idea has something to it, if it can predict what we see.
 
@@ -131,7 +131,7 @@ Granted, I don't know what that surplus value looks like.  I'll leave it to the 
 
 $$Value(d) = d^{something}$$
 
-Or maybe I oversimplified, and we have something more sigmoidal, or rather the inverse, something that looks like the [logit function](https://en.wikipedia.org/wiki/Logit), but not that, since it only has a definition between zero and one.
+Or maybe I oversimplified, and we have something more sigmoidal, or rather the inverse, something that looks like the {% wiki Logit|logit function|en %}, but not that, since it only has a definition between zero and one.
 
 $$logit(x) = ln(\frac{x}{1 - x}), 0 < p < 1$$
 
@@ -239,7 +239,7 @@ Yeah, I know.  It beats me, too.  {% emoji person shrugging %}
 
 I have had versions of this post floating around since long before I started the blog, though, so I mostly wanted to finally get it out to readers, in case it has something to it to build on.  Having nothing else to post a few days before most last-minute filers have their tax software open, then, made it seem like as good an excuse as any.
 
-The post probably won't spark a revolution---[Georgism](https://en.wikipedia.org/wiki/Georgism) adapted to include intellectual property seems more appropriate to revolution---and probably won't land me one of those horrific FIFA Peace Prize trophies, let alone something credible.  Maybe it'll spark a better idea, or maybe someone will wow FIFA (Olive Garden[^rxl3jN], Nobel Committee, whatever...) by finishing off the math and showing that surplus value per dollar.
+The post probably won't spark a revolution---{% wiki Georgism|Georgism|en %} adapted to include intellectual property seems more appropriate to revolution---and probably won't land me one of those horrific FIFA Peace Prize trophies, let alone something credible.  Maybe it'll spark a better idea, or maybe someone will wow FIFA (Olive Garden[^rxl3jN], Nobel Committee, whatever...) by finishing off the math and showing that surplus value per dollar.
 
 [^rxl3jN]:  Formally, I like to imagine, The Olive Garden® Never-Ending Salad and Breadsticks℠ Platinum Breadstick Prize in Macroeconomics...
 

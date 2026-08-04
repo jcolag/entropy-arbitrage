@@ -15,11 +15,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate [World Meteorological Day](https://en.wikipedia.org/wiki/World_Meteorological_Day), commemorating the 1950 creation of the World Meteorological Organization.  I suppose that it doesn't provoke much more discussion than that.
+Today, we celebrate {% wiki World_Meteorological_Day|World Meteorological Day|en %}, commemorating the 1950 creation of the World Meteorological Organization.  I suppose that it doesn't provoke much more discussion than that.
 
 ![A person in a lab coat standing in front of the Sun, contrasted with aerial photography of somewhere on Earth's surface, declaring World Meteorological Day(s), the ocean, our climate, and weather](/blog/assets/world-meterological-days.png "I don't know if lab coats protect against solar flares")
 
-If you'd like something a bit flashier, we also have [Pakistan Day](https://en.wikipedia.org/wiki/Pakistan_Day), celebrating the country's adoption of its constitution, and [Promised Messiah Day](https://en.wikipedia.org/wiki/Promised_Messiah_Day) among Ahmadiyya Muslims.
+If you'd like something a bit flashier, we also have {% wiki Pakistan_Day|Pakistan Day|en %}, celebrating the country's adoption of its constitution, and {% wiki Promised_Messiah_Day|Promised Messiah Day|en %} among Ahmadiyya Muslims.
 
 And on to the week's projects.
 
@@ -29,7 +29,7 @@ And on to the week's projects.
 
 While they admittedly don't show up as often as one might expect, at some point, the information tables became borderline unreadable.  Hazarding a guess, it could have happened when adding the dark color scheme, where mistaking a name could have forced things off the track.  In any case, those tables should now have a much higher contrast.
 
-You'll also see some updated verbiage and links, here and there, plus a link on blog pages to the [`human.json`](https://codeberg.org/robida/human.json) thing that I mentioned last week.  At some point, it may come down.  It feels complicit with so-called [dead Internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) by implying that we should expect slop as the default on the general Internet.  And that certainly holds true on big corporate sites, because they have no purpose *other* than to divert your attention in order to shove more ads into your retinas.  But for the Internet at large, the statistical long-tail of smaller websites, the overwhelming majority of domain names, the web that *matters* to anything other than stock portfolios, the idea doesn't hold water, because a slop-filled website doesn't matter unless it has high traffic.
+You'll also see some updated verbiage and links, here and there, plus a link on blog pages to the [`human.json`](https://codeberg.org/robida/human.json) thing that I mentioned last week.  At some point, it may come down.  It feels complicit with so-called {% wiki Dead_Internet_theory|dead Internet theory|en %} by implying that we should expect slop as the default on the general Internet.  And that certainly holds true on big corporate sites, because they have no purpose *other* than to divert your attention in order to shove more ads into your retinas.  But for the Internet at large, the statistical long-tail of smaller websites, the overwhelming majority of domain names, the web that *matters* to anything other than stock portfolios, the idea doesn't hold water, because a slop-filled website doesn't matter unless it has high traffic.
 
 Plus, like everybody else, I don't appreciate when a website demands that I verify my humanity by...doing tedious tasks best left to a computer, for some reason.  Why, then, would I want to do that on my website?  If people believe that my writing---and you've all *seen* my writing---looks like regress-to-the-mean, personality-free, "clean" LLM droppings, then they probably won't believe a JSON file.
 

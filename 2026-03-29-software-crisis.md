@@ -28,7 +28,7 @@ And I suppose, to help put things into words, we might as well start there.
 
 ## Definitions
 
-Back when I went to school, we didn't explicitly talk about it often, but every topic had a common undercurrent[^gvfBvL], that we needed to plan and organize to forestall the [Software Crisis](https://en.wikipedia.org/wiki/Software_crisis), and we needed to design new tools to eliminate it.  You can read Wikipedia's attempt to distill decades of public conversation and research into a handful of paragraphs, but three items stand out in what they refer to in the past tense.
+Back when I went to school, we didn't explicitly talk about it often, but every topic had a common undercurrent[^gvfBvL], that we needed to plan and organize to forestall the {% wiki Software_crisis|Software Crisis|en %}, and we needed to design new tools to eliminate it.  You can read Wikipedia's attempt to distill decades of public conversation and research into a handful of paragraphs, but three items stand out in what they refer to in the past tense.
 
 [^gvfBvL]:  Apart from the undercurrent that every class covers extremely similar ground.  Ideally, each class should reinforce and build on the prior classes, but a cynic could see every class as little more than applications for the handful of core data structures, stacks, queues, lists, trees, hash tables, and so forth.
 
@@ -170,7 +170,7 @@ Sub-idea that we'll ignore here for the moment, the number of technologies that 
 
 Notice how those three (ignoring the "mediocre library" thing) ideas interact.  Instead of the complexity exploding immediately, we developed strategies and processes to hold off the disaster.  For our schedules, we only think about the next few weeks.  And while most shops don't *entirely* shrug their shoulders on quality, we have generally opted to optimize for frequent updates over careful updates.  I don't want to say that a given project shouldn't make one or all of those decisions.  But I do want to make the point that each of them camouflages or accepts the symptoms of the Software Crisis.
 
-By delaying the onset of recognizable complexity, we get further into projects before realizing the actual cost, and [sunk costs](https://en.wikipedia.org/wiki/Sunk_cost) mean that most people will refuse to walk away.  Agile processes, for all their benefits, dismiss the complexity and maintainability problems as something to worry about during some future two-week sprint; we even renamed "unmaintainable code" to [technical debt](https://en.wikipedia.org/wiki/Technical_debt), emphasizing the fix-it-in-post-production (to borrow from film) idea.  Continuous deployment, for all its benefits, makes low-quality software an ordinary part of life.
+By delaying the onset of recognizable complexity, we get further into projects before realizing the actual cost, and {% wiki Sunk_cost|sunk costs|en %} mean that most people will refuse to walk away.  Agile processes, for all their benefits, dismiss the complexity and maintainability problems as something to worry about during some future two-week sprint; we even renamed "unmaintainable code" to {% wiki Technical_debt|technical debt|en %}, emphasizing the fix-it-in-post-production (to borrow from film) idea.  Continuous deployment, for all its benefits, makes low-quality software an ordinary part of life.
 
 ## Technical Debt
 
@@ -222,7 +222,7 @@ Let me sketch out what I do know, though, so that we can all cross our fingers t
 
 ### Admit to the Problem
 
-First, as they say, you can't solve a problem when you refuse to admit that you have one.  We have an entire industry in such deep denial that we talk about the Software Crisis like we do the [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis), something that threatened to destroy the world, but only lasted a couple of weeks a few decades ago.
+First, as they say, you can't solve a problem when you refuse to admit that you have one.  We have an entire industry in such deep denial that we talk about the Software Crisis like we do the {% wiki Cuban_Missile_Crisis|Cuban Missile Crisis|en %}, something that threatened to destroy the world, but only lasted a couple of weeks a few decades ago.
 
 What does an admission look like?  Well, we can't only state "the Software Crisis has endured" or the like.  We need to schedule with the expectation that every line of code written, every variable added, every database row, every external file, and so forth, all of that magnifies the complexity of the project.
 
@@ -254,9 +254,9 @@ It also burns testing time.  Why do new bugs slip through?  To fulfill their dut
 
 We can solve at least some of that problem by *automating* every test after each release.  It doesn't give the testing time an exponential scale, but it at least means that humans don't run the same tests twice or stop testing certain aspects to make room for others.
 
-And yes, that means building the user interface so that an outside program can manipulate it.  Electrical engineers have the idea of [design(ing) for test](https://en.wikipedia.org/wiki/Design_for_testing), and we really should steal that.
+And yes, that means building the user interface so that an outside program can manipulate it.  Electrical engineers have the idea of {% wiki Design_for_testing|design(ing) for test|en %}, and we really should steal that.
 
-By the way, automated testing also allows for the introduction of so-called [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing), which can further shore up existing testing and make better use of human-testing time.  Similarly, so-called Property-Based Testing suggests randomly or exhaustively generating the possible inputs for tests, then narrowing down the inputs to those that cause problems.
+By the way, automated testing also allows for the introduction of so-called {% wiki Mutation_testing|mutation testing|en %}, which can further shore up existing testing and make better use of human-testing time.  Similarly, so-called Property-Based Testing suggests randomly or exhaustively generating the possible inputs for tests, then narrowing down the inputs to those that cause problems.
 
 ### Compartmentalize
 
@@ -321,7 +321,7 @@ In college, I had a professor who talked about software reliability, and used to
 
 The specific numbers on the graph don't necessarily mean anything; he did sketch it on a chalkboard, after all.  However, the shape describes the idea that potential faults add up quickly to having a near-complete chance of some failure or other, eventually.
 
-Other professors mocked this, insisting that this described hardware, not software.  Hardware wears out over time, but software (they insisted) has a dangerous period where you might find some bugs, but if it survives that period, it'll probably never go wrong.  They said this in the years before everybody needed to scramble to fix [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem) bugs in decades-old software, so we know that they had their acts together when it comes to predicting software that'll probably work forever[^ZvQbRJ]. {% emoji eyeroll %}
+Other professors mocked this, insisting that this described hardware, not software.  Hardware wears out over time, but software (they insisted) has a dangerous period where you might find some bugs, but if it survives that period, it'll probably never go wrong.  They said this in the years before everybody needed to scramble to fix {% wiki Year_2000_problem|Y2K|en %} bugs in decades-old software, so we know that they had their acts together when it comes to predicting software that'll probably work forever[^ZvQbRJ]. {% emoji eyeroll %}
 
 [^ZvQbRJ]:  Weirdly, most of them got many other things right, so I don't know why they refused to listen to the literal reliability researcher here.
 
@@ -333,13 +333,13 @@ In here, I would include all the instrumentation and monitoring systems that try
 
 ### Verify
 
-Calling back again to when I took computer science classes, textbooks and (some) professors made a big deal about *correctness*, the idea that every one of our code "compartments," however we structure them, represents some assertion of functionality---it does *this thing* under *these conditions*---and that, in a correct program, somebody has proven those assertions true, the process of [formal verification](https://en.wikipedia.org/wiki/Formal_verification).
+Calling back again to when I took computer science classes, textbooks and (some) professors made a big deal about *correctness*, the idea that every one of our code "compartments," however we structure them, represents some assertion of functionality---it does *this thing* under *these conditions*---and that, in a correct program, somebody has proven those assertions true, the process of {% wiki Formal_verification|formal verification|en %}.
 
 Certain professors would regale us with stories of the Pentagon[^mkiiYV] hiring teams of experts with higher degrees showing up to build mathematical models of code in order to prove its correctness.  Every one of these stories emphasized the cost, and that you would only ever do this for the most critical code.
 
 [^mkiiYV]:  For those who might care but don't already know, I live and grew up on Long Island, the pile of sand to the east of New York City that looks suspiciously like a fish.  It has had a lot to recommend it, but almost every institution also has some connection with the Cold War defense industry, because companies opening offices here caused a population explosion.  My college campus, for example, really only existed because the location made it walkable to recruit students from Fairchild, Sperry, Telephonics, and about a dozen other major defense contractors, plus a quick ride from Grumman and Hazeltine.  The Cold War had ended by the time I went to college, but almost everybody with experience had some connection to the Pentagon, often their only experience with big-budget projects.
 
-At around that time, artificial intelligence groups saw [Prolog](https://en.wikipedia.org/wiki/Prolog) and similar "logic-based" programming systems as the path forward, making it possible for software to take on some of the work involved in the proofs.  I don't know if we have a *direct* line of descent, here, but today we do have similar [proof assistants](https://en.wikipedia.org/wiki/Proof_assistant) to shoulder at least some of that burden.
+At around that time, artificial intelligence groups saw {% wiki Prolog|Prolog|en %} and similar "logic-based" programming systems as the path forward, making it possible for software to take on some of the work involved in the proofs.  I don't know if we have a *direct* line of descent, here, but today we do have similar {% wiki Proof_assistant|proof assistants|en %} to shoulder at least some of that burden.
 
 Full disclosure, I keep promising myself that I'll finally learn one of these systems[^umHtNh] and start applying them to my own code.  And I say that because I do think that this comes the closest to helping us solve the Software Crisis, not by giving us more code to not understand, but by helping us understand what code we do have, by letting us know whether our code actually does what we claim.  And we don't even need a small army of experts with doctoral degrees.
 
@@ -371,7 +371,7 @@ Likewise, many languages have added slightly cleaner syntax for common looping o
 
 Actually, I can think of one example where we still see a push for higher expressivity, configuration languages.  Configuring systems such as [Augeas](https://augeas.net/docs/language.html) and [Puppet](https://help.puppet.com/core/current/Content/PuppetCore/puppet_language.htm) push to pack more meaning into less code, but do it in a narrow space.
 
-Maybe we should change this.  In the mainstream, it feels like new programming languages care more about compilation speed, [LLM-friendliness](https://www.nerd-lang.org/), [provability](https://en.wikipedia.org/wiki/Dafny), asynchronous operation, and so forth.  And while those goals can benefit certain kinds of projects, they don't reduce the number of interactions the way that higher expressivity would.  For clarity, I don't have a list of features in mind that I'd add to express more.  But I know that, if expressivity hasn't changed much in thirty years, it probably didn't happen because we hit a maximum ability to express ideas before most computers could natively do floating-point math.
+Maybe we should change this.  In the mainstream, it feels like new programming languages care more about compilation speed, [LLM-friendliness](https://www.nerd-lang.org/), {% wiki Dafny|provability|en %}, asynchronous operation, and so forth.  And while those goals can benefit certain kinds of projects, they don't reduce the number of interactions the way that higher expressivity would.  For clarity, I don't have a list of features in mind that I'd add to express more.  But I know that, if expressivity hasn't changed much in thirty years, it probably didn't happen because we hit a maximum ability to express ideas before most computers could natively do floating-point math.
 
 The closest "real" language that I can think of trying to do this at all well?  [CoffeeScript](https://coffeescript.org/) of all things.  It looks like an attempt to make JavaScript look like Python, but you can see from the examples on the page that it reduces the amount of (common) code significantly, even if it still looks a lot like JavaScript, and still *results* in the bulkier JavaScript, which would defeat our purpose.
 

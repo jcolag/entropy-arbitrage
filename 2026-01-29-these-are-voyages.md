@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -87,7 +87,7 @@ Maybe apocryphal, but I vaguely remember reading that this era of the franchise-
 
 Hey, "the Andorian" plays something like half the characters in your universe[^ZcQHz8], lady.  You treat him with respect...
 
-[^ZcQHz8]:  Since I don't think that he'll appear in any parts of the episode that we care about, guest star [Jeffrey Combs](https://en.wikipedia.org/wiki/Jeffrey_Combs), after about a decade known for horror roles, and auditioning for a couple of **Next Generation** roles (including Riker), would land a couple of one-off roles in **Deep Space Nine**, two of which became consistently recurring due to positive fan response.  He would later go on to one-off roles in **Voyager** and **Enterprise**, plus the recurring Andorian in question, and then the voice of a recurring computer character on **Lower Decks**, I believe more than forty episodes so far, more than some entire shows got...
+[^ZcQHz8]:  Since I don't think that he'll appear in any parts of the episode that we care about, guest star {% wiki Jeffrey_Combs|Jeffrey Combs|en %}, after about a decade known for horror roles, and auditioning for a couple of **Next Generation** roles (including Riker), would land a couple of one-off roles in **Deep Space Nine**, two of which became consistently recurring due to positive fan response.  He would later go on to one-off roles in **Voyager** and **Enterprise**, plus the recurring Andorian in question, and then the voice of a recurring computer character on **Lower Decks**, I believe more than forty episodes so far, more than some entire shows got...
 
  > **TROI**: You might want to leap ahead to that point. It's where things start really happening. And you should consider taking over the galley.
 
@@ -117,7 +117,7 @@ Then we get a paging-through of the *Pegasus* crew, including Cdr Ronald Moore--
 
  > **RIKER**: Phil Wallace. Hell of a handball player. Pressman was getting ready to promote him.
 
-I guess that people still play handball, I assume that they mean the [American variety](https://en.wikipedia.org/wiki/American_handball) or a variation, not one of the team sports by that name that generally look more like association football.  You'd need enough other enthusiasts, after all, to form teams to judge his ability, if we mean other handballs.
+I guess that people still play handball, I assume that they mean the {% wiki American_handball|American variety|en %} or a variation, not one of the team sports by that name that generally look more like association football.  You'd need enough other enthusiasts, after all, to form teams to judge his ability, if we mean other handballs.
 
  > **RIKER**: Seventy-one, all but nine of us.
  >
@@ -249,7 +249,7 @@ Heh, after all that build-up, I can't help noticing that none of this story---th
 
 I don't really have anything more to say than that.  It certainly mystifies me that the writers thought that setting this years after the main series, and centering the episode on a ten-minute crime drama, and filling the episode with imaginary deleted scenes from an episode of another show, *and* doesn't even give us this important speech that they wanted us to care so much about.  But I don't have anything to say about it beyond that.
 
-If I had to pick out a weirdest aspect, though, I'd need to point to how the **TNG** fan-fiction part doesn't even shed any light on *The Pegasus* plot.  It presents itself as a [**Rosencrantz and Guildenstern Are Dead**](https://en.wikipedia.org/wiki/Rosencrantz_and_Guildenstern_Are_Dead) (but not funny and far less educated), shoving the bigger plot "backstage" while centering the original off-stage plot, with an expectation that it has some insight into that story to give us, teeing up that Riker needs some specific experience to convince him to admit that he has spent over a decade complying with an illegal order and so covering up his complicity in a crime, possibly (as mentioned when discussing that episode) murdering his colleagues.  But it doesn't comment on the earlier episode or contribute anything new, often copying lines almost verbatim with only slight variations in context.
+If I had to pick out a weirdest aspect, though, I'd need to point to how the **TNG** fan-fiction part doesn't even shed any light on *The Pegasus* plot.  It presents itself as a {% wiki Rosencrantz_and_Guildenstern_Are_Dead|**Rosencrantz and Guildenstern Are Dead**|en %} (but not funny and far less educated), shoving the bigger plot "backstage" while centering the original off-stage plot, with an expectation that it has some insight into that story to give us, teeing up that Riker needs some specific experience to convince him to admit that he has spent over a decade complying with an illegal order and so covering up his complicity in a crime, possibly (as mentioned when discussing that episode) murdering his colleagues.  But it doesn't comment on the earlier episode or contribute anything new, often copying lines almost verbatim with only slight variations in context.
 
 Oh, and I should probably note that, since modern *Star Trek* desperately wants to feel "in on the joke," they wrote a **Very Short Treks** episode, [*Holograms All the Way Down*](https://www.youtube.com/watch?v=LPCGkHjsK9M)[^756q8V] (two minutes), that spins directly out of the ending of this story.  Like this episode, I have no idea if that one has an actual point, beyond "making fun of what you make fun of maybe makes us cool," but...it exists, and it would feel wrong not to mention it, given the direct connection to the current topic.
 

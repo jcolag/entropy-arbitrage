@@ -64,7 +64,7 @@ In thinking this post out, "random" lines of poetry kept coming to mind as possi
 > And what rough beast, its hour come round at last,  
 > Slouches towards Bethlehem to be born?
 
-You've all heard it before.  And yes, I adjusted William Butler Yeats's spelling to modern American standards.  He published in 1920, and died eighty-seven years ago, so the public domain rules [*The Second Coming*](https://en.wikipedia.org/wiki/The_Second_Coming_%28poem%29), and I have a spell-checker to get annoyed at when it flags ordinary issues...
+You've all heard it before.  And yes, I adjusted William Butler Yeats's spelling to modern American standards.  He published in 1920, and died eighty-seven years ago, so the public domain rules {% wiki The_Second_Coming_%28poem%29|*The Second Coming*|en %}, and I have a spell-checker to get annoyed at when it flags ordinary issues...
 
 More seriously, actually read this one through in a modern context.  I don't know if Yeats meant it---he claims to have worried about Christianity's values getting replaced, giving this a purely Biblical interpretation, but I'll note that he had the Gilded Age on the horizon---it seems fairly descriptive of our political situation, no?  We lost the center, and loosed anti-governance libertarians on the world.  *The best lack conviction*, while the worst indulge in their passions.  And we got the "rough beast," not in some religious sense, but in the form of turning governments into money-harvesting devices for the wealthy.
 

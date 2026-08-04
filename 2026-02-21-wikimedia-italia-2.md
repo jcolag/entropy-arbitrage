@@ -51,7 +51,7 @@ Or, in English, that reads as follows.
 >
 > It is conducted in collaboration with the Italian Linux Society.
 
-Looking at the titles, you can get a sense of the general shape of the project, though.  Three of them cite [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in the title.  Another refers to [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning).  Others refer to "free knowledge" or women in mathematics---specifically [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)---and so forth.
+Looking at the titles, you can get a sense of the general shape of the project, though.  Three of them cite {% wiki Aaron_Swartz|Aaron Swartz|en %} in the title.  Another refers to {% wiki Chelsea_Manning|Chelsea Manning|en %}.  Others refer to "free knowledge" or women in mathematics---specifically {% wiki Emmy_Noether|Emmy Noether|en %}---and so forth.
 
 This time through, we have the second play that doesn't heavily feature real people, **Banana**.  The other plays all seem to want to focus on those celebrity types, sometimes building the play from parts of their writing.  It doesn't include any dialogue, but if you want a feel for the intended presentation of this play, they recorded a mock-trailer that gives an impression of the style.
 
@@ -93,4 +93,4 @@ Anyway, while we wait for that, what did everybody else think about the play?
 
 * * *
 
-**Credits**:  The header image is [Macaca nigra self-portrait](https://en.wikipedia.org/wiki/File:Macaca_nigra_self-portrait_large.jpg), in the public domain as taken by a creature with no legal status.
+**Credits**:  The header image is {% wiki File:Macaca_nigra_self-portrait_large.jpg|Macaca nigra self-portrait|en %}, in the public domain as taken by a creature with no legal status.

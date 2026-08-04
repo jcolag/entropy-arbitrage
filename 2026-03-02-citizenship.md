@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we in the United States---those of us trying to stand on the right side of history, at least---celebrate [American Citizenship Day](https://www.pr51st.com/happy-american-citizenship-day/), marking the 1917 passage of the [Jones-Shafroth Act](https://en.wikipedia.org/wiki/Jones%E2%80%93Shafroth_Act), extending birthright citizenship to everyone born in Puerto Rico after 1899 April 11.  The law certainly has its problems that continue to make life more difficult in Puerto Rico, and certainly doesn't go nearly far enough, but at least for a time, the United States realized that people born in territories controlled by the United States should have some say in how the United States functions.
+Today, we in the United States---those of us trying to stand on the right side of history, at least---celebrate [American Citizenship Day](https://www.pr51st.com/happy-american-citizenship-day/), marking the 1917 passage of the {% wiki Jones%E2%80%93Shafroth_Act|Jones-Shafroth Act|en %}, extending birthright citizenship to everyone born in Puerto Rico after 1899 April 11.  The law certainly has its problems that continue to make life more difficult in Puerto Rico, and certainly doesn't go nearly far enough, but at least for a time, the United States realized that people born in territories controlled by the United States should have some say in how the United States functions.
 
 ![San Juan, Puerto Rico, from an inbound plane](/blog/assets/5346718319_7d07dd2acc_o.png "I don't think that I have ever seen a city drop that precipitously to suburban-style residential areas...")
 

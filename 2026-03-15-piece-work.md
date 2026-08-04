@@ -34,7 +34,7 @@ And yes, I planned to have this post out early this morning, then utterly failed
 
 Realizing that we can't really tell every boy and man "do whatever you want as long as it doesn't look like *that*" probably won't work, both due to a lack of imagination and the impossibility of enumerating every possible terrible behavior, I do want to think a bit about the possibilities of a "transitional masculinity," a middle path, so to speak.  By middle, I mean that we currently have two extreme paths.
 
-The incumbent extreme, pathological path says that we should define ourselves as men through a complete opposition to women, as outlined last week.  At the other extreme, we tell young boys and men to---in effect---do whatever you want...but also never forget that we'll judge you if you get it wrong, and people still supporting the patriarchy will judge you harshly if you get too far out of line for them.  I don't want to suggest that **nobody** follows the latter path, but it definitely takes a certain uncommon kind of person to see that as a viable way to live and not a version of [Pascal's wager](https://en.wikipedia.org/wiki/Pascal%27s_wager), but with a choice between wide condemnation and slightly narrower condemnation...but also maybe wider condemnation, who knows?
+The incumbent extreme, pathological path says that we should define ourselves as men through a complete opposition to women, as outlined last week.  At the other extreme, we tell young boys and men to---in effect---do whatever you want...but also never forget that we'll judge you if you get it wrong, and people still supporting the patriarchy will judge you harshly if you get too far out of line for them.  I don't want to suggest that **nobody** follows the latter path, but it definitely takes a certain uncommon kind of person to see that as a viable way to live and not a version of {% wiki Pascal%27s_wager|Pascal's wager|en %}, but with a choice between wide condemnation and slightly narrower condemnation...but also maybe wider condemnation, who knows?
 
 Because of that, I want to outline the start of a framework, something that helps map out the space between the two broken paths.  Or maybe you can think of it as the social equivalent of nicotine patches for men addicted to toxic masculinity, a covert way of getting people to healthier places.
 
@@ -106,7 +106,7 @@ As a rule, though, if you matter in the retelling of another individual's day, t
 
 ## Listening
 
-Whenever I think about this topic, it reminds me of an interview that late celebrity chef Anthony Bourdain gave shortly before his death.  The interviewer asked about how the [#MeToo movement](https://en.wikipedia.org/wiki/MeToo_movement) has affected him, since he had at least one person in his life who featured in the evolving story as both abuser and victim.
+Whenever I think about this topic, it reminds me of an interview that late celebrity chef Anthony Bourdain gave shortly before his death.  The interviewer asked about how the {% wiki MeToo_movement|#MeToo movement|en %} has affected him, since he had at least one person in his life who featured in the evolving story as both abuser and victim.
 
 He had an extensive answer that expressed actual empathy for the victims, and went into his regrets for leaning into a hypermasculine persona[^jdGseA] in a way that may have helped normalize tantrums in his industry.  More than that, though, he talked about how his ignorance of the problem started him down the path of introspecting, trying to find the aspects of his persona that kept victims from confiding in him, so that he could work on fixing them.
 
@@ -142,7 +142,7 @@ I highly recommend that, if you still attend school[^nUzBMq].  Not only to you d
 
 ## Much More
 
-As I said, I can only try to start this conversation.  And you can probably bet that I have laundered ideas from much smarter people such as [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks)---whose work you absolutely should read if this sort of thing interests you---though I couldn't tell you how much I digested from formal discussions, what I heard, and ideas that have happened to work for me.
+As I said, I can only try to start this conversation.  And you can probably bet that I have laundered ideas from much smarter people such as {% wiki Bell_hooks|bell hooks|en %}---whose work you absolutely should read if this sort of thing interests you---though I couldn't tell you how much I digested from formal discussions, what I heard, and ideas that have happened to work for me.
 
 Therefore, I'll stop the post here, before it gets too late, and (as I mentioned before) invite everybody to take this further.  You can leave comments, issue pull requests, or extract text to build your own models.  And I hope, at some point, we can have "adulthood," instead of a separate Adulthood for Men™.
 

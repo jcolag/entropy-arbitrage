@@ -51,7 +51,7 @@ Or, in English, that reads as follows.
 >
 > It is conducted in collaboration with the Italian Linux Society.
 
-Looking at the titles, you can get a sense of the general shape of the project, though.  Three of them cite [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in the title.  Another refers to [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning).  Others refer to "free knowledge" or women in mathematics---specifically [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)---and so forth.
+Looking at the titles, you can get a sense of the general shape of the project, though.  Three of them cite {% wiki Aaron_Swartz|Aaron Swartz|en %} in the title.  Another refers to {% wiki Chelsea_Manning|Chelsea Manning|en %}.  Others refer to "free knowledge" or women in mathematics---specifically {% wiki Emmy_Noether|Emmy Noether|en %}---and so forth.
 
 This time through, I only had time to investigate and read one of the plays, **Sulle orme di Papert** (**In the Footsteps of Papert**).  It doesn't include any dialogue, but if you want a feel for the intended presentation, they recorded a montage of different scenes.  Beware the loud music, though, depending on where you choose to watch it.
 
@@ -78,7 +78,7 @@ And while this digs into taste, I enjoyed some of the material.  The "creation" 
 
 {% include lesswell.md %}
 
-Unless I missed something clever in the original Italian, this play feels like it could've used a *lot* of trimming.  The first scene felt to me like bland attempts at banter, then the second scene opens with---and for the first time I get to say this in the most literal sense---a dramatic reading of [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert)'s Wikipedia entry.  Worse, when we finally get to the alleged point, presenting [LOGO](https://en.wikipedia.org/wiki/Logo_%28programming_language%29), it skips through that to show only the smallest piece of a fairly clever language.  Maybe I took that a bit too personally, since I really enjoyed LOGO as a child.
+Unless I missed something clever in the original Italian, this play feels like it could've used a *lot* of trimming.  The first scene felt to me like bland attempts at banter, then the second scene opens with---and for the first time I get to say this in the most literal sense---a dramatic reading of {% wiki Seymour_Papert|Seymour Papert|en %}'s Wikipedia entry.  Worse, when we finally get to the alleged point, presenting {% wiki Logo_%28programming_language%29|LOGO|en %}, it skips through that to show only the smallest piece of a fairly clever language.  Maybe I took that a bit too personally, since I really enjoyed LOGO as a child.
 
 It also feels like the characters don't quite line up.  The front-matter promises us somebody who represents experience-based teaching, one theory, and the experimental subject...plus Papert in "an imaginary video call from the past."  But the two modern people, for all their bickering, don't seem to have much difference in approach.
 

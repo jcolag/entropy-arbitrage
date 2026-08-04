@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -41,7 +41,7 @@ Actually, if I set everything up right, then members---people giving me a couple
 
  > **BASHIR**: Ah yes, well, tricorders. Very accurate with live people, not so accurate with dead ones. We learn that first year medical school.
 
-This line feels worrying.  In our world, we constantly find cases where we can bring "definitely dead" people back to life.  During cholera epidemics, it became such a widespread concern that companies produced [safety coffins](https://en.wikipedia.org/wiki/Safety_coffin).  That doesn't bother me.  Sometimes living people seem dead.  {% emoji person shrugging %}
+This line feels worrying.  In our world, we constantly find cases where we can bring "definitely dead" people back to life.  During cholera epidemics, it became such a widespread concern that companies produced {% wiki Safety_coffin|safety coffins|en %}.  That doesn't bother me.  Sometimes living people seem dead.  {% emoji person shrugging %}
 
 In our world, though, when it happens, we change how we define "dead," because it makes far more sense to find another test that distinguishes dead from (apologies to William Goldman) *mostly dead* than to believe that the doctor reversed the process of death.  For example, we once declared a person dead if they had no pulse or breath, but CPR makes it clear that the definition doesn't work.  A permanent end of respiratory and circulatory activity sounds better, but then what do we call somebody on life support or packing transplanted organs?  Most people now use the end of electrical activity in the brain as the dividing line, but if doctors start saving people at that point, then we'll find the next barrier, because death *means* that you can't bring them back.
 
@@ -55,7 +55,7 @@ It does feel uncomfortable that they do this for the colleague with clear Arabic
 
  > **KAJADA**: What happened?
 
-I guess that I got all the **Babylon 5** talk out of the way too soon, because you might recognize Kajada as [Caitlin Brown](https://en.wikipedia.org/wiki/Julie_Caitlin_Brown), who (among other things) would soon go on to play a variety of roles on the competition.
+I guess that I got all the **Babylon 5** talk out of the way too soon, because you might recognize Kajada as {% wiki Julie_Caitlin_Brown|Caitlin Brown|en %}, who (among other things) would soon go on to play a variety of roles on the competition.
 
  > **KAJADA**: Are you sure it's the same body?
  >
@@ -115,7 +115,7 @@ I can think of one reason not to do that:  It never works on **The Next Generati
 
  > **DURG**: That's what you said about Vener Seven.
 
-You might recognize Durk as [Christopher Collins](https://en.wikipedia.org/wiki/Christopher_Collins), one of the Klingons in [*A Matter of Honor*]({% post_url 2023-01-12-matter-honor %}) and the Pakled captain in [*Samaritan Snare*]({% post_url 2023-03-16-samaritan-snare %}), plus (among other roles) **G.I. Joe**'s Cobra Commander and Starscream from **Transformers** in the original cartoons, and would die about a year after this.
+You might recognize Durk as {% wiki Christopher_Collins|Christopher Collins|en %}, one of the Klingons in [*A Matter of Honor*]({% post_url 2023-01-12-matter-honor %}) and the Pakled captain in [*Samaritan Snare*]({% post_url 2023-03-16-samaritan-snare %}), plus (among other roles) **G.I. Joe**'s Cobra Commander and Starscream from **Transformers** in the original cartoons, and would die about a year after this.
 
  > **COMPUTER**: Doctor Bashir is in the Infirmary.
 
@@ -123,7 +123,7 @@ Why do they even *have* those badges?  Seriously, Primmin wanted to know why not
 
  > **BASHIR**: Exactly. So if you care at all about the welfare of your Doctor, you will release your hold on us. You have one minute to decide.
 
-I'd love it if Sisko went full-on [*The Ransom of Red Chief*](https://en.wikipedia.org/wiki/The_Ransom_of_Red_Chief), here, and pointed out that nobody actually *likes* Bashir.
+I'd love it if Sisko went full-on {% wiki The_Ransom_of_Red_Chief|*The Ransom of Red Chief*|en %}, here, and pointed out that nobody actually *likes* Bashir.
 
 ## Conclusions
 

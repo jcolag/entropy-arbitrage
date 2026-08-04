@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -64,7 +64,7 @@ By the way, you might notice that the Wadi ship has more than a few design detai
 
  > **FALOW**: I am Falow, Master Surchid of the Wadi.
 
-If Falow looks familiar, then you might recognize [Joel Brooks](https://en.wikipedia.org/wiki/Joel_Brooks), successful character actor for decades.
+If Falow looks familiar, then you might recognize {% wiki Joel_Brooks|Joel Brooks|en %}, successful character actor for decades.
 
  > **SISKO**: First contact is not what it used to be.
 
@@ -118,7 +118,7 @@ It especially feels weird with Dax's disinterested delivery.  Even Kira gets int
 
  > **DAX**: A game. Home is often the destination in a game.
 
-She needs a big old "<sup>Citation Needed</sup>" on this, no?  I can think of a handful of groupings, such as the [pachisi](https://en.wikipedia.org/wiki/Pachisi) family---a subclass of the cross-and-circle subclass of race games---safe haven sports such as baseball and cricket, and hide-and-seek, where at least some players have "home" as a goal.  But "often" feels tough to justify when games include everything from guessing a number to simulated empire-building to field hockey to contract bridge.
+She needs a big old "<sup>Citation Needed</sup>" on this, no?  I can think of a handful of groupings, such as the {% wiki Pachisi|pachisi|en %} family---a subclass of the cross-and-circle subclass of race games---safe haven sports such as baseball and cricket, and hide-and-seek, where at least some players have "home" as a goal.  But "often" feels tough to justify when games include everything from guessing a number to simulated empire-building to field hockey to contract bridge.
 
  > **KIRA**: How did you know?
  >

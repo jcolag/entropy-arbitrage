@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -46,11 +46,11 @@ Look, I love the idea that billions of Bajorans all believe that they each playe
 
  > **SISKO**: Kai Opaka. Why would she be here?
 
-This seems like the third episode in a row treating clear situations like some arcane mystery.  Gosh, why *would* the Bajoran religious leader want to spend time at the facility nearest the location from which the majority of her religion's supernatural lore derives?  Like, if you provably found the [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) at your local elementary school playground, you're going to expect some prominent Abrahamic religious leaders to show up from time to time.  Think that, but *far* more intense.  It actually surprises me that they don't have constant traffic through the place.
+This seems like the third episode in a row treating clear situations like some arcane mystery.  Gosh, why *would* the Bajoran religious leader want to spend time at the facility nearest the location from which the majority of her religion's supernatural lore derives?  Like, if you provably found the {% wiki Garden_of_Eden|Garden of Eden|en %} at your local elementary school playground, you're going to expect some prominent Abrahamic religious leaders to show up from time to time.  Think that, but *far* more intense.  It actually surprises me that they don't have constant traffic through the place.
 
 Also, she seems fun, so maybe pipe down and enjoy the visit?
 
-Speaking of which, did I point to the late [Camille Saviola](https://en.wikipedia.org/wiki/Camille_Saviola)'s background during the pilot?
+Speaking of which, did I point to the late {% wiki Camille_Saviola|Camille Saviola|en %}'s background during the pilot?
 
  > **SISKO**: I didn't want to keep you from your duties, Doctor.
  >
@@ -106,7 +106,7 @@ Never mind about the cross-wormhole communication thing, because apparently they
 
  > **SHEL-LA**: Our first visitors. You're not all the same race.
 
-You might recognize Shel-La as a fairly young [Jonathan Banks](https://en.wikipedia.org/wiki/Jonathan_Banks), probably mostly known then for comedy and increasingly as calculating criminals.
+You might recognize Shel-La as a fairly young {% wiki Jonathan_Banks|Jonathan Banks|en %}, probably mostly known then for comedy and increasingly as calculating criminals.
 
  > **O'BRIEN**: Not even a transponder signal. If they went down, we should at least get something from their transponder. The warp eddy has traces of meson particle emissions. That makes it a Starfleet power reactor.
 
@@ -152,11 +152,11 @@ Well, wait, now he has me *opposing* this plan.  If they qualify as separate fro
 
  > **ZLANGCO**: So, you are the leader of the aliens.
 
-Less recognizable, but if Zlangco rings a bell---other than a name that sounds like an evil corporation from a cartoon---[Paul Collins](https://en.wikipedia.org/wiki/Paul_Collins_%28actor%29) plays him, *best* known for voicing John Darling in Disney's **Peter Pan** adaptation as a child (so you probably don't recognize him *from* that), but with a smattering of other credits, such as the Treasury Secretary in **Dave** at around this time.
+Less recognizable, but if Zlangco rings a bell---other than a name that sounds like an evil corporation from a cartoon---{% wiki Paul_Collins_%28actor%29|Paul Collins|en %} plays him, *best* known for voicing John Darling in Disney's **Peter Pan** adaptation as a child (so you probably don't recognize him *from* that), but with a smattering of other credits, such as the Treasury Secretary in **Dave** at around this time.
 
  > **SISKO**: The Federation is made up of over a hundred planets who have allied themselves for mutual scientific, cultural and defensive benefits. The mission that my people and I are on is to explore the galaxy.
 
-Wait, since when?  I could've sworn that they assigned him to lead administrative duties on the station so that the Bajoran provisional government doesn't tear itself apart dealing with the optics of keeping a former death camp running.  Sure, he can't tell them that he took the day off to hang out with Space [Pope Joan](https://en.wikipedia.org/wiki/Pope_Joan) and only reluctantly agreed to check out the [OTB](https://en.wikipedia.org/wiki/Off-track_betting) feed---reading between the lines that the satellites streamed a bunch of statistical data earlier but not since---but it feels like a huge exaggeration to suggest that he explores the galaxy for a living...
+Wait, since when?  I could've sworn that they assigned him to lead administrative duties on the station so that the Bajoran provisional government doesn't tear itself apart dealing with the optics of keeping a former death camp running.  Sure, he can't tell them that he took the day off to hang out with Space {% wiki Pope_Joan|Pope Joan|en %} and only reluctantly agreed to check out the {% wiki Off-track_betting|OTB|en %} feed---reading between the lines that the satellites streamed a bunch of statistical data earlier but not since---but it feels like a huge exaggeration to suggest that he explores the galaxy for a living...
 
  > **DAX**: Is there any way for us to get a comm. line through the field?
  >
@@ -216,4 +216,4 @@ Come back in a week, when O'Brien---yeah, more O'Brien---cosplays as Gandalf or 
 
 * * *
 
-**Credits**: The header image comes from [**J'Accuse**](https://en.wikipedia.org/wiki/J%27accuse_%281919_film%29) (2:25:45), long in the public domain due to an expired copyright.
+**Credits**: The header image comes from {% wiki J%27accuse_%281919_film%29|**J'Accuse**|en %} (2:25:45), long in the public domain due to an expired copyright.

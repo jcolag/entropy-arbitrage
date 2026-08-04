@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we mark [World AIDS Vaccine Day](https://en.wikipedia.org/wiki/World_AIDS_Vaccine_Day) or HIV Vaccine Awareness Day, promoting the need for...well, you can figure that much out by the name of the event.  Over my life, I have watched AIDS transition from a mysterious-but-ignored (because it happened to "those people") death sentence to something almost reasonably treatable and survivable, meaning that we can almost certainly go further.
+Today, we mark {% wiki World_AIDS_Vaccine_Day|World AIDS Vaccine Day|en %} or HIV Vaccine Awareness Day, promoting the need for...well, you can figure that much out by the name of the event.  Over my life, I have watched AIDS transition from a mysterious-but-ignored (because it happened to "those people") death sentence to something almost reasonably treatable and survivable, meaning that we can almost certainly go further.
 
 ![Two people wearing AIDS awareness buttons over their eyes with Facing AIDS signs that they have completed with A Condom and a Pill at a Time and Because People I Love Are Infected](/blog/assets/facing-AIDS.png "I could've gone with something governmental, but absolutely not when a picture like this sits right on the Wikipedia page...")
 
-If you like, we also have [Africa Day](https://en.wikipedia.org/wiki/Africa_Day) today, commemorating the effort that has gone into producing pan-African cooperation and a common identity.  Oh, and [International Museum Day](https://en.wikipedia.org/wiki/International_Museum_Day), this year carrying the *Museums Uniting a Divided World* theme.
+If you like, we also have {% wiki Africa_Day|Africa Day|en %} today, commemorating the effort that has gone into producing pan-African cooperation and a common identity.  Oh, and {% wiki International_Museum_Day|International Museum Day|en %}, this year carrying the *Museums Uniting a Divided World* theme.
 
 And with that, on to the week's projects.
 

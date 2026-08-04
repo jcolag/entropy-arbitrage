@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-While not nearly as important as some historians like to present it, today marks the 178<sup>th</sup> anniversary of the second/final day of the [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convention), the first *major* women's rights convention.  I emphasize "major," because too many histories ignore how many prior women's rights groups---especially *Black women*---coordinated and met with each other to share ideas.
+While not nearly as important as some historians like to present it, today marks the 178<sup>th</sup> anniversary of the second/final day of the {% wiki Seneca_Falls_Convention|Seneca Falls Convention|en %}, the first *major* women's rights convention.  I emphasize "major," because too many histories ignore how many prior women's rights groups---especially *Black women*---coordinated and met with each other to share ideas.
 
 ![The remaining exterior walls of the Wesleyan Methodist Church in Seneca Falls, NY, with a blue New York landmark sign describing the convention](/blog/assets/Wesleyan-Methodist-Church-Seneca-Falls-NY.png "Susan B. Anthony not pictured here, either...")
 
@@ -24,7 +24,7 @@ After the Civil War, Seneca Falls became an important symbol, and so suffragists
 
 I don't want to re-litigate the story, mind you, or undermine the value of the symbol to the women's rights movement.  Lisa Tetrault's **The Myth of Seneca Falls** actually does a fantastic job of putting the pieces together, though, for anybody interested in further reading.
 
-If you want an even more bleak reading on a holiday than that, we also have [International Chess Day](https://en.wikipedia.org/wiki/International_Chess_Day).  I gather that celebrations have grown difficult over the past few years due to cheating scandals, Russia's political reputation in a Russian-dominated sport, and transphobic policies.
+If you want an even more bleak reading on a holiday than that, we also have {% wiki International_Chess_Day|International Chess Day|en %}.  I gather that celebrations have grown difficult over the past few years due to cheating scandals, Russia's political reputation in a Russian-dominated sport, and transphobic policies.
 
 I can only really follow up on this (beyond people guessing where I land on the latter two scandals without too much trouble) that I tried *so hard* to like chess over the years, but could never take it seriously.  Eventually, I realized that I liked the idea of playing it, because I had internalized the stereotype that "smart people play chess" and either wanted to think of myself that way or thought that I should.  Once I realized that "trying to like things that smart people stereotypically like so that I can feel smart" sounded unspeakably goofy, I gave up on that, along with plenty of other things that convinced me to take myself far too seriously.
 

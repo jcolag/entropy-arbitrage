@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -42,7 +42,7 @@ Having finally ended **The Next Generation**'s winter hiatus, we finally have a 
 
 This entire exchange seems to imply that the Federation allows people to sign away their autonomy to an employer, and that most people somehow don't know about it.  That, or they don't have laws against (textbook) sexual harassment.  Either way, the phrasing seems to insist on one or the other:  Quark *won't* hold her to the contract, not that, on a site administered by the Federation and/or Starfleet, he "can't."
 
-Oh, and if Sarda looks familiar, [Kelly Curtis](https://en.wikipedia.org/wiki/Kelly_Curtis) plays her, as in Jamie Lee Curtis's sister, and the daughter of Tony Curtis and Janet Leigh.  She already had a minor film career at this point, but would soon hit the main cast of **The Sentinel** for a season, among other appearances, and has shifted behind the scenes.
+Oh, and if Sarda looks familiar, {% wiki Kelly_Curtis|Kelly Curtis|en %} plays her, as in Jamie Lee Curtis's sister, and the daughter of Tony Curtis and Janet Leigh.  She already had a minor film career at this point, but would soon hit the main cast of **The Sentinel** for a season, among other appearances, and has shifted behind the scenes.
 
  > **SISKO**: Welcome to the Alpha Quadrant. I'm Commander Benjamin Sisko of the United Federation of Planets.
  >
@@ -50,7 +50,7 @@ Oh, and if Sarda looks familiar, [Kelly Curtis](https://en.wikipedia.org/wiki/Ke
 
 This seems like the goofiest way to greet a foreigner who ends up in your lap accidentally.  The hypothetical civilization on the other side of the wormhole *probably* doesn't enumerate parts of the galaxy with Greek letters, and it almost certainly doesn't start naming them with the one where they don't live.
 
-Oh, also, I don't think that anybody knew him at the time, but Tosk might look familiar as portrayed by [Scott McDonald](https://en.wikipedia.org/wiki/Scott_MacDonald_%28actor%29), who has had a fairly significant career since then, including---in our past as we go through these one show at a time---Troi's handler N'Vek in [*Face of the Enemy*]({% post_url 2025-02-20-face-enemy %}), in addition to another role that we'll see in a couple of years, and then recurring Commander Dolim in **Enterprise**.
+Oh, also, I don't think that anybody knew him at the time, but Tosk might look familiar as portrayed by {% wiki Scott_MacDonald_%28actor%29|Scott McDonald|en %}, who has had a fairly significant career since then, including---in our past as we go through these one show at a time---Troi's handler N'Vek in [*Face of the Enemy*]({% post_url 2025-02-20-face-enemy %}), in addition to another role that we'll see in a couple of years, and then recurring Commander Dolim in **Enterprise**.
 
  > **SISKO**: Agreed. Why don't you meet him by yourself at the airlock, Mister O'Brien? He might find that a little less intimidating.
 
@@ -96,7 +96,7 @@ Sure, except for the---as he'll start calling them soon enough with regularity--
 
 Seriously, even the foreigners from the other side of the galaxy, they force them to learn English?  Or maybe their translation system deliberately provides literal translations of idioms so that we can have "fun" scenes like this.
 
-Oh, and by the way, [ram-scoops](https://en.wikipedia.org/wiki/Bussard_ramjet) exist, a 1960-ish idea for an already-moving spacecraft to catch interstellar hydrogen in pretty much a giant funnel, to feed a fusion reaction.  I won't bother pointing out that you probably don't find them deep in the engine...
+Oh, and by the way, {% wiki Bussard_ramjet|ram-scoops|en %} exist, a 1960-ish idea for an already-moving spacecraft to catch interstellar hydrogen in pretty much a giant funnel, to feed a fusion reaction.  I won't bother pointing out that you probably don't find them deep in the engine...
 
  > **O'BRIEN**: I was joking, Tosk.
  >
@@ -130,7 +130,7 @@ Not relevant to us, but honestly, when you *hide behind people* with guns for pr
 
  > **HUNTER**: What a disappointment. And after such an entertaining beginning.
 
-You might recognize the lead hunter-whatever as [Gerrit Graham](https://en.wikipedia.org/wiki/Gerrit_Graham) from pretty much everywhere, most notably from his work with Brian De Palma, but also behind the scenes writing songs and scripts.
+You might recognize the lead hunter-whatever as {% wiki Gerrit_Graham|Gerrit Graham|en %} from pretty much everywhere, most notably from his work with Brian De Palma, but also behind the scenes writing songs and scripts.
 
  > **SISKO**: Centuries ago, people on my world engaged in blood-sports, killing lower species for pleasure. A few cultures still do. But even they wouldn't consider hunting a sentient being.
 
@@ -196,7 +196,7 @@ I almost raised the issue when Sisko told Odo to take his time, but this wraps t
 
 ## Quick Commentary
 
-Ignore the fact that you could describe the plot of this episode as "[*The Most Dangerous Game*](https://en.wikipedia.org/wiki/The_Most_Dangerous_Game) stumbles onto DS9" for a moment.  Knowing where the series goes, I want to draw attention to one (segmented) line that I believe most people have ignored, despite it not only strongly foreshadowing upcoming plot points, but also doing what every *Star Trek* story arguably needs to do.
+Ignore the fact that you could describe the plot of this episode as "{% wiki The_Most_Dangerous_Game|*The Most Dangerous Game*|en %} stumbles onto DS9" for a moment.  Knowing where the series goes, I want to draw attention to one (segmented) line that I believe most people have ignored, despite it not only strongly foreshadowing upcoming plot points, but also doing what every *Star Trek* story arguably needs to do.
 
  > **HUNTER**: But he is sentient only because we have made him sentient. He has been bred for the hunt. His entire reason to exist is the hunt. To make it as exciting, as interesting, as he can. Obviously, you do not comprehend.
  >
@@ -204,7 +204,7 @@ Ignore the fact that you could describe the plot of this episode as "[*The Most 
  >
  > **HUNTER**: Abuse? We *honor* Tosk. They are the symbol of all that is noble and courageous. They train and condition themselves all their lives for this event. They're proud of their role in our culture.
 
-Because **The Next Generation** became so popular---for reasons that still mystify me beyond "we couldn't find anything else on in 1987"---productions have largely forgotten about it.  But as I have probably said many times before, "good *Star Trek*" prioritizes one thing, social satire.  Roddenberry pitched it as **Wagon Train**, evoking the tropes of Westerns, especially [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny), but looking more like [**Gulliver's Travels**](https://en.wikipedia.org/wiki/Gulliver%27s_Travels) in its most memorable moments.
+Because **The Next Generation** became so popular---for reasons that still mystify me beyond "we couldn't find anything else on in 1987"---productions have largely forgotten about it.  But as I have probably said many times before, "good *Star Trek*" prioritizes one thing, social satire.  Roddenberry pitched it as **Wagon Train**, evoking the tropes of Westerns, especially {% wiki Manifest_destiny|Manifest Destiny|en %}, but looking more like {% wiki Gulliver%27s_Travels|**Gulliver's Travels**|en %} in its most memorable moments.
 
 At its best, the franchise takes its "strange new worlds" and uses them to hold up a mirror to the worst people, to let them hear what they sound like, and to lecture them through a proxy.  Think of [*The Omega Glory*]({% post_url 2021-01-14-omega %}), for example, has Kirk scream at the white dudes that (their alien version of) the foundational documents of the United States, elevated to sacred texts that only the powerful have permission to read, "must apply to everyone, or they mean nothing."  Sure, it comes off like a goofy episode with a nonsensical plot and some atrocious acting, but it nails the tone that I mean, literally telling white Americans that you can't store freedom in a box to dole it out only to the anointed few on important occasions and still call the country free...not that I have any particular situation in mind since they wrote it.
 

@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-We still don't have a holiday, but four hundred seventy-one years ago, [Bayinnaung Kyawhtin Nawrahta](https://en.wikipedia.org/wiki/Bayinnaung) had himself crowned King of Burma after spending a few years taking on the (other?) warlords claiming control over various regions of the nation after the former king's assassination.  He would go on to build and rule the largest Southeast Asian empire in history, but also reduced internal military conflicts by harmonizing laws and shrinking the authority of the hereditary ruling class.
+We still don't have a holiday, but four hundred seventy-one years ago, {% wiki Bayinnaung|Bayinnaung Kyawhtin Nawrahta|en %} had himself crowned King of Burma after spending a few years taking on the (other?) warlords claiming control over various regions of the nation after the former king's assassination.  He would go on to build and rule the largest Southeast Asian empire in history, but also reduced internal military conflicts by harmonizing laws and shrinking the authority of the hereditary ruling class.
 
 ![Statue of Bayinnaung in front of National Museum of Myanmar](/blog/assets/Bayinnaung.png "What do you think, spread rumors about Charles Barkley starring in a movie where a child needs to free Bayinnaung from servitude as a genie to see how it takes before people start insisting on parallel universes...?")
 

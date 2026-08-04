@@ -54,7 +54,7 @@ OK, maybe the (closely related) ideas so far don't sway you.  You don't care abo
 
 And...OK, but contrary to what you might have heard, treating people with respect tends to produce better business outcomes.  You get a wider talent pool.  Your behavior doesn't scare customers away.  Your teams get better from exposure to differences.  Yeah, you offend some fascists, and they loudly try to organize a boycott that inevitably flops.
 
-For all [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism)'s faults, treating the world like a series of markets makes a fairly good case for **not** acting like a complete creep.
+For all {% wiki Neoliberalism|neoliberalism|en %}'s faults, treating the world like a series of markets makes a fairly good case for **not** acting like a complete creep.
 
 ## You Never Know
 
@@ -72,7 +72,7 @@ It reminds me of a story[^b51VEc] about an online <dfn title="person interested 
 
 The community largely accepted them despite the transparent trolling.  And over a few weeks, they watched the trolls transition (pardon the term, I guess) from vitriol to participating in-character ironically, and from ironic role-play to seemingly enjoying the role-play, and then growing attached to their characters and building prosocial relationships with each other and more experienced members of the community *as their vehicle characters*.
 
-Now, I can't find if that actually ever happened as described, but the fact that the story doesn't sound like completely unhinged science fiction---as in something on par with the inane [litter box panic](https://en.wikipedia.org/wiki/Litter_boxes_in_schools_hoax) a couple of years back---makes my point in presenting it for me:  Most of us didn't come upon our gender identity or sexuality through careful introspection, so we might well have it wrong.  Again, *probably* not, but given a safe space to explore options, we don't necessarily know what our identities might look like.  Any of us might discover at any time that we had something missing from our lives that would make us more complete.
+Now, I can't find if that actually ever happened as described, but the fact that the story doesn't sound like completely unhinged science fiction---as in something on par with the inane {% wiki Litter_boxes_in_schools_hoax|litter box panic|en %} a couple of years back---makes my point in presenting it for me:  Most of us didn't come upon our gender identity or sexuality through careful introspection, so we might well have it wrong.  Again, *probably* not, but given a safe space to explore options, we don't necessarily know what our identities might look like.  Any of us might discover at any time that we had something missing from our lives that would make us more complete.
 
 ## The Main Event
 
@@ -100,7 +100,7 @@ We could go on and on, here, if you notice all the many behavioral and materiali
 
 ### Cone of Shame
 
-Even if you somehow live a Republican-approved gender-conforming lifestyle, this goes even deeper.  Consider so-called [Mar-a-Lago face](https://en.wikipedia.org/wiki/Beauty_trends_among_American_conservatives), for example.
+Even if you somehow live a Republican-approved gender-conforming lifestyle, this goes even deeper.  Consider so-called {% wiki Beauty_trends_among_American_conservatives|Mar-a-Lago face|en %}, for example.
 
 The term originated as an insult against the women in Trump's orbit---because we live in a deeply misogynist society that delights in focusing attention[^k1MYm_] on the feminine human shields put in place to distract from the deeper policy---and the women in the upper echelons do have an increasingly consistent look.  But so do the men.  Out of nowhere, they all started sporting dental veneers and identical jawlines, which seems like a fairly big investment.
 
@@ -160,7 +160,7 @@ And I'd say...both, and maybe neither.
 
 Do I truly believe that conservatives don't specifically want to inflict pain on an already-marginalized population?  Absolutely not.  These people have shown over and over that they have such deep insecurity that they need to constantly inflict pain to feel in-control.  They have this deep in their culture, from insulting nicknames to their literal pedophilia ring to warmongering to loving inflation to depriving people of health care.
 
-However, do I truly believe that they have this suffering as their end goal?  Again, absolutely not.  They definitely want to force us to conform to their pathetic narrow gender roles, and will happily start using bathroom, sports, and whatever-comes-next bills as a pretext to demand that random people to prove their secondary sex characteristics[^8jPS6k] match their ID, and which match their gender presentation.  We have *already seen it* with their obsession with transgender women in women's sports, where they want to "protect" girls and women from alleged molestation---of sharing a locker room with someone whose identity differs from their sex assigned at birth, but not [actual molestation by authority figures](https://en.wikipedia.org/wiki/USA_Gymnastics_sex_abuse_scandal)---by forcing every participant to drop their pants for whatever inspection an authority figure decides makes sense.
+However, do I truly believe that they have this suffering as their end goal?  Again, absolutely not.  They definitely want to force us to conform to their pathetic narrow gender roles, and will happily start using bathroom, sports, and whatever-comes-next bills as a pretext to demand that random people to prove their secondary sex characteristics[^8jPS6k] match their ID, and which match their gender presentation.  We have *already seen it* with their obsession with transgender women in women's sports, where they want to "protect" girls and women from alleged molestation---of sharing a locker room with someone whose identity differs from their sex assigned at birth, but not {% wiki USA_Gymnastics_sex_abuse_scandal|actual molestation by authority figures|en %}---by forcing every participant to drop their pants for whatever inspection an authority figure decides makes sense.
 
 [^8jPS6k]:  What they call something thoroughly inaccurate, like "biological sex," even though you can't find a strict binary anywhere in genetics or anatomy unless you ignore an enormous number of people.
 

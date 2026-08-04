@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Lacking a more substantial holiday, on this day in 1794, the French Revolutionaries put [Maximillen Robespierre](https://en.wikipedia.org/wiki/Maximilien_Robespierre) and [Louis Antoine de Saint-Just](https://en.wikipedia.org/wiki/Louis_Antoine_de_Saint-Just) to death in the guillotine.  If the names sound familiar, the close friends---despite a strong start as staunch, pro-democracy voices---led the [Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror).  Louis also lends his name to the fictional Marguerite St. Just, the actress married to Percy Blakeney, the Scarlet Pimpernel, while Robespierre makes an appearance in many adaptations of the novel, not to mention each of them showing up in dozens of fictional works.
+Lacking a more substantial holiday, on this day in 1794, the French Revolutionaries put {% wiki Maximilien_Robespierre|Maximillen Robespierre|en %} and {% wiki Louis_Antoine_de_Saint-Just|Louis Antoine de Saint-Just|en %} to death in the guillotine.  If the names sound familiar, the close friends---despite a strong start as staunch, pro-democracy voices---led the {% wiki Reign_of_Terror|Reign of Terror|en %}.  Louis also lends his name to the fictional Marguerite St. Just, the actress married to Percy Blakeney, the Scarlet Pimpernel, while Robespierre makes an appearance in many adaptations of the novel, not to mention each of them showing up in dozens of fictional works.
 
 ![Terracotta bust of Robespierre by Deseine, 1791](/blog/assets/terracotta-Robespierre-Deseine.png "Hey, that piece looks really shiny; can I get a closer look...?")
 
-I'd say "if you want something less grim," but I only have [World Hepatitis Day](https://en.wikipedia.org/wiki/World_Hepatitis_Day) as a backup...
+I'd say "if you want something less grim," but I only have {% wiki World_Hepatitis_Day|World Hepatitis Day|en %} as a backup...
 
 And with that, on to the week's projects.
 
@@ -73,7 +73,7 @@ I wrote a quick configuration file to set the working directory---putting all it
 ytdl-sub sub subscriptions.yaml --config configuration.yaml
 ```
 
-If you mark channel categories as "Only Recent," then it'll only grab the videos in a specified range and delete them as they age out on subsequent runs of the program, probably the right choice overall and what I want; if you don't, then it'll try to archive every video from every channel that you list, which I *assume* will trigger all sorts of throttling from YouTube and take forever to get everything into place.  I set up a [cron job](https://en.wikipedia.org/wiki/Cron) to run it every night, and that should work well enough until Alphabet inevitably decides to destroy every podcast, client, script, and report around the world that has relied on those RSS feeds for decades, or the YouTube downloaders can't keep up with changes to the site.  Until then, at least, this feels like a close-enough solution.
+If you mark channel categories as "Only Recent," then it'll only grab the videos in a specified range and delete them as they age out on subsequent runs of the program, probably the right choice overall and what I want; if you don't, then it'll try to archive every video from every channel that you list, which I *assume* will trigger all sorts of throttling from YouTube and take forever to get everything into place.  I set up a {% wiki Cron|cron job|en %} to run it every night, and that should work well enough until Alphabet inevitably decides to destroy every podcast, client, script, and report around the world that has relied on those RSS feeds for decades, or the YouTube downloaders can't keep up with changes to the site.  Until then, at least, this feels like a close-enough solution.
 
 I then added the download folder as a library of television shows in Jellyfin, which treats it like it does the DVD rips, but with only the handful of channels as shows instead of the maybe-too-many actual TV shows, giving me a (slower and tightly curated) version of YouTube that only needs Internet access for a while in the middle of the night.  Now, I can watch [**The Tiny Angry Witch** {% cc %}](https://www.tinyangrywitch.com/) in peace...
 

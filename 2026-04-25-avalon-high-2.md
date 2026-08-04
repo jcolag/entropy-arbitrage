@@ -61,7 +61,7 @@ I list homophobia in the advisories, but it seems worth talking about how poorly
 
 [^ABygB-]:  Back in the days when I'd answer questions on Quora, I'd reply to notes in this vein with something like "I think that an errant **n** slipped in."
 
-The ongoing argument between Ryan and Alan (I guess) also feels like a drag on its run through the early parts of *Unnecessary Risk*, followed by...an actual game of [Risk](https://en.wikipedia.org/wiki/Risk_%28game%29).
+The ongoing argument between Ryan and Alan (I guess) also feels like a drag on its run through the early parts of *Unnecessary Risk*, followed by...an actual game of {% wiki Risk_%28game%29|Risk|en %}.
 
 ## Opportunities
 

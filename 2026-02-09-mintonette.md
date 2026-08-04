@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-A hundred thirty-one years ago today, at least so the story goes, YMCA physical education director William G. Morgan created the popular sport mintonette, adapting badminton for a larger group, as a lower-intensity workout than the still-new basketball.  You've never heard of it?  Ah, right.  Because the name makes no sense whatsoever, people quickly renamed it [volleyball](https://en.wikipedia.org/wiki/Volleyball).
+A hundred thirty-one years ago today, at least so the story goes, YMCA physical education director William G. Morgan created the popular sport mintonette, adapting badminton for a larger group, as a lower-intensity workout than the still-new basketball.  You've never heard of it?  Ah, right.  Because the name makes no sense whatsoever, people quickly renamed it {% wiki Volleyball|volleyball|en %}.
 
 ![Buddhist monks playing volleyball](/blog/assets/monks-volleyball-Sikkim-India.png "Dukkha, samudaya, spike!")
 

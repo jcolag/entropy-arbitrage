@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Less a celebration than one of the world's shared historical anchors, today marks the anniversary of the [Bur-Sagale eclipse](https://en.wikipedia.org/wiki/Assyrian_eclipse) in 763 BCE.  Because we can calculate the precise moments of eclipses for thousands of years in any direction, and since Solar eclipses tend to leave such a deep mark on people, the wide notability allows people to connect dates on different calendars.
+Less a celebration than one of the world's shared historical anchors, today marks the anniversary of the {% wiki Assyrian_eclipse|Bur-Sagale eclipse|en %} in 763 BCE.  Because we can calculate the precise moments of eclipses for thousands of years in any direction, and since Solar eclipses tend to leave such a deep mark on people, the wide notability allows people to connect dates on different calendars.
 
 ![A Solar eclipse as seen on the Artemis II Lunar flyby](/blog/assets/art002e009573orig.png "I profusely apologize for not tracking down a twenty-eight-hundred-year-old photograph for this...")
 

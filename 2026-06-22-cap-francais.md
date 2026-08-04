@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the anniversary of the end of the [Battle of Cap-Français](https://en.wikipedia.org/wiki/Battle_of_Cap-Fran%C3%A7ais_%281793%29), where (oversimplifying) the French occupiers, trying to stop the Haitian Revolution, made the mistake of fighting each other and recruiting slaves for the front lines with the predictable results of giving everybody the opportunity to rise up against the government.
+Today marks the anniversary of the end of the {% wiki Battle_of_Cap-Fran%C3%A7ais_%281793%29|Battle of Cap-Français|en %}, where (oversimplifying) the French occupiers, trying to stop the Haitian Revolution, made the mistake of fighting each other and recruiting slaves for the front lines with the predictable results of giving everybody the opportunity to rise up against the government.
 
 ![The city of Cap-Français in flames during the battle](/blog/assets/cap-francais.png "Only you can prevent the need to burn fascists out of the city...")
 
-Over in Europe, Croatia celebrates [Anti-Fascist Day](https://en.wikipedia.org/wiki/Anti-Fascist_Struggle_Day), celebrating their World War II uprising against the Axis occupiers.
+Over in Europe, Croatia celebrates {% wiki Anti-Fascist_Struggle_Day|Anti-Fascist Day|en %}, celebrating their World War II uprising against the Axis occupiers.
 
 And with that, on to the week's projects.
 

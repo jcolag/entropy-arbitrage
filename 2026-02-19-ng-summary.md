@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ While I'll continue rewatching the franchise and writing about it, this ends a s
 
 ## Conclusions
 
-First, in many ways, like the original series looks a lot like the 1960s, **The Next Generation** shows a world that looks eerily like at least some versions of the 1980s into the 1990s.  They never *say so*, because nobody sits down and describes their culture as resembling another, except in times of crisis.  But Picard consistently pitches an adaptation of [American exceptionalism](https://en.wikipedia.org/wiki/American_exceptionalism), and you can even see echoes throughout the series of what became Ronald Reagan's farewell address and its political context.
+First, in many ways, like the original series looks a lot like the 1960s, **The Next Generation** shows a world that looks eerily like at least some versions of the 1980s into the 1990s.  They never *say so*, because nobody sits down and describes their culture as resembling another, except in times of crisis.  But Picard consistently pitches an adaptation of {% wiki American_exceptionalism|American exceptionalism|en %}, and you can even see echoes throughout the series of what became Ronald Reagan's farewell address and its political context.
 
 > I've spoken of the shining city all my political life, but I don't know if I ever quite communicated what I saw when I said it. But in my mind it was a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here. That's how I saw it, and see it still.
 
@@ -135,7 +135,7 @@ Not only do we have the sexism and racism from the original series, and the econ
 
 Many also seem to live in ethnic enclaves, even among human ethnicities.  We see some evidence that many Japanese people live immersed in traditional Japanese culture, for example, and that Black people[^hTdPN3] live in Africa.  Similarly, few non-humans seem to have grown up around other cultures, unless they have specific family ties.
 
-[^hTdPN3]:  It didn't occur to me to check at the time, but in [*Cause and Effect*]({% post_url 2024-09-12-cause-effect %}), we get a glimpse of Crusher looking at La Forge's medical file, which identifies him as born in the African Confederation.  The remastered version of the screen narrows down his place of birth to [Mogadishu](https://en.wikipedia.org/wiki/Mogadishu), Somalia.
+[^hTdPN3]:  It didn't occur to me to check at the time, but in [*Cause and Effect*]({% post_url 2024-09-12-cause-effect %}), we get a glimpse of Crusher looking at La Forge's medical file, which identifies him as born in the African Confederation.  The remastered version of the screen narrows down his place of birth to {% wiki Mogadishu|Mogadishu|en %}, Somalia.
 
 On the gender side, we see expectations, time and again, that everybody expects women to succumb to the (dubious) charms of whatever man wants them, and to sacrifice their careers, and even identities, to child-rearing.  Women should leave their careers to follow the man in their lives, if the two careers diverge, but everybody finds it ridiculous to suggest that a man do the same.  If two men have a romantic interest in the same woman, then she has an obligation to waste away quietly while the men resolve the issue (or don't) between them.
 

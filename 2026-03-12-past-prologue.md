@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,7 +39,7 @@ Oh, and not really relevant, but since they introduce the things in this episode
 
  > **GARAK**: It's Doctor Bashir, isn't it? Of course it is. May I introduce myself?
 
-It hadn't occurred to me that Garak appeared this early in the series, and you probably recognize him "because Garak," *but* [Andrew Robinson](https://en.wikipedia.org/wiki/Andrew_Robinson_%28actor%29) has shown up pretty much everywhere for decades, most prominently (other than this role) in **Dirty Harry**.  He also played Liberace, which couldn't *possibly* have informed any of the decisions about this character.
+It hadn't occurred to me that Garak appeared this early in the series, and you probably recognize him "because Garak," *but* {% wiki Andrew_Robinson_%28actor%29|Andrew Robinson|en %} has shown up pretty much everywhere for decades, most prominently (other than this role) in **Dirty Harry**.  He also played Liberace, which couldn't *possibly* have informed any of the decisions about this character.
 
  > **BASHIR**: Er, yes, yes, of course.
 
@@ -67,7 +67,7 @@ A monitoring device, such as...his badge?
 
 Unrelated to the line except for the timing, going into the credits reminds me of something that I forgot to mention a couple of weeks ago:  This show finally tries to unify its "trade dress" with the then-current films, using a typeface (or two) that actually matches fairly well to create a cohesive "brand," instead of **The Next Generation**'s insistence on using an entirely different typeface, a commercial font (Crillee) first released in 1980, despite modifying **The Motion Picture**'s main theme as its own.
 
-Oh, actually somebody probably also wants to know that [Jeffrey Nordling](https://en.wikipedia.org/wiki/Jeffrey_Nordling) (no, not Combs) plays Tahna, though he still has most of his recognizable roles ahead of him at this point.
+Oh, actually somebody probably also wants to know that {% wiki Jeffrey_Nordling|Jeffrey Nordling|en %} (no, not Combs) plays Tahna, though he still has most of his recognizable roles ahead of him at this point.
 
  > **SISKO**: I suggest you get your priorities straight, Major, because I don't have any room for divided loyalties in this command. And I won't have a Kohn-Ma terrorist using this station as a protective shield for continuing violence.
 
@@ -75,7 +75,7 @@ The second part, I get, but for the divided loyalties...he *requested* that, no?
 
  > **ROLLMAN**: Thank you for bringing this to my attention, Major. I'll stay in close touch with the situation.
 
-Ready for this one?  [Susan Bay](https://en.wikipedia.org/wiki/Susan_Bay) plays the admiral, here, who appeared a handful of times over the years, but people know her now as more of a director and political activist, plus ex-wife of John Schuck---the Klingon ambassador in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}) and [**The Undiscovered Country**]({% post_url 2022-04-21-tuc %}) among more than a few other roles including a few more ahead of us---Leonard Nimoy's widow, and Michael Bay's cousin.  Good people, from what I can tell, in other words.
+Ready for this one?  {% wiki Susan_Bay|Susan Bay|en %} plays the admiral, here, who appeared a handful of times over the years, but people know her now as more of a director and political activist, plus ex-wife of John Schuck---the Klingon ambassador in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}) and [**The Undiscovered Country**]({% post_url 2022-04-21-tuc %}) among more than a few other roles including a few more ahead of us---Leonard Nimoy's widow, and Michael Bay's cousin.  Good people, from what I can tell, in other words.
 
  > **O'BRIEN**: Sir, I don't know much about the Bajoran terrorists, but you've never fought the Cardassians, have you?
 

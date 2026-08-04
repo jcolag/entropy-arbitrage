@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I realize that Lithuanian holidays feel pretty niche, but I absolutely will not pass over one that celebrates the [Lithuanian book smugglers](https://en.wikipedia.org/wiki/Lithuanian_book_smugglers), who defied the late-nineteenth century ban on Lithuanian material into the Russian Empire.  The country celebrates The Unknown Book Smuggler, and the day most specifically celebrates [Jurgis Bielinis](https://en.wikipedia.org/wiki/Jurgis_Bielinis), the "King of Book Smugglers."
+I realize that Lithuanian holidays feel pretty niche, but I absolutely will not pass over one that celebrates the {% wiki Lithuanian_book_smugglers|Lithuanian book smugglers|en %}, who defied the late-nineteenth century ban on Lithuanian material into the Russian Empire.  The country celebrates The Unknown Book Smuggler, and the day most specifically celebrates {% wiki Jurgis_Bielinis|Jurgis Bielinis|en %}, the "King of Book Smugglers."
 
 ![Jurgis Bielinis](/blog/assets/Bielinis-2.png "...Why don't I have a coat like that?")
 

@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -54,7 +54,7 @@ We get a quick reminder that Sisko likes baseball, as will the Jake-and-Nog subp
 
  > **VARIS**: Commander Sisko?
 
-You may recognize Varis as [Gina Philips](https://en.wikipedia.org/wiki/Gina_Philips), not the biggest name that we've seen come through here, but has bumped around genre fiction and still gets work, which seems like almost as much of an achievement as becoming a big star or leaving the industry to do important work elsewhere.
+You may recognize Varis as {% wiki Gina_Philips|Gina Philips|en %}, not the biggest name that we've seen come through here, but has bumped around genre fiction and still gets work, which seems like almost as much of an achievement as becoming a big star or leaving the industry to do important work elsewhere.
 
  > **BASHIR**: Do I annoy you?
 
@@ -76,15 +76,15 @@ Actually, scratch that.  Bashir might have stood out on the *Enterprise*, becaus
 
  > **FAREN**: Has he shown any sign of improvement?
 
-He won't get a line for a while, but in the bed, you might recognize [Kay E. Kuter](https://en.wikipedia.org/wiki/Kay_E._Kuter) playing the Sirah, known from minor roles pretty much everywhere for decades, but probably had his most regular gig as Newt Kiley, a recurring character between **Green Acres** and **Petticoat Junction**.  We heard his voice, at least, during [*The Nth Degree*]({% post_url 2024-03-14-nth-degree %}), as the creature pulling Barclay's strings.
+He won't get a line for a while, but in the bed, you might recognize {% wiki Kay_E._Kuter|Kay E. Kuter|en %} playing the Sirah, known from minor roles pretty much everywhere for decades, but probably had his most regular gig as Newt Kiley, a recurring character between **Green Acres** and **Petticoat Junction**.  We heard his voice, at least, during [*The Nth Degree*]({% post_url 2024-03-14-nth-degree %}), as the creature pulling Barclay's strings.
 
  > **WOBAN**: I'll say this for the Cardassians. Their replicators make a fine larish pie.
 
-And you might recognize Woban as [Jordan Lund](https://en.wikipedia.org/wiki/Jordan_Lund), though usually a stage performer for most of his career, though we saw him briefly as one of the Klingons in [*Redemption*]({% post_url 2024-05-16-redemption-part-2 %}), and later plays a bounty hunter on **Enterprise**.
+And you might recognize Woban as {% wiki Jordan_Lund|Jordan Lund|en %}, though usually a stage performer for most of his career, though we saw him briefly as one of the Klingons in [*Redemption*]({% post_url 2024-05-16-redemption-part-2 %}), and later plays a bounty hunter on **Enterprise**.
 
  > **HOVATH**: I'm here.
 
-The last major guest, I believe, you might recognize Hovath as [Lawrence Monoson](https://en.wikipedia.org/wiki/Lawrence_Monoson), who appeared quite a bit until about a decade ago, but he'll also show up on **Enterprise** as an unethical colleague.
+The last major guest, I believe, you might recognize Hovath as {% wiki Lawrence_Monoson|Lawrence Monoson|en %}, who appeared quite a bit until about a decade ago, but he'll also show up on **Enterprise** as an unethical colleague.
 
 Convenient for me that nothing interesting (except for that other baseball comment) happened between introducing most guests...
 
@@ -136,7 +136,7 @@ And to top it off, he drops the cape on the ground instead of, like...putting it
 
 You know, it occurs to me that Bashir treats O'Brien in this episode the way that everybody else treats him, as a mildly amusing...I think that the kids use the term "hot mess," these days.  He starts out acting like he desperately wants a friend, but---and again, this feels like it recalls **TNG**---mostly seems to see O'Brien like a joke, probably the most endearing thing about the doctor so far...
 
-By the way, it doesn't matter to us, but it occurs to me that the United States ratified [NAFTA](https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement), bringing Mexico---which partly shares a river border on the [Rio Grande](https://en.wikipedia.org/wiki/Rio_Grande)---bringing the country into an updated version of the [Canada–United States Free Trade Agreement](https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_Free_Trade_Agreement) later in the year this aired.  The treaty didn't adjust the border, but we all know that certain people like to keep that border as contentious as possible, and the plot about a contentious river border resolved with a free trade agreement does sound like NAFTA might have had some influence, here.
+By the way, it doesn't matter to us, but it occurs to me that the United States ratified {% wiki North_American_Free_Trade_Agreement|NAFTA|en %}, bringing Mexico---which partly shares a river border on the {% wiki Rio_Grande|Rio Grande|en %}---bringing the country into an updated version of the {% wiki Canada%E2%80%93United_States_Free_Trade_Agreement|Canada–United States Free Trade Agreement|en %} later in the year this aired.  The treaty didn't adjust the border, but we all know that certain people like to keep that border as contentious as possible, and the plot about a contentious river border resolved with a free trade agreement does sound like NAFTA might have had some influence, here.
 
 ## Conclusions
 

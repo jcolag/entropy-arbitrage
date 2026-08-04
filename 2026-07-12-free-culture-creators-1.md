@@ -155,7 +155,7 @@ And there you go.  The two branches of the movement divided themselves between "
 
 [^409e9s]:  As a quick update coming a bit later, here, people have indicated that the report takes people (somewhat) out of context and includes speculation, while overlooking far more prominent and damning evidence.  I choose to retain the link because nobody else has compiled anything of that scope, but anyone clicking through would want to treat it as notes from the start of a largely abandoned investigation, rather than a completed work of journalism.
 
-And then we wonder how [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed)-like incidents happen to software (Open SSL) with billions of users.  It couldn't have anything to do with the movement "leadership" approving of exploitation...
+And then we wonder how {% wiki Heartbleed|Heartbleed|en %}-like incidents happen to software (Open SSL) with billions of users.  It couldn't have anything to do with the movement "leadership" approving of exploitation...
 
 ### Licensing Gaps
 
@@ -191,7 +191,7 @@ When I talk about the movement(s) under attack, the philosophical divisions most
 
 Welcome to **two-and-a-half days** after this post originally went out, when Linus Torvalds aggressively [defended the Linux kernel from maintainers not wanting to fix up AI contributions](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/).
 
-He sees an operating systems kernel that nobody owns and anybody can improve as only technology, describing "the social angle" that makes it all work---turning it into something more than yet another minor historical curiosity, like its most direct inspiration [Minix](https://en.wikipedia.org/wiki/Minix)---as a *side benefit*.  Also, kiddo, nobody has non-ironically used the term "Social Justice Warrior" in something like a decade.  And who gets it *wrong*?
+He sees an operating systems kernel that nobody owns and anybody can improve as only technology, describing "the social angle" that makes it all work---turning it into something more than yet another minor historical curiosity, like its most direct inspiration {% wiki Minix|Minix|en %}---as a *side benefit*.  Also, kiddo, nobody has non-ironically used the term "Social Justice Warrior" in something like a decade.  And who gets it *wrong*?
 
 Actually, I know who gets it wrong, the person who claims that we can't dispute AI's usefulness on the basis that it increases *maintainer workloads*.  In other words, he doesn't care that this loads up his fairly literal legacy with technical debt that'll take decades to sort out.  In that sense, it makes perfect sense that he can't even get his "you people actually care about making the world better" insult right.
 

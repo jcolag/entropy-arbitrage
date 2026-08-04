@@ -47,7 +47,7 @@ My first idea actually tried to attack current events, coming up with this rough
 
 Ultimately, before I started working on it, I decided to discard the idea for three significant reasons.
 
-- Showing the ICE protests seemed to require the [Portland Frog](https://en.wikipedia.org/wiki/Portland_Frog) to land the joke, which has clear copyright entanglements.
+- Showing the ICE protests seemed to require the {% wiki Portland_Frog|Portland Frog|en %} to land the joke, which has clear copyright entanglements.
 - It seemed too serious for a project soliciting "the sillier, the better," the idea that horror-icon Cthulhu can't manage the news makes me laugh, but then turns too sincere.
 - The first explicit guideline says "no hate," and while the story doesn't *express* any hate, ICE and the Department of Homeland Security embody hate and xenophobia---they exist to pick and choose who "deserves" to live in the United States based on visibility---and I didn't want to force our editor to split that hair on our first time actually working together after years of talking to each other.
 

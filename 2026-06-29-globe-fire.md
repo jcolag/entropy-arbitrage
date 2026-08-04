@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Again lacking a real holiday, today marks the 413<sup>rd</sup> anniversary of the fire that destroyed the original [Globe Theatre](https://en.wikipedia.org/wiki/Globe_Theatre).  About a year later, the replacement on the same site opened its doors, which the [1997 reconstruction](https://en.wikipedia.org/wiki/Shakespeare%27s_Globe) down the road mimics.
+Again lacking a real holiday, today marks the 413<sup>rd</sup> anniversary of the fire that destroyed the original {% wiki Globe_Theatre|Globe Theatre|en %}.  About a year later, the replacement on the same site opened its doors, which the {% wiki Shakespeare%27s_Globe|1997 reconstruction|en %} down the road mimics.
 
 ![An approximation of the original Globe's interior, looking down on the stage](/blog/assets/008139-globe.png "Pursuing Bear not included")
 

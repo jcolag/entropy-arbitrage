@@ -52,7 +52,7 @@ Sometimes, the jokes land well.  This one got a laugh out of me.
 
 ![A cat approached Ceilidh at a desk, meowing.  She meows back, and they go back and forth as a pseudo-conversation, until someone screams for them to cut it out. Ceilidh blames the cat](/blog/assets/avalon20000121.png "Back when I had a cat, family urged me not to have conversations him in front of guests...")
 
-I would never blame a cat for luring me into a conversation---that [mind-control parasite](https://en.wikipedia.org/wiki/Toxoplasma_gondii#Behavioral_differences_of_infected_hosts) at work, maybe---but I definitely get the "encourage vocalizing to see if he tries to mimic speech" urge.
+I would never blame a cat for luring me into a conversation---that {% wiki Toxoplasma_gondii#Behavioral_differences_of_infected_hosts|mind-control parasite|en %} at work, maybe---but I definitely get the "encourage vocalizing to see if he tries to mimic speech" urge.
 
 ## What Works...Less Well?
 
@@ -70,7 +70,7 @@ From the article above, though, I gather that the comic did have an active colla
 
 ## What's Adaptable?
 
-Avalon and its high school seem like the headliners, here, surprising absolutely nobody.  And we get a mention that the [Y2K problem](https://en.wikipedia.org/wiki/Year_2000_problem) only affected some military satellites, an odd choice.
+Avalon and its high school seem like the headliners, here, surprising absolutely nobody.  And we get a mention that the {% wiki Year_2000_problem|Y2K problem|en %} only affected some military satellites, an odd choice.
 
 ## Coming Attractions
 

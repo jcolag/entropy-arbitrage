@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,7 +43,7 @@ And to reiterate, for those who don't recall the details of the episode or my co
 
 > **SISKO**: You learned out how to hit Bob Gibson's fast ball?
 
-[Hoot](https://en.wikipedia.org/wiki/Bob_Gibson), as they called him, played for the St. Louis Cardinals for his entire professional career, winning a pile of awards, including the informal claim to ushering in most of the so-called "Year of the Pitcher," passing away in 2020 to surprisingly little fanfare, though I suppose the news had other topics occupying it.
+{% wiki Bob_Gibson|Hoot|en %}, as they called him, played for the St. Louis Cardinals for his entire professional career, winning a pile of awards, including the informal claim to ushering in most of the so-called "Year of the Pitcher," passing away in 2020 to surprisingly little fanfare, though I suppose the news had other topics occupying it.
 
 > **SISKO**: The main thing is you can't be afraid of rejection
 
@@ -63,7 +63,7 @@ Given the constant failures of the runabouts when faced with any stress, did the
 
 > **O'BRIEN**: The Circle, huh. What gives them the right to mess up our station?
 
-We get plenty of worrying lines in this franchise, but this might beat at least the majority.  The Federation, recall, only manages the station on behalf of the Bajoran provisional government.  O'Brien, however, has gone full-on [broken windows](https://en.wikipedia.org/wiki/Broken_windows_theory) colonialism, declaring it the *Federation's* station (or at least joint ownership) and has strong opinions about relatively minor graffiti.
+We get plenty of worrying lines in this franchise, but this might beat at least the majority.  The Federation, recall, only manages the station on behalf of the Bajoran provisional government.  O'Brien, however, has gone full-on {% wiki Broken_windows_theory|broken windows|en %} colonialism, declaring it the *Federation's* station (or at least joint ownership) and has strong opinions about relatively minor graffiti.
 
 Odo will (next) describe them as an extremist Bajoran-supremacist group, but O'Brien doesn't already know that, or some "hate crime"-adjacent concept would've come up earlier in the scene instead of focusing on the paint.
 
@@ -83,15 +83,15 @@ Seriously, if you think that assessment seems too harsh, because of undercover s
 
 > **OVERSEER**: What would it cost me for an appointment?
 
-You might recognize sleazy-overseer as [John Fleck](https://en.wikipedia.org/wiki/John_Fleck_%28actor%29), who we last saw as one of the Romulans in [*The Mind's Eye*]({% post_url 2024-04-18-mind-s-eye %}).  He'll come back as other characters in later episodes of this show, plus a spot on **Voyager** and (not that we'll cover it) one character on **Enterprise**.  He also put in an appearance in the pilot film for **Babylon 5** mentioned a couple of months ago as context for [*The Passenger*]({% post_url 2026-04-23-passenger %}), and more recently on **The Orville**, rounding out the shows that people associate loosely with this franchise among a broader career.
+You might recognize sleazy-overseer as {% wiki John_Fleck_%28actor%29|John Fleck|en %}, who we last saw as one of the Romulans in [*The Mind's Eye*]({% post_url 2024-04-18-mind-s-eye %}).  He'll come back as other characters in later episodes of this show, plus a spot on **Voyager** and (not that we'll cover it) one character on **Enterprise**.  He also put in an appearance in the pilot film for **Babylon 5** mentioned a couple of months ago as context for [*The Passenger*]({% post_url 2026-04-23-passenger %}), and more recently on **The Orville**, rounding out the shows that people associate loosely with this franchise among a broader career.
 
 > **LI**: Who are you?
 
-Likewise, you might recognize Li as [Richard Beymer](https://en.wikipedia.org/wiki/Richard_Beymer), probably most recognized as Tony from the (original) film version of **West Side Story** or Ben Horne in **Twin Peaks**, but he has also done a lot of civil rights documentary film work and even worked with Barney Frank a bit, among a much wider-ranging career.
+Likewise, you might recognize Li as {% wiki Richard_Beymer|Richard Beymer|en %}, probably most recognized as Tony from the (original) film version of **West Side Story** or Ben Horne in **Twin Peaks**, but he has also done a lot of civil rights documentary film work and even worked with Barney Frank a bit, among a much wider-ranging career.
 
 > **BORUM**: The earring. You got it.
 
-And you might recognize "the other guy" as [Michael Bell](https://en.wikipedia.org/wiki/Michael_Bell_%28actor%29), primarily a voice actor, union activist, and co-creator of the gadget that lets off-the-grid folks recycle washing water elsewhere in the house.  He also played Zorn in [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}).
+And you might recognize "the other guy" as {% wiki Michael_Bell_%28actor%29|Michael Bell|en %}, primarily a voice actor, union activist, and co-creator of the gadget that lets off-the-grid folks recycle washing water elsewhere in the house.  He also played Zorn in [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}).
 
 And believe it or not, we have an even bigger surprise coming after these three...
 
@@ -105,7 +105,7 @@ I don't know if this proves useful to the project here, but this sounds like a f
 
 > **JARO**: Major. Where is he?
 
-Last guest, not even listed in the credits, you almost certainly recognize Jaro as [Frank Langella](https://en.wikipedia.org/wiki/Frank_Langella), known for...pretty much everything that he has ever touched, maybe?  I will point out that he seems to have started career with an I-believe-pretty-much-lost TV series called [**The Trials of O'Brien**](https://en.wikipedia.org/wiki/The_Trials_of_O'Brien) (no relation), starring young Peter Falk as a defense attorney.  He also had high-profile relationships with Diane Baker, Elizabeth Taylor, and (not long after this) Whoopi Goldberg.
+Last guest, not even listed in the credits, you almost certainly recognize Jaro as {% wiki Frank_Langella|Frank Langella|en %}, known for...pretty much everything that he has ever touched, maybe?  I will point out that he seems to have started career with an I-believe-pretty-much-lost TV series called {% wiki The_Trials_of_O'Brien|**The Trials of O'Brien**|en %} (no relation), starring young Peter Falk as a defense attorney.  He also had high-profile relationships with Diane Baker, Elizabeth Taylor, and (not long after this) Whoopi Goldberg.
 
 Seriously, though, this feels like a shockingly weighty guest cast for a not-too-complex season premiere...
 
@@ -117,7 +117,7 @@ Do I really need to point out that a significant fraction of the first season ha
 
 > **DOEK**: Commander Sisko, I am Romah Doek, executive officer of the *Nanut*. We were preparing to depart the station for the Gamma Quadrant when we discovered a Bajoran citizen trying to stow away on ship. I was hoping you'd know what to do with him.
 
-Under the prosthetics, you might recognize the officer as [Paul Nakauchi](https://en.wikipedia.org/wiki/Paul_Nakauchi), best known as a voice performer, but also a fair amount of musical theater, not super-well-known, but definitely continuing this episode's weird punching above its weight in casting.
+Under the prosthetics, you might recognize the officer as {% wiki Paul_Nakauchi|Paul Nakauchi|en %}, best known as a voice performer, but also a fair amount of musical theater, not super-well-known, but definitely continuing this episode's weird punching above its weight in casting.
 
 > **SISKO**: No. It's based on a legend. And legends are as powerful as any truth. Bajor still needs that legend. It needs you.
 

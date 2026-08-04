@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Probably because we have holiday-ed ourselves out for the solstice and know that we have another batch of holidays incoming as we approach the equinox, we mostly only have [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day) to work with, though Alaskans have adapted(?) the idea as [Marmot Day](https://en.wikipedia.org/wiki/Marmot_Day).  Does anybody actually still remember the quaint days when the public could act like they didn't have a more pressing issue than when the winter weather would end...?
+Probably because we have holiday-ed ourselves out for the solstice and know that we have another batch of holidays incoming as we approach the equinox, we mostly only have {% wiki Groundhog_Day|Groundhog Day|en %} to work with, though Alaskans have adapted(?) the idea as {% wiki Marmot_Day|Marmot Day|en %}.  Does anybody actually still remember the quaint days when the public could act like they didn't have a more pressing issue than when the winter weather would end...?
 
 ![A postcard from the 1930s introducing us to Mr. Ground Hog, the original weather prophet](/blog/assets/mr-ground-hog.png "Who has got two thumbs and you, babe...?")
 

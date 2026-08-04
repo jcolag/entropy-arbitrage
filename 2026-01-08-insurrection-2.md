@@ -23,7 +23,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -79,7 +79,7 @@ As always, we don't know how accurately to take the assessment of a dying Federa
 
 He says as much, season after season, so why suddenly act cagey about it as if the kid has floated an innovative idea?
 
-And as *I* have pointed out, if you actually listen, you'll find that many people from disadvantaged backgrounds similarly put in a lot of work to minimize the chances of some creep---*probably* a white person in authority---deciding to treat them as a threat.  When you hear about Black parents having [The Talk](https://en.wikipedia.org/wiki/The_talk_%28racism_in_the_United_States%29) about racialized over-policing, they mean almost exactly this.
+And as *I* have pointed out, if you actually listen, you'll find that many people from disadvantaged backgrounds similarly put in a lot of work to minimize the chances of some creep---*probably* a white person in authority---deciding to treat them as a threat.  When you hear about Black parents having {% wiki The_talk_%28racism_in_the_United_States%29|The Talk|en %} about racialized over-policing, they mean almost exactly this.
 
  > **WORF**: Accelerated hair growth is often experienced by Klingons during Jak'tahla.
  >
@@ -101,7 +101,7 @@ OK, I guess, but then why does he have at least a decade on (I believe) all his 
  >
  > **DATA**: And have you noticed how your boobs have started to firm up? Not that we care about...
 
-At this point, probably to dissociate from the experience of watching this mess, I find myself trying to imagine how a bunch of professionals at a major studio got us to this point.  Presumably, somebody raised the issue that the script didn't pass the [Bechdel-Wallace test](https://en.wikipedia.org/wiki/Bechdel_test).  And after they looked that up, they concluded that the women couldn't talk about anything less like a man than their breasts.  After all, what feminist could ever argue with that?
+At this point, probably to dissociate from the experience of watching this mess, I find myself trying to imagine how a bunch of professionals at a major studio got us to this point.  Presumably, somebody raised the issue that the script didn't pass the {% wiki Bechdel_test|Bechdel-Wallace test|en %}.  And after they looked that up, they concluded that the women couldn't talk about anything less like a man than their breasts.  After all, what feminist could ever argue with that?
 
 And then having Data repeat the lines seconds later with no comprehension of any context or meaning gives them a comedic callback, almost like a real writer might do.
 
@@ -109,7 +109,7 @@ Help me...
 
  > **RIKER**: Yes, we do. I'll take it from here, Ensign. It's time to use the Briar Patch like Br'er Rabbit did.
 
-While [Br'er Rabbit](https://en.wikipedia.org/wiki/Br%27er_Rabbit) originates in folktales passed down through American slaves, their compatriots in the Caribbean, and their descendants, probably themselves deriving from African trickster myths, we---by which I mean "white people," here---mostly know them through their exploitation by journalist[^nFkDvw] Joel Chandler Harris and Disney's adaptation of his version, [**Song of the South**](https://en.wikipedia.org/wiki/Song_of_the_South).
+While {% wiki Br%27er_Rabbit|Br'er Rabbit|en %} originates in folktales passed down through American slaves, their compatriots in the Caribbean, and their descendants, probably themselves deriving from African trickster myths, we---by which I mean "white people," here---mostly know them through their exploitation by journalist[^nFkDvw] Joel Chandler Harris and Disney's adaptation of his version, {% wiki Song_of_the_South|**Song of the South**|en %}.
 
 [^nFkDvw]:  Honestly, don't get me started, here.  During the Civil War, he worked on agricultural labor camps and insisted that he came from such an underprivileged background that he had great relationships with the slaves, never seeming to consider the fact that the ability of even the lowest-class white person to make a Black person's life miserable *might* have made them more polite than they might otherwise prefer.
 
@@ -117,7 +117,7 @@ Does Riker have a fondness for the URFU (Uncle Remus Folkloric Universe), then? 
 
 [^0NNxW8]:  And at this point, would much rather read Uncle Remus...
 
-I assume that Riker (or the writers) meant to reference the [tar baby](https://en.wikipedia.org/wiki/Tar-Baby), here, but Rabbit got caught in it, rather than using it, so even that doesn't really work.
+I assume that Riker (or the writers) meant to reference the {% wiki Tar-Baby|tar baby|en %}, here, but Rabbit got caught in it, rather than using it, so even that doesn't really work.
 
  > **PERIM**: I thought subspace weapons were banned by the Khitomer Accord.
  >
@@ -211,7 +211,7 @@ And in a lot of other ways, the story doesn't even hold together.  We never real
 
 Also, what insurrection does the title refer to?  As I understand it, the word describes part of a national population violently opposing a government authority.  Picard and his lackeys did commit violence, as always, but did so believing that they *supported* their government.  And they limited their actions against other government officials to strongly worded e-mails to their representatives.  Plus seven people doesn't exactly qualify.
 
-Finally, I can't help seeing this as an extension of the show's Reagan-era politics.  Let's take Dougherty at his word, that the Federation has a plan, here, to improve the health of billions of people through this.  It seems somewhat telling, then, that this released in the final years of the Clinton administration, and while the administration followed Republicans to the right on most issues, his [position on health care](https://en.wikipedia.org/wiki/Clinton_health_care_plan_of_1993) included a legal right to medical treatment and preventive services, with opposition to the program revolving around sacrificing certain people and their freedom.
+Finally, I can't help seeing this as an extension of the show's Reagan-era politics.  Let's take Dougherty at his word, that the Federation has a plan, here, to improve the health of billions of people through this.  It seems somewhat telling, then, that this released in the final years of the Clinton administration, and while the administration followed Republicans to the right on most issues, his {% wiki Clinton_health_care_plan_of_1993|position on health care|en %} included a legal right to medical treatment and preventive services, with opposition to the program revolving around sacrificing certain people and their freedom.
 
 In other words, in context, even with the abrupt shift to caring deeply about foreigners and their culture, this actually feels like an attempt to smuggle further authoritarian views into the culture.
 
