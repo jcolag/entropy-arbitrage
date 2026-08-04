@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-On this day in 1783, the United States disbanded the [Continental Army](https://en.wikipedia.org/wiki/Continental_Army), the military force that fought our revolution.  I can't imagine why I'd have [dismantling a militarized government agency operating on domestic soil](https://en.wikipedia.org/wiki/Abolish_ICE) on the mind, these days, but hey, the precedent exists.
+On this day in 1783, the United States disbanded the {% wiki Continental_Army|Continental Army|en %}, the military force that fought our revolution.  I can't imagine why I'd have {% wiki Abolish_ICE|dismantling a militarized government agency operating on domestic soil|en %} on the mind, these days, but hey, the precedent exists.
 
 ![The seal of the United States Board of War and Ordinance](/blog/assets/Seal-US-Board-of-War-and-Ordnance.png "Please tell me that they made the cannons wear dresses and hats...")
 
@@ -87,7 +87,7 @@ Since I moved [uManage](https://codeberg.org/jcolag/uManage) over to Codeberg, i
 
 {% codeberg jcolag/color-namer %}
 
-I forget why I put this together, and looking at the code, I do *not* endorse the current method of finding the nearest color[^nhTaQr], but at some point, I decided that I needed a tool that takes an input color and finds the closest named color from [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_colors_%28compact%29).
+I forget why I put this together, and looking at the code, I do *not* endorse the current method of finding the nearest color[^nhTaQr], but at some point, I decided that I needed a tool that takes an input color and finds the closest named color from {% wiki List_of_colors_%28compact%29|Wikipedia's list|en %}.
 
 [^nhTaQr]:  I should have converted the input color to a cylindrical color space such as HSV, or now something more like OKLCH.
 

@@ -23,7 +23,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -77,7 +77,7 @@ However, the *Enterprise* has entire families aboard, so what does it matter if 
  >
  > **COMPUTER**: That beverage has not been programmed into the replication system.
 
-I mentioned in the first half that the servant's mocking of Picard asking for tea indicated that he has had trouble with the computer's voice recognition.  And this *might* confirm it, because we've had [Earl Grey tea](https://en.wikipedia.org/wiki/Earl_Grey_tea) for about two hundred years now, depending on how you count.  Unless they created the replicators recently, it seems unlikely that nobody has put together the "recipe" where the ship's computer can access it, unless it can't understand Picard's request.
+I mentioned in the first half that the servant's mocking of Picard asking for tea indicated that he has had trouble with the computer's voice recognition.  And this *might* confirm it, because we've had {% wiki Earl_Grey_tea|Earl Grey tea|en %} for about two hundred years now, depending on how you count.  Unless they created the replicators recently, it seems unlikely that nobody has put together the "recipe" where the ship's computer can access it, unless it can't understand Picard's request.
 
  > **TOMALAK**: So, Captain how long shall we stare at each other across the Neutral Zone?
 
@@ -117,7 +117,7 @@ Like...explicitly, something like an hour ago, right?
  >
  > **RIKER**: Did I? I didn't want to admit that it was over. I always thought that we'd get together again. And then she was gone. You think you have all the time in the world, until. Yeah.
 
-In other words, he did everything to stand in their way, because of his petty jealousy.  And because women don't get an actual say in relationships---see Crusher's comments in this and the previous half---Troi quietly died off-screen so that neither squabbling man would feel slighted, like reimagining the [Judgment of Solomon](https://en.wikipedia.org/wiki/Judgement_of_Solomon), but both prospective mothers offer up their own knives for the division...
+In other words, he did everything to stand in their way, because of his petty jealousy.  And because women don't get an actual say in relationships---see Crusher's comments in this and the previous half---Troi quietly died off-screen so that neither squabbling man would feel slighted, like reimagining the {% wiki Judgement_of_Solomon|Judgment of Solomon|en %}, but both prospective mothers offer up their own knives for the division...
 
 Again, if the episode wants to say these things out loud, should I have taken the week off...?
 

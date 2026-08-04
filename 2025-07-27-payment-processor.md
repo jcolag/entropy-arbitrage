@@ -68,7 +68,7 @@ sequenceDiagram
   Vendor->>Customer: Deliver (or not)
 {% endmermaid %}
 
-It places a slight burden on the customer, but it also puts them in control of the transaction, and verifies that they have held up their end of the bargain.  And, again, limiting this to no more than coordinating the parties prevents this from becoming a [Money Services Business](https://en.wikipedia.org/wiki/Money_services_business) that then requires a pile of [Money Transmitter](https://en.wikipedia.org/wiki/Money_transmitter) Licenses.
+It places a slight burden on the customer, but it also puts them in control of the transaction, and verifies that they have held up their end of the bargain.  And, again, limiting this to no more than coordinating the parties prevents this from becoming a {% wiki Money_services_business|Money Services Business|en %} that then requires a pile of {% wiki Money_transmitter|Money Transmitter|en %} Licenses.
 
 ### Choke-Points
 
@@ -131,7 +131,7 @@ For example, how does this fund itself?  For the existing Fediverse, I think tha
 
 We might imagine taking a cue from the existing payment processors, requiring some payment for participation, whether a flat rate or based on the amount spent/received through the system, but people will use that as an excuse to jump back on the next platform that claims queer-friendliness until Mastercard asks them to stop or the company wants to go public.
 
-Then, I wonder how this would look---if it can present itself at all---to a larger platform like Itch.  Can a site use an API on some instance and/or implement something like ActivityPub and allow their participants to take payments?  Or does the federated architecture mean that it makes more sense for every vendor to set up their own store, with all the added burden that entails, and a unified retailer ends up looking like [Threads](https://en.wikipedia.org/wiki/Threads_%28social_network%29), a possible vector for getting people interested, but too big and dangerous to actually work with?
+Then, I wonder how this would look---if it can present itself at all---to a larger platform like Itch.  Can a site use an API on some instance and/or implement something like ActivityPub and allow their participants to take payments?  Or does the federated architecture mean that it makes more sense for every vendor to set up their own store, with all the added burden that entails, and a unified retailer ends up looking like {% wiki Threads_%28social_network%29|Threads|en %}, a possible vector for getting people interested, but too big and dangerous to actually work with?
 
 And speaking of actually working with entities, what about defederation?  On some levels, it seems entirely appropriate for each instance to have their own philosophies of what they will and will not allow on their platforms.  If I ran an instance, I might have a legal obligation to block the sale of what we now call "abuse material" of various sorts, plus a personal inclination to block art not released under a Free Culture license.  Some reactionary group might want to block queer content.  You might want to block guns.  That all makes some sense.  Different communities want their resources used to support different things, even though we might not all agree on the specifics, and might even think that each other's choices do harm, but we generally respect that.
 

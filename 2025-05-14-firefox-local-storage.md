@@ -37,7 +37,7 @@ Cracking open the developer tools and flipping over to the *Storage* tab, *Local
 
 ![The developer tools open in Firefox, showing five key/value pairs for https://didoesdigital.com](/blog/assets/typey-type-local-storage.png "As of earlier this week, in my case")
 
-And sure, a person could do this, or whip up a [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) to do this on a click.  For example, create a bookmark with a URL that looks like this.
+And sure, a person could do this, or whip up a {% wiki Bookmarklet|bookmarklet|en %} to do this on a click.  For example, create a bookmark with a URL that looks like this.
 
 ```JavaScript
 javascript:alert(localStorage.getItem('topSpeedPersonalBest'));
@@ -113,7 +113,7 @@ Actually, I probably only need to discover the right tool for this job, which *s
 ~/.var/app/org.chromium.Chromium/config/chromium/Default/Local\ Storage/leveldb/
 ```
 
-The path tells us that we have a [LevelDB](https://en.wikipedia.org/wiki/LevelDB) database.  Inspecting the (mostly binary) manifest shows that the browser throws all sites together into the same database...which feels like a security problem waiting to happen, but people with more direct security experience should probably deal with that, not me.  I *will* note, however, that LevelDB "has a history of database corruption bugs," as the Wikipedia article puts it.
+The path tells us that we have a {% wiki LevelDB|LevelDB|en %} database.  Inspecting the (mostly binary) manifest shows that the browser throws all sites together into the same database...which feels like a security problem waiting to happen, but people with more direct security experience should probably deal with that, not me.  I *will* note, however, that LevelDB "has a history of database corruption bugs," as the Wikipedia article puts it.
 
 At this point, I slam up against a wall, because I can't find a tool that will let me run queries against the database to extract the data.  I didn't look *hard*, here, because I don't need any data from Chromium, but if I did, I'd need to pick up the story there.
 
@@ -135,7 +135,7 @@ I recommend it.  And especially if you've had trouble with "the Stacks," such as
 
 Sometimes, the smaller Codidact community means that it takes time to get a response.  However, in this case, it took about a day for a Derek Elkins‭ to take the step that I stupidly didn't, [checking to see what Firefox does](https://software.codidact.com/posts/293929/293932#answer-293932) in its source code.  And I thank him profusely for that.
 
-In his answer, he makes some points that I can probably safely ignore---though I appreciate the thorough job, since someone else probably can't ignore them---but he did find the key.  The code to store data has a compression type, either uncompressed (`0`) or [Snappy](https://en.wikipedia.org/wiki/Snappy_%28compression%29) (`1`).  Go read the full answer.  I won't quote it here even though he released his answer under the same terms as the blog, but if you need more than the compression algorithm's name, he does a terrific job.
+In his answer, he makes some points that I can probably safely ignore---though I appreciate the thorough job, since someone else probably can't ignore them---but he did find the key.  The code to store data has a compression type, either uncompressed (`0`) or {% wiki Snappy_%28compression%29|Snappy|en %} (`1`).  Go read the full answer.  I won't quote it here even though he released his answer under the same terms as the blog, but if you need more than the compression algorithm's name, he does a terrific job.
 
 ## Snappy-ing to It
 
@@ -149,7 +149,7 @@ I could see two reasons for this.  Most clear, they didn't build their user inte
 SELECT hex(value) FROM data WHERE key = 'whateverKeyWeCareAbout';
 ```
 
-Using the same example of the maximum speed, that gives `7B2277706D223A32347D` instead of the JSON seen above.  And while we might expect two hexadecimal digits per character in most cases---hexadecimal covers sixteen values in each place, so two (0-9, A-F) digits gives us sixteen times sixteen, or two hundred fifty-six (256) possible values, the size of a [byte](https://en.wikipedia.org/wiki/Byte) or an [ASCII](https://en.wikipedia.org/wiki/ASCII) character[^1]---I note with satisfaction that `hex(value)` runs significantly more than twice the length of `value` for those part-binary values, meaning that we *did* lose parts by not accounting for the non-text nature.
+Using the same example of the maximum speed, that gives `7B2277706D223A32347D` instead of the JSON seen above.  And while we might expect two hexadecimal digits per character in most cases---hexadecimal covers sixteen values in each place, so two (0-9, A-F) digits gives us sixteen times sixteen, or two hundred fifty-six (256) possible values, the size of a {% wiki Byte|byte|en %} or an {% wiki ASCII|ASCII|en %} character[^1]---I note with satisfaction that `hex(value)` runs significantly more than twice the length of `value` for those part-binary values, meaning that we *did* lose parts by not accounting for the non-text nature.
 
 [^1]:  Unicode sets its first 256 characters to the ASCII set, and UTF-8 representation of Unicode makes them one-byte characters.  In most cases that we'll run into with stenotype, then, we can *probably* assume two hexadecimal digits per character, even though that won't always hold true in most modern and important cases.
 

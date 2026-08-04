@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Nobody really celebrates it like you might expect, but today marks the five thousand, one hundred thirty-ninth anniversary of the alleged creation of the world in the Mesoamerican (mostly Mayan) [Long Count calendar](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar).
+Nobody really celebrates it like you might expect, but today marks the five thousand, one hundred thirty-ninth anniversary of the alleged creation of the world in the Mesoamerican (mostly Mayan) {% wiki Mesoamerican_Long_Count_calendar|Long Count calendar|en %}.
 
 ![East side of stela C, Quirigua with mythical creation date in 13 (or 0) baktun, 0 katun, 0 tun, 0 uinal, 0 kin, 4 Ahau and 8 Cumku and corresponds to August 11, 3114 BCE, in the Gregorian calendar](/blog/assets/East-side-of-stela-C-Quirigua.png "And yet, no Mayan has ever remembered my birthday...")
 
@@ -53,7 +53,7 @@ location ~ ^/rss/(.+?\.php)(/.*)?$ {
 
 Without that setup, the application itself worked well enough, but it couldn't find the API.
 
-I won't bore you with the details of somebody else's code, but in short, Fresh RSS implements [Google Reader](https://en.wikipedia.org/wiki/Google_Reader)'s API, which has a base script `api/greader.php`, but then a path after that describing the endpoint, so you make requests of `api/greader.php/accounts/ClientLogin`, for example.  This setup notes the PHP file in the middle of the path and divvies up the information so that it can find the script and the script can process what it needs to process.
+I won't bore you with the details of somebody else's code, but in short, Fresh RSS implements {% wiki Google_Reader|Google Reader|en %}'s API, which has a base script `api/greader.php`, but then a path after that describing the endpoint, so you make requests of `api/greader.php/accounts/ClientLogin`, for example.  This setup notes the PHP file in the middle of the path and divvies up the information so that it can find the script and the script can process what it needs to process.
 
 Last week's version put the `location`s in the wrong order for correct matching, tried to process the PHP files twice, *and* also assumed that a PHP file would only come at the end of a path.  Again, none of those mistakes impact the day-to-day functioning of the web app, but it makes a complete mess of the API.
 
@@ -77,7 +77,7 @@ As I have probably mentioned, I now use my old laptop as the "night computer."  
 
 [^1]: The first-thing-in-the-morning typing speed, plus walking speed throughout the day, generally looks like a quick-and-dirty proxy for sleep quality.
 
-That script *also* previously kicked off the proofreading cycle for the day's blog post.  But since I no longer work on the blog from that machine, a bunch of JSON blobs indicating possible typos doesn't help over there.  Instead, that kick-off needs to happen on "this" machine---I gesture to the laptop immediately in front of me, as if anybody can see that action now, let alone after the post goes out---and if I want it to happen without my needing to remember it, then it should happen in a [cron](https://en.wikipedia.org/wiki/Cron) job.
+That script *also* previously kicked off the proofreading cycle for the day's blog post.  But since I no longer work on the blog from that machine, a bunch of JSON blobs indicating possible typos doesn't help over there.  Instead, that kick-off needs to happen on "this" machine---I gesture to the laptop immediately in front of me, as if anybody can see that action now, let alone after the post goes out---and if I want it to happen without my needing to remember it, then it should happen in a {% wiki Cron|cron|en %} job.
 
 All the way around that explanation, to say that the script needed some changes to run without a full Linux environment set up for it, such as making sure that the right version of [Node.js](https://nodejs.org/en) gets used for the relevant scripts.  Along the way, it also does some quick checking to make sure that files exist before acting on them, so that I don't need to worry about what to do about errors.
 

@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -48,7 +48,7 @@ Unrelated, what kind of irresponsible monster does their employee evaluations at
 
 Have you *seen* the crew, ensign?  How can the evaluations not produce riotous laughter, when a couple of weeks ago in [*Homeward*]({% post_url 2025-08-21-homeward %}), everybody either ignored or avoided the foreigner in distress stumbling out of the holodeck?
 
-Speaking of the ensign, you might recognize him as [Dan Gauthier](https://en.wikipedia.org/wiki/Dan_Gauthier), who...I can't see any role that even comes close to his run on **One Life to Live**, but he has made a lot of appearances since around the time that this show started.
+Speaking of the ensign, you might recognize him as {% wiki Dan_Gauthier|Dan Gauthier|en %}, who...I can't see any role that even comes close to his run on **One Life to Live**, but he has made a lot of appearances since around the time that this show started.
 
  > **OGAWA**: Don't worry about it, Sam.
 
@@ -60,9 +60,9 @@ In case you thought that you hallucinated [*The First Duty*]({% post_url 2024-09
 
  > **TAURIK**: You can't really believe that what you are doing will influence the outcome of your evaluation.
 
-Likewise, you might recognize Taurik as [Alexander Enberg](https://en.wikipedia.org/wiki/Alexander_Enberg), who we saw as the reporter in [*Time's Arrow*]({% post_url 2024-11-21-time-s-arrow-2 %})---not that I recognized the connection---but will go on to recur in **Voyager** as Ensign Vorik, pretty much the same character.
+Likewise, you might recognize Taurik as {% wiki Alexander_Enberg|Alexander Enberg|en %}, who we saw as the reporter in [*Time's Arrow*]({% post_url 2024-11-21-time-s-arrow-2 %})---not that I recognized the connection---but will go on to recur in **Voyager** as Ensign Vorik, pretty much the same character.
 
-Oh, and you might recognize his mother's name, [Jeri Taylor](https://en.wikipedia.org/wiki/Jeri_Taylor), who passed away last year, but also joined this show with the fourth season---writing [*The Drumhead*]({% post_url 2024-03-28-drumhead %}) among other duties---and worked her way up to show-runner for this season.
+Oh, and you might recognize his mother's name, {% wiki Jeri_Taylor|Jeri Taylor|en %}, who passed away last year, but also joined this show with the fourth season---writing [*The Drumhead*]({% post_url 2024-03-28-drumhead %}) among other duties---and worked her way up to show-runner for this season.
 
  > **SITO**: The Vedeks of the Janalan order maintain a round the clock chant for the benefit of the Bajoran people.
  >
@@ -104,7 +104,7 @@ OK, first, we see the trope where people from other cultures have an obligation 
 
 Also, though, what the Hell *other* interpretation could that possibly have that he needs to stop and ask?  An idiom such as "a spider under the table" feels like the sort of thing that, if you heard someone else use it, seems so clear in its intent that you'd almost certainly assume that people use it all the time, and you never noticed.  If she had said that she wanted to "take the occasion for the hairs" or "have very deal bear" for a tree[^2], then sure, wonder what the heck she meant.  But I'd bet that anybody would understand the idea of a spider under a table, *unless* they had some motivation to avoid understanding it, like making a colleague feel bad for not speaking impeccable idiomatic English.
 
-[^2]:  Examples come courtesy of [**O novo guia da conversação em portuguez e inglez**](https://en.wikipedia.org/wiki/English_as_She_Is_Spoke) (1855) by Pedro Carolino, later known as **English As She Is Spoke** by publishers mining the inept phrasebook for humor.  I find it more amusing than I probably should...
+[^2]:  Examples come courtesy of {% wiki English_as_She_Is_Spoke|**O novo guia da conversação em portuguez e inglez**|en %} (1855) by Pedro Carolino, later known as **English As She Is Spoke** by publishers mining the inept phrasebook for humor.  I find it more amusing than I probably should...
 
  > **LAFORGE**: If you have any other ideas for increasing efficiency, don't hesitate to run them by me.
  >
@@ -120,7 +120,7 @@ I'll never not find it funny that this show has gone so far out of its way, from
 
  > **SITO**: I only filled in at Ops for a half hour, but I had to degauss the main deflector dish, recalibrate the navigation grid, and use internal sensors to find a lost puppy.
 
-Trivial point, but for younger readers, when this aired, we all know the term [degauss](https://en.wikipedia.org/wiki/Degaussing), because computer monitors had a button to do it.  And we got addicted to pushing the button like a lab rat demanding a pellet, because the button had the visual effect of wildly shaking the image for around a second.  CRT monitors and televisions also automatically degauss during the power-up cycle.
+Trivial point, but for younger readers, when this aired, we all know the term {% wiki Degaussing|degauss|en %}, because computer monitors had a button to do it.  And we got addicted to pushing the button like a lab rat demanding a pellet, because the button had the visual effect of wildly shaking the image for around a second.  CRT monitors and televisions also automatically degauss during the power-up cycle.
 
 I really quote this line, though, for the last item.  We've talked about irresponsible pet ownership in recent episodes such as [*Force of Nature*]({% post_url 2025-07-24-force-nature %}), so it doesn't come as a huge surprise that pets want to escape the crew quarters and hide from people who see them as weird trophies.  But I find it funny and telling that this "utopia" has planted a tracking device on all the *people*, but even though we put tracking microchips in pets today, that requires scanning the ship for biological signatures that seem out of place.  And we could laugh this off as an example of the writers not knowing about future technology, but the UK already had microchips for pet identification *and* GPS had civilian customers for a couple of years, by this point, though civilian GPS had an error of up to a hundred meters introduced to prevent people from using it for paramilitary purposes.  And the show does have the characters wear their tracking devices at all times, so they see a value in having this data.
 
@@ -258,7 +258,7 @@ Did he actually learn to express grief?  Fetch the fainting couch...
  >
  > **BEN**: You shouldn't feel that way, Sam.
 
-Oh, he should *definitely* feel that way.  I see no version of the retelling where he didn't almost literally step over the corpse of a woman from a disadvantaged background and in the process of redeeming herself for a prior criminal act to [Monkey's Paw](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw) his wish for a promotion...
+Oh, he should *definitely* feel that way.  I see no version of the retelling where he didn't almost literally step over the corpse of a woman from a disadvantaged background and in the process of redeeming herself for a prior criminal act to {% wiki The_Monkey%27s_Paw|Monkey's Paw|en %} his wish for a promotion...
 
 Honestly, a gutsier show would've taken advantage of the parallels between the Cardassians and the Federation hinted at earlier, plus Lavelle's brown-nosing, need to form relationships with senior officers, and nosiness---the last even going so far as trying to guilt his friends into revealing the secret mission---and exposed him as a spy for the Cardassians later in the season...or right here.
 

@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the [International Transgender Day of Visibility](https://en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility), somehow more relevant today than when [Rachel Crandall Crocker](https://en.wikipedia.org/wiki/Rachel_Crandall_Crocker) suggested something happier than a remembrance day in 2009.  We can only hope that we get to the point where you can all decide to live as how you see yourselves, when we can casually *see* you, without needing to worry about a government applauding violence or needing to carve out a special day.
+Today marks the {% wiki International_Transgender_Day_of_Visibility|International Transgender Day of Visibility|en %}, somehow more relevant today than when {% wiki Rachel_Crandall_Crocker|Rachel Crandall Crocker|en %} suggested something happier than a remembrance day in 2009.  We can only hope that we get to the point where you can all decide to live as how you see yourselves, when we can casually *see* you, without needing to worry about a government applauding violence or needing to carve out a special day.
 
-We have [Cesar Chavez Day](https://en.wikipedia.org/wiki/Cesar_Chavez_Day), too, respect to the transgender community and the labor movement not a bad combination to close out March at all.
+We have {% wiki Cesar_Chavez_Day|Cesar Chavez Day|en %}, too, respect to the transgender community and the labor movement not a bad combination to close out March at all.
 
-Oh, and I never catch holidays on Lunar calendars because I don't use one, but it looks like today (and yesterday) I should wish a bunch of people a happy [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), too.
+Oh, and I never catch holidays on Lunar calendars because I don't use one, but it looks like today (and yesterday) I should wish a bunch of people a happy {% wiki Eid_al-Fitr|Eid al-Fitr|en %}, too.
 
 ![Transgender Day of Visibility celebration in Cartagena, Colombia, 2019, featuring concentric circles of people in a stone area with LGBT+ symbols under yellow light](/blog/assets/trans-visibility.png "🏳️‍⚧️")
 
@@ -40,7 +40,7 @@ Should I break this into two parts?  Sure, if you don't like it, write your own 
 
 ### Signal
 
-I have debated announcing this for a while, but now that everybody knows the name, for those who need it, you can [contact me on Signal](https://signal.me/#eu/6x4C_EgG-Kc44nOQp2bou8C4aIIOKBDT3mfaR42f8xRGP28wHThBq5M4rQmRxvGV).  For those somehow unfamiliar after this week's news, versions of the [Signal](https://en.wikipedia.org/wiki/Signal_%28software%29) protocol or software have floated around for about fifteen years under different names, briefly part of Twitter, and currently a fully Free Software end-to-end encrypted communications app.
+I have debated announcing this for a while, but now that everybody knows the name, for those who need it, you can [contact me on Signal](https://signal.me/#eu/6x4C_EgG-Kc44nOQp2bou8C4aIIOKBDT3mfaR42f8xRGP28wHThBq5M4rQmRxvGV).  For those somehow unfamiliar after this week's news, versions of the {% wiki Signal_%28software%29|Signal|en %} protocol or software have floated around for about fifteen years under different names, briefly part of Twitter, and currently a fully Free Software end-to-end encrypted communications app.
 
 It does---probably unavoidably---require trusting the other person's device security.  If they lose their device or have malware running that scrapes the decrypted messages, then the encryption doesn't matter.  **Don't send private information to people who you don't trust to protect it.**  However, since Signal accepts a Google Voice number (which I've made somewhat public elsewhere on the site, if anybody doesn't want to or can't go through the link above), actually supports encryption, has a fully Free Software stack, and has support in [Beeper](https://www.beeper.com/) (which I use on desktop), it seems like a reasonable backup for people not sold on using [Matrix to contact me](https://matrix.to/#/@jcolag:matrix.org).
 
@@ -48,7 +48,7 @@ Why might you do that?
 
 - You have standardized on Signal and want to chat.
 - You need to leak important information, and suspect that my dozens of readers---maybe even *baker's* dozens[^1]---will get the word out.
-- Somebody needs to make friends in a safe place *really* quickly for an [unscheduled vacation](https://en.wikipedia.org/wiki/Underground_Railroad) before the {% sfx ahem %} pressure gets to them, and you never know who I might know who would also like to meet somebody new[^2].
+- Somebody needs to make friends in a safe place *really* quickly for an {% wiki Underground_Railroad|unscheduled vacation|en %} before the {% sfx ahem %} pressure gets to them, and you never know who I might know who would also like to meet somebody new[^2].
 - You need an excuse to try Signal, and knowing someone there feels like a good enough excuse.
 - Your casual group chat needs to [secretly plan a military strike <i class="fas fa-copyright"></i>](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?gift=j9r7avb6p-KY8zdjhsiSZ2YMi_b3Wu2jLKUeoI_W4F8) and you think that I should probably hang out[^3].
 

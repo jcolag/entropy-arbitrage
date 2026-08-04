@@ -16,9 +16,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-In defiance of the summer equinox the other day, much of the European-influenced world celebrates today as [Midsummer](https://en.wikipedia.org/wiki/Midsummer), where May Day allegedly began summer.  Unsurprisingly given the Northern Hemisphere's climate range this time of year, those celebrating generally do so with outdoor meals and bonfires.  I tend to see it as something of a precursor to the raft of patriotism-themed holidays that we see this time of year, which have largely replaced bonfires with fireworks, I assume to more efficiently traumatize pets.
+In defiance of the summer equinox the other day, much of the European-influenced world celebrates today as {% wiki Midsummer|Midsummer|en %}, where May Day allegedly began summer.  Unsurprisingly given the Northern Hemisphere's climate range this time of year, those celebrating generally do so with outdoor meals and bonfires.  I tend to see it as something of a precursor to the raft of patriotism-themed holidays that we see this time of year, which have largely replaced bonfires with fireworks, I assume to more efficiently traumatize pets.
 
-Oh, if you'd like something less associated with recent horror cinema, we also have [United Nations Public Service Day](https://en.wikipedia.org/wiki/United_Nations_Public_Service_Awards), when the body bestows its Public Service Awards to those making creative contributions to improved public administration.  I'd bet that we could all brainstorm names that *won't* show up on the list...
+Oh, if you'd like something less associated with recent horror cinema, we also have {% wiki United_Nations_Public_Service_Awards|United Nations Public Service Day|en %}, when the body bestows its Public Service Awards to those making creative contributions to improved public administration.  I'd bet that we could all brainstorm names that *won't* show up on the list...
 
 ![Midsummer bonfire in Tysnes, Norway](/blog/assets/Mittsommerfest-in-Norwegen-Insel-Tysnes-IMG-4425WI.png "I maintain that we recognize the equinoxes and solstices under various names and dates as excuses to stay up late with friends.")
 

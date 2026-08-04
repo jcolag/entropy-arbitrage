@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -45,11 +45,11 @@ Yeah, it seems bizarre that an interstellar culture might have, you know...scien
 
  > **CRUSHER**: But of all the scientists I invited, only four were interested in hearing about Doctor Reyga's invention. And I wasn't altogether sure they were going to be compatible. Kurak was a warp field specialist on the Klingon home world. I don't think Klingons regard scientists very highly. She always seemed a little defensive. Doctor T'Pan is practically a legend in the field of subspace morphology. She's been the director of the Vulcan Science Academy for fifteen years. Her husband, Doctor Christopher, came with her. I didn't know much about him, but he was some kind of subspace theoretician. Jo'Bril was a Takaran, the first one I'd ever met. I had no idea what to expect from him. And then there was Doctor Reyga, the Ferengi scientist.
 
-You might recognize Kurak as [Tricia O'Neil](https://en.wikipedia.org/wiki/Tricia_O%27Neil), last seen by us playing Captain Rachel Garrett in [*Yesterday's Enterprise*]({% post_url 2023-08-10-yesterday-s-enterprise %}).  Christopher, you might recognize as [John S. Ragin](https://en.wikipedia.org/wiki/John_S._Ragin), character actor for many years and a major foil on **Quincy, M.E.**.  Jo'Bril, similarly, you might recognize as character actor [James Horan](https://en.wikipedia.org/wiki/James_Horan_%28actor%29), who we'll see a few more times from here.
+You might recognize Kurak as {% wiki Tricia_O%27Neil|Tricia O'Neil|en %}, last seen by us playing Captain Rachel Garrett in [*Yesterday's Enterprise*]({% post_url 2023-08-10-yesterday-s-enterprise %}).  Christopher, you might recognize as {% wiki John_S._Ragin|John S. Ragin|en %}, character actor for many years and a major foil on **Quincy, M.E.**.  Jo'Bril, similarly, you might recognize as character actor {% wiki James_Horan_%28actor%29|James Horan|en %}, who we'll see a few more times from here.
 
  > **T'PAN**: Forgive my skepticism, Doctor, but your claims are somewhat extravagant. Protect a shuttle within a star's corona? Not even your own government believes it can be done.
 
-For reference, the [Parker Solar Probe](https://en.wikipedia.org/wiki/Parker_Solar_Probe) sent out signals during the last week of 2024 verifying that it survived some time traveling through the Sun's corona.  I point this out, because *our* civilization has protected an object in a star's corona, using twenty-first century technology.  Granted, we didn't protect a person inside it, but it suggests a path.
+For reference, the {% wiki Parker_Solar_Probe|Parker Solar Probe|en %} sent out signals during the last week of 2024 verifying that it survived some time traveling through the Sun's corona.  I point this out, because *our* civilization has protected an object in a star's corona, using twenty-first century technology.  Granted, we didn't protect a person inside it, but it suggests a path.
 
  > **CHRISTOPHER**: I agree. At this point, we need an impartial evaluation.
 
@@ -101,7 +101,7 @@ Right?  She does her fake-therapy thing to encourage her peers to act out in des
 
  > **RIKER**: That's the Justman, the shuttle Reyga modified.
 
-While the *Enterprise*s have so far named their shuttles to honor physicists, I believe, this one seems to take its name from [Robert](https://en.wikipedia.org/wiki/Robert_H._Justman), producer on the original and this series, occasional director, and likely creator of Gene Roddenberry's "Great Bird of the Galaxy" nickname.
+While the *Enterprise*s have so far named their shuttles to honor physicists, I believe, this one seems to take its name from {% wiki Robert_H._Justman|Robert|en %}, producer on the original and this series, occasional director, and likely creator of Gene Roddenberry's "Great Bird of the Galaxy" nickname.
 
  > **PICARD**: But you can't be certain of that. You're betting your life on a hypothesis.
 

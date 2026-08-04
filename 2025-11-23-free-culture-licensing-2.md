@@ -38,7 +38,7 @@ Let's take an example that happened to catch my eye recently.  They explained th
 
 As far as I can tell, all current public licenses, including the so-called "ethical" licenses, only care about distribution and modification.  If you could selectively deny the right to download code that you put up for public download, then news outlets could change their paywall to after-the-fact, shaking you down for having visited their website, because that downloads/copies the article.  I also can't think of a reliable way to prove the identity of software running on a computer that you don't control, and if we legally hold people innocent until proven guilty, then you won't get too far arguing that they can't use your software, either, because they could plausibly use something only designed to look like your software[^3twylm].
 
-[^3twylm]:  And no, [*Apple v Microsoft*](https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Microsoft_Corp.) says that copyright doesn't cover your "look and feel."
+[^3twylm]:  And no, {% wiki Apple_Computer,_Inc._v._Microsoft_Corp.|*Apple v Microsoft*|en %} says that copyright doesn't cover your "look and feel."
 
 ### Restrictive Permission
 
@@ -46,7 +46,7 @@ Can't you write the license to give you control over their personal use of the s
 
 This applies to many, probably all, non-Free licenses.
 
-I have mentioned (multiple times?) before that your moral stance on a non-commercial license won't stop a [major studio](https://en.wikipedia.org/wiki/Hollywood_accounting), because they know *all about* making it look like money actually comes from and goes somewhere that it doesn't.  The license also doesn't cover anything that would fall under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).  And we don't even have a strong definition of commercial activity.
+I have mentioned (multiple times?) before that your moral stance on a non-commercial license won't stop a {% wiki Hollywood_accounting|major studio|en %}, because they know *all about* making it look like money actually comes from and goes somewhere that it doesn't.  The license also doesn't cover anything that would fall under {% wiki Fair_use|Fair Use|en %}.  And we don't even have a strong definition of commercial activity.
 
 When you can drive a truck through the various lacunae and loopholes in a license with as long and established a history as everybody's favorite non-commercial license, how do you think it'll go when you use a license written by a non-lawyer that tries to prevent association with (for example) a label that an unfortunate number of people dismiss as "whatever the speaker doesn't like"?
 
@@ -70,7 +70,7 @@ Any discriminatory license that you might care to float will produce awful false
 
 As I have said over and again in these posts, I don't want to tell anybody what they should do.  That said, *if* you want my advice, and *if* you want to control who uses your software or how, then I would say that you don't want a public license at all, and---further and more controversial---don't want to distribute your software publicly.
 
-Rather, I think that you want to create a "gated community," where the vetted members have access to your software on your terms.  In other words, you probably want to operate like a business, offering a specific [EULA](https://en.wikipedia.org/wiki/End-user_license_agreement).  You might even want to take modern steps, such as asserting that you still own the software, even when it runs on their system, so that you can revoke their privileges if they step out of line.
+Rather, I think that you want to create a "gated community," where the vetted members have access to your software on your terms.  In other words, you probably want to operate like a business, offering a specific {% wiki End-user_license_agreement|EULA|en %}.  You might even want to take modern steps, such as asserting that you still own the software, even when it runs on their system, so that you can revoke their privileges if they step out of line.
 
 I present that as a serious option, by the way, and wouldn't judge anybody for taking their software or media down that route.  If it feels like a mean-spirited satire to you, though, because you would *never* use such corporate-style tactics, then you should interrogate why you think that your honor system (a public license) that doesn't trust people (applying restrictions that you implicitly threaten to enforce) feels more appropriate.
 
@@ -168,7 +168,7 @@ Sure, sometimes no Corresponding Source exists.  If you physically put paint to 
 
 However, usually in the digital world, some source material exists.  If you published a physical book, then you probably have a version from a word processor, or in Markdown, HTML, LaTeX, or even plain text.  You *probably* didn't write everything out longhand and extrude paper out the back of some mysterious box.  If you wrote software, you probably wrote it in a high-level language.  If you created visual, then you probably have a version with layers, maybe used vector art, and so forth.  Film almost always has multiple takes, and separate scenes.  Music often has different tracks and/or "stems" that a technician mixed together.
 
-Believe it or not, we actually have *one* license that almost gets this right:  The [Sybase Open Watcom Public License](https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License), which has this to say in §2.2(c--d).
+Believe it or not, we actually have *one* license that almost gets this right:  The {% wiki Sybase_Open_Watcom_Public_License|Sybase Open Watcom Public License|en %}, which has this to say in §2.2(c--d).
 
 > You may use, reproduce, display, perform, modify and Deploy Covered Code, provided that in each instance:
 > - You must make Source Code of all Your Deployed Modifications publicly available under the terms of this License, including the license grants set forth in Section 3 below, for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer. You should preferably distribute the Source Code of Your Deployed Modifications electronically (e.g. download from a web site);
@@ -220,7 +220,7 @@ Why do contributor rights matter?  A project will only ever ask you to give them
 
 When I talked about wanting a [good-faith pledge](#good-faith-pledge) from creators for various aspects of licensing, multiple contributors force that to happen quickly.  Once I accept somebody's contribution to a project, they literally control the copyright to that part of the project, so I would need their permission to do anything with the project that would violate the license, or I would need to discard their contributions and anything relying on them, which qualify as derivative works.
 
-Therefore, companies (and projects that plan to launch companies) love to insist that they need your copyright before they can accept your help, in the form of the [contributor license agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement).  Deny that practice through the license, and those companies can no longer cheat the terms of the license.
+Therefore, companies (and projects that plan to launch companies) love to insist that they need your copyright before they can accept your help, in the form of the {% wiki Contributor_License_Agreement|contributor license agreement|en %}.  Deny that practice through the license, and those companies can no longer cheat the terms of the license.
 
 ### Annotation
 
@@ -240,7 +240,7 @@ Why would annotations matter?  True, more words won't make more people sit down 
 
 ### Other
 
-Less compelling to talk about again, I still believe that a good license should include clear guidance on how to handle non-copyright forms of intellectual property.  On one hand, the license should grant a license to any patents embodied in the project.  On the other, it should specify what you can do with what trademarks and which you must change before publication.  Along similar lines, a good license should grant the absolute right to break or bypass any [digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management) that any editions of the work or derivatives might have attached.
+Less compelling to talk about again, I still believe that a good license should include clear guidance on how to handle non-copyright forms of intellectual property.  On one hand, the license should grant a license to any patents embodied in the project.  On the other, it should specify what you can do with what trademarks and which you must change before publication.  Along similar lines, a good license should grant the absolute right to break or bypass any {% wiki Digital_rights_management|digital rights management|en %} that any editions of the work or derivatives might have attached.
 
 It would help if licenses had some *path* to making works compatible even if their licenses don't directly match up, though I realize that probably takes too much effort to get right.
 

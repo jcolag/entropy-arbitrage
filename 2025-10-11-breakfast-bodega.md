@@ -127,7 +127,7 @@ I suppose that you could check out [Elise](https://www.marinaelise.com/)'s other
 
 We have Morad Deli & Grocery, somewhere in Brooklyn, which I couldn't find mentioned anywhere as a real location.  Likewise, the Proveaux Culinary Institution[^uIpAY] seems original to this film.  As you might guess, *so* many people named Rose have had the idea of using "Rose's Buds" for their flower sales, though.
 
-[^uIpAY]:  I assume that the writer dropped a small joke somewhere in here.  Several semi-famous people have Proveaux as a surname, none chefs, but it also sounds suspiciously like [Provo](https://en.wikipedia.org/wiki/Provo,_Utah), named for a French-Canadian trapper who operated in the area, but not exactly otherwise known for its French influence.
+[^uIpAY]:  I assume that the writer dropped a small joke somewhere in here.  Several semi-famous people have Proveaux as a surname, none chefs, but it also sounds suspiciously like {% wiki Provo,_Utah|Provo|en %}, named for a French-Canadian trapper who operated in the area, but not exactly otherwise known for its French influence.
 
 I should also note, though, that the film itself doesn't carry any indication of the Creative Commons license.  It looks like the writer/director releases a lot of her work under a Creative Commons Attribution license on Vimeo, though, so I assume that she didn't do so here accidentally.
 

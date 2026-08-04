@@ -24,7 +24,7 @@ Before we get started, a Merry Christmas (or general too-little-light-to-do-anyt
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -58,7 +58,7 @@ Like Ogawa last time, we last saw Barclay in [*Genesis*]({% post_url 2025-10-02-
 
 It seems like more than "a little hero worship," honestly, because they keep crowding and distracting him, as if he owes everybody his time.  Also, La Forge "shouldn't" tell him about the high school, but will go on to ramble about the future for a while.
 
-Similarly, either La Forge wants to continue the creepy parasocial relationship by trying to imply a personal connection or he *massively* understates things.  In [*Metamorphosis*]({% post_url 2020-10-08-meta %}), Spock refers to planets, universities, and cities taking Cochrane's name, and I listed some (real) historical figures who might fit an equivalent profile for us.  His specific choice also strikes me as interesting, because K-12 school names often seem "contagious," with many names replicated across a country.  You can confirm and explore with the [National Center for Education Statistics search](https://nces.ed.gov/ccd/schoolsearch/), but [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy) has over a hundred schools named for him, and [Cesar Chavez](https://en.wikipedia.org/wiki/Cesar_Chavez) over seventy, with a bunch of names in that general class.
+Similarly, either La Forge wants to continue the creepy parasocial relationship by trying to imply a personal connection or he *massively* understates things.  In [*Metamorphosis*]({% post_url 2020-10-08-meta %}), Spock refers to planets, universities, and cities taking Cochrane's name, and I listed some (real) historical figures who might fit an equivalent profile for us.  His specific choice also strikes me as interesting, because K-12 school names often seem "contagious," with many names replicated across a country.  You can confirm and explore with the [National Center for Education Statistics search](https://nces.ed.gov/ccd/schoolsearch/), but {% wiki John_F._Kennedy|John F. Kennedy|en %} has over a hundred schools named for him, and {% wiki Cesar_Chavez|Cesar Chavez|en %} over seventy, with a bunch of names in that general class.
 
 In other words, assuming that Spock didn't get this wrong for whatever reason, and Cochrane has multiple planets named for him, then one imagines that almost everybody in the Federation knows *somebody* who graduated from one Zefram Cochrane High School or another, much like almost everyone in the United States knows many people who graduated from JFK High but have never lived anywhere near each other.
 
@@ -132,9 +132,9 @@ I don't know if I love the quote because it actually has legs, or because---desp
 
  > **DANIELS**: They're on the move again. The Borg just overrun three of our defense checkpoints. They've taken over decks five and six. They've adapted to every modulation on our weapons. It's like we're shooting blanks.
 
-If Daniels looks familiar, then you might recognize him as [Michael Horton](https://en.wikipedia.org/wiki/Michael_Horton_%28actor%29), best known for playing (likely serial killer, the way his girlfriends vanish before the end of almost every episode) Grady Fletcher from **Murder, She Wrote**[^Aqo571].  He *may* have also worked as a puppeteer on [**Mister Rogers' Neighborhood**](https://en.wikipedia.org/wiki/Mister_Rogers%27_Neighborhood), playing the later batch of puppets that look like stitched together nylon stockings; the name appears in the credits, and both the Wikipedia and IMDb entries for the show link their Horton with this one, I can't find any evidence pointing the other way[^_yySEa], from participant to production, making it seem like people writing about the show assumed that matching names referred to the same person, but nobody interested in the performer thought that it made sense.
+If Daniels looks familiar, then you might recognize him as {% wiki Michael_Horton_%28actor%29|Michael Horton|en %}, best known for playing (likely serial killer, the way his girlfriends vanish before the end of almost every episode) Grady Fletcher from **Murder, She Wrote**[^Aqo571].  He *may* have also worked as a puppeteer on {% wiki Mister_Rogers%27_Neighborhood|**Mister Rogers' Neighborhood**|en %}, playing the later batch of puppets that look like stitched together nylon stockings; the name appears in the credits, and both the Wikipedia and IMDb entries for the show link their Horton with this one, I can't find any evidence pointing the other way[^_yySEa], from participant to production, making it seem like people writing about the show assumed that matching names referred to the same person, but nobody interested in the performer thought that it made sense.
 
-[^Aqo571]:  This would make our second major connection to **Murder, She Wrote**, since we had [William Windom](https://en.wikipedia.org/wiki/William_Windom_%28actor%29) as the guest star as Matt Decker way back in [*The Doomsday Machine*]({% post_url 2020-09-17-doomday %}).  And we have many minor connections, since it feels like every character actor of the era makes an appearance.
+[^Aqo571]:  This would make our second major connection to **Murder, She Wrote**, since we had {% wiki William_Windom_%28actor%29|William Windom|en %} as the guest star as Matt Decker way back in [*The Doomsday Machine*]({% post_url 2020-09-17-doomday %}).  And we have many minor connections, since it feels like every character actor of the era makes an appearance.
 
 [^_yySEa]:  Frankly, it also seems highly unlikely for somebody to have worked extensively with both Angela Lansbury and Fred Rogers, and *not* become a celebrity purely on talk show and convention appearances to talk about some of the kindest people in entertainment, by all accounts.
 
@@ -182,7 +182,7 @@ Second, "how dare she," showing once again that he sees himself as having author
  >
  > **SLOANE**: You do have books in the twenty-fourth century?
 
-They do, but really only Shakespeare and some corporate slop from the 1930s, and [**Moby Dick**](https://en.wikipedia.org/wiki/Moby-Dick) doesn't fall into either category...
+They do, but really only Shakespeare and some corporate slop from the 1930s, and {% wiki Moby-Dick|**Moby Dick**|en %} doesn't fall into either category...
 
 Also, how did we get **Enterprise** instead of a Lily Sloane series?  Nothing in the past two films tops this scene, and not primarily because of Patrick Stewart, and certainly none of **Enterprise** measures up to it...
 
@@ -220,7 +220,7 @@ The island seems fictional, which on one hand seems sensible because you shouldn
 
  > **COCHRANE**: Let's rock'n'roll!
 
-We get [*Magic Carpet Ride*](https://en.wikipedia.org/wiki/Magic_Carpet_Ride_%28Steppenwolf_song%29), here, 1968 acid rock from Steppenwolf.  Why...?
+We get {% wiki Magic_Carpet_Ride_%28Steppenwolf_song%29|*Magic Carpet Ride*|en %}, here, 1968 acid rock from Steppenwolf.  Why...?
 
  > **RIKER**: Can you turn that down a little?
 

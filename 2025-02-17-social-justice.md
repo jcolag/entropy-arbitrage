@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I couldn't find any holidays for today, but *tomorrow* marks the [World Day of Social Justice](https://en.wikipedia.org/wiki/World_Day_of_Social_Justice), also known as Social Justice Equality Day, bringing attention to the need to press and fight for social justice, in a world of poverty, discrimination, and more.  Why would that draw my attention in early 2025?  We'll probably never [figure it out](https://politizoom.com/vances-munich-speech-big-hit-in-moscow-eu-girds-for-global-shift/)...
+I couldn't find any holidays for today, but *tomorrow* marks the {% wiki World_Day_of_Social_Justice|World Day of Social Justice|en %}, also known as Social Justice Equality Day, bringing attention to the need to press and fight for social justice, in a world of poverty, discrimination, and more.  Why would that draw my attention in early 2025?  We'll probably never [figure it out](https://politizoom.com/vances-munich-speech-big-hit-in-moscow-eu-girds-for-global-shift/)...
 
 ![Eleanor Roosevelt holding poster of the Universal Declaration of Human Rights](/blog/assets/Eleanor-Roosevelt-UDHR.png "I actually thought that I had used this picture before, but apparently not")
 

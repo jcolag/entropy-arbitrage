@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -31,7 +31,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## Starship Mine
 
-To skip over some terminology bits, I haven't the foggiest idea where most of the names come from.  I considered that Arkaria might refer to [Marianne Curley](https://en.wikipedia.org/wiki/Marianne_Curley)'s [*The Guardians of Time*](https://en.wikipedia.org/wiki/The_Guardians_of_Time) series, but since she didn't publish the first book until this century, that seems unlikely.
+To skip over some terminology bits, I haven't the foggiest idea where most of the names come from.  I considered that Arkaria might refer to {% wiki Marianne_Curley|Marianne Curley|en %}'s {% wiki The_Guardians_of_Time|*The Guardians of Time*|en %} series, but since she didn't publish the first book until this century, that seems unlikely.
 
 Meanwhile, over on *DS9*, the crew needed to endure dangerous alien game night in *Move Along Home* and introduced us to Ferengi politics in *The Nagus*.
 
@@ -57,11 +57,11 @@ That kind of excitement about horses probably gets you put on a list.
 
  > **DEVOR**: What are you doing?
 
-You might recognize Devor as [Tim Russ](https://en.wikipedia.org/wiki/Tim_Russ), who'll soon land the role of Tuvok on **Voyager** for its run.
+You might recognize Devor as {% wiki Tim_Russ|Tim Russ|en %}, who'll soon land the role of Tuvok on **Voyager** for its run.
 
  > **KIROS**: This is Kiros.
 
-When you actually see her, rather than the voice-over, you might recognize Kiros as [Pat Tallman](https://en.wikipedia.org/wiki/Patricia_Tallman), who has shown up on the periphery of the show---and will continue to do so in the franchise---for a while, both as a stunt double and background actor, but will soon take the role of Lyta Alexander on competing franchise **Babylon 5**.
+When you actually see her, rather than the voice-over, you might recognize Kiros as {% wiki Patricia_Tallman|Pat Tallman|en %}, who has shown up on the periphery of the show---and will continue to do so in the franchise---for a while, both as a stunt double and background actor, but will soon take the role of Lyta Alexander on competing franchise **Babylon 5**.
 
  > **PICARD**: My name is Mot. I'm the barber.
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -53,7 +53,7 @@ And while I need to dig through old episodes anyway, let's not forget Riker reve
 
  > **FARALLON**: Well, that's why I want to increase the stream density. That should boost the lift capacity by seventy-two percent.
 
-You might recognize the doctor as [Ellen Bry](https://en.wikipedia.org/wiki/Ellen_Bry), who has appeared in some of the weirdest roles, but made her name primarily as Julie Masters in the second season of [**The Amazing Spider-Man**](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_%28TV_series%29) and Shirley Daniels on [**St. Elsewhere**](https://en.wikipedia.org/wiki/St._Elsewhere), the latter show getting an indirect mention in [*Suddenly Human*]({% post_url 2023-11-30-suddenly-human %}), probably should have other times like [*Elaan of Troyius*]({% post_url 2021-05-13-elaan %}), and will probably rear its head next week, too.
+You might recognize the doctor as {% wiki Ellen_Bry|Ellen Bry|en %}, who has appeared in some of the weirdest roles, but made her name primarily as Julie Masters in the second season of {% wiki The_Amazing_Spider-Man_%28TV_series%29|**The Amazing Spider-Man**|en %} and Shirley Daniels on {% wiki St._Elsewhere|**St. Elsewhere**|en %}, the latter show getting an indirect mention in [*Suddenly Human*]({% post_url 2023-11-30-suddenly-human %}), probably should have other times like [*Elaan of Troyius*]({% post_url 2021-05-13-elaan %}), and will probably rear its head next week, too.
 
  > **FARALLON**: And will your opinion be the deciding factor?
  >
@@ -93,17 +93,17 @@ Also, does the Federation not have a specific legal definition of life?  It feel
 
 Plus, the lack of a definition feels like a disaster in the making with colonial efforts.  Especially given how we've seen some of these efforts go---such as in [*Home Soil*]({% post_url 2022-09-15-home-soil %})---it seems too expedient to wipe out any native inconveniences and, if caught, fight out whether it should have qualified as living in the courts.
 
-Mind you, *we* have definitions of [life](https://en.wikipedia.org/wiki/Life), but they all presume organic life with biological processes.  We generally define it using the capacity for homeostasis, organization, metabolism, growth, adaptation, response to stimuli, and reproduction.  Another competing definition exists, but...actually, it dovetails perfectly with the next line.
+Mind you, *we* have definitions of {% wiki Life|life|en %}, but they all presume organic life with biological processes.  We generally define it using the capacity for homeostasis, organization, metabolism, growth, adaptation, response to stimuli, and reproduction.  Another competing definition exists, but...actually, it dovetails perfectly with the next line.
 
  > **DATA**: Doctor, there is a big difference between you and a virus, but both are alive.
 
 Due to the possibility of inorganic life, as well as the large parts of an organism's life-cycle where organisms can't perform some tasks on that list---if we only had samples of elderly and infirm organisms of a class, the above definition suggests that we wouldn't call them living, because they might not respond to stimuli or reproduce, even though we'd all agree that they live---you'll often see people try to trim the list down to self-organization, the idea (pardon my simplification) that the physical form mostly creates and manages itself.
 
-Self-organization can encompass many of the tasks on the list, *but* it calls into question whether a virus qualifies as a living organism, since they definitionally can only reproduce inside and with the processes of the cells of a host organism.  A [virion](https://en.wikipedia.org/wiki/Virion) invades a cell, then *disassembles itself* so that the genetic material can hijack the cell, at which point it becomes a virus.  In other words, the virus does most of its self-organization (what passes for metabolism, reproduction, etc.) at times when you won't really identify it as a separate entity.
+Self-organization can encompass many of the tasks on the list, *but* it calls into question whether a virus qualifies as a living organism, since they definitionally can only reproduce inside and with the processes of the cells of a host organism.  A {% wiki Virion|virion|en %} invades a cell, then *disassembles itself* so that the genetic material can hijack the cell, at which point it becomes a virus.  In other words, the virus does most of its self-organization (what passes for metabolism, reproduction, etc.) at times when you won't really identify it as a separate entity.
 
 Because of that, not everybody agrees that a virus qualifies as life, like Data asserts here, instead thinking of them as edge-cases.  You now start to see references to "virocells" to side-step this argument, suggesting that we should consider the virally infected cell as the organism, rather than the virus or virion.
 
-As of only last year, by the way, viruses *may* have company in their "edge of life" status, with the discovery of seemingly not viral [obelisks](https://en.wikipedia.org/wiki/Obelisk_%28biology%29).
+As of only last year, by the way, viruses *may* have company in their "edge of life" status, with the discovery of seemingly not viral {% wiki Obelisk_%28biology%29|obelisks|en %}.
 
  > **LAFORGE**: Then why don't we just threaten its survival again and see what happens?
 

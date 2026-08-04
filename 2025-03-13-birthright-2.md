@@ -22,7 +22,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -40,7 +40,7 @@ After a *previously...* segment, this picks up where we left off, Worf captured 
 
 This gives some indication of the international politics, and how this big enmity works, though it probably doesn't do much for us.
 
-By the way, I didn't mention it last time, for some reason, but you might actually recognize L'Kor as [Richard Herd](https://en.wikipedia.org/wiki/Richard_Herd), who has showed up almost everywhere, over the years, later including a recurring spot on **Voyager** that he continued into fan-produced media (before Paramount created strict rules against hiring known actors in such productions), and some video game work.
+By the way, I didn't mention it last time, for some reason, but you might actually recognize L'Kor as {% wiki Richard_Herd|Richard Herd|en %}, who has showed up almost everywhere, over the years, later including a recurring spot on **Voyager** that he continued into fan-produced media (before Paramount created strict rules against hiring known actors in such productions), and some video game work.
 
  > **WORF**: If he had been captured as you were, if I had found him here, I would be glad to see him. There is no room in my heart for shame.
 

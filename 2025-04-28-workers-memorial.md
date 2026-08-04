@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks [Workers' Memorial Day](https://en.wikipedia.org/wiki/Workers%27_Memorial_Day), an international day of remembrance and action for workers killed, disabled, injured, or otherwise made unwell by their work.  Our Canadian friends call it their National Day of Mourning.  Either way, it often serves as a vehicle to spotlight the fight for workplace safety.
+Today marks {% wiki Workers%27_Memorial_Day|Workers' Memorial Day|en %}, an international day of remembrance and action for workers killed, disabled, injured, or otherwise made unwell by their work.  Our Canadian friends call it their National Day of Mourning.  Either way, it often serves as a vehicle to spotlight the fight for workplace safety.
 
 > Remember the dead – Fight for the living
 

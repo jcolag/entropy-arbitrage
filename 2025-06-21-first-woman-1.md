@@ -42,7 +42,7 @@ For this post, I read the comic and listened to the [audio version](https://soun
 
 I should note that I actually only know that these comics exist, because the Trump administration had the comics removed from NASA's website via his [anti-Diversity, Equity, Inclusion, and Accessibility executive order](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/), which imagines that hiring practices that look beyond white men as candidates, or even acknowledging the existence of other people as this does, amount to "illegal and immoral discrimination programs."  From that perspective, I guess that the executive order did something good, drawing attention to some important content.
 
-And yes, technically we already talked about NASA material with the [**Lost Universe**]({% post_url 2024-05-04-lost-universe %}) role-playing adventure, but this has different creators at an entirely different group within the agency, an offshoot of the [Artemis program](https://en.wikipedia.org/wiki/Artemis_program) rather than the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope).
+And yes, technically we already talked about NASA material with the [**Lost Universe**]({% post_url 2024-05-04-lost-universe %}) role-playing adventure, but this has different creators at an entirely different group within the agency, an offshoot of the {% wiki Artemis_program|Artemis program|en %} rather than the {% wiki Hubble_Space_Telescope|Hubble Space Telescope|en %}.
 
 ## What Works Well?
 
@@ -56,7 +56,7 @@ And maybe shockingly, the comic doesn't really pull its punches.
 
 A book like this could have quickly fallen over into focusing exclusively on the women and/or non-white astronauts, or trying to get by without mentioning race, so I appreciate that the book says it bluntly.
 
-The audio not only dramatizes the comic, but also provides extensive descriptions of both the art and a lot of the rationale *behind* what we see in the art.  It seemed suspicious that the reading would spend an average of over a minute and a half per page, but it actually pays off, given how much more background information and context that we get from the story.  For a great example of that added context, the comic doesn't mention it and I probably never would've recognized [Florida A&M](https://en.wikipedia.org/wiki/Florida_A%26M_University) as a [historically Black university](https://en.wikipedia.org/wiki/Historically_black_colleges_and_universities).
+The audio not only dramatizes the comic, but also provides extensive descriptions of both the art and a lot of the rationale *behind* what we see in the art.  It seemed suspicious that the reading would spend an average of over a minute and a half per page, but it actually pays off, given how much more background information and context that we get from the story.  For a great example of that added context, the comic doesn't mention it and I probably never would've recognized {% wiki Florida_A%26M_University|Florida A&M|en %} as a {% wiki Historically_black_colleges_and_universities|historically Black university|en %}.
 
 ## What Works...Less Well?
 

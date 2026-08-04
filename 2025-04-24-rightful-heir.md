@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -47,15 +47,15 @@ Did Picard strongly suggest that Worf go away and stop bothering him...?  I don'
 
  > **DIVOK**: Kahless! I see Kahless! He is standing before me with a sword. He wants something. Me. He wants me! He wants me to go with him!
 
-You might recognize this random Klingon as [Charles/Chip Esten](https://en.wikipedia.org/wiki/Charles_Esten), who has made appearances on all sorts of shows, but has mostly made his name in the improv comedy world.
+You might recognize this random Klingon as {% wiki Charles_Esten|Charles/Chip Esten|en %}, who has made appearances on all sorts of shows, but has mostly made his name in the improv comedy world.
 
  > **KOROTH**: It is a powerful vision you have had, Divok. Kahless wants you to join him in Sto-Vo-Kor. You are only nineteen and yet your place among the honored dead is already secure. Take him back to his chamber. Let him sleep.
 
-By contrast, you might recognize Koroth as---or at least his voice as belonging to---[Alan Oppenheimer](https://en.wikipedia.org/wiki/Alan_Oppenheimer), who has had a long career, but people my age probably mostly recognize the name as the voice of Skeletor (among many others) in **He-Man and the Masters of the Universe** and related properties.
+By contrast, you might recognize Koroth as---or at least his voice as belonging to---{% wiki Alan_Oppenheimer|Alan Oppenheimer|en %}, who has had a long career, but people my age probably mostly recognize the name as the voice of Skeletor (among many others) in **He-Man and the Masters of the Universe** and related properties.
 
  > **KAHLESS**: I am Kahless, and I have returned.
 
-I don't recognize him, myself, but to complete the set, I might as well point out that [Kevin Conway](https://en.wikipedia.org/wiki/Kevin_Conway_%28actor%29) plays Kahless, in the middle of another long career.
+I don't recognize him, myself, but to complete the set, I might as well point out that {% wiki Kevin_Conway_%28actor%29|Kevin Conway|en %} plays Kahless, in the middle of another long career.
 
  > **RIKER**: Worf, no offense, but I have trouble believing that the man I that escorted to deck eight is supernatural.
 

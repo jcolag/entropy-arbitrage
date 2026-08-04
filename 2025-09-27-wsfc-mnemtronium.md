@@ -37,7 +37,7 @@ This should go without saying---even though I plan to repeat it with every Book 
 
 The main challenge page describes the story as follows.
 
-> [Mnemtronium](https://en.wikiversity.org/wiki/Mnemtronium "Mnemtronium") - set in an imagined future after [dark matter](https://en.wikipedia.org/wiki/Dark_matter "w:Dark matter") is fully understood. It is discovered that dark matter provides a way to account for some forms of [Extra-sensory perception](https://en.wikipedia.org/wiki/Extra-sensory_perception "w:Extra-sensory perception").
+> [Mnemtronium](https://en.wikiversity.org/wiki/Mnemtronium "Mnemtronium") - set in an imagined future after {% wiki Dark_matter "w:Dark matter"|dark matter|en %} is fully understood. It is discovered that dark matter provides a way to account for some forms of {% wiki Extra-sensory_perception "w:Extra-sensory perception"|Extra-sensory perception|en %}.
 
 As to the overall Science Fiction Challenge, it carries the following top-level description.  The story also has a [video teaser](https://en.wikiversity.org/wiki/File:Imoggination.ogg).
 
@@ -64,7 +64,7 @@ As to the overall Science Fiction Challenge, it carries the following top-level 
 
 Mind you, *I* didn't find it illuminating, but the creator might have produced it before writing.
 
-> **Science Fiction Challenge** is a learning project for exploring the nature and boundaries of science through science fiction writing. What does it mean to say that the subject of scientific study is "[nature](https://en.wikipedia.org/wiki/Nature)" and what does it mean to talk of the "[supernatural](https://en.wikipedia.org/wiki/Supernatural)"?
+> **Science Fiction Challenge** is a learning project for exploring the nature and boundaries of science through science fiction writing. What does it mean to say that the subject of scientific study is "{% wiki Nature|nature|en %}" and what does it mean to talk of the "{% wiki Supernatural|supernatural|en %}"?
 
 And it also provides some background.
 

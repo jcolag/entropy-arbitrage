@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we recognize [World Tuberculosis Day](https://en.wikipedia.org/wiki/World_Tuberculosis_Day), raising awareness of the global epidemic and the efforts to end it.  Despite it sounding like a problem out of **La Bohème** and the associated bizarre attempts to characterize it as some sort of Victorian-era superpower, about a quarter of the population probably has a latent infection and kills over a million people per year, bumped down to the second-most deadly disease only with COVID-19 tearing through the population.
+Today, we recognize {% wiki World_Tuberculosis_Day|World Tuberculosis Day|en %}, raising awareness of the global epidemic and the efforts to end it.  Despite it sounding like a problem out of **La Bohème** and the associated bizarre attempts to characterize it as some sort of Victorian-era superpower, about a quarter of the population probably has a latent infection and kills over a million people per year, bumped down to the second-most deadly disease only with COVID-19 tearing through the population.
 
 ![A poster asking to prevent disease, warning that careless spitting, coughing, and sneezing spread influenza and tuberculosis, showing a person covering their mouth with a handkerchief](/blog/assets/TB-poster.png "Disappointingly still relevant...")
 

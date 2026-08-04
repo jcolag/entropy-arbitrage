@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -65,9 +65,9 @@ I like how they manage to play both sides of this, both that everybody still has
  >
  > **PICARD**: Berlioz. What do you have?
 
-Specifically, we have *Song of Hylas* from [**Les Troyens**](https://en.wikipedia.org/wiki/Les_Troyens), Act V.  [Bizet](https://en.wikipedia.org/wiki/Georges_Bizet) strikes me as more mainstream and less challenging[^I5mYAd], to modern ears.
+Specifically, we have *Song of Hylas* from {% wiki Les_Troyens|**Les Troyens**|en %}, Act V.  {% wiki Georges_Bizet|Bizet|en %} strikes me as more mainstream and less challenging[^I5mYAd], to modern ears.
 
-[^I5mYAd]:  Not that opera composers have generally tried to create challenging art.  Today, we see the field as almost elitist and somewhat opaque, but for a long time, people considered opera entertainment for the masses.  For example, when we talked about [*A Matter of Time*]({% post_url 2024-07-11-matter-time %}), I mentioned that, when Verdi kept [*La donna è mobile*](https://en.wikipedia.org/wiki/La_donna_%C3%A8_mobile) from **Rigoletto** secret even from the cast, after the premiere, the song spread like wildfire through Venice, with fans performing it in the streets for weeks, and then it spread to the gondoliers and became the tradition that we still recognize today, and you've probably heard the song played in at least half the Italian restaurants and pizzerias (outside Italy, I imagine) that you might have visited, getting close to two hundred years later.  Opera commanded *that* kind of audience, hardly the white-gloved/black-tie crowds that we might imagine attending today.  Think more in terms of **K-Pop Demon Hunters** than a debutante ball.
+[^I5mYAd]:  Not that opera composers have generally tried to create challenging art.  Today, we see the field as almost elitist and somewhat opaque, but for a long time, people considered opera entertainment for the masses.  For example, when we talked about [*A Matter of Time*]({% post_url 2024-07-11-matter-time %}), I mentioned that, when Verdi kept {% wiki La_donna_%C3%A8_mobile|*La donna è mobile*|en %} from **Rigoletto** secret even from the cast, after the premiere, the song spread like wildfire through Venice, with fans performing it in the streets for weeks, and then it spread to the gondoliers and became the tradition that we still recognize today, and you've probably heard the song played in at least half the Italian restaurants and pizzerias (outside Italy, I imagine) that you might have visited, getting close to two hundred years later.  Opera commanded *that* kind of audience, hardly the white-gloved/black-tie crowds that we might imagine attending today.  Think more in terms of **K-Pop Demon Hunters** than a debutante ball.
 
  > **PICARD**: Oh, fascinating. Twenty particles of space dust per cubic meter, fifty-two ultraviolet radiation spikes, and a class two comet. Well, this is certainly worthy of our attention.
 
@@ -75,7 +75,7 @@ As they say, "there are no small roles, only small actors."  And they say it for
 
  > **FLEET COMMUNICATIONS**: Flagship to *Endeavor*. Standby to engage at grid A-fifteen. *Defiant* and *Bozeman*, fall back to mobile position one. Acknowledge. We have it in visual range. A Borg cube on course zero point two one five, speed warp point nine six.
 
-The *Endeavor* wandered around the background of [*The Game*]({% post_url 2024-06-20-game %}) and presumably takes its name from [the space shuttle](https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour) that flew from 1992 until 2011, and the *Bozeman* got a mention in [**Generations**]({% post_url 2025-12-04-star-trek-generations-1 %}), where I walked through that.  The *Defiant* spends most of its time over on **Deep Space Nine**...and Deep Space Nine, for that matter.
+The *Endeavor* wandered around the background of [*The Game*]({% post_url 2024-06-20-game %}) and presumably takes its name from {% wiki Space_Shuttle_Endeavour|the space shuttle|en %} that flew from 1992 until 2011, and the *Bozeman* got a mention in [**Generations**]({% post_url 2025-12-04-star-trek-generations-1 %}), where I walked through that.  The *Defiant* spends most of its time over on **Deep Space Nine**...and Deep Space Nine, for that matter.
 
  > **PICARD**: Maximum warp. I am about to commit a direct violation of our orders. Any of you who wish to object should do so now. It will be noted in my log.
  >
@@ -115,7 +115,7 @@ They will never not find bigotry and microaggressions hilarious, I guess.
  >
  > **COCHRANE**: Good night Eddie. Go home.
 
-I'd do the "you might recognize [Alfre Woodard](https://en.wikipedia.org/wiki/Alfre_Woodard) and [James Cromwell](https://en.wikipedia.org/wiki/James_Cromwell)" thing, but they got their names in the opening credits with the main cast, so that seems silly.  Also, it seems outright insulting to all of us to even pretend that you don't know Woodard when you see her.  I *will* mention in passing that we've already seen Cromwell in [*The Hunted*]({% post_url 2023-07-13-hunted %}) and [*Birthright*]({% post_url 2025-03-06-birthright-1 %}).  And played by someone else, we met Cochrane in [*Metamorphosis*]({% post_url 2020-10-08-meta %}).
+I'd do the "you might recognize {% wiki Alfre_Woodard|Alfre Woodard|en %} and {% wiki James_Cromwell|James Cromwell|en %}" thing, but they got their names in the opening credits with the main cast, so that seems silly.  Also, it seems outright insulting to all of us to even pretend that you don't know Woodard when you see her.  I *will* mention in passing that we've already seen Cromwell in [*The Hunted*]({% post_url 2023-07-13-hunted %}) and [*Birthright*]({% post_url 2025-03-06-birthright-1 %}).  And played by someone else, we met Cochrane in [*Metamorphosis*]({% post_url 2020-10-08-meta %}).
 
  > **RIKER**: Makes sense. Most of the major cities have been destroyed. There are few governments left. Six hundred million dead. No resistance.
 
@@ -135,9 +135,9 @@ Probably not, though, right?  We already know that they plan to assimilate Earth
 
  > **HAWK**: I can't tell. Long-range sensors are still off-line.
 
-You might recognize Hawk[^JHTksR] as [Neal McDonough](https://en.wikipedia.org/wiki/Neal_McDonough), who has shown up pretty much everywhere, though I primarily recognize him from [**Tin Man**](https://en.wikipedia.org/wiki/Tin_Man_%28miniseries%29)...the diesel-punk Oz thing, not [the episode]({% post_url 2023-09-14-tin-man %}).
+You might recognize Hawk[^JHTksR] as {% wiki Neal_McDonough|Neal McDonough|en %}, who has shown up pretty much everywhere, though I primarily recognize him from {% wiki Tin_Man_%28miniseries%29|**Tin Man**|en %}...the diesel-punk Oz thing, not [the episode]({% post_url 2023-09-14-tin-man %}).
 
-[^JHTksR]:  I should note that, while I don't know if they meant this as some sort of tribute to or mockery of their sibling-show, prior to **Deep Space Nine**, people primarily recognized Avery Brooks as fellow "for hire" Hawk on [**Spenser:  For Hire**](https://en.wikipedia.org/wiki/Spenser:_For_Hire) and its spinoff, **A Man Called Hawk**.
+[^JHTksR]:  I should note that, while I don't know if they meant this as some sort of tribute to or mockery of their sibling-show, prior to **Deep Space Nine**, people primarily recognized Avery Brooks as fellow "for hire" Hawk on {% wiki Spenser:_For_Hire|**Spenser:  For Hire**|en %} and its spinoff, **A Man Called Hawk**.
 
  > **PICARD**: Doctor...
  >
@@ -149,7 +149,7 @@ Notice Picard's response in this exchange.  He *absolutely* wanted to forbid her
 
  > **PICARD**: It's a boyhood fantasy, Data. I must have seen this ship hundreds of times in the Smithsonian, but I was never able to touch it.
 
-At least until Donald Trump used his executive orders to blog about not liking references to his two impeachments in government-funded museums, the United States largely considered the [Smithsonian Institution](https://en.wikipedia.org/wiki/Smithsonian_Institution) the country's most important and prestigious museums.  Presumably, Picard specifically saw the *Phoenix* at the [National Air and Space Museum](https://en.wikipedia.org/wiki/National_Air_and_Space_Museum), which has housed one of the [original *Enterprise* models](https://www.flickr.com/photos/99058495@N00/41451742962) for a long time.
+At least until Donald Trump used his executive orders to blog about not liking references to his two impeachments in government-funded museums, the United States largely considered the {% wiki Smithsonian_Institution|Smithsonian Institution|en %} the country's most important and prestigious museums.  Presumably, Picard specifically saw the *Phoenix* at the {% wiki National_Air_and_Space_Museum|National Air and Space Museum|en %}, which has housed one of the [original *Enterprise* models](https://www.flickr.com/photos/99058495@N00/41451742962) for a long time.
 
 More directly relevant, notice how Picard's comments here fit with his nineteenth-century approach to archaeology, that he believes that he has the right to grab and probably gnaw on whatever historical artifacts that fall into his field of vision.
 
@@ -183,13 +183,13 @@ Less relevant, Ogawa makes an appearance, here, last spotted in [*Genesis*]({% p
 
  > **EMH**: Please state the nature of the medical emergency.
 
-If you know the franchise, then you probably don't need me to walk you through recognizing [Robert Picardo](https://en.wikipedia.org/wiki/Robert_Picardo), who starred in **Voyager** and the second season of **Prodigy** as a different version of this character, but also feels like he has appeared pretty much everywhere for almost fifty years.
+If you know the franchise, then you probably don't need me to walk you through recognizing {% wiki Robert_Picardo|Robert Picardo|en %}, who starred in **Voyager** and the second season of **Prodigy** as a different version of this character, but also feels like he has appeared pretty much everywhere for almost fifty years.
 
  > **EMH**: This isn't part of my program. I'm a doctor, not a doorstop.
 
 One imagines that the first act of [**Generations**]({% post_url 2022-04-28-generations %}) answers this for me, but do people read through old ship logs?  After all, I realize that, if this film came out today, we'd have a flood of articles and (snicker) video essays carefully dissecting this "Easter egg[^Fj0UoE]," but in-universe, I can't see any way that the computer lands on this phrasing unless the programmer expected patients to recognize McCoy's speech patterns from a century ago well enough to get the joke.
 
-[^Fj0UoE]:  I hate the over-use of the term, because you *hunt* for Easter eggs, as in an [Easter egg hunt](https://en.wikipedia.org/wiki/Egg_hunt).  When the work goes far out of its way to draw attention to the reference, you can't rightly hunt for it.
+[^Fj0UoE]:  I hate the over-use of the term, because you *hunt* for Easter eggs, as in an {% wiki Egg_hunt|Easter egg hunt|en %}.  When the work goes far out of its way to draw attention to the reference, you can't rightly hunt for it.
 
  > **DATA**: Excellent idea. Plasma coolant will liquefy organic material on contact.
 
@@ -201,7 +201,7 @@ Or---and please hear me out, here---they could maybe *rescue* any such colleague
 
  > **RIKER**: Deanna! Deanna! Deanna!
 
-The franchise has discovered cultural artifacts outside the 1930s, stretching all the way forward to 1955 for [*Ooby Dooby*](https://en.wikipedia.org/wiki/Dick_Penner#%22Ooby_Dooby%22).  You'll notice, though, how clear they make it that Riker and Troi don't approve.
+The franchise has discovered cultural artifacts outside the 1930s, stretching all the way forward to 1955 for {% wiki Dick_Penner#%22Ooby_Dooby%22|*Ooby Dooby*|en %}.  You'll notice, though, how clear they make it that Riker and Troi don't approve.
 
  > **COCHRANE**: Who is this jerk? And who told him he could turn off my music?
 
@@ -219,17 +219,17 @@ Also, it makes them seem much less like dangerous enemies when they don't mind y
 
  > **PICARD**: Regroup on deck fifteen. Don't let them touch you!
 
-[Cooties](https://en.wikipedia.org/wiki/Cooties) rules now apply, I see.
+{% wiki Cooties|Cooties|en %} rules now apply, I see.
 
  > **LYNCH**: Captain! Help. Please, help.
 
 Yep.  Picard literally murdered a colleague---posing no threat and begging for help, I might add---in cold blood, because saving lives feels less cathartic.
 
-I realize that I have brought up current events in the United States already, but it does seem worth comparing Picard's callousness to the [strike killing survivors](https://en.wikipedia.org/wiki/2025_United_States_military_strikes_on_alleged_drug_traffickers#Survivors_and_follow-up_strike) of the strikes against alleged drug traffickers.  Again, while the Borg absolutely fired on Earth, this batch of drones only made it here as survivors of Picard's strike against their ship and (as Picard made it clear) didn't attack the crew until Picard threatened them.  And I mention all that because, if we posit that the Federation has declared war against the Borg, pretty much every society considers this a textbook example of a war crime...in the literal sense of using it as an example in textbooks.
+I realize that I have brought up current events in the United States already, but it does seem worth comparing Picard's callousness to the {% wiki 2025_United_States_military_strikes_on_alleged_drug_traffickers#Survivors_and_follow-up_strike|strike killing survivors|en %} of the strikes against alleged drug traffickers.  Again, while the Borg absolutely fired on Earth, this batch of drones only made it here as survivors of Picard's strike against their ship and (as Picard made it clear) didn't attack the crew until Picard threatened them.  And I mention all that because, if we posit that the Federation has declared war against the Borg, pretty much every society considers this a textbook example of a war crime...in the literal sense of using it as an example in textbooks.
 
  > **BORG QUEEN**: Brave words. I've heard them before from thousands of species across thousands of worlds since long before you were created. But now they are all Borg.
 
-Again, you probably already know this, because she'll go on to reprise this role in **Voyager**, **Lower Decks**, and **Picard**, but when we actually see the Queen---ignore that the concept makes no sense---you might recognize her as [Alice Krige](https://en.wikipedia.org/wiki/Alice_Krige), who has similarly appeared all over television and film for almost fifty years.
+Again, you probably already know this, because she'll go on to reprise this role in **Voyager**, **Lower Decks**, and **Picard**, but when we actually see the Queen---ignore that the concept makes no sense---you might recognize her as {% wiki Alice_Krige|Alice Krige|en %}, who has similarly appeared all over television and film for almost fifty years.
 
  > **TROI**: It unites humanity in a way no one ever thought possible when they realize they're not alone in the universe. Poverty, disease, war. They'll all be gone within the next fifty years.
 
@@ -271,13 +271,13 @@ He calls up **The Big Goodbye**, referencing [the episode]({% post_url 2022-08-0
 
  > **MAÎTRE D'**: I'm sorry, gentlemen, but we're closing, and you do understand we have a strict dress code? So, if you boys don't leave right now, I'll...
 
-Once again, if you know the franchise, then you probably already recognize [Ethan Phillips](https://en.wikipedia.org/wiki/Ethan_Phillips), who played Neelix over on **Voyager**, though we also ran across him in [*Ménage à Troi*]({% post_url 2023-10-12-menage-troi %}).  Like Picardo and Krige, he has *also* worked fairly consistently and widely for almost the past fifty years.
+Once again, if you know the franchise, then you probably already recognize {% wiki Ethan_Phillips|Ethan Phillips|en %}, who played Neelix over on **Voyager**, though we also ran across him in [*Ménage à Troi*]({% post_url 2023-10-12-menage-troi %}).  Like Picardo and Krige, he has *also* worked fairly consistently and widely for almost the past fifty years.
 
  > **PICARD**: Try and look as if you're having a good time.
 
 Maybe I would, if you didn't make this such a slog.  Oh, he probably didn't mean me.  Sorry...
 
-Also, we have again slipped free of the 1930s, but only to 1942 for [*Moonlight Becomes You*](https://en.wikipedia.org/wiki/Moonlight_Becomes_You_%28song%29) in the background, most notably recorded by Bing Crosby, which I point out because somebody missed a prime opportunity to have his granddaughter show up, if they wanted to play the "do you get the joke?" game so often.
+Also, we have again slipped free of the 1930s, but only to 1942 for {% wiki Moonlight_Becomes_You_%28song%29|*Moonlight Becomes You*|en %} in the background, most notably recorded by Bing Crosby, which I point out because somebody missed a prime opportunity to have his granddaughter show up, if they wanted to play the "do you get the joke?" game so often.
 
 Unrelated, I gather that this scene exists mostly to get some of the production crew on-screen.
 

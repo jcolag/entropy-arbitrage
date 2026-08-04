@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -49,7 +49,7 @@ Anyway, we'll talk about him a lot more starting in something like a year.
 
  > **SHREK**: Klingon. You are Starfleet, Klingon.
 
-You might recognize random alien as [James Cromwell](https://en.wikipedia.org/wiki/James_Cromwell), who we last saw in [*The Hunted*]({% post_url 2023-07-13-hunted %}), and will eventually star in **First Contact**.
+You might recognize random alien as {% wiki James_Cromwell|James Cromwell|en %}, who we last saw in [*The Hunted*]({% post_url 2023-07-13-hunted %}), and will eventually star in **First Contact**.
 
  > **TROI**: Would you like to talk about what's bothering you, or would you like to break some more furniture?
 
@@ -67,7 +67,7 @@ How boring that sounds, as compared to his usual reading of people digging up ar
 
 Or, rather, Data has a culture, because he lives in the Federation and has a rather specific career.  And I won't quote it, but I should note that, when Data reaches out, he reaches out to Worf, the ship's other token outsider.
 
-Oh, and do I need to point you to the [*David*](https://en.wikipedia.org/wiki/David_%28Michelangelo%29) statue?  The tomb seems original to the episode.
+Oh, and do I need to point you to the {% wiki David_%28Michelangelo%29|*David*|en %} statue?  The tomb seems original to the episode.
 
  > **BASHIR**: It sounds to me like you're talking about dreaming.
  >
@@ -83,7 +83,7 @@ I don't mean to alarm anybody, but did Bashir wear ballet slippers[^1] to the *E
 
  > **GI'RAL**: He must leave at once.
 
-You might recognize the Klingon woman as character actor [Cristine Rose](https://en.wikipedia.org/wiki/Cristine_Rose).
+You might recognize the Klingon woman as character actor {% wiki Cristine_Rose|Cristine Rose|en %}.
 
 ## Conclusions
 

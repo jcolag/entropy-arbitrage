@@ -16,13 +16,13 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, to help me avoid ranting about Christopher Columbus *again*[^ZnydPZ], we observe the [International Day for Disaster Risk Reduction](https://en.wikipedia.org/wiki/International_Day_for_Disaster_Risk_Reduction), encouraging everyone, resident and official alike, to build more disaster-resilient communities.  In the United States, given that we now have a national government whose solution for natural disasters lies somewhere between denial and bribery, that may resonate a bit more deeply than it has in previous years.
+Today, to help me avoid ranting about Christopher Columbus *again*[^ZnydPZ], we observe the {% wiki International_Day_for_Disaster_Risk_Reduction|International Day for Disaster Risk Reduction|en %}, encouraging everyone, resident and official alike, to build more disaster-resilient communities.  In the United States, given that we now have a national government whose solution for natural disasters lies somewhere between denial and bribery, that may resonate a bit more deeply than it has in previous years.
 
 [^ZnydPZ]:  He lied about his credentials to get funding, treated the natives so poorly that even the Spanish imperial government convicted him and gave him a life sentence, compiled and published a list of favors he believed that people owed his heirs due to his brilliance, went to the grave insisting that he made it to India, only became an American icon because European powers claimed everybody less pathetic, and required an entire alternate-universe history where everybody believed in Flat Earth theory until this Genoan creep sailed to definitely *not* India.  Oh, and he tried to become an end-times prophet near the end of his life (again, in prison), a totally normal and healthy thing to do.  You've heard me go through this before, I assume, or you can track down prior years when I couldn't find a better holiday for early-to-mid October...
 
 ![After the Great Fire of Turku](/blog/assets/Turun-palo-1827.png "A little Spackle and two hundred years will fix that right up.")
 
-We also *do* have what many of us in the United States now more properly refer to as [Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day_%28United_States%29).
+We also *do* have what many of us in the United States now more properly refer to as {% wiki Indigenous_Peoples%27_Day_%28United_States%29|Indigenous Peoples' Day|en %}.
 
 With that, on to the week's projects.
 
@@ -38,7 +38,7 @@ Oh, I did hear back on my [QR Frame question](https://github.com/zhengkyl/qrfram
 
 {% codeberg jcolag/PosTuring %}
 
-Continuing the process of moving my old programming languages over to Codeberg, this repository holds an interpreter for a language that closely mimics Emil Post's [Post-Turing Machine](https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine), standing as one of the handful of unique, complete models of computation that appeared at around the same time from independent research.
+Continuing the process of moving my old programming languages over to Codeberg, this repository holds an interpreter for a language that closely mimics Emil Post's {% wiki Post%E2%80%93Turing_machine|Post-Turing Machine|en %}, standing as one of the handful of unique, complete models of computation that appeared at around the same time from independent research.
 
 And connecting the *T*s in the names of the two mathematicians credited gives us the English word [posturing](https://en.wiktionary.org/wiki/posturing), which made me happy at the time...
 
@@ -76,7 +76,7 @@ However, you can also provide a domain name such as `wikipedia.org`.  In this ca
 
 Back to programming languages, this also continued the idea of working with minimal or obscure computational models.  In this case, the language operates as a series of grammar transformations.
 
-As mentioned in the documentation, I believe that for many years, the [language's Wikipedia article](https://en.wikipedia.org/wiki/Thue_%28programming_language%29) made editors hesitant to delete [my own Wikipedia article](https://web.archive.org/web/20161226221754/https://en.wikipedia.org/wiki/John_Colagioia)[^vlWUKL], though ultimately deleted.  
+As mentioned in the documentation, I believe that for many years, the {% wiki Thue_%28programming_language%29|language's Wikipedia article|en %} made editors hesitant to delete [my own Wikipedia article](https://web.archive.org/web/20161226221754/https://en.wikipedia.org/wiki/John_Colagioia)[^vlWUKL], though ultimately deleted.  
 
 [^vlWUKL]:  For the record, best I could figure, one of my former students put pages together for a lot of the school's teaching staff at the time.  Mine probably survived longer than most, even though NYU started playing whack-a-mole with its faculty pages, because people *technically* recognized my name from other projects like this.  It didn't get archived anywhere that I can find it, but I believe that my first Wikipedia edit, in fact, landed on my article's Talk page, where I indicated that I probably don't qualify as notable, and so wouldn't mind if they deleted it, but would make myself available if anybody wanted to make me so...
 
@@ -106,7 +106,7 @@ Nothing has happened in here since, but I do have at least one other story that 
 
 Another blast from the distant past, I have moved my old Etch-A-Sketch{% emoji trademark %} repository over here, too.  I wrote this for Windows 3.1 and eventually (reluctantly) Windows 95, starting in a previous century, so don't even know if you could find a legitimate way to build it today.  But it did eventually have a wide assortment of absurd features, including a LOGO-like interpreter, a way to connect multiple instances to "collaborate" on images, and more.
 
-To compile it, I *believe* that you'd need a contemporary version of [Borland Turbo C](https://en.wikipedia.org/wiki/Turbo_C) for (at least) the resource compiler.  For the full experience, you would also need [Install Shield](https://en.wikipedia.org/wiki/InstallShield) to create the installer from the included script.  And heck, I don't even remember how to build a help file anymore...
+To compile it, I *believe* that you'd need a contemporary version of {% wiki Turbo_C|Borland Turbo C|en %} for (at least) the resource compiler.  For the full experience, you would also need {% wiki InstallShield|Install Shield|en %} to create the installer from the included script.  And heck, I don't even remember how to build a help file anymore...
 
 ## Next
 

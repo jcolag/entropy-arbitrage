@@ -22,7 +22,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -72,7 +72,7 @@ And he *had* to make it creepy.
 
 I really need to stress, here, that of the entire senior crew, only Riker would really have any reasonable chance of starring in **Star Trek:  The Colonial Generation**[^3hxlyG].  Picard?  Dead, after bleeding out on a tavern floor.  La Forge?  Blind and probably toiling away in a tobacco-growing labor camp.  Worf?  Either not on Earth if we take his extraterrestrial nature literally or part of some foreign flotilla, since international cooperation doesn't happen much.  Crusher?  No medical degree and almost certainly stranded at home.  Troi?  Equivalent to Crusher.  Data?  Same as Worf.  Yar?  Same as Crusher and Troi minus the credential issues, assuming that she didn't also die from an evil petroleum spill or in her R-rated Dickensian underworld.  Oh, I guess that *Wesley* would make the cut, of all people.  Hooray for child labor, I guess.  All that to say that, reboot this show in the late 1700s to early 1800s, and the cast becomes Will Riker and Wesley Crusher, though they presumably smack Wesley around when he brings up his book-learning.
 
-[^3hxlyG]:  Yes, redundant.  Also, while I've ended up down here to talk about the ridiculousness anyway, in the spirit of full disclosure, well over twenty years ago, I tried to work out a project that I called **Trek 'pon the High Seas**, a Shakespearean *Star Trek* where the characters---borrowed from contemporary fiction (or broad stereotypes) who parallel a character, recontextualized as human where necessary---sail from island utopia to island utopia of the sixteenth and seventeenth centuries.  The Next Generation version of the idea had the ship chartered by...[Jean Picard](https://en.wikipedia.org/wiki/Jean_Picard), the ~~stargazer~~ astronomer, because I couldn't ignore such an on-the-nose option, even if not fictional.  I almost certainly didn't get the iambic pentameter right, but I'll make sure that this version of the pre-show doggerel makes it to the December [newsletter](https://https://buymeacoffee.com/jcolag) (click **...** in the upper-right, then **Follow**) for anybody who wants the laugh...
+[^3hxlyG]:  Yes, redundant.  Also, while I've ended up down here to talk about the ridiculousness anyway, in the spirit of full disclosure, well over twenty years ago, I tried to work out a project that I called **Trek 'pon the High Seas**, a Shakespearean *Star Trek* where the characters---borrowed from contemporary fiction (or broad stereotypes) who parallel a character, recontextualized as human where necessary---sail from island utopia to island utopia of the sixteenth and seventeenth centuries.  The Next Generation version of the idea had the ship chartered by...{% wiki Jean_Picard|Jean Picard|en %}, the ~~stargazer~~ astronomer, because I couldn't ignore such an on-the-nose option, even if not fictional.  I almost certainly didn't get the iambic pentameter right, but I'll make sure that this version of the pre-show doggerel makes it to the December [newsletter](https://https://buymeacoffee.com/jcolag) (click **...** in the upper-right, then **Follow**) for anybody who wants the laugh...
 
 Riker didn't *need* to make this creepy, in other words.  He could have had a good-natured speech about the value of inclusion (and health care), but no, he decided that he needed to objectify women as valuable to the crew only to the extent that he can---how can I put this delicately?---dock his little *Enterprise*, I guess.
 
@@ -90,7 +90,7 @@ Maybe if he didn't bottle up his emotions all the time, he wouldn't almost colla
 
  > **SORAN**: Soran. Doctor Tolian Soran.
 
-You already know this from the [first **Generations** post]({% post_url 2022-04-28-generations %}) if not sooner, but you probably recognize Soran because [Malcolm McDowell](https://en.wikipedia.org/wiki/Malcolm_McDowell) plays him, tooling around media from **A Clockwork Orange** to **Mozart in the Jungle**.
+You already know this from the [first **Generations** post]({% post_url 2022-04-28-generations %}) if not sooner, but you probably recognize Soran because {% wiki Malcolm_McDowell|Malcolm McDowell|en %} plays him, tooling around media from **A Clockwork Orange** to **Mozart in the Jungle**.
 
  > **LAFORGE**: Data, whatever possessed you to push her in the water in the first place?
 
@@ -158,9 +158,9 @@ In two lines, the kid went from wanting to *see* the Academy to, based on Picard
 
  > **PICARD**: Right. Oh, from being a small child, I can remember being told about the family line. The Picard who fought at Trafalgar. The Picard who won the Nobel Prize for chemistry. The Picards who settled the first Martian colony. When Robert married and had a son, I---
 
-The [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar) occurred as part of Napoleon's big plan to conquer Britain.  This could've served as a sly callback to Picard's insistence that sailing circa 1800 would mean freedom, but nah, he doesn't even seem to care which side his ancestor fought for.
+The {% wiki Battle_of_Trafalgar|Battle of Trafalgar|en %} occurred as part of Napoleon's big plan to conquer Britain.  This could've served as a sly callback to Picard's insistence that sailing circa 1800 would mean freedom, but nah, he doesn't even seem to care which side his ancestor fought for.
 
-The [Nobel Prize in Chemistry](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry) didn't get awarded in eight years (so far), suggesting that the relevant Picard won in 1916, 1917, 1919, 1924, 1933, 1940, 1941, or 1942, rather than bumping a more worthy project off the list.
+The {% wiki List_of_Nobel_laureates_in_Chemistry|Nobel Prize in Chemistry|en %} didn't get awarded in eight years (so far), suggesting that the relevant Picard won in 1916, 1917, 1919, 1924, 1933, 1940, 1941, or 1942, rather than bumping a more worthy project off the list.
 
 And, especially as you consider the current loudest voice for colonizing Mars, you'll notice how much this story reinforces Picard's privilege.  Everybody in his family for six hundred years has had access to fame.
 

@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Though it sounds a bit like a 1950s science fiction flick, today marks the [International Day of the African Child](https://en.wikipedia.org/wiki/International_Day_of_the_African_Child), primarily honoring the participants in the [Soweto Uprising](https://en.wikipedia.org/wiki/Soweto_uprising), but also agitating for improved education across Africa.
+Though it sounds a bit like a 1950s science fiction flick, today marks the {% wiki International_Day_of_the_African_Child|International Day of the African Child|en %}, primarily honoring the participants in the {% wiki Soweto_uprising|Soweto Uprising|en %}, but also agitating for improved education across Africa.
 
 I should note that Soweto happened to oppose the South African government imposing cultural requirements---language of instruction, in this case---in schools, already segregated in a culture steeped in apartheid.  Not that I have [any reason](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/) for bringing that up in 2025 or in the United States...
 
@@ -52,7 +52,7 @@ Then, this TK-LS brief only suppresses the space[^1]. I needed this, in referrin
 
 ### Dictionary Work
 
-In addition to learning, I also started customizing the Plover system to help me along.  Most of it centers on the blog, such as a stroke to create the template for a Markdown link---`[]()`---or insert one of the more-common plugins instead of working out how to insert curly braces.  But with some help from the [Plover wiki](https://plover.wiki/index.php/Dictionary_format), I also created little commands to issue {% key CTRL %}-{% key S %} to save in most programs can, one to force the next word to lowercase (opposite to the capitalize brief, above), some to enhance the [WASD](https://en.wikipedia.org/wiki/Arrow_keys#WASD_keys)-like cursor movement, and one to open that uLauncher program that I think I probably mentioned last time, giving me an extra route to practice. Oh, and one for my family name (Colagioia), mostly as a test, but which I certainly don't want to finger-spell every time that it comes up...
+In addition to learning, I also started customizing the Plover system to help me along.  Most of it centers on the blog, such as a stroke to create the template for a Markdown link---`[]()`---or insert one of the more-common plugins instead of working out how to insert curly braces.  But with some help from the [Plover wiki](https://plover.wiki/index.php/Dictionary_format), I also created little commands to issue {% key CTRL %}-{% key S %} to save in most programs can, one to force the next word to lowercase (opposite to the capitalize brief, above), some to enhance the {% wiki Arrow_keys#WASD_keys|WASD|en %}-like cursor movement, and one to open that uLauncher program that I think I probably mentioned last time, giving me an extra route to practice. Oh, and one for my family name (Colagioia), mostly as a test, but which I certainly don't want to finger-spell every time that it comes up...
 
 I'll probably publish my user dictionary at some point, in case anybody finds something useful in there, but mostly so that I always have a backup.  Maybe it'll go in my [**Periodic Scripts**](https://github.com/jcolag/periodic-scripts) repository, the closest I have to a dumping ground of configuration files.
 

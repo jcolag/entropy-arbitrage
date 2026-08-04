@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Because the era has come up a few times, recently, I can't find a better event to mark today than the 521st anniversary of the [Oran fatwa](https://en.wikipedia.org/wiki/Oran_fatwa), an Islamic legal opinion---a fatwa, in fact---recommending less-stringent judgment against Muslims in Spain forced to convert to Christianity, so that they could "pass" as Christians without concern about betraying their faith.
+Because the era has come up a few times, recently, I can't find a better event to mark today than the 521st anniversary of the {% wiki Oran_fatwa|Oran fatwa|en %}, an Islamic legal opinion---a fatwa, in fact---recommending less-stringent judgment against Muslims in Spain forced to convert to Christianity, so that they could "pass" as Christians without concern about betraying their faith.
 
 ![The Moorish Proselytes of Archbishop Ximenes, Granada, 1500](/blog/assets/Moorish-Proselytes.png "When I call it notable that even the Spanish thought that Columbus went too far, I mean because this sort of thing happened there...")
 

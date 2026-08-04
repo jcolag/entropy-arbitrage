@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate the [World Day for Audiovisual Heritage](https://en.wikipedia.org/wiki/World_Day_for_Audiovisual_Heritage), highlighting the need for preservation of audio and visual works, pushing for and celebrating accessibility of such archives, the relationship to other heritage issues, and so forth.
+Today, we celebrate the {% wiki World_Day_for_Audiovisual_Heritage|World Day for Audiovisual Heritage|en %}, highlighting the need for preservation of audio and visual works, pushing for and celebrating accessibility of such archives, the relationship to other heritage issues, and so forth.
 
 ![An early filmstrip projector with integrated record player](/blog/assets/Dukane-Record-Automatic-Filmstrip-Projector.png "I first realized that I had gotten significantly older at a previous job where a colleague had concerns about teleconferencing in one of their advisors for their PhD thesis, and I suggested having them synchronizing the presentation slides with a beep like filmstrips...only for the entire group to stare at me as if I made up a bunch of words...")
 
@@ -64,7 +64,7 @@ I don't like that it renders fractions as decimals, and feel like it should sort
 
 {% codeberg jcolag/board-games %}
 
-Years back, though recent enough that I [wrote a blog post]({% post_url 2020-03-22-oubliette %}), I had a few ideas for small board games that a group of players could quickly try alone *or* attach to some version of [*The Landlord's Game*](https://en.wikipedia.org/wiki/The_Landlord%27s_Game).
+Years back, though recent enough that I [wrote a blog post]({% post_url 2020-03-22-oubliette %}), I had a few ideas for small board games that a group of players could quickly try alone *or* attach to some version of {% wiki The_Landlord%27s_Game|*The Landlord's Game*|en %}.
 
 Only one got through enough of the development process to release, *Open Oubliette*, something for *Landlord* players to do while in jail.  And in my quick tests, I'd also call it reasonably fun for a game designed to end in three turns.
 
@@ -118,7 +118,7 @@ And yes, you can now find the repository on Codeberg.
 
 {% codeberg jcolag/credit-card-validator %}
 
-A long while ago, I thought that I might need to validate credit card numbers on the server.  Since most people do this on the client, I don't imagine that anybody will need this code except as a guide, unless it happens to work well under [Blazor](https://en.wikipedia.org/wiki/Blazor).  However, it has a comprehensive (as of a decade ago) list of bank card number ranges, a check for the proper length for the issuer, and validates the number via the [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) for those issuers that use it.
+A long while ago, I thought that I might need to validate credit card numbers on the server.  Since most people do this on the client, I don't imagine that anybody will need this code except as a guide, unless it happens to work well under {% wiki Blazor|Blazor|en %}.  However, it has a comprehensive (as of a decade ago) list of bank card number ranges, a check for the proper length for the issuer, and validates the number via the {% wiki Luhn_algorithm|Luhn algorithm|en %} for those issuers that use it.
 
 And you guessed it, it has landed on Codeberg, too.
 
@@ -126,7 +126,7 @@ And you guessed it, it has landed on Codeberg, too.
 
 {% codeberg jcolag/basedice %}
 
-A long while ago, somebody whose name I have lost outlined an idea for a web-based bar-style game that combined [baseball](https://en.wikipedia.org/wiki/Baseball) and [craps](https://en.wikipedia.org/wiki/Craps).  When I found the rules many years later, since any non-disclosure agreement that I might have signed surely expired, you can't copyright rules, and so forth, I decided to implement the thing for my amusement.
+A long while ago, somebody whose name I have lost outlined an idea for a web-based bar-style game that combined {% wiki Baseball|baseball|en %} and {% wiki Craps|craps|en %}.  When I found the rules many years later, since any non-disclosure agreement that I might have signed surely expired, you can't copyright rules, and so forth, I decided to implement the thing for my amusement.
 
 Neither the web version nor the console version uses any permanent storage, which I feel undermines some of the fun, but it does work, if you get the infrastructure running.
 

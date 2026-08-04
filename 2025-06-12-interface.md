@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -55,15 +55,15 @@ Also, couldn't they plug this into a TV?
  >
  > **PICARD**: There's nothing unusual about that.
 
-The [palio](https://en.wikipedia.org/wiki/Palio), starting in medieval Italy, pits neighboring communities against each other in athletic contests.
+The {% wiki Palio|palio|en %}, starting in medieval Italy, pits neighboring communities against each other in athletic contests.
 
 Mostly, though, I quote the lines due to the off-handed mention of accusations against the Ferengi, because why treat them like people, right...?
 
-Also, you might recognize the admiral as [Warren Munson](https://en.wikipedia.org/wiki/Warren_Munson), who fans of the franchise will recognize as slightly different admiral ~~Nick Locarno's~~ Tom Paris's father on **Voyager**.
+Also, you might recognize the admiral as {% wiki Warren_Munson|Warren Munson|en %}, who fans of the franchise will recognize as slightly different admiral ~~Nick Locarno's~~ Tom Paris's father on **Voyager**.
 
  > **SILVA**: I saw your father last week and your sister about ten days before that. I decided I missed my favorite son.
 
-You might recognize Captain La Forge as [Madge Sinclair](https://en.wikipedia.org/wiki/Madge_Sinclair), who we actually last saw in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}) as the *Saratoga*'s captain, but also featured prominently in [**Roots**](https://en.wikipedia.org/wiki/Roots_%281977_miniseries%29) (also featuring LeVar Burton), [**Coming to America**](https://en.wikipedia.org/wiki/Coming_to_America), and a quite a bit more until her untimely death a couple of years after this episode.
+You might recognize Captain La Forge as {% wiki Madge_Sinclair|Madge Sinclair|en %}, who we actually last saw in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}) as the *Saratoga*'s captain, but also featured prominently in {% wiki Roots_%281977_miniseries%29|**Roots**|en %} (also featuring LeVar Burton), {% wiki Coming_to_America|**Coming to America**|en %}, and a quite a bit more until her untimely death a couple of years after this episode.
 
  > **LAFORGE**: My mother's always trying to find me a wife.
 
@@ -81,7 +81,7 @@ I would've gone with "at least mourn them and collect their remains for their fa
 
 This gives us some idea of how actual mourning works, at least on Earth.  And it emphasizes the strained family relations, given that you'd think that La Forge would have mentioned a sister long before now, especially with the introduction of his "work-sister" in [*Identity Crisis*]({% post_url 2024-03-07-identity-crisis %}).
 
-By the way, you might recognize Dr. La Forge as [Ben Vereen](https://en.wikipedia.org/wiki/Ben_Vereen), who...look, honestly, I could give you a long list of places where you might have seen him, but I've enjoyed so much of his work that I worry that such a list might overwhelm the post.  Instead, I'll mention that, when accused of sexual harassment about seven years ago, he apologized, emphasizing the harm that his conduct did and the irrelevance of his intentions, meaning that I don't need to try to dance around my appreciation.
+By the way, you might recognize Dr. La Forge as {% wiki Ben_Vereen|Ben Vereen|en %}, who...look, honestly, I could give you a long list of places where you might have seen him, but I've enjoyed so much of his work that I worry that such a list might overwhelm the post.  Instead, I'll mention that, when accused of sexual harassment about seven years ago, he apologized, emphasizing the harm that his conduct did and the irrelevance of his intentions, meaning that I don't need to try to dance around my appreciation.
 
 That said, not that I object to spending money on him, but why even hire Ben Vereen, if you only have this nothing role for him...?
 

@@ -130,19 +130,19 @@ The full book mixes these citations in with those from across the rest of the bo
 
 ### Persons
 
-The main characters loosely derive from the [*Jeeves*](https://en.wikipedia.org/wiki/Jeeves#Jeeves_canon) stories.
+The main characters loosely derive from the {% wiki Jeeves#Jeeves_canon|*Jeeves*|en %} stories.
 
 Xavier Exley, a.k.a. the [Black Fist](https://web.archive.org/web/20120819062728/http://www.30characters.com/2010/11/02/3-the-black-fist/), created by Vito Delsante[^zq_3Iv], who [released the character](https://web.archive.org/web/20110205045337/http://www.vitodelsante.com/?p=495) (along with more than thirty others) under the terms of the Creative Commons Share-Alike 3.0 license.
 
-[^zq_3Iv]:  Yes, an actual [professional comic book writer](https://en.wikipedia.org/wiki/Vito_Delsante), with popular runs at both DC and Marvel under their belt, has dipped their toes into the world of Free Culture.  Delsante actually did another batch later, but you can try to dig out the announcements on your own time...
+[^zq_3Iv]:  Yes, an actual {% wiki Vito_Delsante|professional comic book writer|en %}, with popular runs at both DC and Marvel under their belt, has dipped their toes into the world of Free Culture.  Delsante actually did another batch later, but you can try to dig out the announcements on your own time...
 
 The never-encountered character of David Hepler comes from a [Wikipedia hoax](https://en.wikinews.org/wiki/Wikinews:Bad_jokes_and_other_deleted_nonsense#Dave_Hepler) about a fictional President of the United States, presumably available under the Creative Commons Attribution Share-Alike 4.0 license, though *possibly* under the old Wikinews Creative Commons Attribution 2.5 license, since Wikinews has hosted it since the article's deletion.  You can probably imagine why I found the idea of a fast food-devouring, belligerent, imperialistic, brand-obsessed American President useful for the context.  I added Ouida, whose relationship I deliberately never define, due to one of the defining creepy parts of the 2019 White House.
 
 ### Places
 
-Javasu comes from Mary Willcocks Baker's [Princess Caraboo](https://en.wikipedia.org/wiki/Princess_Caraboo) hoax in the early nineteenth century.
+Javasu comes from Mary Willcocks Baker's {% wiki Princess_Caraboo|Princess Caraboo|en %} hoax in the early nineteenth century.
 
-I loosely adapted the legend of the [Seven Cities of Gold](https://en.wikipedia.org/wiki/Seven_Cities_of_Gold) for the larger metropolitan area used as the primary setting.
+I loosely adapted the legend of the {% wiki Seven_Cities_of_Gold|Seven Cities of Gold|en %} for the larger metropolitan area used as the primary setting.
 
 ### Things
 

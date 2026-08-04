@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -73,17 +73,17 @@ Oh, and the Federation has no qualms about selling out its citizens.  You live i
 
  > **PICARD**: Dorvan Five? Isn't that where the group of North American Indians settled?
 
-No, because we stopped calling them that in the 1980s.  Indians come from India, so North American Indians would include people of Indian ancestry who reside in---but have not immigrated to, because we use a different convention for that---a North American country.  Native/Indigenous Americans have their ancestral roots in North America.  It seems especially galling when they connect this group *directly* with the [Pueblo people](https://en.wikipedia.org/wiki/Pueblo_peoples)[^wVRWKl], so they could've picked a relevant tribe (always the better way of doing this than dismissing them as indistinguishable) and run with it without changing any other part of the script, for all the insight that we get into their culture.  But what else should I expect from him?  In [*Where Silence Has Lease*]({% post_url 2022-12-01-silence-lease %}), he reminisced fondly with Riker about the Academy course where they teach about everybody believing in a Flat Earth with the Sun orbiting it, a historical period that never existed.
+No, because we stopped calling them that in the 1980s.  Indians come from India, so North American Indians would include people of Indian ancestry who reside in---but have not immigrated to, because we use a different convention for that---a North American country.  Native/Indigenous Americans have their ancestral roots in North America.  It seems especially galling when they connect this group *directly* with the {% wiki Pueblo_peoples|Pueblo people|en %}[^wVRWKl], so they could've picked a relevant tribe (always the better way of doing this than dismissing them as indistinguishable) and run with it without changing any other part of the script, for all the insight that we get into their culture.  But what else should I expect from him?  In [*Where Silence Has Lease*]({% post_url 2022-12-01-silence-lease %}), he reminisced fondly with Riker about the Academy course where they teach about everybody believing in a Flat Earth with the Sun orbiting it, a historical period that never existed.
 
 [^wVRWKl]:  I find the term uncomfortable, myself, since the term comes from the Spanish colonizers, naming the people after their propensity to living in villages, but I can't find a less-offensive term other than listing the Taos, Zuni, Acoma, Hopi, and other groups.
 
 Speaking of which, if you dig that sort of thing, this coming Sunday's post might interest you.
 
-Oh, and they'll keep using the word, in a seemingly worse tone as the episode progresses.  I don't know if they did it on purpose or if they wear me down, but I do want to note how this fits right into the New Age motifs in this show, because especially at the time, they loved nothing more than misappropriating Native American culture.  [Germans, too](https://en.wikipedia.org/wiki/Native_Americans_in_German_popular_culture), for a shockingly long time, sympathizing with the removal from native lands feeding right into nationalist movements by appealing to precursors of "blood and soil" eugenics.
+Oh, and they'll keep using the word, in a seemingly worse tone as the episode progresses.  I don't know if they did it on purpose or if they wear me down, but I do want to note how this fits right into the New Age motifs in this show, because especially at the time, they loved nothing more than misappropriating Native American culture.  {% wiki Native_Americans_in_German_popular_culture|Germans, too|en %}, for a shockingly long time, sympathizing with the removal from native lands feeding right into nationalist movements by appealing to precursors of "blood and soil" eugenics.
 
  > **PICARD**: You see, Admiral, there are some very disturbing historical parallels here. Once more, they're being asked to leave their homes because of a political decision that has been taken by a distant government.
 
-I mean...last time involved a campaign of [ethnic cleansing](https://en.wikipedia.org/wiki/Indian_removal) because the fairly nearby government wanted their land for white people.  And many Americans opposed those actions.  This feels like terrible policy, sure, but notifying this village that their land no longer sits in Federation territory and suggesting that they relocate doesn't *really* seem like the same sort of thing...unless he denies the impact of the Trail of Tears or something.
+I mean...last time involved a campaign of {% wiki Indian_removal|ethnic cleansing|en %} because the fairly nearby government wanted their land for white people.  And many Americans opposed those actions.  This feels like terrible policy, sure, but notifying this village that their land no longer sits in Federation territory and suggesting that they relocate doesn't *really* seem like the same sort of thing...unless he denies the impact of the Trail of Tears or something.
 
  > **NECHAYEV**: Then your orders will be to remove them by whatever means are necessary. I understand your moral objections, Captain. If you wish, I can find someone else to command the *Enterprise* for this mission.
 
@@ -143,13 +143,13 @@ A healthier person might question why people don't use kind words when describin
  >
  > **ANTHWARA**: Ten years later, the Spanish returned to reconquer the area. They were brutal. I would use the word savage. They killed hundreds of our people. Thousands more were maimed. The name of one of the soldiers was Javier Maribona-Picard. Your ancestor.
 
-Shockingly, [Po'pay's Rebellion](https://en.wikipedia.org/wiki/Pueblo_Revolt) actually happened, almost as described.  Notably, it took the Spanish a full twelve years to reconquer the area, only returning at all, because they felt that they needed that beachhead against the French west of the Mississippi River.
+Shockingly, {% wiki Pueblo_Revolt|Po'pay's Rebellion|en %} actually happened, almost as described.  Notably, it took the Spanish a full twelve years to reconquer the area, only returning at all, because they felt that they needed that beachhead against the French west of the Mississippi River.
 
  > **PICARD**: I'm not aware of this incident or of the man you named, and this happened seven hundred years ago. I do not see what bearing it can have.
 
-Picard traces his family---earlier in this episode---to the reign of [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne)[^DGOvYN], but can't seem to remember the soldier working for the Spanish crown far more recently.
+Picard traces his family---earlier in this episode---to the reign of {% wiki Charlemagne|Charlemagne|en %}[^DGOvYN], but can't seem to remember the soldier working for the Spanish crown far more recently.
 
-[^DGOvYN]:  Not the radio host, Pippin's father...the protagonist of the musical, not the basketball player or the Hobbit.  And given the [actual spelling of his name](https://en.wikipedia.org/wiki/Pepin_the_Hunchback), also not the [celebrity chef](https://en.wikipedia.org/wiki/Jacques_P%C3%A9pin).
+[^DGOvYN]:  Not the radio host, Pippin's father...the protagonist of the musical, not the basketball player or the Hobbit.  And given the {% wiki Pepin_the_Hunchback|actual spelling of his name|en %}, also not the {% wiki Jacques_P%C3%A9pin|celebrity chef|en %}.
 
 And that recency claim seems important, because he did make a big deal about his family cohesion over more than *sixteen* hundred years, two (and a quarter) times longer than the incident he insists happened so long ago as to not have any relevance to his life.
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -31,7 +31,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## A Fistful of Datas
 
-The title, as you might guess, riffs on [**A Fistful of Dollars**](https://en.wikipedia.org/wiki/A_Fistful_of_Dollars).
+The title, as you might guess, riffs on {% wiki A_Fistful_of_Dollars|**A Fistful of Dollars**|en %}.
 
 Unrelated, in the spirit of celebrating small victories, five years ago yesterday, this project officially kicked off by digging into [*The Man Trap*]({% post_url 2020-01-09-trek-01 %}).  I notice immediately that the early posts differ by my attempts to introduce every line in addition to trying to explain it, plus quoting significantly longer exchanged instead of only the most relevant parts.
 
@@ -39,7 +39,7 @@ Unrelated, in the spirit of celebrating small victories, five years ago yesterda
 
 I refuse to believe that one thousand people have *nothing to do* other than wait for a supply truck to show up.  They must have a backlog of projects, with all the science and exploration that they claim to do between episodes but never show us.
 
-Meanwhile, best I can figure after looking at people with the name, maybe they named the supply ship after the [Filipino rice cake](https://en.wikipedia.org/wiki/Biko_%28food%29)?  And they seem to have named the star after a [dinosaur genus](https://en.wikipedia.org/wiki/Deinonychus), making the dessert-ship sound reasonable in comparison.
+Meanwhile, best I can figure after looking at people with the name, maybe they named the supply ship after the {% wiki Biko_%28food%29|Filipino rice cake|en %}?  And they seem to have named the star after a {% wiki Deinonychus|dinosaur genus|en %}, making the dessert-ship sound reasonable in comparison.
 
 Hmm.  Does this episode happen because they need to wait for *snacks*?
 
@@ -61,21 +61,21 @@ I want to feel sorry for him (probably), but if everybody needs to clear their s
 
  > **ALEXANDER**: Deadwood. Nineteenth century Earth. The Ancient West.
 
-They'll name-check [Deadwood](https://en.wikipedia.org/wiki/Deadwood,_South_Dakota), [Bozeman](https://en.wikipedia.org/wiki/Bozeman,_Montana)---which we'll visit in probably early 2026---[Rapid City](https://en.wikipedia.org/wiki/Rapid_City,_South_Dakota), the [U.S. Marshals](https://en.wikipedia.org/wiki/United_States_Marshals_Service), and the [Winchester rifle](https://en.wikipedia.org/wiki/Winchester_rifle).
+They'll name-check {% wiki Deadwood,_South_Dakota|Deadwood|en %}, {% wiki Bozeman,_Montana|Bozeman|en %}---which we'll visit in probably early 2026---{% wiki Rapid_City,_South_Dakota|Rapid City|en %}, the {% wiki United_States_Marshals_Service|U.S. Marshals|en %}, and the {% wiki Winchester_rifle|Winchester rifle|en %}.
 
 Also, if they renamed what we call the Old West to the "Ancient West," what do you think the original term now represents?  Given that many people don't live on Earth, it seems like the age of the era has less need of replacement, no?  Even on Earth, you kind of need to specify "the Old *American* West" because of all the people who don't live in the United States and so see different things off to their wests[^1].
 
 [^1]:  Less relevant, especially in a show like this that conveniently erases billions of people from the future, but you'll note the similarity in problems between a term like the Old West and describing somebody or something as Oriental.  The latter refers to the East, which only makes any sense if you live in Europe or Africa.  And likewise, today, you've probably started seeing a shift away from the term Middle East---which tells you nothing except that you consider it to sit between "here" and "east"---to the far more useful West Asia.
 
-On top of that, they only have a gap of about five hundred years, and Troi---who will show up later---*visited* the American West of this period a few weeks ago in [*Time's Arrow*]({% post_url 2024-11-21-time-s-arrow-2 %}), so does it qualify as "ancient," yet?  For context, we could use Shakespeare as an equivalent example for us, given how often the show wants to encourage us to see the Bard as the backbone of human culture.  Would you (or they, for that matter) call [**Othello**](https://en.wikipedia.org/wiki/Othello) ancient literature?  Even if so, keep in mind that we generally consider this "frontier" period to end in 1912, with the admission of New Mexico and Arizona into the United States, "completing" the contiguous forty-eight states.  Considering their love of the 1930s, it seems utterly bizarre for the difference between "ancient" and "current" to only span about twenty years.
+On top of that, they only have a gap of about five hundred years, and Troi---who will show up later---*visited* the American West of this period a few weeks ago in [*Time's Arrow*]({% post_url 2024-11-21-time-s-arrow-2 %}), so does it qualify as "ancient," yet?  For context, we could use Shakespeare as an equivalent example for us, given how often the show wants to encourage us to see the Bard as the backbone of human culture.  Would you (or they, for that matter) call {% wiki Othello|**Othello**|en %} ancient literature?  Even if so, keep in mind that we generally consider this "frontier" period to end in 1912, with the admission of New Mexico and Arizona into the United States, "completing" the contiguous forty-eight states.  Considering their love of the 1930s, it seems utterly bizarre for the difference between "ancient" and "current" to only span about twenty years.
 
 Maybe they mean much earlier, since we could plausibly start the era with the earliest colonial settlements in North America?  Sure, except that they name three cities, with Deadwood and Rapid City both founded in 1876, providing us with a lower bound for when they imagine this setting.
 
-And that doesn't even get to the question of why they'd still romanticize this era for children.  The unincorporated territories spent a lot of time adjusting their borders to work with or around the [Missouri Compromise](https://en.wikipedia.org/wiki/Missouri_Compromise), alongside ethnic cleansing of the native population.  And you'll note that nothing like a Native American shows up in this story, not even as offensive stereotypes, which should make us wonder if the Federation even bothers to mention their existence.
+And that doesn't even get to the question of why they'd still romanticize this era for children.  The unincorporated territories spent a lot of time adjusting their borders to work with or around the {% wiki Missouri_Compromise|Missouri Compromise|en %}, alongside ethnic cleansing of the native population.  And you'll note that nothing like a Native American shows up in this story, not even as offensive stereotypes, which should make us wonder if the Federation even bothers to mention their existence.
 
  > **WORF**: I must have a little talk with Mister Barclay.
 
-He'll take his kid to a bar and let him get into gunfights, but finds it objectionable to see a fictional sex worker in demure nineteenth century underwear from fifty feet away?  Does the [Motion Picture Association](https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system#Criticisms) rate holodeck programs...?
+He'll take his kid to a bar and let him get into gunfights, but finds it objectionable to see a fictional sex worker in demure nineteenth century underwear from fifty feet away?  Does the {% wiki Motion_Picture_Association_film_rating_system#Criticisms|Motion Picture Association|en %} rate holodeck programs...?
 
  > **TROI**: He's right. You're no match for the Hollanders.
 
@@ -85,7 +85,7 @@ This gets back to the synthehol issues that we've brought up, most recently in [
 
  > **PICARD**: Computer, activate Picard Mozart trio, program one. Play back tracks one, two and three. Tempo allegro.
 
-Data will tell us later, but so that you have the link, the music changes to Dvořák's [*Slavonic Dances*](https://en.wikipedia.org/wiki/Slavonic_Dances).
+Data will tell us later, but so that you have the link, the music changes to Dvořák's {% wiki Slavonic_Dances|*Slavonic Dances*|en %}.
 
  > **RIKER**: Felis catus, is your taxonomic nomenclature. An endothermic quadruped, carnivorous by nature.
 

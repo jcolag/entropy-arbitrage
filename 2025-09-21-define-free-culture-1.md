@@ -36,7 +36,7 @@ This week, we'll start with the bare minimum.
 
 ## Elevator Pitch
 
-If you have some familiarity with the [Free Software](https://en.wikipedia.org/wiki/Free_software) movement, then you probably won't need much of this post, because Free Culture adapts their *four freedoms*[^vOPnQR], but for cultural works.
+If you have some familiarity with the {% wiki Free_software|Free Software|en %} movement, then you probably won't need much of this post, because Free Culture adapts their *four freedoms*[^vOPnQR], but for cultural works.
 
 [^vOPnQR]:  I don't believe that anybody else has paraphrased the four freedoms exactly like this, but I think that it'll work out well for our purposes.
 
@@ -59,7 +59,7 @@ The material that we all know, we can probably best call **corporate slop**[^RL1
 
 [^RL1Pq1]:  While the term "slop" has had something of a renaissance in describing the sort of trash spewed out by Large Language Models, I have seen it used for a long time to describe the sort of inoffensive works, mimicry of art in a sense, crafted to make money rather than for an aesthetic purpose.  Jingles and theme songs have often served as the classic example, resembling artistic music and sometimes even enjoyable, *but* deliberately conveying little to no personality to avoid offending anybody and having a primary goal of selling a product.
 
-If their work *happens* to resonate with the audience or win some critical acclaim, then they'll approve, but only because that gives them another edge over competitors.  Due to [media consolidation](https://en.wikipedia.org/wiki/Concentration_of_media_ownership), you can generally identify these organizations quickly, because a given medium often only has about five of them, sometimes one or two artificially inflated to pretend that they have a chance of competing, and ignoring shared investors and board members that might make them march in lock-step.
+If their work *happens* to resonate with the audience or win some critical acclaim, then they'll approve, but only because that gives them another edge over competitors.  Due to {% wiki Concentration_of_media_ownership|media consolidation|en %}, you can generally identify these organizations quickly, because a given medium often only has about five of them, sometimes one or two artificially inflated to pretend that they have a chance of competing, and ignoring shared investors and board members that might make them march in lock-step.
 
 ### Scrap-Beggars
 

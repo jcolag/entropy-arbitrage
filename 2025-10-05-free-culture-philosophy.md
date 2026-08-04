@@ -44,7 +44,7 @@ Let's borrow some ideas from far smarter people than myself.  This might feel sl
 
 {% cw Because we'll jump around the past, it probably won't come as a surprise that we'll find gendered language, and many people cited *probably* have also expressed unfortunate views on gender, race, ability, and so forth, that I wouldn't otherwise risk bringing to the blog. %}
 
-To start, in *Faith and Love or the King and the Queen* (1798), [Georg Philipp Friedrich Freiherr "Novalis" von Hardenberg](https://en.wikipedia.org/wiki/Novalis) has this gem.
+To start, in *Faith and Love or the King and the Queen* (1798), {% wiki Novalis|Georg Philipp Friedrich Freiherr "Novalis" von Hardenberg|en %} has this gem.
 
 > Every person should be an artist; everything can become fine art.
 
@@ -54,17 +54,17 @@ Now, in context, the gem looks rougher, tied as the title implies to royalist no
 
 This twist feels almost anti-royalist, especially with the reuse of the director role, and so many people have taken the former line out of context that it might as well mean what it says with no allegorical equivalent, because they used it to mean that every person *should* engage in artistic pursuits.  And I think that frame has value, that creators and artists (and directors) shouldn't stand apart from the rest of us, because we can and should all make art.
 
-On the latter, Jean-Jacques Rousseau in [**The Social Contract**](https://en.wikipedia.org/wiki/The_Social_Contract) (1762), book III, makes this point, though referring to governance and fledgling democracies.
+On the latter, Jean-Jacques Rousseau in {% wiki The_Social_Contract|**The Social Contract**|en %} (1762), book III, makes this point, though referring to governance and fledgling democracies.
 
 > The further from their source the public contributions are removed, the more burdensome they become.
 
-Similarly, we have Ralph Waldo Emerson in [*The Poet*](https://en.wikipedia.org/wiki/The_Poet_%28essay%29) (1844).
+Similarly, we have Ralph Waldo Emerson in {% wiki The_Poet_%28essay%29|*The Poet*|en %} (1844).
 
 > Every man should be so much an artist that he could report in conversation what had befallen him.
 
 Notice that this also broadens what we might mean by "art," including work that we might otherwise see as utilitarian in nature.  Journalism qualifies as cultural work, for example.
 
-And we could look to John Ruskin in [**The Stones of Venice**](https://en.wikipedia.org/wiki/The_Stones_of_Venice_%28book%29), systemic sexism of earlier language aside.
+And we could look to John Ruskin in {% wiki The_Stones_of_Venice_%28book%29|**The Stones of Venice**|en %}, systemic sexism of earlier language aside.
 
 > You must either make a tool of the creature, or a man of him. You cannot make both. Men were not intended to work with the accuracy of tools, to be precise and perfect in all their actions...You must not expect of them, any more than of the watch, to go on always ticking.
 
@@ -78,7 +78,7 @@ More modern, I might also look to the late Craig Maloney's [**The Mediocre Progr
 
 Notice that this adds a dimension to the earlier ideas of everybody participating in art and culture.  We don't necessarily do so because we'll do it better than anybody else so much as because each of us can contribute something that nobody else can.
 
-With less twisting, I've almost certainly mentioned my enjoyment of [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski)'s **The Manhood of Humanity** (1921) before[^7wBCoq], with this lengthy quote, trying to explain the difference between humans and other animals without resorting to mystic or divine intervention or declaring us indistinguishable[^Id6wUq].
+With less twisting, I've almost certainly mentioned my enjoyment of {% wiki Alfred_Korzybski|Alfred Korzybski|en %}'s **The Manhood of Humanity** (1921) before[^7wBCoq], with this lengthy quote, trying to explain the difference between humans and other animals without resorting to mystic or divine intervention or declaring us indistinguishable[^Id6wUq].
 
 [^7wBCoq]:  I always hesitate to *recommend* the book, because while it has one of the most progressive stances that I've seen from the era---namely, that thinking about humanity in terms of "souls" setting us apart or "survival of the fittest" governing our behavior holds us back---Korzybski's work also influenced many of L. Ron Hubbard's choices as he crafted Scientology, among other weird legacies.
 
@@ -98,17 +98,17 @@ And you all know the big quote here, I assume, from [Isaac Newton's 1675 letter]
 
 The idea of giants calls to mind geniuses, though, and I feel like we've learned in the intervening centuries that neither science nor culture really moves forward through strokes of genius or finding giants.  Rather, to extend the standing metaphor, each of us stands on a platform built by our predecessors, and we build platforms atop them for our successors to climb a bit higher.  Routine research, and routine art, has enough variation in it and enough small innovations driving it, that it creates far more opportunities for advancement than a single genius could ever provide.
 
-And that brings me to the Leo Tolstoy's [**What Is Art**](https://en.wikipedia.org/wiki/What_Is_Art%3F) (1898).
+And that brings me to the Leo Tolstoy's {% wiki What_Is_Art%3F|**What Is Art**|en %} (1898).
 
 > Art is not, as the metaphysicians say, the manifestation of some mysterious Idea of beauty, or God; it is not, as the aesthetical physiologists say, a game in which man lets off his excess of stored-up energy; it is not the expression of man’s emotions by external signs; it is not the production of pleasing objects; and, above all, it is not pleasure; but it is a means of union among men, joining them together in the same feelings, and indispensable for the life and progress towards well-being of individuals and of humanity.
 
 Tolstoy also includes in his definition of art church services, jokes, and home decoration, tying into my broader description of cultural works, earlier.  It resonates with Korzybski's thesis that the distinctiveness of humanity definitely exists, but it doesn't come from some entity declaring us distinct, in doing the same for art and culture.  As we might define humans by the ability and drive to cooperate across time, Tolstoy defines art as the mechanism by which that happens.  And if you want to drill deeper on the mechanism, look no further than the metaphorical standing on shoulders of Newton.
 
-Likewise, but down a separate path, we can look at [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller)'s **Aesthetic Education of Man in a Series of Letters** (1794).
+Likewise, but down a separate path, we can look at {% wiki Friedrich_Schiller|Friedrich Schiller|en %}'s **Aesthetic Education of Man in a Series of Letters** (1794).
 
 > Man is only fully human when he plays.
 
-Those two ideas, art as union and humans needing play (or art) also brings to mind the philosophy of lowercase-u [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy), I believe best (or perhaps most usefully) translated as this blunt statement.
+Those two ideas, art as union and humans needing play (or art) also brings to mind the philosophy of lowercase-u {% wiki Ubuntu_philosophy|ubuntu|en %}, I believe best (or perhaps most usefully) translated as this blunt statement.
 
 > I am because we are.
 
@@ -168,15 +168,15 @@ I suppose that, in this sense, the statement would probably scan properly from a
 
 I want to gesture at the ideas that "mysteriously" didn't make it onto the list, ideas often more closely associated with Free Culture, Free Software, and the like.
 
-We don't find anybody insisting that [information wants to be free](https://en.wikipedia.org/wiki/Information_wants_to_be_free).  You could argue that it didn't matter before copying information became cheap, but looking at the early context of that premise, I can't help noticing that this and similar sentiments seem to connect more with the rise of the software industry, creating systems that want to *consume* vast amounts of information.  And why pay for what (allegedly) wants you to take it?  How does "information wants to be free" differ from Meta claiming that the seven million books that they pirated to train AI have [no economic value {% cc %}](https://www.vanityfair.com/news/story/meta-ai-lawsuit)?
+We don't find anybody insisting that {% wiki Information_wants_to_be_free|information wants to be free|en %}.  You could argue that it didn't matter before copying information became cheap, but looking at the early context of that premise, I can't help noticing that this and similar sentiments seem to connect more with the rise of the software industry, creating systems that want to *consume* vast amounts of information.  And why pay for what (allegedly) wants you to take it?  How does "information wants to be free" differ from Meta claiming that the seven million books that they pirated to train AI have [no economic value {% cc %}](https://www.vanityfair.com/news/story/meta-ai-lawsuit)?
 
-Similarly, nothing here appeals to some romanticized past when we had the free flow of "content," or the days prior to copyright when "anybody" could modify and release modified media.  Among other problems, like the capital involved in publishing in previous centuries, this era never really existed, because most cultures have recognized some version of what we now call [moral rights](https://en.wikipedia.org/wiki/Moral_rights).
+Similarly, nothing here appeals to some romanticized past when we had the free flow of "content," or the days prior to copyright when "anybody" could modify and release modified media.  Among other problems, like the capital involved in publishing in previous centuries, this era never really existed, because most cultures have recognized some version of what we now call {% wiki Moral_rights|moral rights|en %}.
 
 And none of this tries to prescribe a structure, nor does it suggest that one must inevitably emerge from randomized behavior.  Free Culture *could* happen in a variety of ways, ranging from accidental to carefully structured.
 
 Apart from my quick refutations, those all get into the space of negative liberties[^rOeZM3], limiting arguments to those which oppose people from restricting your actions.  Rather, I have tried to assemble a body of ideas to move more towards *positive liberty*, empowering and authorizing the audience to form a community that can take ownership of cultural works.
 
-[^rOeZM3]:  I have wanted to write these posts, especially this post, at least partly because of the libertarian (and more right-wing) stench that has pervaded the space, as people cite and praise the (sarcasm quotes) "important" people who built many of the foundational aspects.  I mean, you can't swing a dead *[Mus](https://en.wikipedia.org/wiki/Mus_%28genus%29) [disnii](https://en.wikipedia.org/wiki/Mickey_Mouse)* without finding somebody raving wide-eyed about [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence) casting the Internet as beyond "property, expression, identity, movement, and context," or [**The Cathedral and the Bazaar**](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) by the guy who believes every right-wing conspiracy theory, or pretty much anything written by [Antonin Scalia's former law clerk](https://en.wikipedia.org/wiki/Lawrence_Lessig), or anything by the [culturally insensitive transphobe](https://en.wikipedia.org/wiki/Nina_Paley).  And you can't have that at the root of a movement about inclusion and sharing and expect it to work.  I may come back to this later in these posts more explicitly, but I wanted to make sure that it at least got a mention.
+[^rOeZM3]:  I have wanted to write these posts, especially this post, at least partly because of the libertarian (and more right-wing) stench that has pervaded the space, as people cite and praise the (sarcasm quotes) "important" people who built many of the foundational aspects.  I mean, you can't swing a dead *{% wiki Mus_%28genus%29|Mus|en %} {% wiki Mickey_Mouse|disnii|en %}* without finding somebody raving wide-eyed about [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence) casting the Internet as beyond "property, expression, identity, movement, and context," or {% wiki The_Cathedral_and_the_Bazaar|**The Cathedral and the Bazaar**|en %} by the guy who believes every right-wing conspiracy theory, or pretty much anything written by {% wiki Lawrence_Lessig|Antonin Scalia's former law clerk|en %}, or anything by the {% wiki Nina_Paley|culturally insensitive transphobe|en %}.  And you can't have that at the root of a movement about inclusion and sharing and expect it to work.  I may come back to this later in these posts more explicitly, but I wanted to make sure that it at least got a mention.
 
 At its best, Free Culture focuses on creating those voluntary connections---coming together to create---not on exploiting the work of people who didn't consent to it.
 

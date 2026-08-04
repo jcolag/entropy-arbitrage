@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -55,7 +55,7 @@ Given that *we've* spent multiple minutes on the idea already in a forty-five-mi
 
  > **TYLER**: Commander La Forge?
 
-If you recognize Tyler, once the camera acknowledges her presence, actor and dancer [Gina Ravera](https://en.wikipedia.org/wiki/Gina_Ravera) plays her, this probably one of her first roles where the dancing part of her background didn't get priority.
+If you recognize Tyler, once the camera acknowledges her presence, actor and dancer {% wiki Gina_Ravera|Gina Ravera|en %} plays her, this probably one of her first roles where the dancing part of her background didn't get priority.
 
  > **LAFORGE**: Exactly. And quite frankly, it's beginning to get a little bit uncomfortable.
 
@@ -93,13 +93,13 @@ I've mentioned the bizarre nosiness that we've seen in episodes like [*The Host*
 
  > **FREUD**: Tell me more about this cake.
 
-Speaking of wasting time on the holodeck...and [Sigmund Freud](https://en.wikipedia.org/wiki/Sigmund_Freud), too, I guess.
+Speaking of wasting time on the holodeck...and {% wiki Sigmund_Freud|Sigmund Freud|en %}, too, I guess.
 
 And incidentally, think about how damning this looks, that Data crafts a simulated psychiatrist whose theories came and went centuries ago, rather than talk to the on-staff therapist.  Our current version of this technology only uses useless LLM chatbots to provide the [illusion of care](https://theconversation.com/your-ai-therapist-is-not-your-therapist-the-dangers-of-relying-on-ai-mental-health-chatbots-225411), but since these characters refuse to accept the possibility that their computers and the characters that they create have consciousness---as we've seen gestured at since [*The Big Goodbye*]({% post_url 2022-08-04-big-goodbye %})---then I don't believe that the technology changes the argument that you *shouldn't* use AI as a therapist because it can't care about you or your progress.  And when people *do* make that choice, they do so because human therapists have similarly failed to care.
 
  > **NAKAMURA**: Captain. We were expecting you this morning. Is there a problem?
 
-The admiral, as well as real-world [Clyde Kusatsu](https://en.wikipedia.org/wiki/Clyde_Kusatsu), previously poked his head in during [*The Measure of a Man*]({% post_url 2023-01-19-measure-man %}).  At the time, people knew him more for small character work like this, whereas today, people would probably recognize him more as the first (elected) SAG-AFTRA president in Los Angeles, holding that for eight years until **Picard** star Michelle Hurd took the position in 2021.
+The admiral, as well as real-world {% wiki Clyde_Kusatsu|Clyde Kusatsu|en %}, previously poked his head in during [*The Measure of a Man*]({% post_url 2023-01-19-measure-man %}).  At the time, people knew him more for small character work like this, whereas today, people would probably recognize him more as the first (elected) SAG-AFTRA president in Los Angeles, holding that for eight years until **Picard** star Michelle Hurd took the position in 2021.
 
  > **TROI**: Data, if you were one of my human patients, I might be concerned right now. I'd say you had a waking dream or a hallucination. But you're not human. I think we might be looking at some kind of technological problem.
 
@@ -121,9 +121,9 @@ First, funny joke, and actually a decent delivery.
 
 Second, though, I have trouble understanding Worf's characterization of jazz.  But the line kept nagging at me, so I decided to experiment a bit.
 
-Let's take 1930s (as if another decade could ever exist in this show's context) jazz standard [*All the Things You Are*](https://en.wikipedia.org/wiki/All_the_Things_You_Are).  I happen to have an album with the track on it---**Jerome Kern: Life Upon the Wicked Stage**, if that information seems important to you---and I...actually have trouble imagining a "smoother" song, though that necessarily has a lot to do with the choices made by the singer(s) and band.
+Let's take 1930s (as if another decade could ever exist in this show's context) jazz standard {% wiki All_the_Things_You_Are|*All the Things You Are*|en %}.  I happen to have an album with the track on it---**Jerome Kern: Life Upon the Wicked Stage**, if that information seems important to you---and I...actually have trouble imagining a "smoother" song, though that necessarily has a lot to do with the choices made by the singer(s) and band.
 
-Worf doesn't have a human head, though, so we really need to ask whether we can *make* the song sound screeching, pounding, and dissonant.  And while I won't subject you to the results, both for copyright and pain-tolerance reasons, I loaded the track up in [Audacity](https://www.audacityteam.org/) and ran a fairly narrow [band-pass filter](https://en.wikipedia.org/wiki/Band-pass_filter) along the central frequencies---muting the high and low frequencies---then spread the frequencies back out from that narrow band with the remaining information.  And as a result, the new high-frequency sounds now felt much harsher, the new low-frequency sounds, and...yes, I'd call it dissonant, too.
+Worf doesn't have a human head, though, so we really need to ask whether we can *make* the song sound screeching, pounding, and dissonant.  And while I won't subject you to the results, both for copyright and pain-tolerance reasons, I loaded the track up in [Audacity](https://www.audacityteam.org/) and ran a fairly narrow {% wiki Band-pass_filter|band-pass filter|en %} along the central frequencies---muting the high and low frequencies---then spread the frequencies back out from that narrow band with the remaining information.  And as a result, the new high-frequency sounds now felt much harsher, the new low-frequency sounds, and...yes, I'd call it dissonant, too.
 
 I don't think that the writers *intended* to tell us that Klingon hearing doesn't have the range that ours does, since I don't think that it ever comes up again.  And it has nothing to do with our project, here, at least not directly.  But this calls into question Worf's day-to-day audio experience.  If he does have a narrower range of hearing instead of an extremely specific definition of music, then his colleagues, the computer, and the alarms probably all have similar grating profiles.  He might not even hear some important things in his environment.
 

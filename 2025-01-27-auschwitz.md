@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the eightieth anniversary of the [Liberation of Auschwitz concentration camp](https://en.wikipedia.org/wiki/Liberation_of_Auschwitz_concentration_camp) by the Soviet [Red Army](https://en.wikipedia.org/wiki/Red_Army), rescuing the seven thousand or so prisoners not killed or brutally transferred.  As a result, [International Holocaust Remembrance Day](https://en.wikipedia.org/wiki/International_Holocaust_Remembrance_Day) commemorates the event and mourns the losses at the camps.
+Today marks the eightieth anniversary of the {% wiki Liberation_of_Auschwitz_concentration_camp|Liberation of Auschwitz concentration camp|en %} by the Soviet {% wiki Red_Army|Red Army|en %}, rescuing the seven thousand or so prisoners not killed or brutally transferred.  As a result, {% wiki International_Holocaust_Remembrance_Day|International Holocaust Remembrance Day|en %} commemorates the event and mourns the losses at the camps.
 
 It shouldn't feel relevant eighty years later, but in the past week, the United States has seen the start of mass deportations---a "Final Solution" had *prior* attempted solutions, remember---and a recommendation of literal ethnic cleansing in Palestine, so...
 
@@ -84,4 +84,4 @@ Expect me to work more on **Badging**, as I dig through the specification and wo
 
 * * *
 
-**Credits**:  The header image is [Auschwitz Liberation 1945](https://en.wikipedia.org/wiki/File:Auschwitz_Liberation_1945.jpg) by an unknown photographer, in the public domain due to an expired Russian copyright.
+**Credits**:  The header image is {% wiki File:Auschwitz_Liberation_1945.jpg|Auschwitz Liberation 1945|en %} by an unknown photographer, in the public domain due to an expired Russian copyright.

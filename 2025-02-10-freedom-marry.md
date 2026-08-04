@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-In the United States, today we mark [National Freedom to Marry Day](https://en.wikipedia.org/wiki/National_Freedom_to_Marry_Day), celebrating---and, before we recognized it as legal, promoting---same-sex marriage.  It conveniently lands on [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)'s birthday, which also has developed connotations of fighting for equality.
+In the United States, today we mark {% wiki National_Freedom_to_Marry_Day|National Freedom to Marry Day|en %}, celebrating---and, before we recognized it as legal, promoting---same-sex marriage.  It conveniently lands on {% wiki Abraham_Lincoln|Abraham Lincoln|en %}'s birthday, which also has developed connotations of fighting for equality.
 
 ![A wedding between two men, surrounded by the wedding party](/blog/assets/Wedding-in-New-Orleans-November-11-2017.png "Jazz Hands seems to have missed the point...")
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -83,7 +83,7 @@ Data has apparently taken to rephrasing what other people say, to claim it as hi
 
  > **ALIEN 2**: You must stop!
 
-We saw her briefly earlier, but now that she had a line, I should mention that [Pat Tallman](https://en.wikipedia.org/wiki/Patricia_Tallman) plays her.  We've seen her before as unnamed members of the crew in episodes such as [*Power Play*]({% post_url 2024-08-22-power-play %}) and [*Starship Mine*]({% post_url 2025-03-20-starship-mine %}), plus some stunt work where we might not identify her at a glance.
+We saw her briefly earlier, but now that she had a line, I should mention that {% wiki Patricia_Tallman|Pat Tallman|en %} plays her.  We've seen her before as unnamed members of the crew in episodes such as [*Power Play*]({% post_url 2024-08-22-power-play %}) and [*Starship Mine*]({% post_url 2025-03-20-starship-mine %}), plus some stunt work where we might not identify her at a glance.
 
  > Captain's log, stardate 46945.3. We successfully evacuated the crew of the Romulan ship, and we're on course to the Neutral Zone to bring them home.
 
@@ -95,7 +95,7 @@ I've said this so many times before, but why does Data not have a dictionary?  E
 
  > **RIKER**: Data, people do not have internal chronometers. Why don't you see what happens if you turn yours off?
 
-...Don't we have internal chronometers?  Granted, we don't have discrete hardware clocks, but we definitely have a [circadian clock](https://en.wikipedia.org/wiki/Circadian_clock), not to mention all the biological processes that change with age and general metabolism.  We might not have convenient time-stamps imprinted on every thought, but we can generally estimate how long things take without too many external cues.
+...Don't we have internal chronometers?  Granted, we don't have discrete hardware clocks, but we definitely have a {% wiki Circadian_clock|circadian clock|en %}, not to mention all the biological processes that change with age and general metabolism.  We might not have convenient time-stamps imprinted on every thought, but we can generally estimate how long things take without too many external cues.
 
 ## Conclusions
 

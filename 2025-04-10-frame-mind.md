@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -57,9 +57,9 @@ Remember, the widow credibly accused him of sexual assault in [*A Matter of Pers
 
  > **JAYA**: I hear you're a Starfleet officer. I'm Commander Bloom from the *Yorktown*. There are at least a dozen of us here, maybe more. We were kidnapped, brought here against our will. Sanders was on the *Yosemite*. They did something to his mind. I think they're trying to get neurochemicals from our brains. Stafko was with me on the *Yorktown*. I don't know what they did to him. We're going to get out of here. I've made a communicator.
 
-You might recognize "Bloom" (Jaya) as [Susanna Thompson](https://en.wikipedia.org/wiki/Susanna_Thompson), who previously played Varel in [*The Next Phase*]({% post_url 2024-10-24-next-phase %}).
+You might recognize "Bloom" (Jaya) as {% wiki Susanna_Thompson|Susanna Thompson|en %}, who previously played Varel in [*The Next Phase*]({% post_url 2024-10-24-next-phase %}).
 
-Also, the *Yorktown* or its predecessor got some attention in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}), where I pointed out that most ships by that name take their names from the [Siege of Yorktown](https://en.wikipedia.org/wiki/Siege_of_Yorktown).
+Also, the *Yorktown* or its predecessor got some attention in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}), where I pointed out that most ships by that name take their names from the {% wiki Siege_of_Yorktown|Siege of Yorktown|en %}.
 
  > **SYRUS**: Try to associate your actions and emotions with logical thoughts. What do you think caused you to act and feel this way?
  >

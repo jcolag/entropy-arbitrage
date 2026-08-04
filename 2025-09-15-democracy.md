@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the [International Day of Democracy](https://en.wikipedia.org/wiki/International_Day_of_Democracy), a day to assert that we have "no single model of democracy and that democracy does not belong to any country or region," in defiance of people who want to tell you that *those people* should probably stick to one-party rule and military dictatorships, or who want to tell you that democracy has failed, and we should make our way back to aristocratic Apartheid states.
+Today marks the {% wiki International_Day_of_Democracy|International Day of Democracy|en %}, a day to assert that we have "no single model of democracy and that democracy does not belong to any country or region," in defiance of people who want to tell you that *those people* should probably stick to one-party rule and military dictatorships, or who want to tell you that democracy has failed, and we should make our way back to aristocratic Apartheid states.
 
 By the way, random observation, have you ever noticed the almost complete overlap between people who will try to insist that the United States doesn't qualify as a democracy[^1] and the people who believe that the phrase "toxic masculinity"[^2] asserts that men have some inherent toxicity?
 

@@ -16,9 +16,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, the Bengali people celebrate [Pohela Boishakh](https://en.wikipedia.org/wiki/Pohela_Boishakh) (পহেলা বৈশাখ), the new year.  It seems like a well-considered party, though Bengali folks in certain parts of India generally wait for tomorrow.
+Today, the Bengali people celebrate {% wiki Pohela_Boishakh|Pohela Boishakh|en %} (পহেলা বৈশাখ), the new year.  It seems like a well-considered party, though Bengali folks in certain parts of India generally wait for tomorrow.
 
-If you'd like something closer to home, we also celebrate [Pan American Day](https://en.wikipedia.org/wiki/Pan_American_Day), honoring the founding of the institution that would become the [Organization of American States](https://en.wikipedia.org/wiki/Organization_of_American_States), not the defunct airline.
+If you'd like something closer to home, we also celebrate {% wiki Pan_American_Day|Pan American Day|en %}, honoring the founding of the institution that would become the {% wiki Organization_of_American_States|Organization of American States|en %}, not the defunct airline.
 
 ![Mangal Shobhajatra one of the traditional Bangladeshi cultural events during Bengali New Year festivals](/blog/assets/Mangal-Shobhajatra-in-Dhaka.png "I wonder how many holidays that a person could squeeze out by only celebrating recognized new years...")
 
@@ -60,7 +60,7 @@ That signature now creates a token that the [JSON Web Token Debugger](https://jw
 
 #### We Actually Care
 
-Oversimplifying a bit, a [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) or JWT describes the data that you'll embed it in.  In our case, it represents the issuer, recipient, and badge information.  You can then (use a tool to) decode the token and confirm that it matches the remaining data that it claims to represent.  If it doesn't match, then somebody edited the data.  The above snippet also signs the token with a private cryptographic key, which---if you confirm the signature with the issuer's public key---also verifies that the issuer wrote the original data.
+Oversimplifying a bit, a {% wiki JSON_Web_Token|JSON Web Token|en %} or JWT describes the data that you'll embed it in.  In our case, it represents the issuer, recipient, and badge information.  You can then (use a tool to) decode the token and confirm that it matches the remaining data that it claims to represent.  If it doesn't match, then somebody edited the data.  The above snippet also signs the token with a private cryptographic key, which---if you confirm the signature with the issuer's public key---also verifies that the issuer wrote the original data.
 
 If that doesn't make sense, think of it in everyday terms, like identifying yourself to get into some exclusive event.  You have a payload, *you*.  To verify your claim that you have permission to get in, you present your ID, the equivalent of the token, which---probably with some combination of a photograph and descriptive data---makes it possible to spot discrepancies, if you try to pass yourself off as somebody else.  And, at least modern state-issued IDs provide some measures so that, if needed, the event can confirm that you didn't tamper with the contents.  In the case of the badge, the reason for granting the badge becomes the payload, instead of a physical body trying to get into the event.  And except that you cram the token inside the payload, as if some frustrated DMV clerk stapled your driver's license to your forehead.
 

@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks [Evolution Day](https://en.wikipedia.org/wiki/Evolution_Day), celebrating the anniversary of the publication of [**On the Origin of Species**](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) in 1859.
+Today marks {% wiki Evolution_Day|Evolution Day|en %}, celebrating the anniversary of the publication of {% wiki On_the_Origin_of_Species|**On the Origin of Species**|en %} in 1859.
 
 ![Darwin's finches, suggestive of branching lineages](/blog/assets/Darwin-s-finches-Gould.png "If I still cared about Twitter and if it still existed, this would've felt like a great excuse for a send-tweet joke...")
 

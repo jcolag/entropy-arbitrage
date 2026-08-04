@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,19 +35,19 @@ Since our last post, **Deep Space Nine** started to untangle the background of p
 
  > **DATA**: Graves at my command have wak'd their sleepers, op'd, and let 'em forth by my so potent art. But this rough magic I here abjure, and when I have required some heavenly music, which even now I do, to work mine end upon their senses, that this airy charm is for, I'll break my staff, bury it certain fathoms in the earth, and deeper than did ever plummet sound, I'll---Captain? Sir, your attention is wandering.
 
-Tediously, we start with [**The Tempest**](https://en.wikipedia.org/wiki/The_Tempest), Act V, Scene I, and in a first for the series, not even working from a clean breaking point.  Data will mention this later in the scene, because apparently the computer can't figure out that when he adjusts his set, he means for the current scene.
+Tediously, we start with {% wiki The_Tempest|**The Tempest**|en %}, Act V, Scene I, and in a first for the series, not even working from a clean breaking point.  Data will mention this later in the scene, because apparently the computer can't figure out that when he adjusts his set, he means for the current scene.
 
  > **PICARD**: Well, Data, Shakespeare was witnessing the end of the Renaissance and the birth of the modern era, and Prospero finds himself in a world where his powers are no longer needed. So, we see him here about to perform one final creative act before giving up his art forever.
 
 How does the modern saying go?  "Tell me that you don't understand history without telling me that you don't understand history"?
 
-Sure, the (second) [Renaissance](https://en.wikipedia.org/wiki/Renaissance) more or less stretched through Shakespeare's life, and most people consider it to have ended roughly around his death, though quite a few historians advocate stretching the dates by about a century on either end.  But far from the romanticized thoughts that the era has in popular culture of a modernist culture spontaneously emerging, the Renaissance mostly involved reviving ideas and designs from the so-called European [classical era](https://en.wikipedia.org/wiki/Classical_antiquity) (mostly Ancient Greece[^ZNSVTq] and Rome), hence the name, and also, the identification of a specific named era didn't really have much currency until the mid-nineteenth century.
+Sure, the (second) {% wiki Renaissance|Renaissance|en %} more or less stretched through Shakespeare's life, and most people consider it to have ended roughly around his death, though quite a few historians advocate stretching the dates by about a century on either end.  But far from the romanticized thoughts that the era has in popular culture of a modernist culture spontaneously emerging, the Renaissance mostly involved reviving ideas and designs from the so-called European {% wiki Classical_antiquity|classical era|en %} (mostly Ancient Greece[^ZNSVTq] and Rome), hence the name, and also, the identification of a specific named era didn't really have much currency until the mid-nineteenth century.
 
 [^ZNSVTq]:  Especially given that the era didn't become particularly important until the 1830s, I strongly suspect that the interest in Ancient Greece in particular made it cleaner to try to draw a line from Athenian democracy to modern democracies, and ignore the whole bit where the United States in particular cribbed much of its design from Native American tribal federations, since you'll notice that the 1830s happens to land right at the height of the ethnic cleansing campaigns against the Native American population.
 
 In other words, Shakespeare didn't see himself standing at the end of a global era, nor did he see some looming future.  When he staged **The Tempest**, however, he did stand near the end of his own life, a cusp of a different sort, which makes far more sense as an interpretation.
 
-Interestingly, Picard *could* have made this work---had Shakespeare written about people traveling the world---because the play does come near the end of the so-called [Age of Discovery](https://en.wikipedia.org/wiki/Age_of_Discovery).  Over the course of the writer's life, maps went from mystery continents and (especially in the New World) amorphous shapes to maps that you'd mostly recognize today, as we charted almost the remainder of the planet.
+Interestingly, Picard *could* have made this work---had Shakespeare written about people traveling the world---because the play does come near the end of the so-called {% wiki Age_of_Discovery|Age of Discovery|en %}.  Over the course of the writer's life, maps went from mystery continents and (especially in the New World) amorphous shapes to maps that you'd mostly recognize today, as we charted almost the remainder of the planet.
 
 ![World maps in 1572 and 1602](/blog/assets/world-maps-1572-1602.png "Ignoring for a moment the atrocities committed on the way around the world, I do have to admit that they did do a thorough job...")
 
@@ -59,7 +59,7 @@ Really, though, the line and the entire scene exists because Picard has (I guess
  >
  > **PICARD**: Yes, yes, Data, I know about the *Orient Express*. But what is it doing on Prospero's Island?
 
-Picard cuts Data off, both because he presumably asked for an explanation in order to cut him off *and* because the writers wouldn't have known that the [*Orient Express*](https://en.wikipedia.org/wiki/Orient_Express) would make its final journey in 2009.
+Picard cuts Data off, both because he presumably asked for an explanation in order to cut him off *and* because the writers wouldn't have known that the {% wiki Orient_Express|*Orient Express*|en %} would make its final journey in 2009.
 
  > **PICARD**: I never realized that you were interested in trains. Are you aware that at its peak, the *Orient Express* carried more than ten thousand people a year?
 
@@ -81,7 +81,7 @@ And yet...not so much.
 
  > **CONDUCTOR**: Tickets! Tickets please. Please have your tickets ready. Thank you, sir. Thank you, madam. Thank you. Thank you, sir. Tickets please.
 
-Probably not, but you might recognize the conductor as [David Huddleston](https://en.wikipedia.org/wiki/David_Huddleston), who made the rounds for decades...
+Probably not, but you might recognize the conductor as {% wiki David_Huddleston|David Huddleston|en %}, who made the rounds for decades...
 
  > **DATA**: Unlikely as it may sound, I believe that the *Enterprise* may be forming an intelligence.
 
@@ -105,7 +105,7 @@ What?  Why the Hell not?  She made such a big deal about looking for clues in th
 
 I think that I might actually hate this show, at this point...
 
-Anyway, when they get off, we find them on some alternate-universe New York City (calling out four out of five boroughs) that doesn't have named subway lines on a "New York City Transit System" that somehow uses the [Metropolitan Transit Authority](https://en.wikipedia.org/wiki/Metropolitan_Transportation_Authority)'s logo contemporary to the episode up on the post.  But the sign *also* calls out the [Interborough Rapid Transit](https://en.wikipedia.org/wiki/Interborough_Rapid_Transit_Company) system, and its [Broadway-Seventh Avenue line](https://en.wikipedia.org/wiki/IRT_Broadway%E2%80%93Seventh_Avenue_Line).  I shouldn't have paused that scene; my head actually hurts from that mess.  You'd think that whoever built the subway entrance could've rolled with any of the three and not had any issues, but somehow, somebody at Paramount---I assume that they filmed this on some corporate back lot---decided to signal the existing organization, its defunct predecessor, *and* (I believe) a complete fiction.
+Anyway, when they get off, we find them on some alternate-universe New York City (calling out four out of five boroughs) that doesn't have named subway lines on a "New York City Transit System" that somehow uses the {% wiki Metropolitan_Transportation_Authority|Metropolitan Transit Authority|en %}'s logo contemporary to the episode up on the post.  But the sign *also* calls out the {% wiki Interborough_Rapid_Transit_Company|Interborough Rapid Transit|en %} system, and its {% wiki IRT_Broadway%E2%80%93Seventh_Avenue_Line|Broadway-Seventh Avenue line|en %}.  I shouldn't have paused that scene; my head actually hurts from that mess.  You'd think that whoever built the subway entrance could've rolled with any of the three and not had any issues, but somehow, somebody at Paramount---I assume that they filmed this on some corporate back lot---decided to signal the existing organization, its defunct predecessor, *and* (I believe) a complete fiction.
 
  > **LAFORGE**: I wish I could tell you.
 
@@ -161,4 +161,4 @@ Come back in a week, when the show tries its damnedest to look like **Deep Space
 
 * * *
 
-**Credits**: The header image is [Compagnie Internationale des wagons-lits - Voiture restaurant 29](https://commons.wikimedia.org/wiki/File:Compagnie_internationale_des_wagons-lits_-_Voiture_restaurant_29.jpg) by [René Hourdry](https://commons.wikimedia.org/wiki/User:Renhour48), made available under the terms of the [Creative Commons CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).  The maps include the [Theatrum Orbis Terrarum](https://en.wikipedia.org/wiki/File:Theatrum_Orbis_Terrarum,_by_Abraham_Ortelius,_World,_1572.jpg) (1572) by Abraham Ortelius and [Kunyu Wanguo Quantu](https://commons.wikimedia.org/wiki/File:Kunyu_Wanguo_Quantu_(%E5%9D%A4%E8%BC%BF%E8%90%AC%E5%9C%8B%E5%85%A8%E5%9C%96).jpg) (1602) by Matteo Ricci, long in the public domain due to expired copyrights.
+**Credits**: The header image is [Compagnie Internationale des wagons-lits - Voiture restaurant 29](https://commons.wikimedia.org/wiki/File:Compagnie_internationale_des_wagons-lits_-_Voiture_restaurant_29.jpg) by [René Hourdry](https://commons.wikimedia.org/wiki/User:Renhour48), made available under the terms of the [Creative Commons CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).  The maps include the {% wiki File:Theatrum_Orbis_Terrarum,_by_Abraham_Ortelius,_World,_1572.jpg|Theatrum Orbis Terrarum|en %} (1572) by Abraham Ortelius and [Kunyu Wanguo Quantu](https://commons.wikimedia.org/wiki/File:Kunyu_Wanguo_Quantu_(%E5%9D%A4%E8%BC%BF%E8%90%AC%E5%9C%8B%E5%85%A8%E5%9C%96).jpg) (1602) by Matteo Ricci, long in the public domain due to expired copyrights.

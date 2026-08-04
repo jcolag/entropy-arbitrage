@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,7 +43,7 @@ He has a couple of lines like this in the episode, too.
 
  > **BOK**: I trust you remember me, Picard, because I haven't forgotten you or how you murdered my son. For fifteen years now I've thought about how to avenge his death but nothing I could do to you could equal what you did to me, until now. You thought you could hide him from me, didn't you? But I found out about him. Jason Vigo is as good as dead. I'm going to kill your son, Picard, just like you killed mine.
 
-Bok last appeared in and references [*The Battle*]({% post_url 2022-07-14-battle %}), though this time [Lee Arenberg](https://en.wikipedia.org/wiki/Lee_Arenberg) plays him, who we saw as a different Ferengi in [*Force of Nature*]({% post_url 2025-07-24-force-nature %}).
+Bok last appeared in and references [*The Battle*]({% post_url 2022-07-14-battle %}), though this time {% wiki Lee_Arenberg|Lee Arenberg|en %} plays him, who we saw as a different Ferengi in [*Force of Nature*]({% post_url 2025-07-24-force-nature %}).
 
  > **PICARD**: Mister Worf, put a tractor beam on that probe. Determine if it's safe to beam it aboard. I want to know where it came from. Mister Data, see if there is any mention of a Jason Vigo in Federation records. You might start with Miranda Vigo. She was born on New Gaul about fifty years ago.
 
@@ -119,7 +119,7 @@ Also, they really should have tied this to Picard's collection of archaeological
 
  > **RHODES**: Lieutenant Rhodes.
 
-You might recognize Rhodes as [Amy Pietz](https://en.wikipedia.org/wiki/Amy_Pietz), who among other roles would begin starring in [**Caroline in the City**](https://en.wikipedia.org/wiki/Caroline_in_the_City), itself led by (increasingly relevant to *Star Trek*) Lea Thompson, with an appearance in **Picard** a couple of years back.
+You might recognize Rhodes as {% wiki Amy_Pietz|Amy Pietz|en %}, who among other roles would begin starring in {% wiki Caroline_in_the_City|**Caroline in the City**|en %}, itself led by (increasingly relevant to *Star Trek*) Lea Thompson, with an appearance in **Picard** a couple of years back.
 
  > **PICARD**: I'm sure you have, but Bok is a dangerous creature. He has a starship, he has technology.
 

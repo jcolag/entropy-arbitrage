@@ -23,7 +23,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -93,7 +93,7 @@ I do find it interesting that he also says that it doesn't work to control peopl
 
  > **PICARD**: Sur le pont d'Avignon, on y danse...
 
-Picard has apparently decided to go with a spoken-word rendition of [*Sur le Pont d'Avignon*](https://en.wikipedia.org/wiki/Sur_le_Pont_d%27Avignon).  The world has apparently turned upside-down, because not only did I need to agree with Picard about torture, but I've also liked the *song* since a local children's show that I grew up with highlighted it...
+Picard has apparently decided to go with a spoken-word rendition of {% wiki Sur_le_Pont_d%27Avignon|*Sur le Pont d'Avignon*|en %}.  The world has apparently turned upside-down, because not only did I need to agree with Picard about torture, but I've also liked the *song* since a local children's show that I grew up with highlighted it...
 
  > **LAFORGE**: I could do it, but truthfully, the man you want is Commander Riker. He's the best there is.
 

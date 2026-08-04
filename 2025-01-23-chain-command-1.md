@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ I suppose that we should get rolling on this.
 
 Finally, after all the times that he's done blatantly illegal things, right...?
 
-Anyway, you probably don't recognize [Natalia Nogulich](https://en.wikipedia.org/wiki/Natalia_Nogulich) for anything other than this role, but seems to have guest-starred on plenty of shows.
+Anyway, you probably don't recognize {% wiki Natalia_Nogulich|Natalia Nogulich|en %} for anything other than this role, but seems to have guest-starred on plenty of shows.
 
  > **NECHAYEV**: The Cardassian forces which were recently withdrawn from the Bajoran sector, have been redeployed along the Federation border. They have mobilized three divisions of ground troops and their subspace communications have been increased by fifty percent. We believe that they're preparing for an incursion into Federation space.
 
@@ -65,7 +65,7 @@ In fact, it seems worth pointing out that Troi actually lies, here.  We haven't 
 
 Honestly, I love how they frame the uniform thing as one step too far, as if Troi---and I apologize for criticizing a performer's appearance, but I do so for a point---doesn't look like a complete buffoon in her catsuits and dresses that would make it impossible for anybody to take her seriously, even if they gave her something useful to do.  And as long as I need to talk about her appearance anyway, I might as well point out that I remember when this aired, everybody in my circle had a long laugh that this show spent five-plus years trying to make her "sexy," only to apparently accidentally discover that she looks better in the same uniforms that they have for everybody else.  They spent an entire year packing her into that progressively shrinking denim monstrosity, when they could've dressed her like an adult.
 
-Oh, and I didn't bother to specifically quote his first line in the episode, but you might recognize Jellico as [Ronny Cox](https://en.wikipedia.org/wiki/Ronny_Cox), who got his start in [**Deliverance**](https://en.wikipedia.org/wiki/Deliverance) as the non-banjo part of [*Dueling Banjos*](https://en.wikipedia.org/wiki/Dueling_Banjos), had a run---as I hinted in [*The Quality of Life*]({% post_url 2025-01-16-quality-life %})---on [**St. Elsewhere**](https://en.wikipedia.org/wiki/St._Elsewhere) near the end of the series, and a bunch more, plus his non-film music career.
+Oh, and I didn't bother to specifically quote his first line in the episode, but you might recognize Jellico as {% wiki Ronny_Cox|Ronny Cox|en %}, who got his start in {% wiki Deliverance|**Deliverance**|en %} as the non-banjo part of {% wiki Dueling_Banjos|*Dueling Banjos*|en %}, had a run---as I hinted in [*The Quality of Life*]({% post_url 2025-01-16-quality-life %})---on {% wiki St._Elsewhere|**St. Elsewhere**|en %} near the end of the series, and a bunch more, plus his non-film music career.
 
 Looking back from the future, we know that Jellico will get promoted to Admiral and become a recurring character on **Prodigy** as Janeway's foil.
 
@@ -73,7 +73,7 @@ Anyway, back to my line of thought from before this line, we know Riker's beef w
 
  > **WORF**: Shuttle-craft Feynman to Enterprise. We have cleared the shuttle-bay.
 
-Despite the fact that they find multiple wrong ways to pronounce the name, the shuttle presumably references physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), who had recently died and probably hit the peak of his popularity at around that time, with popular-among-techie books presenting him as fun[^1].
+Despite the fact that they find multiple wrong ways to pronounce the name, the shuttle presumably references physicist {% wiki Richard_Feynman|Richard Feynman|en %}, who had recently died and probably hit the peak of his popularity at around that time, with popular-among-techie books presenting him as fun[^1].
 
 [^1]:  Full disclosure, I read those books at around this time and found the anecdotes of him trying to one-up everybody completely insufferable, and I still judge people pretty harshly when they try to quote or emulate him.  And it'd probably surprise you (or maybe it wouldn't) how many scientists and engineers own bongos because Feynman played bongos.  And speaking of insufferable, Christopher Nolan's **Oppenheimer** casts Jack Quaid from **Lower Decks** as Feynman.
 
@@ -95,7 +95,7 @@ Not only do we see the Federation's terrible reputation again, but Lemec brings 
 
  > **MADRED**: A challenge. You should prove to be an interesting challenge. Possibly the most interesting to come through that door in many years.
 
-You might recognize Gul Madred as [David Warner](https://en.wikipedia.org/wiki/David_Warner_%28actor%29), who---apart from a long career appearing pretty much anywhere that you might care to look, especially in genre fiction---we've seen as St. John Talbot in [**The Final Frontier**]({% post_url 2022-04-14-tff %}) and Chancellor Gorkon in [**The Undiscovered Country**]({% post_url 2022-04-21-tuc %}).
+You might recognize Gul Madred as {% wiki David_Warner_%28actor%29|David Warner|en %}, who---apart from a long career appearing pretty much anywhere that you might care to look, especially in genre fiction---we've seen as St. John Talbot in [**The Final Frontier**]({% post_url 2022-04-14-tff %}) and Chancellor Gorkon in [**The Undiscovered Country**]({% post_url 2022-04-21-tuc %}).
 
 ## Conclusions
 

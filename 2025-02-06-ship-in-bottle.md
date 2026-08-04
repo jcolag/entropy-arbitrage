@@ -23,7 +23,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -121,7 +121,7 @@ Not to intrude on the technobabble wasting our time, but either they have matter
 
  > **COUNTESS**: Are you here to see Mister Holmes, or perhaps Professor Moriarty? Neither is in just now.
 
-You might recognize the countess as [Stephanie Beacham](https://en.wikipedia.org/wiki/Stephanie_Beacham), who has had a decent career.  Months after this episode aired, she would go on to join the supporting cast of [SeaQuest DSV](https://en.wikipedia.org/wiki/SeaQuest_DSV).
+You might recognize the countess as {% wiki Stephanie_Beacham|Stephanie Beacham|en %}, who has had a decent career.  Months after this episode aired, she would go on to join the supporting cast of {% wiki SeaQuest_DSV|SeaQuest DSV|en %}.
 
  > **RIKER**: Mister La Forge, start working on the problem.
 
@@ -129,7 +129,7 @@ I feel like I should note that, much like in *Elementary, Dear Data*, they gener
 
  > **RIKER**: Open shuttle-bay doors.
 
-The *Sakharov* presumably takes its name from [Andrei Sakharov](https://en.wikipedia.org/wiki/Andrei_Sakharov), nuclear scientist turned human rights activist, for whom the [freedom of thought prize](https://en.wikipedia.org/wiki/Sakharov_Prize) also takes its name.  He invented the [tokamak](https://en.wikipedia.org/wiki/Tokamak) design that almost everybody still uses when trying to get nuclear fusion reactors to work, among other things, and started to oppose nuclear proliferation in the 1960s, leading to his becoming one of the Soviet Union's most public political dissidents until his (internal) exile in 1980 and death in 1989, only a couple of years before this episode...oh, and with a Nobel Peace Prize in there, too.
+The *Sakharov* presumably takes its name from {% wiki Andrei_Sakharov|Andrei Sakharov|en %}, nuclear scientist turned human rights activist, for whom the {% wiki Sakharov_Prize|freedom of thought prize|en %} also takes its name.  He invented the {% wiki Tokamak|tokamak|en %} design that almost everybody still uses when trying to get nuclear fusion reactors to work, among other things, and started to oppose nuclear proliferation in the 1960s, leading to his becoming one of the Soviet Union's most public political dissidents until his (internal) exile in 1980 and death in 1989, only a couple of years before this episode...oh, and with a Nobel Peace Prize in there, too.
 
  > **PICARD**: Computer. Store program Picard delta one in active memory and discontinue simulation.
 

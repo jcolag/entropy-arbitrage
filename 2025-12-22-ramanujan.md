@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Lacking a holiday for today, we can celebrate the 138<sup>th</sup> birthday of [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan), the mathematician with no formal training who advanced the state of the art in continued fractions, Bernoulli numbers, and a few more fields.
+Lacking a holiday for today, we can celebrate the 138<sup>th</sup> birthday of {% wiki Srinivasa_Ramanujan|Srinivasa Ramanujan|en %}, the mathematician with no formal training who advanced the state of the art in continued fractions, Bernoulli numbers, and a few more fields.
 
 ![Ramanujan's 1913 passport photograph](/blog/assets/Srinivasa-Ramanujan.png "Action movie tagline:  He will math you up")
 

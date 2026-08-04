@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,7 +34,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 Since last time we met, over on **Deep Space Nine**, Kira investigates a worrying conspiracy theory in *The Collaborator*.
 
-Oh, as for the title, I know that we all want to go with our gut instincts and assume that they clung to Shakespeare until the end, but best I can tell, people trace this to one of Will's inspirations, Geoffrey Chaucer's [**Troilus and Criseyde**](https://en.wikipedia.org/wiki/Troilus_and_Criseyde).  Talking about the lovers (line #615) and their great time together, "*But at the laste, as every thing hath ende, / She took hir leve, and nedes wolde wende*."  Or "but at last, as everything must end, she took her leave, as necessity would (have her) depart" in more modern English.
+Oh, as for the title, I know that we all want to go with our gut instincts and assume that they clung to Shakespeare until the end, but best I can tell, people trace this to one of Will's inspirations, Geoffrey Chaucer's {% wiki Troilus_and_Criseyde|**Troilus and Criseyde**|en %}.  Talking about the lovers (line #615) and their great time together, "*But at the laste, as every thing hath ende, / She took hir leve, and nedes wolde wende*."  Or "but at last, as everything must end, she took her leave, as necessity would (have her) depart" in more modern English.
 
  > **TROI**: Worf, we were walking barefoot on the beach with balalaika music in the air, ocean breeze washing over us, stars in the sky, a full moon rising, and the most you can say is stimulating?
 
@@ -66,7 +66,7 @@ He hasn't missed it.  The spirits have done it all in one night.  They can do an
 
 Actually, given the structure of the episode(s) and the "end of the year (television season)" framing, I suppose that I can't guarantee that I won't need to go back to the Charles Dickens[^aZyBAT] well a few more times, but I don't *think* that I will.
 
-[^aZyBAT]:  To my deep embarrassment, I don't think that I made the connection until now that this probably would have aired between the Drama Desk nomination and award for Outstanding One-Person Show, for Patrick Stewart's adaptation of [**A Christmas Carol**](https://en.wikipedia.org/wiki/A_Christmas_Carol_%281988_play%29).  In other words, they may not have chosen the "self-absorbed man visits the past, present, and future, learning that maybe he should try to care about people" story haphazardly, instead not-so-subtly campaigning for their favorite stage performer.
+[^aZyBAT]:  To my deep embarrassment, I don't think that I made the connection until now that this probably would have aired between the Drama Desk nomination and award for Outstanding One-Person Show, for Patrick Stewart's adaptation of {% wiki A_Christmas_Carol_%281988_play%29|**A Christmas Carol**|en %}.  In other words, they may not have chosen the "self-absorbed man visits the past, present, and future, learning that maybe he should try to care about people" story haphazardly, instead not-so-subtly campaigning for their favorite stage performer.
 
 Also, an authoritarian leader with hair-related insecurities has cognitive problems.  Whoever would've guessed that part feeling relevant...?
 
@@ -80,9 +80,9 @@ Also, decades after Pulaski told La Forge that Starfleet pretty much lied to him
 
  > **LAFORGE**: You've got leaf miners. You might want to use a bacillus spray. My wife is quite a gardener. I've picked up a little bit of it.
 
-I didn't expect this episode to teach me anything, but many strains of [Bacillus thuringiensis](https://en.wikipedia.org/wiki/Bacillus_thuringiensis) (Bt) produce a natural insecticide, something that we don't think about in our world because you can find it almost anywhere that you'd expect to find insects, plus weirder places such as the digestive tracts of moths and caterpillars.  Given what we've seen before, in episodes such as [*Family*]({% post_url 2023-11-16-family %}) and its crackpot "raise the ocean floor" scheme, I wonder if this signals that Earth has wiped out the natural bacteria in soil and plants.
+I didn't expect this episode to teach me anything, but many strains of {% wiki Bacillus_thuringiensis|Bacillus thuringiensis|en %} (Bt) produce a natural insecticide, something that we don't think about in our world because you can find it almost anywhere that you'd expect to find insects, plus weirder places such as the digestive tracts of moths and caterpillars.  Given what we've seen before, in episodes such as [*Family*]({% post_url 2023-11-16-family %}) and its crackpot "raise the ocean floor" scheme, I wonder if this signals that Earth has wiped out the natural bacteria in soil and plants.
 
-Oh, and [leaf-miners](https://en.wikipedia.org/wiki/Leaf_miner) exist, too.  The larval forms of various insects burrow into leaves to live and feed, usually without damaging the outer layers of the leaf.  Their trails strike me as too conspicuous for nobody to have noticed the infestation until the bionic eyeballs showed up, but I don't know how lazily Picard runs his business.
+Oh, and {% wiki Leaf_miner|leaf-miners|en %} exist, too.  The larval forms of various insects burrow into leaves to live and feed, usually without damaging the outer layers of the leaf.  Their trails strike me as too conspicuous for nobody to have noticed the infestation until the bionic eyeballs showed up, but I don't know how lazily Picard runs his business.
 
  > **PICARD**: How is Leah?
  >
@@ -104,7 +104,7 @@ I'll point out a couple of similar plot points that the show grabs, because even
 
  > **PICARD**: Geordi, you don't make the trip from Rigel Three to Earth just to drop by.
 
-You know how this goes, by now, right?  [Rigel](https://en.wikipedia.org/wiki/Rigel) has gotten *many* mentions since [*Mudd's Women*]({% post_url 2020-02-20-trek-m-women %}), and sits about eight hundred fifty light years from Earth.  I'll let you decide whether that makes "dropping by" more or less likely, four hundred years or so into the future...
+You know how this goes, by now, right?  {% wiki Rigel|Rigel|en %} has gotten *many* mentions since [*Mudd's Women*]({% post_url 2020-02-20-trek-m-women %}), and sits about eight hundred fifty light years from Earth.  I'll let you decide whether that makes "dropping by" more or less likely, four hundred years or so into the future...
 
  > **PICARD**: I'm not an invalid. Irumodic Syndrome can take years to run its course.
 
@@ -120,7 +120,7 @@ Also, since this show has gone so far out of its way to even avoid touching on m
 
  > **PICARD**: No. It's just that you look very familiar.
 
-Well, yeah, dress her in a blocky sweater and a bowl-cut, and she looks exactly like the crackpot who tried to invade Vulcan with a deepfake Spock and a comically tiny occupational force.  Or, in terms of 1930s references that Picard might find more familiar, she looks a bit like [Bing Crosby](https://en.wikipedia.org/wiki/Bing_Crosby), too...
+Well, yeah, dress her in a blocky sweater and a bowl-cut, and she looks exactly like the crackpot who tried to invade Vulcan with a deepfake Spock and a comically tiny occupational force.  Or, in terms of 1930s references that Picard might find more familiar, she looks a bit like {% wiki Bing_Crosby|Bing Crosby|en %}, too...
 
  > **YAR**: Acknowledged, Enterprise. And there she is.
 
@@ -138,7 +138,7 @@ That said, especially since part of this scene revolves around trying to get Cru
 
  > **NAKAMURA**: Captain.
 
-We last saw Nakamura in [*Phantasms*]({% post_url 2025-07-03-phantasms %}), and I explained the likely relevance of casting [Clyde Kusatsu](https://en.wikipedia.org/wiki/Clyde_Kusatsu) then.
+We last saw Nakamura in [*Phantasms*]({% post_url 2025-07-03-phantasms %}), and I explained the likely relevance of casting {% wiki Clyde_Kusatsu|Clyde Kusatsu|en %} then.
 
  > **NAKAMURA**: Our operatives on Romulus have indicated that there appears to be something happening in the Neutral Zone, specifically in the Devron System. Our own long range scans have picked up some kind of spatial anomaly in the area. We can't tell what it is.
 
@@ -154,7 +154,7 @@ The situation seems tense, Picard surmises, and so he wants to know when he can 
 
  > **PICARD**: I'm not senile, you know. This did happen. I was here, I was talking to you, and then I was somewhere else. I was on the Enterprise. I was back on the *Enterprise*. At least, I think that's where it was. I was in Sickbay. Well, it might have been a hospital.
 
-Again, terms like "senile" cause all sorts of problems.  The term itself derives from the Latin *senex* for "old man," used because people imagined deterioration of the brain to occur as an ordinary part of aging.  We now mostly call it [dementia](https://en.wikipedia.org/wiki/Dementia), though.  But as mentioned, Picard does have a long tradition of using ableist terminology.
+Again, terms like "senile" cause all sorts of problems.  The term itself derives from the Latin *senex* for "old man," used because people imagined deterioration of the brain to occur as an ordinary part of aging.  We now mostly call it {% wiki Dementia|dementia|en %}, though.  But as mentioned, Picard does have a long tradition of using ableist terminology.
 
  > **PICARD**: Yes, yes, I know what you're thinking. It's the Irumodic Syndrome. He's beginning to lose his mind, the old man. Well, it's not that. And I'm not daydreaming either.
 
@@ -180,7 +180,7 @@ This exchange, having a laugh at Picard's usual drink order, indicates that the 
 
  > **DATA**: Holding the Lucasian Chair does have its perquisites. This house originally belonged to Sir Isaac Newton when he held the position. It's become the traditional residence.
 
-Data holds the post of the real-world [Lucasian Professor of Mathematics](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics), for...*reasons*, I guess.
+Data holds the post of the real-world {% wiki Lucasian_Professor_of_Mathematics|Lucasian Professor of Mathematics|en %}, for...*reasons*, I guess.
 
  > **DATA**: Jessel. She can be frightfully trying at times, but she does make me laugh.
 
@@ -282,7 +282,7 @@ We haven't seen this show drug somebody (or threaten to do it) for mild convenie
 
  > **LAFORGE**: All right. Okay. But first, there is no Neutral Zone, remember?
 
-OK, but it seems entirely reasonable for somebody to refer to the area by its former name, *especially* if the area doesn't have a current political significance.  For example, in the United States, it doesn't happen *much*, but you'll sometimes hear people refer to the territory east of the Mississippi River as the Colonies, referring to the territory (ignoring Florida) composing the thirteen colonies that became the country's original states.  You'll also still occasionally find references to the [Iron Curtain](https://en.wikipedia.org/wiki/Iron_Curtain), now referring to the line down eastern Poland-to-Albania borders rather than ideologies, though you'll increasingly see references to the [Green Belt](https://en.wikipedia.org/wiki/European_Green_Belt) starting to replace it.
+OK, but it seems entirely reasonable for somebody to refer to the area by its former name, *especially* if the area doesn't have a current political significance.  For example, in the United States, it doesn't happen *much*, but you'll sometimes hear people refer to the territory east of the Mississippi River as the Colonies, referring to the territory (ignoring Florida) composing the thirteen colonies that became the country's original states.  You'll also still occasionally find references to the {% wiki Iron_Curtain|Iron Curtain|en %}, now referring to the line down eastern Poland-to-Albania borders rather than ideologies, though you'll increasingly see references to the {% wiki European_Green_Belt|Green Belt|en %} starting to replace it.
 
 In the grand scheme, this probably doesn't rank high on the list of issues, but it does hint at something contentious around dismantling of the Neutral Zone that they worry about calling the area by its old name.
 

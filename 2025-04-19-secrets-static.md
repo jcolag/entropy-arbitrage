@@ -39,7 +39,7 @@ The game describes itself as follows.
 
  > A TTRPG idea inspired by Lynchian horror, embodying surreal suburban dread and the unsettling blend of media and reality. Pulled from my playtesting slush pile in memory of David Lynch. Shared under a Creative Commons Attribution International 4.0 license. Credit “Rev from Thought Punks”. This was a beta playtest module. The formatting and presentation style reflects that. This also stands out as an example of [minimalist world-building](https://thoughtpunks.com/crafting-minimalist-settings-for-tabletop-roleplaying-games/).
 
-That doesn't particularly inspire confidence for me, but they released it on the heels of [Lynch's passing](https://en.wikipedia.org/wiki/David_Lynch), and if we hadn't recently discussed a role-playing game---[**Cairn**]({% post_url 2025-02-08-cairn-1 %})---at that time and another planned soon, I probably would've joined in the tribute.
+That doesn't particularly inspire confidence for me, but they released it on the heels of {% wiki David_Lynch|Lynch's passing|en %}, and if we hadn't recently discussed a role-playing game---[**Cairn**]({% post_url 2025-02-08-cairn-1 %})---at that time and another planned soon, I probably would've joined in the tribute.
 
 Oh, also note that the team originally released this under the similar name **Echoes in the Static**, so if you see that name floating around, it probably refers to this.
 

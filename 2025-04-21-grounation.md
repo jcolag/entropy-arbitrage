@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, at least Rastafarian folks celebrate [Grounation Day](https://en.wikipedia.org/wiki/Grounation_Day), honoring Haile Selassie's 1966 visit to Jamaica, which has become the movement's most important holy day.  Even after reading the Wikipedia article, I admit that I don't really understand the connection, but given how many European holidays exist to absorb some local festival, I don't need to make sense of anything to offer an *Abu Ye* to those who celebrate.
+Today, at least Rastafarian folks celebrate {% wiki Grounation_Day|Grounation Day|en %}, honoring Haile Selassie's 1966 visit to Jamaica, which has become the movement's most important holy day.  Even after reading the Wikipedia article, I admit that I don't really understand the connection, but given how many European holidays exist to absorb some local festival, I don't need to make sense of anything to offer an *Abu Ye* to those who celebrate.
 
 ![The flag of the former Ethiopian Empire with the Lion of Judah in the center](/blog/assets/Flag-of-Ethiopia-1897-1974.png "When people talk about flags, they don't talk nearly enough about the era when people put extremely fussy national symbols on them for people to sew...")
 
@@ -35,7 +35,7 @@ Mostly, I added link-annotation icons.
 
 They now show up in CSS and the YAML file to generate the CSS.
 
-However, I also made a quick change to my asset-management script.  When the script can't convert something to an [AVIF](https://en.wikipedia.org/wiki/AVIF) image---probably because I didn't feed it an image---it previously copied the base-name into the assets folder without any conversion, which works *except* that the base-name doesn't include sub-folders, which breaks linking.
+However, I also made a quick change to my asset-management script.  When the script can't convert something to an {% wiki AVIF|AVIF|en %} image---probably because I didn't feed it an image---it previously copied the base-name into the assets folder without any conversion, which works *except* that the base-name doesn't include sub-folders, which breaks linking.
 
 ## Open Badges
 

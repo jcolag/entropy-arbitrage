@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ In this episode, though, we'll spend a *lot* of time with Klingons, so don't exp
 
  > **ALEXANDER**: I'm sorry. We made fullerenes in chemistry class today and filled them with water.
 
-I don't think that they actually made actual [fullerenes](https://en.wikipedia.org/wiki/Fullerene), given that sixty carbon atoms (and nothing else) doesn't actually give you a soccer ball; it gives you a large molecule, which fits into crystals, as you can see in the [buckminsterfullerene](https://en.wikipedia.org/wiki/Buckminsterfullerene) article.  I can believe that they made [truncated icosahedrons](https://en.wikipedia.org/wiki/Truncated_icosahedron) *modeling* sixty-carbon fullerenes loosely inspired by the work of [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller), but not actual fullerenes.
+I don't think that they actually made actual {% wiki Fullerene|fullerenes|en %}, given that sixty carbon atoms (and nothing else) doesn't actually give you a soccer ball; it gives you a large molecule, which fits into crystals, as you can see in the {% wiki Buckminsterfullerene|buckminsterfullerene|en %} article.  I can believe that they made {% wiki Truncated_icosahedron|truncated icosahedrons|en %} *modeling* sixty-carbon fullerenes loosely inspired by the work of {% wiki Buckminster_Fuller|Buckminster Fuller|en %}, but not actual fullerenes.
 
 This seems bizarre, because they definitely did some research, here, for a form of carbon only discovered less than a decade before.  For example, the lavender color comes from the color of dilute fullerene solutions.
 
@@ -47,7 +47,7 @@ Last time, the pressure that Federation parents put on their children came to a 
 
  > **PICARD**: As a result, we won't be able to rendezvous with the *Kearsarge* for another four days.
 
-The United States Navy has had multiple ships by the same name, the original specifically named for the [New Hampshire mountain](https://en.wikipedia.org/wiki/Mount_Kearsarge_%28Merrimack_County,_New_Hampshire%29).
+The United States Navy has had multiple ships by the same name, the original specifically named for the {% wiki Mount_Kearsarge_%28Merrimack_County,_New_Hampshire%29|New Hampshire mountain|en %}.
 
  > **PICARD**: Yes. And, as it would seem we're in for a relatively quiet time, I shall use this opportunity to visit the Hatarian System. There are some ancient ruins that are just being excavated.
 
@@ -75,7 +75,7 @@ They really do insist that every alien learn English around them.
 
  > **K'MTAR**: Ni'tokor bak'to! Q'apla, Worf. You are too much for them.
 
-If you recognize---or have recognized, since he has prominently skulked around the street fair---our buddy, here, [James Sloyan](https://en.wikipedia.org/wiki/James_Sloyan) plays him, last appearing in [*The Defector*]({% post_url 2023-07-06-defector %}).
+If you recognize---or have recognized, since he has prominently skulked around the street fair---our buddy, here, {% wiki James_Sloyan|James Sloyan|en %} plays him, last appearing in [*The Defector*]({% post_url 2023-07-06-defector %}).
 
  > **K'MTAR**: We have other evidence that indicates the Duras sisters, Lursa and B'Etor, were behind the attack.
 
@@ -107,7 +107,7 @@ This returns us to the idea that the Federation doesn't make non-humans feel wel
 
  > **YOG**: I am Yog. Why are we speaking?
 
-While difficult to spot him underneath the prosthetics and goofy voice, you *might* recognize Yog as [Joel Swetow](https://en.wikipedia.org/wiki/Joel_Swetow), who got his start at around this time---relevant to us---previously playing a Cardassian in the **Deep Space Nine** pilot.
+While difficult to spot him underneath the prosthetics and goofy voice, you *might* recognize Yog as {% wiki Joel_Swetow|Joel Swetow|en %}, who got his start at around this time---relevant to us---previously playing a Cardassian in the **Deep Space Nine** pilot.
 
  > **TROI**: You're up to something.
 
@@ -115,7 +115,7 @@ How clever of her to realize that he doesn't *actually* want to buy ore... {% em
 
  > **WORF**: No. Who knows what the future will be now that you have disrupted time? I may die tomorrow or I may outlive you. But when I die, I would like an honorable death. And the only way that is possible is for you accept yourself as you are, and stay true to what you believe. The cause of peace is a just cause. The struggle must continue.
 
-I do find it interesting that Worf always seems to have the strongest commitment to peace out of this crew.  He slips occasionally, especially when Romulans (or Q) get involved, but everybody else tends more towards a [peace through strength](https://en.wikipedia.org/wiki/Peace_through_strength) philosophy than anything where you might care about people and accept them.
+I do find it interesting that Worf always seems to have the strongest commitment to peace out of this crew.  He slips occasionally, especially when Romulans (or Q) get involved, but everybody else tends more towards a {% wiki Peace_through_strength|peace through strength|en %} philosophy than anything where you might care about people and accept them.
 
 ## Conclusions
 

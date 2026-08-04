@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the 478<sup>th</sup> birthday of [Miguel de Cervantes Saavedra](https://en.wikipedia.org/wiki/Miguel_de_Cervantes), author of (among other things) [**Don Quixote**](https://en.wikipedia.org/wiki/Don_Quixote).  He doesn't look a day over 450.
+Today marks the 478<sup>th</sup> birthday of {% wiki Miguel_de_Cervantes|Miguel de Cervantes Saavedra|en %}, author of (among other things) {% wiki Don_Quixote|**Don Quixote**|en %}.  He doesn't look a day over 450.
 
 ![Cervantes...or not, honestly, since nobody attached a name to the painting for a century](/blog/assets/Cervantes-Jáuregui.png "It seems strange that the neck ruff didn't come back in style during the twentieth century...")
 

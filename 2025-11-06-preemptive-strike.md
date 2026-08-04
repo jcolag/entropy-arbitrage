@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -108,11 +108,11 @@ If we can assume that Ro doesn't exaggerate into absurdity here, which I assume 
 
 It didn't take long for "Federation citizens" to go from evolved beyond violence to not minding if somebody takes the lives of a bunch of Cardassians.  Or perhaps they haven't grown out of violence, like I've said all through the series.
 
-Also, Santos may look familiar, as portrayed by [William Thomas, Jr.](https://en.wikipedia.org/wiki/William_Thomas_Jr.), who at the time people knew from his recurring role in the final season of **The Cosby Show**, but also had a much broader career that doesn't require us to deal with Bill Cosby at all...including **Cop Rock**.
+Also, Santos may look familiar, as portrayed by {% wiki William_Thomas_Jr.|William Thomas, Jr.|en %}, who at the time people knew from his recurring role in the final season of **The Cosby Show**, but also had a much broader career that doesn't require us to deal with Bill Cosby at all...including **Cop Rock**.
 
  > **KALITA**: Did you kill that Cardassian soldier?
 
-Because we'll see her a couple more times before we wrap up this project, [Shannon Cochran](https://en.wikipedia.org/wiki/Shannon_Cochran) plays Kalita, and also shows up often enough that you might recognize her.
+Because we'll see her a couple more times before we wrap up this project, {% wiki Shannon_Cochran|Shannon Cochran|en %} plays Kalita, and also shows up often enough that you might recognize her.
 
  > **RO**: There are rumors that the Cardassians are supplying their colonists with biogenic weapons.
 

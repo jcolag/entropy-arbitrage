@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,7 +39,7 @@ Oh, also...
 
 {% cw Portrayal and Discussion of Death by Suicide %}
 
-The characters react poorly to the events of the episode, spreading some fantastically bad ideas.  Before we get into this, then, if you find yourself in that kind of distress, call your area's suicide and crisis lifeline.  In the United States and Canada, you can use <a href="tel:988" aria-label="Call 988 Suicide and Crisis Lifeline">{% emoji telephone receiver %} 988</a>.  Across the United States, Canada, the United Kingdom, and Ireland, you can also text to the [Crisis Text Line](https://www.crisistextline.org/about-us/where-we-are/), though (sadly) different numbers in different countries.  For everybody else---including if you need more specific help than two options[^R72XcM], or want to keep a list in case somebody you know needs them in the future---you'll probably want to check Wikipedia's list of [suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines) for your country.
+The characters react poorly to the events of the episode, spreading some fantastically bad ideas.  Before we get into this, then, if you find yourself in that kind of distress, call your area's suicide and crisis lifeline.  In the United States and Canada, you can use <a href="tel:988" aria-label="Call 988 Suicide and Crisis Lifeline">{% emoji telephone receiver %} 988</a>.  Across the United States, Canada, the United Kingdom, and Ireland, you can also text to the [Crisis Text Line](https://www.crisistextline.org/about-us/where-we-are/), though (sadly) different numbers in different countries.  For everybody else---including if you need more specific help than two options[^R72XcM], or want to keep a list in case somebody you know needs them in the future---you'll probably want to check Wikipedia's list of {% wiki List_of_suicide_crisis_lines|suicide crisis lines|en %} for your country.
 
 [^R72XcM]:  For example, the Suicide and Crisis Lifeline in the United States, back in July, ended the pilot program with The Trevor Project for targeted help for callers representing gender and sexual minorities, though as I write this, a [bill wants to reinstate it](https://rewirenewsgroup.com/2025/09/22/youth-lgbtq-suicide-hotline-bill-baldwin-murkowski/).  Checking the longer list turns up that the Trevor Lifeline still operates on <a href="tel:18664887386">1 (866) 488–7386</a>, plus chat and text options.  And lifelines with other varieties of specific help also exist, both in the United States and other countries.
 
@@ -125,7 +125,7 @@ I hate this "bro code" nonsense, but Michael Dorn does such a good job of this s
 
  > **TROI**: Worf?
 
-We've seen it mentioned before, I think, at least off in the corners, but I should call out that the crate or toolbox or whatever that Troi sees in her vision makes clear that they built at least part of the *Enterprise* somewhere in the neighborhood of [Utopia Planitia](https://en.wikipedia.org/wiki/Utopia_Planitia), the largest impact crater on Mars.  Notably, though they wouldn't have known this for the episode, in 2016, NASA detected ice under the crater, possibly around the size of Lake Superior.
+We've seen it mentioned before, I think, at least off in the corners, but I should call out that the crate or toolbox or whatever that Troi sees in her vision makes clear that they built at least part of the *Enterprise* somewhere in the neighborhood of {% wiki Utopia_Planitia|Utopia Planitia|en %}, the largest impact crater on Mars.  Notably, though they wouldn't have known this for the episode, in 2016, NASA detected ice under the crater, possibly around the size of Lake Superior.
 
 Anyway, as mentioned a bunch of what follows officially happens in Troi's imagination, so we can't take it *too* seriously, though we can assume that her thinking of it as real implies that it at least withstands some scrutiny.
 
@@ -135,7 +135,7 @@ Also, where Kwan worked, which seems more directly relevant, no?
 
  > **PIERCE**: That's right. I was sorry to hear what happened.
 
-If Pierce looks familiar, it probably has something to do with [Mark Rolston](https://en.wikipedia.org/wiki/Mark_Rolston) playing him, known for everything from **Aliens** to **Turn:  Washington's Spies**, with a couple of appearances on **Enterprise** in between.
+If Pierce looks familiar, it probably has something to do with {% wiki Mark_Rolston|Mark Rolston|en %} playing him, known for everything from **Aliens** to **Turn:  Washington's Spies**, with a couple of appearances on **Enterprise** in between.
 
  > **WORF**: But you implied that...? We have played poker together many times. I've never known you to bluff.
  >
@@ -169,7 +169,7 @@ Speaking of which, notice how they've forgotten about her connection to the dece
 
  > **LAFORGE**: Kind of like a psychic photograph.
 
-Once again, I can't help read some New Age nonsense into this quick line, given the movement's earlier obsession with [Kirlian photography](https://en.wikipedia.org/wiki/Kirlian_photography) as supposedly capturing psychic phenomena.
+Once again, I can't help read some New Age nonsense into this quick line, given the movement's earlier obsession with {% wiki Kirlian_photography|Kirlian photography|en %} as supposedly capturing psychic phenomena.
 
  > **TROI**: That's what triggered my hallucination. My mind must have taken elements from my own life and then created a situation that in many ways mirrored what happened to Pierce. If you hadn't been there, I would have jumped just like he did.
 
@@ -177,7 +177,7 @@ I notice that they didn't include Riker in this conversation, conveniently prese
 
  > **TROI**: Well, you know what they say, Mister Worf. Hell hath no fury like a woman scorned.
 
-From [*The Mourning Bride*](https://en.wikipedia.org/wiki/The_Mourning_Bride) by William Congreve (1697), Act III, Scene 2, we get the *actual* line that "Heav'n has no Rage, like Love to Hatred turn'd, Nor Hell a Fury, like a Woman scorn'd."  The simplification and aberrant use of the word "hath" came from later assumptions that the line came from either Shakespeare or the Bible.
+From {% wiki The_Mourning_Bride|*The Mourning Bride*|en %} by William Congreve (1697), Act III, Scene 2, we get the *actual* line that "Heav'n has no Rage, like Love to Hatred turn'd, Nor Hell a Fury, like a Woman scorn'd."  The simplification and aberrant use of the word "hath" came from later assumptions that the line came from either Shakespeare or the Bible.
 
 Incidentally, you also know the play for another line that you probably think comes from somewhere else, "Musick has Charms to soothe a savage Breast, To soften Rocks, or bend a knotted Oak."
 

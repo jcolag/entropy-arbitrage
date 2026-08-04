@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -73,7 +73,7 @@ Oh, we have a new reason to dismiss local sovereignty, somewhat ironic, given ho
 
 For an example of corruption, an admiral gave Riker full discretion to horn in on an investigation outside Federation jurisdiction.
 
-Oh, and you probably don't recognize Chekote as [Bruce Gray](https://en.wikipedia.org/wiki/Bruce_Gray), but since the character debuted about a week before in **DS9**'s *The Circle*, it seemed worth mentioning him.
+Oh, and you probably don't recognize Chekote as {% wiki Bruce_Gray|Bruce Gray|en %}, but since the character debuted about a week before in **DS9**'s *The Circle*, it seemed worth mentioning him.
 
  > **RIKER**: If you're lucky, you'll only spend the next five years in prison instead of the next twenty. You've got twelve outstanding arrest warrants for fraud and petty theft in the Klingon Empire. Tell me what you know, and I'll pull some strings. Maybe they'll reduce your sentence after you've been extradited.
 
@@ -87,7 +87,7 @@ Now that the rules affect *him*, we have to drop them.  Sorry...
 
  > **GIUSTI**: Commander, we've lost contact with the away team.
 
-Despite her small role, here, you might recognize the ensign as [Sabrina LeBeauf](https://en.wikipedia.org/wiki/Sabrina_LeBeauf), probably really only known for playing Sondra Huxtable on **The Cosby Show**---back in the days when we pretended that we shouldn't avoid talking about Bill Cosby---but also significantly more famous at the time than *anybody* else in the episode.
+Despite her small role, here, you might recognize the ensign as {% wiki Sabrina_LeBeauf|Sabrina LeBeauf|en %}, probably really only known for playing Sondra Huxtable on **The Cosby Show**---back in the days when we pretended that we shouldn't avoid talking about Bill Cosby---but also significantly more famous at the time than *anybody* else in the episode.
 
  > **LAFORGE**: Data, we've been attacked. We've got one casualty and Commander Riker has been taken captive.
 
@@ -99,17 +99,17 @@ Yeah, I know it doesn't stick.
 
  > **BARAN**: What's the problem?
 
-If Baran looks familiar, you might recognize him as [Richard Lynch](https://en.wikipedia.org/wiki/Richard_Lynch), who I feel like probably made an entire career of playing petty villains.
+If Baran looks familiar, you might recognize him as {% wiki Richard_Lynch|Richard Lynch|en %}, who I feel like probably made an entire career of playing petty villains.
 
  > **VEKOR**: This is a waste of time, Baran. Get rid of him now.
 
-And if Vekor looks familiar, you might recognize *her* as [Caitlin Brown](https://en.wikipedia.org/wiki/Julie_Caitlin_Brown), who among other things had a decent run as Na'Toth---which had already started, I believe---on competing **Babylon 5**.
+And if Vekor looks familiar, you might recognize *her* as {% wiki Julie_Caitlin_Brown|Caitlin Brown|en %}, who among other things had a decent run as Na'Toth---which had already started, I believe---on competing **Babylon 5**.
 
  > **PICARD**: They're right, Baran, and you know it. I say kill him. Now.
 
 For a man who obsesses over playing poker, I can't help noticing that Riker has a *terrible* poker face.  His gaping should have gotten them both killed.  Ordinarily, I might not even bring it up since they tried to set the episode-so-far up as some sort of emotional roller coaster, but the fact that Riker put on such a big show of only reporting his name, rank, and serial number, draws so much attention to this lapse of discipline when it would actually count.
 
-Incidentally, the "name, rank, and serial number" tradition actually comes from the duties assigned to prisoners of war by the [Geneva Conventions](https://en.wikipedia.org/wiki/Third_Geneva_Convention#Part_III:_Captivity).  I'd point out that it seems weird that Riker would rely on such protocols when he definitely doesn't qualify as a prisoner of war, here, but he also failed by omitting his date of birth, so we can call it a wash...
+Incidentally, the "name, rank, and serial number" tradition actually comes from the duties assigned to prisoners of war by the {% wiki Third_Geneva_Convention#Part_III:_Captivity|Geneva Conventions|en %}.  I'd point out that it seems weird that Riker would rely on such protocols when he definitely doesn't qualify as a prisoner of war, here, but he also failed by omitting his date of birth, so we can call it a wash...
 
  > **BARAN**: I don't need a consensus to run this ship, Galen.
 
@@ -121,7 +121,7 @@ He probably means Jellico sidelining Riker during [*Chain of Command*]({% post_u
 
  > **TALLERA**: Watch him.
 
-And you probably *should* recognize Tallera---and a future alias next week---as [Robin Curtis](https://en.wikipedia.org/wiki/Robin_Curtis), who played Saavik in [**The Search for Spock**]({% post_url 2022-03-31-tsfs %}).
+And you probably *should* recognize Tallera---and a future alias next week---as {% wiki Robin_Curtis|Robin Curtis|en %}, who played Saavik in [**The Search for Spock**]({% post_url 2022-03-31-tsfs %}).
 
  > **DATA**: These structures were built by the Debrune. That race is an ancient offshoot of the Romulans. The ruins on the planet where Captain Picard was killed were also Romulan in origin.
 

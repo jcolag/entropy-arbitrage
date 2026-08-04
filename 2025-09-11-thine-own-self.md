@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -55,7 +55,7 @@ Notice that, once again, they talk about work as if they constantly feel so stre
 
  > **TROI**: You know, this is a much better way of communicating for you. It's far less confusing than the way you normally speak.
 
-I also envision far fewer sexual harassment lawsuits.  They should've given it a shot.  After all, I remember more than one person at the time pointing out that the trombone stands as Riker's only real interesting trait, especially in an era---in our world, I mean---where the popularity of [Kenny G](https://en.wikipedia.org/wiki/Kenny_G) and similar artists, not to mention [Bill Clinton's notoriety](https://clintonwhitehouse4.archives.gov/WH/Family/html/inauguration1993.html) for his own (admittedly limited) musical skill, abruptly made saxophones the default musical instrument for jazz.
+I also envision far fewer sexual harassment lawsuits.  They should've given it a shot.  After all, I remember more than one person at the time pointing out that the trombone stands as Riker's only real interesting trait, especially in an era---in our world, I mean---where the popularity of {% wiki Kenny_G|Kenny G|en %} and similar artists, not to mention [Bill Clinton's notoriety](https://clintonwhitehouse4.archives.gov/WH/Family/html/inauguration1993.html) for his own (admittedly limited) musical skill, abruptly made saxophones the default musical instrument for jazz.
 
  > **RIKER**: Did you come here for something in particular, or just general Riker-bashing?
 
@@ -79,11 +79,11 @@ I'll also remind everybody, here, that in [*The Loss*]({% post_url 2024-01-11-lo
 
  > **TALUR**: Remarkable set of teeth. Breath smells like, well, it doesn't have any smell, actually. You can close your mouth. Let's see. Heartbeat sounds a little odd, but seems very regular. Skin feels clammy, but you say you feel fine?
 
-You may recognize Talur as [Ronnie Claire Edwards](https://en.wikipedia.org/wiki/Ronnie_Claire_Edwards), probably mostly from her role as Corabeth on **The Waltons**.
+You may recognize Talur as {% wiki Ronnie_Claire_Edwards|Ronnie Claire Edwards|en %}, probably mostly from her role as Corabeth on **The Waltons**.
 
  > **SKORAN**: You, Ice man, where'd you find this?
 
-Less of a big deal than Talur, but you might recognize Skoran as [Mike Hagerty](https://en.wikipedia.org/wiki/Mike_Hagerty), whose career started in improv comedy and passed through many big sitcoms.  We actually saw him as Captain Larg in [*Redemption*]({% post_url 2024-05-02-redemption %}), though I didn't realize then that we'd see him again.
+Less of a big deal than Talur, but you might recognize Skoran as {% wiki Mike_Hagerty|Mike Hagerty|en %}, whose career started in improv comedy and passed through many big sitcoms.  We actually saw him as Captain Larg in [*Redemption*]({% post_url 2024-05-02-redemption %}), though I didn't realize then that we'd see him again.
 
  > **GIA**: She died about a year ago. Father says she went to a beautiful place where everything is peaceful and everyone loves each other, and no one ever gets sick. Do you think there's really a place like that?
  >
@@ -105,7 +105,7 @@ The ratio that we see on the *Enterprise* seems like a low lower-bound of office
 
  > **TALUR**: Rock, fire, sky, and water are the basic elements of the universe. They can be found in every object, every person, every animal, everything. The rock in this wood can be felt by its weight and by its hardness. If we expose the wood to flame, we can encourage the fire within the wood to show itself. We can also see smoke, which is a part of the sky. The water in wood is difficult to see. Sometimes the elements are buried deep within the objects, but the four elements are always there. Yes, Jayden?
 
-It seems worth mentioning the similarity of Talur's scheme to the Western version of the [classical elements](https://en.wikipedia.org/wiki/Classical_element), and the writers might have actually lifted a lot of this line---amending earth to rock and air to sky---from [**The Sceptical Chymist**](https://en.wikipedia.org/wiki/The_Sceptical_Chymist) (1661).  I don't quote it, but Talur will also make a couple of comments that sound inspired by the [four humors](https://en.wikipedia.org/wiki/Humorism), as well.
+It seems worth mentioning the similarity of Talur's scheme to the Western version of the {% wiki Classical_element|classical elements|en %}, and the writers might have actually lifted a lot of this line---amending earth to rock and air to sky---from {% wiki The_Sceptical_Chymist|**The Sceptical Chymist**|en %} (1661).  I don't quote it, but Talur will also make a couple of comments that sound inspired by the {% wiki Humorism|four humors|en %}, as well.
 
 Normally, I wouldn't concern myself with some non-Federation culture's fictional science.  However, it seems worth it for a couple of reasons.
 
@@ -113,7 +113,7 @@ Normally, I wouldn't concern myself with some non-Federation culture's fictional
 - This similarity to some, though not remotely all, Earth cultures *might* give some insight as to what Picard thinks that he means by not interfering in natural development.
 - The swapped-out terms might imply that these people speak English, rather than having their language translated for Data's (and our) benefit.
 
-Also, these outmoded element/humor systems calls to mind the related proto-science [alchemy](https://en.wikipedia.org/wiki/Alchemy), which brings us back to this show's New Age influence.  You might not see that as necessarily following, but consider how, especially in a show like this, this episode could---but didn't, thank you, writers---have precipitously slid into trying to compare the four elements to the four states of matter, or the similarly tiny number of (so-far) elemental particles in the current [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics and passing it off as "returning to ancient wisdom."
+Also, these outmoded element/humor systems calls to mind the related proto-science {% wiki Alchemy|alchemy|en %}, which brings us back to this show's New Age influence.  You might not see that as necessarily following, but consider how, especially in a show like this, this episode could---but didn't, thank you, writers---have precipitously slid into trying to compare the four elements to the four states of matter, or the similarly tiny number of (so-far) elemental particles in the current {% wiki Standard_Model|Standard Model|en %} of particle physics and passing it off as "returning to ancient wisdom."
 
  > **DATA**: I believe you are reasoning by analogy, classifying objects and phenomena according to superficial observation rather than empirical evidence. Wood, for example, does not contain fire simply because it is combustible, nor does it contain rock simply because it is heavy. Wood, like any complex organic form, is composed of thousands of different chemical compounds, none of which is fire.
 
@@ -151,19 +151,19 @@ I asked above how Starfleet could possibly convince thousands of candidates to s
 
  > **DATA**: I believe a stream of particles is emanating from the metallic pendant and hitting the cloth.
 
-It seems worth mentioning that Data has recreated a minimal [spinthariscope](https://en.wikipedia.org/wiki/Spinthariscope), credited to William Crookes in 1903, and common enough that you may have seen or performed exactly this experiment in a chemistry class or even owned a version of the sealed device produced as a toy.  If you care about this sort of thing, this strongly suggests that the metal fragments emit [alpha radiation](https://en.wikipedia.org/wiki/Alpha_particle), particles consisting of two protons and two neutrons[^2].
+It seems worth mentioning that Data has recreated a minimal {% wiki Spinthariscope|spinthariscope|en %}, credited to William Crookes in 1903, and common enough that you may have seen or performed exactly this experiment in a chemistry class or even owned a version of the sealed device produced as a toy.  If you care about this sort of thing, this strongly suggests that the metal fragments emit {% wiki Alpha_particle|alpha radiation|en %}, particles consisting of two protons and two neutrons[^2].
 
 [^2]:  For comparison, beta radiation consists of high-speed electrons (or positrons), which generally does less damage but therefore can penetrate deeper into objects.  Gamma radiation consists of electromagnetic radiation, often the shortest wavelengths/highest energy photons, which can penetrate extremely deep, but has a relatively lower and less reliable chance of doing any damage, with shockingly few documented instances of exposure victims Hulking out.  Oh, and earlier this week, the European Southern Observatory's Very Large Telescope managed to catch a [new kind of gamma ray explosion](https://www.eso.org/public/news/eso2514/), if you'd like real news related to space...
 
 It does call into question that huge, theatrical storage box, though.  Alpha radiation absolutely poses a serious danger, *but* we also use it---emitted by plutonium-238, for the most part---to power space probes, where two and a half millimeters of lead shielding keeps it all safe.  And lesser emitters such as americium-241 and polonium-210, we have in ordinary household devices that we keep safe by...pretty much asking people not to lick the smoke detector's innards.
 
-Yes, they may have used a source of alpha radiation so strong that the mitigation strategy for plutonium wouldn't suffice, but then Data would have needed to worry about dumping a [critical mass](https://en.wikipedia.org/wiki/Critical_mass) of the metal---the point where each alpha particle has a high chance of colliding with an unstable atomic nucleus, causing it to emit more alpha particles---into the same box, which would turn said box into a crude atomic weapon.  And we know that it weighs quite a bit from when the locals tried to lift the box.  For reference, it looks like californium-252 has the lowest critical mass of less than three kilograms, and berkelium-249 tops the chart with a critical mass of almost two hundred kilograms, though the numbers increase if you don't have it packaged into a neat sphere.
+Yes, they may have used a source of alpha radiation so strong that the mitigation strategy for plutonium wouldn't suffice, but then Data would have needed to worry about dumping a {% wiki Critical_mass|critical mass|en %} of the metal---the point where each alpha particle has a high chance of colliding with an unstable atomic nucleus, causing it to emit more alpha particles---into the same box, which would turn said box into a crude atomic weapon.  And we know that it weighs quite a bit from when the locals tried to lift the box.  For reference, it looks like californium-252 has the lowest critical mass of less than three kilograms, and berkelium-249 tops the chart with a critical mass of almost two hundred kilograms, though the numbers increase if you don't have it packaged into a neat sphere.
 
-For completeness, I should also probably mention the [Radium Girls](https://en.wikipedia.org/wiki/Radium_Girls) who painted radium-based luminescent paint onto watches, in facilities where the owners knew that this posed hazards from the alpha radiation, but still instructed the women to bring their paint brushes to a fine point with their mouths anyway, because rags and water would cut slightly into their healthy profits.  And then the companies tried to destroy the reputations of the women when they went public with their radiation poisoning.
+For completeness, I should also probably mention the {% wiki Radium_Girls|Radium Girls|en %} who painted radium-based luminescent paint onto watches, in facilities where the owners knew that this posed hazards from the alpha radiation, but still instructed the women to bring their paint brushes to a fine point with their mouths anyway, because rags and water would cut slightly into their healthy profits.  And then the companies tried to destroy the reputations of the women when they went public with their radiation poisoning.
 
  > **DATA**: Then I will put this compound into the well water. It may be diluted, but it should still have enough potency to work.
 
-Given this episode's interest in early European science, I can't help seeing this as inverting [John Snow](https://en.wikipedia.org/wiki/John_Snow)'s tracking a London cholera outbreak to a public water pump, here using the common water supply as a vector for medication instead of germs.
+Given this episode's interest in early European science, I can't help seeing this as inverting {% wiki John_Snow|John Snow|en %}'s tracking a London cholera outbreak to a public water pump, here using the common water supply as a vector for medication instead of germs.
 
  > **GIA**: There were these pieces of metal. They made everyone sick. But Jayden put something in the water and now everyone's better.
 

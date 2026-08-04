@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate [World Statistics Day](https://en.wikipedia.org/wiki/World_Statistics_Day), which to absolutely nobody's surprise honors statistics.  Possibly more surprising, we only celebrate it every five years, so get ready for some pent-up percentage jokes, I suppose.
+Today, we celebrate {% wiki World_Statistics_Day|World Statistics Day|en %}, which to absolutely nobody's surprise honors statistics.  Possibly more surprising, we only celebrate it every five years, so get ready for some pent-up percentage jokes, I suppose.
 
 ![A poster for World Statistics Day 2015, in Spanish](/blog/assets/WorldStatsDay-Logo-ES-b.png "You all realize that I used this for the horrifying ASCII mascot ⹛%, right...?")
 
-More routine, we have [Nanomonestotse](https://en.wikipedia.org/wiki/Nanomonestotse), a modern Native American celebration of peace starting on the third Monday of October.
+More routine, we have {% wiki Nanomonestotse|Nanomonestotse|en %}, a modern Native American celebration of peace starting on the third Monday of October.
 
 With that, on to the week's projects.
 

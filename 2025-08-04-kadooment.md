@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, Barbados celebrates Kadooment, which marks the end of the [Crop Over](https://en.wikipedia.org/wiki/Crop_Over) harvest festival.  And honestly, long-time readers probably know that August has so few holidays of interest that I probably would have gone with this on the name alone, but it also has the virtue of reminding us that we have started heading towards winter.
+Today, Barbados celebrates Kadooment, which marks the end of the {% wiki Crop_Over|Crop Over|en %} harvest festival.  And honestly, long-time readers probably know that August has so few holidays of interest that I probably would have gone with this on the name alone, but it also has the virtue of reminding us that we have started heading towards winter.
 
 ![A Kadooment parade](/blog/assets/2821350680_dbdbb4a17e_c.png "It sounds festive, but drop the final syllable, and you get a wacky cartoon super-villain")
 
@@ -47,7 +47,7 @@ Oh, one note unrelated to the hardware:  Expect a [tech tips](/blog/tag/tech-tip
 
 I tried to install a couple of new services---[**Beehive**](https://github.com/muesli/beehive) and [**Jupyter Lab**](https://github.com/jupyterlab/jupyterlab/), most prominently---but didn't get anywhere with them.  The former wouldn't serve up a working page for whatever reason, and it looks like the project ran out of steam soon after announcing a big rewrite.  The latter started sending me down a dark road[^1], so I backed away quickly.
 
-[^1]:  Specifically, it felt like a trip deep into Python's inane reproduction of [DLL Hell](https://en.wikipedia.org/wiki/DLL_hell), and I have to say that "nobody should install Python applications using default Python tools, so you should create virtual environments so that every Python script has its own little universe" feels like an admission of complete failure.  I wonder if this change in direction has humbled the Python evangelists any, where they used to swarm out of the woodwork to tell you about no better language existing...
+[^1]:  Specifically, it felt like a trip deep into Python's inane reproduction of {% wiki DLL_hell|DLL Hell|en %}, and I have to say that "nobody should install Python applications using default Python tools, so you should create virtual environments so that every Python script has its own little universe" feels like an admission of complete failure.  I wonder if this change in direction has humbled the Python evangelists any, where they used to swarm out of the woodwork to tell you about no better language existing...
 
 #### Feed Reader
 
@@ -154,7 +154,7 @@ gantt
   Add another diagram to demo page    :48h
 {% endmermaid %}
 
-It worked perfectly on my version of the blog, but as some of you noted---and thanks for catching it, to those I didn't say that to earlier---went wildly wrong when I deployed to the site. Turned out that, all this time, despite the problems that the blog had a few months back with excessive spacing dragging down load-times, it had a [minifier](https://en.wikipedia.org/wiki/Minification_%28programming%29) running, which fouled up the diagram source.
+It worked perfectly on my version of the blog, but as some of you noted---and thanks for catching it, to those I didn't say that to earlier---went wildly wrong when I deployed to the site. Turned out that, all this time, despite the problems that the blog had a few months back with excessive spacing dragging down load-times, it had a {% wiki Minification_%28programming%29|minifier|en %} running, which fouled up the diagram source.
 
 For example, I input the above diagram as something like this.
 

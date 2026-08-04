@@ -23,7 +23,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -55,7 +55,7 @@ By contrast, you'll notice that Worf realizes that he did the worst possible thi
 
  > **PICARD**: Oh, what a tangled web we weave. I have difficulty remembering whose side I'm on. So, what have you been able to find out?
 
-Did this episode accidentally expose Picard as a poser?  I ask, because Picard quotes [*Marmion:  A Tale of Flodden Field*](https://en.wikipedia.org/wiki/Marmion_%28poem%29) by Walter Scott, the line "Oh, what a tangled web we weave,/ When first we practice to deceive."  I find the line telling, because people often misattribute it to Shakespeare, Picard's favorite author, despite the lines having eight syllables (iambic tetrameter) instead of ten (iambic pentameter).
+Did this episode accidentally expose Picard as a poser?  I ask, because Picard quotes {% wiki Marmion_%28poem%29|*Marmion:  A Tale of Flodden Field*|en %} by Walter Scott, the line "Oh, what a tangled web we weave,/ When first we practice to deceive."  I find the line telling, because people often misattribute it to Shakespeare, Picard's favorite author, despite the lines having eight syllables (iambic tetrameter) instead of ten (iambic pentameter).
 
 Might Picard also enjoy Scott?  Sure.  Might the problem lie with writers who didn't bother to source the quote instead of Picard?  Sure.  But we've established in episodes such as [*Where Silence Has Lease*]({% post_url 2022-12-01-silence-lease %}) that the Federation also teaches the myth that people believed in a Flat Earth prior to Christopher Columbus, so it doesn't seem out of the question---especially given that he only ever quotes the most famous (or fastest to find) lines of *anything*---that he assumes that the line comes from one of Shakespeare's less-popular plays that he hasn't read.
 
@@ -73,7 +73,7 @@ Also, as a change from prior episodes treating Picard like some kind of celebrit
 
  > **TALLERA**: Agreed. But extremists often have a logic all their own.
 
-This sounds profound, but by quickly expanding from isolationists to the vague "extremists," it only means that they feel comfortable dismissing anybody offering an idea outside the current [Overton Window](https://en.wikipedia.org/wiki/Overton_window)...
+This sounds profound, but by quickly expanding from isolationists to the vague "extremists," it only means that they feel comfortable dismissing anybody offering an idea outside the current {% wiki Overton_window|Overton Window|en %}...
 
  > **PICARD**: You were much as my people once were. Savage, warlike.
 
@@ -81,7 +81,7 @@ Note the past tense, here, Picard once again asserting that humans previously ha
 
  > **KORAL**: Koral.
 
-You'd need something of a specific set of interests to recognize Koral after all these years of history fading into the distance, but if you do, it might have something to do with NBA star ["Big Game James" Worthy](https://en.wikipedia.org/wiki/James_Worthy), then recently retired from the LA Lakers, playing him.  They don't play it up, but you'll notice when he shows up on the *Enterprise* that he towers over everything, including the doorways.
+You'd need something of a specific set of interests to recognize Koral after all these years of history fading into the distance, but if you do, it might have something to do with NBA star {% wiki James_Worthy|"Big Game James" Worthy|en %}, then recently retired from the LA Lakers, playing him.  They don't play it up, but you'll notice when he shows up on the *Enterprise* that he towers over everything, including the doorways.
 
  > **DATA**: However, if Koral wishes to contest our actions he can file a protest with the Judge Advocate General's office. Bring the shuttle aboard. Then you and Doctor Crusher can begin the inspection.
 
@@ -113,7 +113,7 @@ This also gives us a rough data point for Vulcan history.
 
  > Captain's log, stardate 47169.2. Security Minister Satok has taken Tallera into custody and begun a search for the rest of the isolationists.
 
-Whoa, there.  Two items of apparent relevance, here.  First, Picard calls her by her Romulan alias instead of T'Paan, the Vulcan name that she gave him, which presumably indicated her actual identity, especially now that we've definitely identified her as Vulcan.  I initially only wanted to call that odd, but thinking about it, it makes it sound like he wants to frame this dissident group as the result of [foreign agitators](https://en.wikipedia.org/wiki/Outside_agitator) to dismiss its validity, as in denying her legitimate identity entirely to paint her as a foreigner.
+Whoa, there.  Two items of apparent relevance, here.  First, Picard calls her by her Romulan alias instead of T'Paan, the Vulcan name that she gave him, which presumably indicated her actual identity, especially now that we've definitely identified her as Vulcan.  I initially only wanted to call that odd, but thinking about it, it makes it sound like he wants to frame this dissident group as the result of {% wiki Outside_agitator|foreign agitators|en %} to dismiss its validity, as in denying her legitimate identity entirely to paint her as a foreigner.
 
 As if on cue to help me with this point, in fact, you only need to look back about two weeks to find the Trump administration trying to use the [presence of foreign flags](https://www.theguardian.com/us-news/2025/jun/13/foreign-flags-los-angeles-protests) to smear protests as a covert invasion by foreign governments.  You'll also notice how the political right-wing plays up exotic names when dealing with political opponents, to associate them with some foreign origin, probably most prominently over the last couple of decades, "Barack *Hussein* Obama," as if a couple of syllables mean anything about fitness for service.
 

@@ -15,11 +15,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, an insufficient number of states---Alabama, California, Massachusetts, Michigan, Missouri, Ohio, Oregon, Tennessee, and Texas, plus a city each in Florida, Maryland, and New Jersey---celebrate [Rosa Parks Day](https://en.wikipedia.org/wiki/Rosa_Parks_Day), commemorating the 1955 incident of civil disobedience leading to the [Montgomery bus boycott](https://en.wikipedia.org/wiki/Montgomery_bus_boycott).  As many of you probably already know, many Black people had refused to give up seats to white bus-riders before Parks to little notice, but Parks more closely resembled the "ideal victim" often unfortunately needed for these cases to get wide action, had credibility from investigating the [Recy Taylor](https://en.wikipedia.org/wiki/Recy_Taylor) case a decade earlier---the protest around which arguably launched what we think of as the era's Civil Rights Movement---with the NAACP, and had taken a class in nonviolent civil disobedience.  Way to make everybody else feel like a slacker, Rosa...
+Today, an insufficient number of states---Alabama, California, Massachusetts, Michigan, Missouri, Ohio, Oregon, Tennessee, and Texas, plus a city each in Florida, Maryland, and New Jersey---celebrate {% wiki Rosa_Parks_Day|Rosa Parks Day|en %}, commemorating the 1955 incident of civil disobedience leading to the {% wiki Montgomery_bus_boycott|Montgomery bus boycott|en %}.  As many of you probably already know, many Black people had refused to give up seats to white bus-riders before Parks to little notice, but Parks more closely resembled the "ideal victim" often unfortunately needed for these cases to get wide action, had credibility from investigating the {% wiki Recy_Taylor|Recy Taylor|en %} case a decade earlier---the protest around which arguably launched what we think of as the era's Civil Rights Movement---with the NAACP, and had taken a class in nonviolent civil disobedience.  Way to make everybody else feel like a slacker, Rosa...
 
 ![The bus in question](/blog/assets/Rosa-Parks-Bus.png "And then we have the whole thing of conservatives trying to rewrite this with Parks as too tired to stand up...")
 
-Globally, you might also want to draw your attention to [World AIDS Day](https://en.wikipedia.org/wiki/World_AIDS_Day), raising awareness for the continuing pandemic, along with its [Day without Art](https://en.wikipedia.org/wiki/Day_Without_Art) commemorating the artists lost to HIV/AIDS complications, though it has started to turn into a "Day with Out Art" in some circles, to celebrate the artists still with us.
+Globally, you might also want to draw your attention to {% wiki World_AIDS_Day|World AIDS Day|en %}, raising awareness for the continuing pandemic, along with its {% wiki Day_Without_Art|Day without Art|en %} commemorating the artists lost to HIV/AIDS complications, though it has started to turn into a "Day with Out Art" in some circles, to celebrate the artists still with us.
 
 And on to the week's projects.
 
@@ -109,4 +109,4 @@ If I get through all that, I'll return to Salavi, since a now-functioning game s
 
 * * *
 
-**Credits**:  The header image is the [Rosa Parks Bus](https://commons.wikimedia.org/wiki/File:Rosa_Parks_Bus.jpg) by [Rmhermen](https://en.wikipedia.org/wiki/User_talk:Rmhermen), made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
+**Credits**:  The header image is the [Rosa Parks Bus](https://commons.wikimedia.org/wiki/File:Rosa_Parks_Bus.jpg) by {% wiki User_talk:Rmhermen|Rmhermen|en %}, made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.

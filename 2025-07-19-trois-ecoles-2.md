@@ -90,7 +90,7 @@ The book does have the repository on Codeberg noted above, which has seen a fair
 
 Off in the corner, we get a mention of Sabine passing a Bébé Discount, Sanitub, Doggy Crock, Ravi METAL, and Pharmacie Bréguin, presumably all storefronts.
 
-Singing duo [Monchy & Alexandra](https://en.wikipedia.org/wiki/Monchy_%26_Alexandra) get a mention, too, but they actually exist.  As some middle ground, while people named Madeleine Diakité exist---a quick web search turned up social media profiles---superficial inspection doesn't turn up any prolific authors.
+Singing duo {% wiki Monchy_%26_Alexandra|Monchy & Alexandra|en %} get a mention, too, but they actually exist.  As some middle ground, while people named Madeleine Diakité exist---a quick web search turned up social media profiles---superficial inspection doesn't turn up any prolific authors.
 
 ## Coming Attractions
 

@@ -45,7 +45,7 @@ For this post, I read the comic, but didn't touch any of the augmented/extended 
 
 I should note that I actually only know that these comics exist, because the Trump administration had the comics removed from NASA's website via his [anti-Diversity, Equity, Inclusion, and Accessibility executive order](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/), which imagines that hiring practices that look beyond white men as candidates, or even acknowledging the existence of other people as this does, amount to "illegal and immoral discrimination programs."  From that perspective, I guess that the executive order did something good, drawing attention to some important content.
 
-And yes, technically we already talked about NASA material with the [**Lost Universe**]({% post_url 2024-05-04-lost-universe %}) role-playing adventure, but this has different creators at an entirely different group within the agency, an offshoot of the [Artemis program](https://en.wikipedia.org/wiki/Artemis_program) rather than the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope).
+And yes, technically we already talked about NASA material with the [**Lost Universe**]({% post_url 2024-05-04-lost-universe %}) role-playing adventure, but this has different creators at an entirely different group within the agency, an offshoot of the {% wiki Artemis_program|Artemis program|en %} rather than the {% wiki Hubble_Space_Telescope|Hubble Space Telescope|en %}.
 
 ## What Works Well?
 
@@ -76,11 +76,11 @@ When that aggressing party stops trying to erase projects like this, *I* can sto
 
 ## What's Adaptable?
 
-This issue introduces us to fellow astronauts Meshaya Billy and Martin (no surname), and the Moon Radio Telescope.  The updated two-wheeled robots receive the new name "rim rovers," and the mission in this issue gets named [Artemis](https://en.wikipedia.org/wiki/Artemis_program) 23, implying that the events take place substantially after the planned Artemis X in 2035[^1].  A further-in-the-future Mars mission, ten years out from the events in the first issue, also closes out the issue, though we don't learn much about it.
+This issue introduces us to fellow astronauts Meshaya Billy and Martin (no surname), and the Moon Radio Telescope.  The updated two-wheeled robots receive the new name "rim rovers," and the mission in this issue gets named {% wiki Artemis_program|Artemis|en %} 23, implying that the events take place substantially after the planned Artemis X in 2035[^1].  A further-in-the-future Mars mission, ten years out from the events in the first issue, also closes out the issue, though we don't learn much about it.
 
 [^1]:  Possibly much later, really, considering that NASA's Inspector General called ten missions in ten years [unrealistic](https://www.nasa.gov/wp-content/uploads/2024/04/fy-2025-budget-request-summary-updated.pdf).
 
-The telescope seems to specifically adapt the proposed [Lunar Crater Radio Telescope](https://en.wikipedia.org/wiki/Lunar_Crater_Radio_Telescope) (LCRT).
+The telescope seems to specifically adapt the proposed {% wiki Lunar_Crater_Radio_Telescope|Lunar Crater Radio Telescope|en %} (LCRT).
 
 ## Coming Attractions
 

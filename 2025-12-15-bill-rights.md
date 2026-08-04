@@ -15,11 +15,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-In the United States, for the 150th anniversary (1941) of its signing, President Franklin Delano Roosevelt declared today [Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights) day.  The first batch of amendments to our Constitution, as many of you already well know, represent something of a mixed bag.  On one hand, they codify the idea that everybody in United States territory has the right to a fair trial that can't force them to incriminate themselves (the sixth and fifth), whereas it also has the occasional wedge (the second) slowly used by conservatives over the past century to make people feel less safe by interpreting it increasingly broadly.  On the whole, though, having an explicit list of fundamental laws has probably done us more good than harm, at least until we stopped teaching it to children...
+In the United States, for the 150th anniversary (1941) of its signing, President Franklin Delano Roosevelt declared today {% wiki United_States_Bill_of_Rights|Bill of Rights|en %} day.  The first batch of amendments to our Constitution, as many of you already well know, represent something of a mixed bag.  On one hand, they codify the idea that everybody in United States territory has the right to a fair trial that can't force them to incriminate themselves (the sixth and fifth), whereas it also has the occasional wedge (the second) slowly used by conservatives over the past century to make people feel less safe by interpreting it increasingly broadly.  On the whole, though, having an explicit list of fundamental laws has probably done us more good than harm, at least until we stopped teaching it to children...
 
 ![Most of the first page of the original twelve proposed amendments](/blog/assets/Bill-of-Rights-Pg1of1-AC.png "We still don't have legitimate apportionment, amazingly...")
 
-If you'd like something more global, the Esperanto-forward folks celebrate [Zamenhof Day](https://en.wikipedia.org/wiki/Zamenhof_Day), this year celebrating the 166<sup>th</sup> birthday of the language's creator.  Arguably, it also celebrates the "prototype" of Esperanto, which he presented to his friends at his nineteenth birthday party.
+If you'd like something more global, the Esperanto-forward folks celebrate {% wiki Zamenhof_Day|Zamenhof Day|en %}, this year celebrating the 166<sup>th</sup> birthday of the language's creator.  Arguably, it also celebrates the "prototype" of Esperanto, which he presented to his friends at his nineteenth birthday party.
 
 And on to the week's projects.
 

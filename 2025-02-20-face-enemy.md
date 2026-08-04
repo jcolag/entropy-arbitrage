@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -38,7 +38,7 @@ Catching you up more broadly in the franchise, this episode comes shortly after 
 
  > **TORETH**: I have been ordered to take on cargo, but its contents are unknown to me. Does that seem wise? I am responsible for the safety of this ship and its crew. How do I know this cargo is safe to transport?
 
-You might recognize Toreth as the prolific [Carolyn Seymour](https://en.wikipedia.org/wiki/Carolyn_Seymour), who we've seen in smaller roles in [*Contagion*]({% post_url 2023-02-02-contagion %}) and [*First Contact*]({% post_url 2024-02-15-first-contact %}), and will show up a couple of times on **Voyager**.  These days, you'll more likely hear her voice in video games.
+You might recognize Toreth as the prolific {% wiki Carolyn_Seymour|Carolyn Seymour|en %}, who we've seen in smaller roles in [*Contagion*]({% post_url 2023-02-02-contagion %}) and [*First Contact*]({% post_url 2024-02-15-first-contact %}), and will show up a couple of times on **Voyager**.  These days, you'll more likely hear her voice in video games.
 
 You might *also* recognize that, despite the insistence on the inhumanity of the Romulans, Toreth cares about her crew.  And later, she'll "deplore the loss" of eighteen civilians, a sentiment that I don't think that we've ever heard Picard or Riker express, unless each one counted as a Federation citizen and the plot used them to motivate the crew's violence towards the enemy of the week.
 

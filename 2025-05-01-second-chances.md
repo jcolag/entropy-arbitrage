@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,9 +43,9 @@ It seems like she did that to publicly embarrass her friend and colleague.
 
  > **DATA**: The transporters are considerably more efficient than those used on the *Potemkin* eight years ago.
 
-The *Potemkin* has gotten a few mentions in the franchise, most recently in [*Ethics*]({% post_url 2024-08-29-ethics %}), and it presumably takes its name from the [Russian battleship](https://en.wikipedia.org/wiki/Russian_battleship_Potemkin), made famous to Western audiences in the famous [silent film](https://en.wikipedia.org/wiki/Battleship_Potemkin) dramatizing the 1905 mutiny now considered an early step in or precursor to the 1917 Russian Revolution.
+The *Potemkin* has gotten a few mentions in the franchise, most recently in [*Ethics*]({% post_url 2024-08-29-ethics %}), and it presumably takes its name from the {% wiki Russian_battleship_Potemkin|Russian battleship|en %}, made famous to Western audiences in the famous {% wiki Battleship_Potemkin|silent film|en %} dramatizing the 1905 mutiny now considered an early step in or precursor to the 1917 Russian Revolution.
 
-However, I might suggest that maybe *Star Trek* uses the reference to the [Potemkin Village](https://en.wikipedia.org/wiki/Potemkin_village) scheme, and more broadly about people feeling replaced.  I say this, because they've dropped the name in [*The Ultimate Computer*]({% post_url 2021-01-21-ultimate %}) where they tried to empty out ships of the crew to replace them with AI, [*Turnabout Intruder*]({% post_url 2021-07-29-turnabout %}) where Janice Lester tried to replace Captain Kirk, [*Legacy*]({% post_url 2023-12-14-legacy %}) where we met Tasha Yar's sister...and two others that don't really support my theory, then this one giving us a duplicate Riker.
+However, I might suggest that maybe *Star Trek* uses the reference to the {% wiki Potemkin_village|Potemkin Village|en %} scheme, and more broadly about people feeling replaced.  I say this, because they've dropped the name in [*The Ultimate Computer*]({% post_url 2021-01-21-ultimate %}) where they tried to empty out ships of the crew to replace them with AI, [*Turnabout Intruder*]({% post_url 2021-07-29-turnabout %}) where Janice Lester tried to replace Captain Kirk, [*Legacy*]({% post_url 2023-12-14-legacy %}) where we met Tasha Yar's sister...and two others that don't really support my theory, then this one giving us a duplicate Riker.
 
  > **RIKER 2**: That's not possible. I'm Will Riker.
 
@@ -53,7 +53,7 @@ Ugh.  Do you have to spray for Riker infestations, or can you leave out a few tr
 
  > **PALMER**: Phase distortion is dropping. The second transport window opens in forty-two seconds.
 
-If you don't recognize Palmer, go fix that now, because real-life first African-American woman in space---and medical doctor, too, and an occasional choreographer, because why not?---[Mae Jemison](https://en.wikipedia.org/wiki/Mae_Jemison) plays her.
+If you don't recognize Palmer, go fix that now, because real-life first African-American woman in space---and medical doctor, too, and an occasional choreographer, because why not?---{% wiki Mae_Jemison|Mae Jemison|en %} plays her.
 
  > **WORF**: We are losing time. Lieutenant Riker should be here.
 
@@ -93,7 +93,7 @@ He practices facial expressions in the mirror?  This episode tells us far more a
 
  > **RIKER 2**: Captain Picard made has some inquiries. He managed to get me a posting on the *Gandhi*. And considering how long I've been out of commission, it's an amazing opportunity.
 
-I probably don't need to tell you about [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi), but in case I did, you now have that information.
+I probably don't need to tell you about {% wiki Mahatma_Gandhi|Mahatma Gandhi|en %}, but in case I did, you now have that information.
 
  > **RIKER 2**: Deanna. After I've served for six months, I'm eligible to bring family aboard. If we got married---
 
