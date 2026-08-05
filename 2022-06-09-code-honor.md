@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,7 +39,7 @@ First, they dressed this story up as treaty negotiations, but you'll note the st
 
 Second, Starfleet instructed Picard to do this, not the crew of the *Enterprise* at large, suggesting that either Picard has some special relationship with his superiors, or Starfleet now puts more direct responsibility on captains.  Actually, there's a third possibility, that Picard sees himself as the only person of note in the crew.
 
-Then, the only references that I can find to "Ligon" include an English surname and small American towns in the South named for people with the surname.  It seems improbable, given that his career wouldn't really take off for another couple of years, and he lives in New York, but I could feel *slightly* better about the episode, if the writers meant the name as a reference to artist [Glenn Ligon](https://en.wikipedia.org/wiki/Glenn_Ligon), which has often confronted issues of the intersection of race and sexuality, and that at least has *echoes* in this episode.
+Then, the only references that I can find to "Ligon" include an English surname and small American towns in the South named for people with the surname.  It seems improbable, given that his career wouldn't really take off for another couple of years, and he lives in New York, but I could feel *slightly* better about the episode, if the writers meant the name as a reference to artist {% wiki Glenn_Ligon|Glenn Ligon|en %}, which has often confronted issues of the intersection of race and sexuality, and that at least has *echoes* in this episode.
 
 Styris, similarly, appears as an uncommon surname, plus a few recent brand names.
 
@@ -51,7 +51,7 @@ We'll see this sort of nonsense throughout the series, unfortunately, and it con
 
 This still periodically infects the franchise, unfortunately, as many of you might have noticed that **Strange New Worlds** ended its first episode, a few weeks ago, by having Christopher Pike strongly imply that the Eugenics Wars (no longer taking place in the 1990s) and World War III spun out of the United States government's disinterest in sharing power with fascist insurrectionists who lie about having the election stolen from them.
 
-Granted, this incarnation of Pike---if I remember correctly---became defensive about having religious faith, when nobody had a problem with him.  Maybe they mean him to fill a right-wing role, and this is the future equivalent of [Lost Cause](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy) narratives that ignores what we learned about 2024 and wet blanket fascist Adam Soong in **Picard**.
+Granted, this incarnation of Pike---if I remember correctly---became defensive about having religious faith, when nobody had a problem with him.  Maybe they mean him to fill a right-wing role, and this is the future equivalent of {% wiki Lost_Cause_of_the_Confederacy|Lost Cause|en %} narratives that ignores what we learned about 2024 and wet blanket fascist Adam Soong in **Picard**.
 
 (Apparently, in an interview that I won't bother to read, the episode writer says that his intent was to blame future disasters on *all* violence, which...yes, that summarizes the right-wing position, that an insurrection to overthrow a democratic election completely equates to opposing police violence.  "All lives matter," and stop reminding us how we treat the non-white lives, right?)
 
@@ -63,7 +63,7 @@ This line amuses me, considering that Picard has given no indication that he pla
  >
  > **DATA**: Thirteenth Century, sir.
 
-Despite the ceremonial nature of the gift, they seem nonchalant about a millennium-old artifact.  That seems especially striking, given that the thirteenth century means the tail end of the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty), which fell to Kublai Khan, after inventing banknotes, gunpowder, compasses, canal locks, strong adoption of a universal postal service, and much more, with an economy that makes contemporary Europe look disappointing.
+Despite the ceremonial nature of the gift, they seem nonchalant about a millennium-old artifact.  That seems especially striking, given that the thirteenth century means the tail end of the {% wiki Song_dynasty|Song Dynasty|en %}, which fell to Kublai Khan, after inventing banknotes, gunpowder, compasses, canal locks, strong adoption of a universal postal service, and much more, with an economy that makes contemporary Europe look disappointing.
 
 It feels like a *symbolic* gift, in that the Song Dynasty pointed to a global future, *but* Picard treats it more like an expensive vase that they picked up at a mall on the way over, than a token that represents some of the most important parts of Earth's history.
 
@@ -75,7 +75,7 @@ Oh, and if I had to guess, I'd suggest that Data may have gotten this wrong, bec
  >
  > **TROI**: Much the same has happened in human history too.
 
-The closest examples that I can find are the Indonesian [Minangkabau](https://en.wikipedia.org/wiki/Minangkabau_culture) and Costa Rican [Bribri](https://en.wikipedia.org/wiki/Bribri_people).  Both cultures have women inherit property, while men have political positions, among other jobs, as fairly contrived parallels to [complementarianism](https://en.wikipedia.org/wiki/Complementarianism).
+The closest examples that I can find are the Indonesian {% wiki Minangkabau_culture|Minangkabau|en %} and Costa Rican {% wiki Bribri_people|Bribri|en %}.  Both cultures have women inherit property, while men have political positions, among other jobs, as fairly contrived parallels to {% wiki Complementarianism|complementarianism|en %}.
 
 That said, it seems odd for Troi to point this out, given that the show has not exactly portrayed her as a history buff, interested in Earth, or even vaguely academic...and to my recollection, will never do so in the series.  Yet she delivers the line as if she finds the premise too trite to continue the conversation, as if it represents a norm so common that it would bore the audience.
 
@@ -111,7 +111,7 @@ Also, I really don't understand---other than that the writers favor the characte
  >
  > **DATA**: Indeed? But surely, sir...
 
-First off, it seems laughable that anyone in Starfleet needs to reference the [counting coup](https://en.wikipedia.org/wiki/Counting_coup) instance of the idea, given that "I have defeated my opponent and refuse to kill them" appears more than occasionally in this genre and franchise.
+First off, it seems laughable that anyone in Starfleet needs to reference the {% wiki Counting_coup|counting coup|en %} instance of the idea, given that "I have defeated my opponent and refuse to kill them" appears more than occasionally in this genre and franchise.
 
 Then, we also reinforce the idea that the Federation speaks English, with French essentially a dead language, almost forgotten.  Though some nationalists like Picard still exist, living for the opportunity to defend "his culture."
 
@@ -131,7 +131,7 @@ This episode has serious problems, of course, but I appreciate the Lutan just le
 
  > **PICARD**: You speak of a code of honor, but what you are saying now, according to our customs, is called an act of war.
 
-To my knowledge, this does not fit anybody's definition of a [*casus belli*](https://en.wikipedia.org/wiki/Casus_belli).  I *think* that means that Picard just threatened to level a sovereign civilization to alleviate his anger.  Or maybe he plans to mount an invasion, to get the vaccine.
+To my knowledge, this does not fit anybody's definition of a {% wiki Casus_belli|*casus belli*|en %}.  I *think* that means that Picard just threatened to level a sovereign civilization to alleviate his anger.  Or maybe he plans to mount an invasion, to get the vaccine.
 
  > **TROI**: But it was a thrill. Lutan is such, such a basic male image and having him say he wants you...
  >
@@ -189,7 +189,7 @@ I've lost count of the number of times that someone---our protagonists, mind you
  >
  > **TROI**: You're the Captain, sir. You're entitled.
 
-At this point, I have to just ask what has nagged at me for the last four weeks:  Do the writers think of Picard as a good person?  So far, I have assumed so.  But his line, here---lecturing his crew about how primitive he finds the Ligonian concerns about social status *while he keeps threatening to invade a sovereign territory to soothe his bruised ego*---makes me wonder if they mean him as a modernized [Archie Bunker](https://en.wikipedia.org/wiki/Archie_Bunker)...or [Alf Garnett](https://en.wikipedia.org/wiki/Alf_Garnett), I guess, if you come from someplace that had {% sfx ahem %} a more direct relationship with the United Kingdom.
+At this point, I have to just ask what has nagged at me for the last four weeks:  Do the writers think of Picard as a good person?  So far, I have assumed so.  But his line, here---lecturing his crew about how primitive he finds the Ligonian concerns about social status *while he keeps threatening to invade a sovereign territory to soothe his bruised ego*---makes me wonder if they mean him as a modernized {% wiki Archie_Bunker|Archie Bunker|en %}...or {% wiki Alf_Garnett|Alf Garnett|en %}, I guess, if you come from someplace that had {% sfx ahem %} a more direct relationship with the United Kingdom.
 
 I mean, honestly, could the writers have *accidentally* created a character so consistently lacking in self-awareness?
 

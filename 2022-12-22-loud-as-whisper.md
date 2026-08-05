@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,11 +34,11 @@ I'll get into the relative significance of this episode later, so let's just jum
 
  > Captain's log, Stardate 42477.2. The *Enterprise* has been diverted to the Ramatis star system. It seems that both sides of a bitter planetary conflict have petitioned Starfleet to transport to their world a mediator they have mutually selected. Our orders are transportation only, no interference.
 
-I've mentioned before that this show often seems to have some odd New Age influences.  Sometimes, it shows up prominently, like characters debating whether they should trust legends or observable facts more.  Other times, we get this, a star named for [Ramatis](https://pt.wikipedia.org/wiki/Ramatis)---I couldn't find an English reference---an alleged spirit-guide who aided author Hercílio Maes in writing books such as **A Vida no Planeta Marte e os Discos Voadores** or **Life on Planet Mars and the Flying Saucers**, and with other writers also attributing their works to the involvement of Ramatis, you'll even see the occasional mention of small cults in his name.
+I've mentioned before that this show often seems to have some odd New Age influences.  Sometimes, it shows up prominently, like characters debating whether they should trust legends or observable facts more.  Other times, we get this, a star named for {% wiki Ramatis|Ramatis|pt %}---I couldn't find an English reference---an alleged spirit-guide who aided author Hercílio Maes in writing books such as **A Vida no Planeta Marte e os Discos Voadores** or **Life on Planet Mars and the Flying Saucers**, and with other writers also attributing their works to the involvement of Ramatis, you'll even see the occasional mention of small cults in his name.
 
  > **PICARD**: Come. Ah, Number One. Look at this. Ever since we left the Lima Sierra system, I have been puzzling over how the third planet could maintain such an orbit, when it is theoretically impossible. But consider this.
 
-They could name their stars anything, and they looked to two arbitrarily chosen letters from the [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet).  Somebody's initials, maybe?
+They could name their stars anything, and they looked to two arbitrarily chosen letters from the {% wiki NATO_phonetic_alphabet|NATO phonetic alphabet|en %}.  Somebody's initials, maybe?
 
  > **PICARD**: Oh well, time to leave.
 
@@ -70,7 +70,7 @@ Also, what does this have to do with Worf feeling uneasy?  I've lived through th
 
  > **TROI**: Riva.
 
-You probably do *not* recognize Riva, but deaf actor [Howie Seago](https://en.wikipedia.org/wiki/Howie_Seago) plays him, and apparently not only pitched the story to the producers, but vigorously vetoed the idea of Riva learning to speak during the episode, due to the often-traumatic practice of insisting that deaf children learn to speak.  This episode treats its topic with a bit more care than other episodes might, then, because---shock of shock---they actually involved someone who lives with their issue, instead of treating it abstractly.
+You probably do *not* recognize Riva, but deaf actor {% wiki Howie_Seago|Howie Seago|en %} plays him, and apparently not only pitched the story to the producers, but vigorously vetoed the idea of Riva learning to speak during the episode, due to the often-traumatic practice of insisting that deaf children learn to speak.  This episode treats its topic with a bit more care than other episodes might, then, because---shock of shock---they actually involved someone who lives with their issue, instead of treating it abstractly.
 
 I mean, I won't call the episode "good," but I appreciate the sincere turn.
 
@@ -98,7 +98,7 @@ He *says* that he didn't intend to insult, but bear in mind that Picard has prev
 
 I can't find any prior reference to "Fendaus."
 
-Also, though, did this episode just present the thesis that inbred royal families benefit society?  Or that the [Hanovers](https://en.wikipedia.org/wiki/House_of_Hanover)---apparently died out, since he talks about them in the past tense---had some massive and wondrous impact on the galaxy?
+Also, though, did this episode just present the thesis that inbred royal families benefit society?  Or that the {% wiki House_of_Hanover|Hanovers|en %}---apparently died out, since he talks about them in the past tense---had some massive and wondrous impact on the galaxy?
 
 Sure, technically, we don't need to care what Riva says, but I would ordinarily expect at least *some* push-back on comments like this, if people didn't agree.
 

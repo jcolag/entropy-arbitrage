@@ -34,7 +34,7 @@ then
 fi
 ```
 
-We start with the initialization, with nothing particularly innovative.  If you want to use something like this, replace `$zmachine` with whatever interpreter/emulator that you happen to use.  I named the variable after the [Z-machine](https://en.wikipedia.org/wiki/Z-machine), which I associate with Inform, even though the ecosystem no longer uses it as a default target.
+We start with the initialization, with nothing particularly innovative.  If you want to use something like this, replace `$zmachine` with whatever interpreter/emulator that you happen to use.  I named the variable after the {% wiki Z-machine|Z-machine|en %}, which I associate with Inform, even though the ecosystem no longer uses it as a default target.
 
 The last piece includes a "trick" that I've always used, but probably still worth pointing out:  The `$#` variable contains the number of command-line argument.  To make sure that we always have a target folder, then, I set the current folder as a default, then assign the first argument if supplied; `-gt` stands for "greater than."  I can call the script with `inform.sh` or `inform.sh path/to/game`, and it'll do the right thing, as long as the structure mimics what the Inform IDE creates.
 

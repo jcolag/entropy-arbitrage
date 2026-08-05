@@ -31,7 +31,7 @@ End of sales pitch, at least until I have my next excuse...
 
 ## Editing Blues
 
-For years, I have heard cries for Twitter to allow users to edit posts.  A couple of years ago [Twitter Blue](https://en.wikipedia.org/wiki/Twitter_Blue) at least tested a paid and brief window for editing, then became [more serious about doing so globally](https://theconversation.com/why-an-edit-button-for-twitter-is-not-as-simple-as-it-seems-181623), which I knew would only increase the frequency of requests.  And now, it looks like they plan to roll it out across the site.
+For years, I have heard cries for Twitter to allow users to edit posts.  A couple of years ago {% wiki Twitter_Blue|Twitter Blue|en %} at least tested a paid and brief window for editing, then became [more serious about doing so globally](https://theconversation.com/why-an-edit-button-for-twitter-is-not-as-simple-as-it-seems-181623), which I knew would only increase the frequency of requests.  And now, it looks like they plan to roll it out across the site.
 
 And every time I see someone talk about the idea, I have to wonder...do people---even people at Twtitter---understand what Twitter *does*?
 
@@ -46,11 +46,11 @@ We should start this discussion with how a website with so many pointless limita
  * Brands and politicians go to Twitter.  Everybody with some authority goes to Twitter, in fact, or at least their publicists do.  You can find companies, politicians, celebrities, religious leaders, unions, military leaders, and pretty much anybody else to whom you might want to air a complaint.
  * Anyone can embed a tweet on a webpage or show it in a video without much trouble, certain that it will either always say what it did when they originally saw it, or at worst might vanish for the user thinking better of it or violating Twitter's terms of service.
 
-That covers it.  Twitter only has any importance, because it works well for media.  Because it works well for media, it works well for authorities, by giving them opportunities for publicity.  And because it works for authorities, it works for the rest of us, by giving us access to authorities.  It has become the social media analogy of a [newspaper of record](https://en.wikipedia.org/wiki/Newspaper_of_record).  You can think of Twitter as a gathering place with large and broadly accessible community, whose citations have some authority.
+That covers it.  Twitter only has any importance, because it works well for media.  Because it works well for media, it works well for authorities, by giving them opportunities for publicity.  And because it works for authorities, it works for the rest of us, by giving us access to authorities.  It has become the social media analogy of a {% wiki Newspaper_of_record|newspaper of record|en %}.  You can think of Twitter as a gathering place with large and broadly accessible community, whose citations have some authority.
 
 Understanding the site that way, we can see that "Twitter, but you can edit typos," results in a system that quickly falls into irrelevance, because politicians, agencies, and brands can see a bad reaction to a tone-deaf tweet and change it to something that has no controversial aspect.  
 
-Other groups have *created* uses for Twitter---such as "Twitter conversations," where a community posts at a scheduled time with a specific hashtag, and everybody involved watches that hashtag, turning Twitter into a chat application---but communities can transplant those to nearly any comparable website without too much trouble.  Twitter's value comes from its permanence, not [Black Twitter](https://en.wikipedia.org/wiki/Black_Twitter), which could become "Black [Pump.io]({% post_url 2020-03-07-pumpio %})" overnight, or pick any site that shows live search results.
+Other groups have *created* uses for Twitter---such as "Twitter conversations," where a community posts at a scheduled time with a specific hashtag, and everybody involved watches that hashtag, turning Twitter into a chat application---but communities can transplant those to nearly any comparable website without too much trouble.  Twitter's value comes from its permanence, not {% wiki Black_Twitter|Black Twitter|en %}, which could become "Black [Pump.io]({% post_url 2020-03-07-pumpio %})" overnight, or pick any site that shows live search results.
 
 ## Why Edit?  The Intended Model
 
@@ -74,7 +74,7 @@ In reaction to this criticism, our imagined Senator *might* consider that he mad
 
 ...And *then* he runs away to Cancún, hoping that no pesky independent journalists try to find out what happened to the puppies after the photo shoot.  **Allegedly**.
 
-Or consider the opposite situation.  A hypothetical provocateur CEO posts [a highly popular tweet](https://en.wikipedia.org/wiki/List_of_most-liked_tweets) that receives a massive amount of "positive engagement," likes and retweets.  Then, after the initial excitement about the comment or joke has died down, the imagined provocateur edits his tweet to [threaten employees considering forming a union](https://apps.nlrb.gov/link/document.aspx/09031d45833d3fce) by depriving them of stock options in the company.
+Or consider the opposite situation.  A hypothetical provocateur CEO posts {% wiki List_of_most-liked_tweets|a highly popular tweet|en %} that receives a massive amount of "positive engagement," likes and retweets.  Then, after the initial excitement about the comment or joke has died down, the imagined provocateur edits his tweet to [threaten employees considering forming a union](https://apps.nlrb.gov/link/document.aspx/09031d45833d3fce) by depriving them of stock options in the company.
 
 He then goes on a press tour, using the performance of this tweet to "illustrate" a wild hatred for organized labor that doesn't actually exist.
 

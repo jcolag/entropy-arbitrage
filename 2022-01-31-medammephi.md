@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Among the [Ahom](https://en.wikipedia.org/wiki/Ahom_people), today is [Me-Dam-Me-Phi](https://en.wikipedia.org/wiki/Me-Dam-Me-Phi).  Like many winter holidays, it's easy to spot two roles, here.  On the surface, the holiday is literally about gifting to the family ancestors and sacrificing to the gods.  However, the deeper reality is that it brings the community together to create bonds between generations and promote a feeling of brotherhood.  It's obviously not widespread, but I think that we can all recognize something like Me-Dam-Me-Phi.
+Among the {% wiki Ahom_people|Ahom|en %}, today is {% wiki Me-Dam-Me-Phi|Me-Dam-Me-Phi|en %}.  Like many winter holidays, it's easy to spot two roles, here.  On the surface, the holiday is literally about gifting to the family ancestors and sacrificing to the gods.  However, the deeper reality is that it brings the community together to create bonds between generations and promote a feeling of brotherhood.  It's obviously not widespread, but I think that we can all recognize something like Me-Dam-Me-Phi.
 
 ![A Me-Dam-Me-Phi service](/blog/assets/Mae-Dam-Mae-Phi.png "I know that it's unlikely, but I'm weirdly paranoid that the signs are either ethnic slurs and/or brand names...")
 
@@ -36,7 +36,7 @@ On the administrative side, the cache now gets deleted when rebuilding the blog,
 
 I have improved the representation of sunrise and sunset on the dashboard---including adding dawn/dusk times to the sunrise/sunset times, to have a better sense of natural light---formatting the times in the date information, and adding "transitional" coloration for the sunrise and sunset hours.
 
-Maybe more interesting to some people, as heavy snows hammered my area---if you're reading this, then I *probably* survived with power and Internet intact, thanks---I started looking at the bits of data that I wasn't using in the National Weather Service data.  One hourly field that I didn't bother to examine previously is the [quantitative precipitation forecast (QPF)](https://en.wikipedia.org/wiki/Quantitative_precipitation_forecast) number, a forecast of the depth of the precipitation *if* it melted.
+Maybe more interesting to some people, as heavy snows hammered my area---if you're reading this, then I *probably* survived with power and Internet intact, thanks---I started looking at the bits of data that I wasn't using in the National Weather Service data.  One hourly field that I didn't bother to examine previously is the {% wiki Quantitative_precipitation_forecast|quantitative precipitation forecast (QPF)|en %} number, a forecast of the depth of the precipitation *if* it melted.
 
 The QPF doesn't directly give a snowfall total---the difference between snow depth and rain depth varies with how wet and densely packed the snow is---but it *does* give a good idea of how hard it's going to be to shovel.  It also provides an upper and lower bound to the depth, generally somewhere between five and fifteen times the QPF depth.
 

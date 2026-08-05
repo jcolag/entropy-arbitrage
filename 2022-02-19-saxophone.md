@@ -63,7 +63,7 @@ While not precisely part of the series, if you poke around on YouTube, you can f
 
 While this is probably just a matter of taste in the spirit of surrealism, the fact that the objects-for-heads idea is inconsistent seems like a missed opportunity.  That is, the cigarette-head representing a smoker makes sense, and watching him light up is funny.  But given that he needs to be put out, it seems awkward that nobody else's head is relevant to their lives.  There are some obvious metaphors in use, but it seems like it's meant to be deeper...but only sometimes.
 
-Unfortunately, Tommy turns out to be something like the [Magical Negro](https://en.wikipedia.org/wiki/Magical_Negro) stereotype.
+Unfortunately, Tommy turns out to be something like the {% wiki Magical_Negro|Magical Negro|en %} stereotype.
 
 I feel like I'm going back and forth on this point in my head, but my instinct is that piling stereotypes of jerks onto Andrew is probably less than ideal.  Not only does it subject the audience to sexism and racism in the name of "irony," but it also means that the inevitable---though hypothetical, since the show didn't get funded---episode that humanizes him would implicitly validate this behavior.  Similarly, in a lot of cases, his obnoxious personality is used as a criticism of Leora.
 
@@ -75,7 +75,7 @@ It's not all bad news, though.  Some [project sources](https://web.archive.org/w
 
 ## What's Adaptable?
 
-Unlike many of the works that we've covered, where there's either a conspicuous lack of specifics or a use of real world entities, **Your Face Is a Saxophone** is awash with fictional companies.  We have at least Buzzword Marketing itself, the *Your Face Is a Saxophone* ad campaign, [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu)'s Homestyle Fried Calamari, Pepsi Nano (though Pepsi isn't usable), social network Sqwoogy, porn site Naked Stars 4U, Marley's Anti-Establishment Bar & Grill, Hipster Chad's Ironic Vegan "Cuisine"---the sarcasm-quotes are an especially nice touch, there---and Left&ouml;ver Crack, presumably a heavy metal band licensing their name to the pinball game.
+Unlike many of the works that we've covered, where there's either a conspicuous lack of specifics or a use of real world entities, **Your Face Is a Saxophone** is awash with fictional companies.  We have at least Buzzword Marketing itself, the *Your Face Is a Saxophone* ad campaign, {% wiki Cthulhu|Cthulhu|en %}'s Homestyle Fried Calamari, Pepsi Nano (though Pepsi isn't usable), social network Sqwoogy, porn site Naked Stars 4U, Marley's Anti-Establishment Bar & Grill, Hipster Chad's Ironic Vegan "Cuisine"---the sarcasm-quotes are an especially nice touch, there---and Left&ouml;ver Crack, presumably a heavy metal band licensing their name to the pinball game.
 
 If doing anything with the video, however---especially if you can track down more of the sources mentioned above---be sure to double-check background elements, since there are a couple of items on display that were released under incompatible license terms.
 

@@ -55,7 +55,7 @@ That shows the central problem with asking for "a better word than *stupid*."  T
 
 While the core problem revolves around re-traumatizing people, like many pervasive social issues, the solution doesn't always need to focus directly on the disadvantaged group, because the right thing often overlaps with the most *useful* thing, too.  Transitioning to renewable energy kneecaps a part of the global economy that has nothing better to do than prop up autocrats, but it *also* cuts pollution, a problem that can grow so global and so intimately local that we can put faces on it.  Documenting and reviewing hiring processes for bias maximizes the chances of getting the best talent, but doing so *also* undoes some effects of historical discrimination.  Social safety nets prevent small emergency from turning into national or global disasters, and they keep the labor force in a capable state, but they *also* make life easier for individuals facing personal crises or some other incapacity.
 
-I often use this sort of quasi-neo-liberal thinking to interpret [Theodore Parker](https://en.wikipedia.org/wiki/Theodore_Parker)'s famous words.
+I often use this sort of quasi-neo-liberal thinking to interpret {% wiki Theodore_Parker|Theodore Parker|en %}'s famous words.
 
  > I do not pretend to understand the moral universe, the arc is a long one...I cannot calculate the curve and complete the figure by the experience of sight; I can divine it by conscience. But from what I see I am sure it bends towards justice.
 
@@ -77,7 +77,7 @@ We also shouldn't call it "crazy."  We should expect laws like this, as terrifie
 
 We could try other vague possibilities, but you might notice that some terms seem to pop up regularly, even in this short discussion:  We see words like or synonyms of harmful, hateful, and fear-mongering.  If you style yourself a Freedom of Speech buff, you might add terms like "chilling"---as in "chilling the speech of children"---or authoritarian.
 
-All of those terms make far better choices, in this case.  But they still look like *bad* choices, if the impulse goes on to call so-called [enhanced interrogation](https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques) "stupid," and try to apply exactly the same logic.  There, we need to talk more in terms of seeing it as an ignorant policy---everyone should understand that torture doesn't work at all---and sadistic.
+All of those terms make far better choices, in this case.  But they still look like *bad* choices, if the impulse goes on to call so-called {% wiki Enhanced_interrogation_techniques|enhanced interrogation|en %} "stupid," and try to apply exactly the same logic.  There, we need to talk more in terms of seeing it as an ignorant policy---everyone should understand that torture doesn't work at all---and sadistic.
 
 ## What about Actual Insults...?
 
@@ -99,11 +99,11 @@ I can tell you that I *am* happy.  I could say that I *am* writing this post.  M
 
 Each of those uses of the same verb has a different kind of problem.  In no particular order, you might notice a logical fault, vagueness, a technical factual error, and unnecessary verbosity.  The problems don't have equal severities, and none will get you exiled from polite societies, but they do expose problems, regardless.  And if we want writing to convey information or emotion, we probably want to do that with as few problems as we can manage.
 
-As hinted, I didn't figure this out first, by any means.  This idea already existed in the 1930s, and today, communities exist that attempt to minimize the use of forms of the verb "to be," using what they often call [English-Prime](https://en.wikipedia.org/wiki/E-Prime) (É).
+As hinted, I didn't figure this out first, by any means.  This idea already existed in the 1930s, and today, communities exist that attempt to minimize the use of forms of the verb "to be," using what they often call {% wiki E-Prime|English-Prime|en %} (É).
 
 Of particular note, we find a similar premise to the "specificity" argument, above.  Because "is" can refer to many things---identity, existence, position, inclusion, description, passiveness, and so forth---the word often feels meaningless, much like our exclusionary language.
 
-In reality, I want to say that I *feel* happy, because that carries more weight than implicitly describing me as happy.  I *haven't finished* writing this post, because the passive voice disperses any sense of responsibility for the work.  The sky *looks* blue, due to [Reyleigh scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering); other blue things have a blue tint or filter out non-blue light.  And while not as pithy, "men represent a subset of mortals.  Socrates acts as a representative of men.  Therefore, we can't accidentally invert any of the relationships without noticing."
+In reality, I want to say that I *feel* happy, because that carries more weight than implicitly describing me as happy.  I *haven't finished* writing this post, because the passive voice disperses any sense of responsibility for the work.  The sky *looks* blue, due to {% wiki Rayleigh_scattering|Reyleigh scattering|en %}; other blue things have a blue tint or filter out non-blue light.  And while not as pithy, "men represent a subset of mortals.  Socrates acts as a representative of men.  Therefore, we can't accidentally invert any of the relationships without noticing."
 
 Notice that, much like with squeezing out derogatory and exclusionary language, squeezing out the verb "to be" often improves writing.  I got rid of a passive voice, up there, and we all know that we shouldn't write with passive voice.  As mentioned, I made the false syllogism impossible to accidentally assemble.  And I made the other statements clearer about what I meant.
 

@@ -39,7 +39,7 @@ This should go without saying---even though I'm going to repeat it with every Bo
 
 This book, I know nothing about.  It came up in a search and calls itself a novel, and so it went on my list.  Khaheshi writing in Persian---"Western Farsi," if you prefer that naming---made it slightly more compelling than usual, since the world's exposure to Free Culture tends to look extremely Western and extremely white, among other extremities that don't affect much, here.  (And yes, I realize that I probably just offended every person of Iranian descent by assigning them a non-white identity.  But whiteness, in this context, comes from *colonialism*, not skin color or biological roots in the Caucasus Mountains.)
 
-Over and above the content advisories, I'll say now that invocation of the [American Dream](https://en.wikipedia.org/wiki/American_Dream) should almost always trigger concerns, because we've always fallen short of the ideal of a class-less society.  When someone invokes it, they generally either ignore the people who get failed by the system or want to condemn the system for failing people.  Either way, it will make a significant number of readers uncomfortable.
+Over and above the content advisories, I'll say now that invocation of the {% wiki American_Dream|American Dream|en %} should almost always trigger concerns, because we've always fallen short of the ideal of a class-less society.  When someone invokes it, they generally either ignore the people who get failed by the system or want to condemn the system for failing people.  Either way, it will make a significant number of readers uncomfortable.
 
 As I write this introduction, I don't know which way this particular book will fall, but I look forward to it, and hope that you do, too.
 
@@ -61,7 +61,7 @@ While we could dismiss this as taste, I like the cadence of the shorter chapters
 
 The sequence closing the company amuses me.  Most of us know from experience that, when a regional crisis strikes the country, you close the office for the rest of the day, and discuss it when everybody comes back.  By contrast, Arman makes a series of decisions that---if this happened at a real company---would provoke some combination of people walking off the job and rumors making the situation far worse.  Plus, we get the apocalyptic executive.
 
-And while I feel like something gets literally lost in the translation, I also at least appreciate how the book's plot has started to (figuratively) "rhyme."  We ended the last batch of chapters with Arman meditating about fishing, for example, and Arman pulls [**The Old Man and the Sea**](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea) off the shelf, and now we see that theme pay off.
+And while I feel like something gets literally lost in the translation, I also at least appreciate how the book's plot has started to (figuratively) "rhyme."  We ended the last batch of chapters with Arman meditating about fishing, for example, and Arman pulls {% wiki The_Old_Man_and_the_Sea|**The Old Man and the Sea**|en %} off the shelf, and now we see that theme pay off.
 
 ## What Works...Less Well?
 
@@ -77,7 +77,7 @@ As indicated above, you can find the GitHub repository, with [issue tracking](ht
 
 ## What's Adaptable?
 
-This section introduces a fictional war in Iran, focusing on its effects on our characters.  As mentioned above in the *Technical Note*, I can't say for sure when this happens.  I see the number 1377 thrown around, which *could* represent a Persian year, but that maps to 1998 -- 1999 in the Gregorian calendar, which could work, except that it name-checks the [Hassan Rouhani](https://en.wikipedia.org/wiki/Hassan_Rouhani) administration, suggesting that it must happen somewhere in the 2013 -- 2021 range.  One part of the translation says 2019, and I can call that close enough.
+This section introduces a fictional war in Iran, focusing on its effects on our characters.  As mentioned above in the *Technical Note*, I can't say for sure when this happens.  I see the number 1377 thrown around, which *could* represent a Persian year, but that maps to 1998 -- 1999 in the Gregorian calendar, which could work, except that it name-checks the {% wiki Hassan_Rouhani|Hassan Rouhani|en %} administration, suggesting that it must happen somewhere in the 2013 -- 2021 range.  One part of the translation says 2019, and I can call that close enough.
 
 ## Next
 

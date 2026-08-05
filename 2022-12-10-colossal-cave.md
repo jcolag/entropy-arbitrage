@@ -43,7 +43,7 @@ Yes, technically, this skirts around my general rules for these Book Club posts,
 
 ## What Works Well?
 
-Despite the overall small quantity of text---you'll probably finish the game seeing fewer than ten thousand words, even if you get side-tracked and lost---the game does a decent job of providing an appropriate atmosphere.  And while I've only ever taken the short tour of the real-world [Mammoth Cave](https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park/), many people have commented on the fidelity of the game map to the actual space, minus the fantasy elements.
+Despite the overall small quantity of text---you'll probably finish the game seeing fewer than ten thousand words, even if you get side-tracked and lost---the game does a decent job of providing an appropriate atmosphere.  And while I've only ever taken the short tour of the real-world {% wiki Mammoth_Cave_National_Park/|Mammoth Cave|en %}, many people have commented on the fidelity of the game map to the actual space, minus the fantasy elements.
 
 While some might disagree, I also appreciate the taking the technical limitations that existed in the 1970s and turning them into a source of humor, giving the narrator a voice.  That voice, then, extends to other side comments, such as the narrator's bivalve confusion.
 

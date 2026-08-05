@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ We actually start this episode showing the harm done by toxic masculinity.  Whil
 
  > Captain's log, stardate 41416.2. We're orbiting Relva VII, where Wesley Crusher is about to be tested for entrance into Starfleet Academy. And to my great surprise, I have just learned that my old friend Admiral Gregory Quinn is on Relva VII, and has requested to be beamed aboard the *Enterprise* immediately.
 
-I can find two places named Relva, in the [Azores](https://en.wikipedia.org/wiki/Relva) and in [Cape Verde](https://en.wikipedia.org/wiki/Relva,_Cape_Verde).
+I can find two places named Relva, in the {% wiki Relva|Azores|en %} and in {% wiki Relva,_Cape_Verde|Cape Verde|en %}.
 
  > **PICARD**: We've known one another for years. Tell me what you believe is wrong.
 
@@ -47,7 +47,7 @@ Does anybody conduct investigations as Picard suggests?  "Here, have a list of a
 
 I realize that Wesley's whole gig involves existing in a hormonal and inexperienced state, but I feel like they could've asked him to act slightly less flamboyant when pulling the chair out for Mirren.  Generally speaking, people who act like this also get *really* angry, when they don't receive enough gratitude.  I point this out, because it matches up to his misogynistic comments about his own mother in [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}) and *Lonely Among Us*.
 
-Incidentally, it still lies in the distant future for the actors and the audience at the time, but you might recognize Mordock as [John Putch](https://en.wikipedia.org/wiki/John_Putch), who will go on to play a similar character on this show in a couple of years, plus one of the shouting journalists in the prologue of [**Generations**]({% post_url 2022-04-28-generations %}), though he has had a broader career than that, and comes from a rather famous family.
+Incidentally, it still lies in the distant future for the actors and the audience at the time, but you might recognize Mordock as {% wiki John_Putch|John Putch|en %}, who will go on to play a similar character on this show in a couple of years, plus one of the shouting journalists in the prologue of [**Generations**]({% post_url 2022-04-28-generations %}), though he has had a broader career than that, and comes from a rather famous family.
 
  > **LAFORGE**: Commander, just having that guy around makes me feel guilty. What's he after, anyway?
  >
@@ -61,9 +61,9 @@ Incidentally, it still lies in the distant future for the actors and the audienc
  >
  > **RIKER**: Not now. When it doesn't interfere with my duties, Remmick.
 
-In addition to Jake's scene at the start of the episode, these exchanges also seem to represent a shift in the writers' attitudes towards this series.  In fact, you might recognize versions of these scenes from any modern cop show, where [internal affairs](https://en.wikipedia.org/wiki/Internal_affairs_%28law_enforcement%29) needs to investigate some serious abuse, and the protagonist(s) use it to vent about how bureaucrats keep poking their noses into important business.
+In addition to Jake's scene at the start of the episode, these exchanges also seem to represent a shift in the writers' attitudes towards this series.  In fact, you might recognize versions of these scenes from any modern cop show, where {% wiki Internal_affairs_%28law_enforcement%29|internal affairs|en %} needs to investigate some serious abuse, and the protagonist(s) use it to vent about how bureaucrats keep poking their noses into important business.
 
-I say that this represents a shift, because unlike in so-called [copaganda](https://en.wikipedia.org/wiki/Copaganda), they don't show Remmick as sleazy or reluctant.  But they do show the crew as nervous and uncooperative.
+I say that this represents a shift, because unlike in so-called {% wiki Copaganda|copaganda|en %}, they don't show Remmick as sleazy or reluctant.  But they do show the crew as nervous and uncooperative.
 
  > **REMMICK**: You are required to answer my questions, Mister Riker, unless you're trying to cover something up! Now, there are several discrepancies in the Captain's log. Shall we go over them one by one?
 
@@ -175,13 +175,13 @@ I mean...he also competed against the other students, since the Academy only mad
 
 Surely, this sudden and arbitrary change of heart won't come back to haunt us in five episodes.
 
-Regardless, since I started this episode's discussion by talking about a sea change, I want to end it underscoring that possibility:  Since at least [*Code of Honor*]({% post_url 2022-06-09-code-honor %}), I've wondered if the writers meant this show as a satire---that the episodes exaggerate societal problems in the United States in the 1980s to draw attention to the issues---or if we should think of it as an *artifact* of the 1980s United States, seriously worried about the same fears as the so-called [Moral Majority](https://en.wikipedia.org/wiki/Moral_Majority).  Unfortunately, prior episodes have had either such sloppy writing or such subtle writing that I've had no idea which way to "properly" look at this.
+Regardless, since I started this episode's discussion by talking about a sea change, I want to end it underscoring that possibility:  Since at least [*Code of Honor*]({% post_url 2022-06-09-code-honor %}), I've wondered if the writers meant this show as a satire---that the episodes exaggerate societal problems in the United States in the 1980s to draw attention to the issues---or if we should think of it as an *artifact* of the 1980s United States, seriously worried about the same fears as the so-called {% wiki Moral_Majority|Moral Majority|en %}.  Unfortunately, prior episodes have had either such sloppy writing or such subtle writing that I've had no idea which way to "properly" look at this.
 
 However, this episode shows us the harm done by a conservative culture, shows a pervasive culture of officers and prospective officers believing that rules don't apply to them, forcing children to prove their value, and warnings of some subversive force in the Federation.  Maybe they thought of this as an episodic show, and only brought up the prior episodes in hopes of getting people to re-watch the show between seasons.  But maybe, they've used this as a signal to the audience that maybe we *shouldn't* take everything that Picard says about humanity and the Federation at face value, or assume that he always has the best intentions.
 
  > **PICARD**: Set course to Algeron IV, Mister Crusher.
 
-This seems like another of the show's infamous "typo stars," because while I can't find any prior reference to "Algeron," many people have had the name [Algernon](https://en.wikipedia.org/wiki/Algernon_%28name%29), including a couple particularly relevant to science fiction fans.
+This seems like another of the show's infamous "typo stars," because while I can't find any prior reference to "Algeron," many people have had the name {% wiki Algernon_%28name%29|Algernon|en %}, including a couple particularly relevant to science fiction fans.
 
 ## Conclusions
 
@@ -207,7 +207,7 @@ In addition, Wesley makes and expresses multiple assumptions about ethnicities, 
 
 Starfleet Academy also seems to praise threats of violence against officers.  The academy also sees no ethical issues with traumatizing every teenager who walks through their door, or telling candidates that their performance on the examination doesn't matter, when other candidates have already succeeded.
 
-Nobody questions when a man conduction a critical investigation claims to have found nothing amiss, then asks to join the crew when his current gig ends, despite the appearance of [quid pro quo](https://en.wikipedia.org/wiki/Quid_pro_quo) bribery.
+Nobody questions when a man conduction a critical investigation claims to have found nothing amiss, then asks to join the crew when his current gig ends, despite the appearance of {% wiki Quid_pro_quo|quid pro quo|en %} bribery.
 
 ## Next
 

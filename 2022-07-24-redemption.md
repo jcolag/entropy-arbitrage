@@ -60,7 +60,7 @@ You might find yourself asking---maybe because of a section heading that you've 
 
 It matters, because it gives people the wrong idea about their own lives.
 
-We live in a thick miasma of this sort of nonsense, of course.  We have an entire industry working to convince us to [trust the police](https://en.wikipedia.org/wiki/Copaganda) no matter what they do.  Another industry works to convince us that a man's desire [overrides a woman's disinterest](https://en.wikipedia.org/wiki/Romantic_comedy).  We could also list media teaching us to [ignore women and aspire to royalty](https://en.wikipedia.org/wiki/Disney_Princess).  I won't even get into modern journalism's insistence on interviewing fringe activists to "balance" their stories or reality television's obsession with finding people to disgust the audience.  These all teach us something toxic from an early age, that we need to unlearn.
+We live in a thick miasma of this sort of nonsense, of course.  We have an entire industry working to convince us to {% wiki Copaganda|trust the police|en %} no matter what they do.  Another industry works to convince us that a man's desire {% wiki Romantic_comedy|overrides a woman's disinterest|en %}.  We could also list media teaching us to {% wiki Disney_Princess|ignore women and aspire to royalty|en %}.  I won't even get into modern journalism's insistence on interviewing fringe activists to "balance" their stories or reality television's obsession with finding people to disgust the audience.  These all teach us something toxic from an early age, that we need to unlearn.
 
 And just the same, we each need to unlearn this issue of redemption.
 
@@ -70,7 +70,7 @@ Powerful people caught in abuse often demand to know what more could people *pos
 
 The current iteration of this issue on my mind, though, revolves around conservatives and former conservatives.
 
-For one example of how this goes---one that I've probably expressed concern about---consider the [public hearings of the United States House Select Committee on the January 6 Attack](https://en.wikipedia.org/wiki/Public_hearings_of_the_United_States_House_Select_Committee_on_the_January_6_Attack).  In these, we see constant sound-bites and quotes from people who stood with a corrupt and possibly illegitimate administration.  They participated in the planning of overturning a free and fair election.
+For one example of how this goes---one that I've probably expressed concern about---consider the {% wiki Public_hearings_of_the_United_States_House_Select_Committee_on_the_January_6_Attack|public hearings of the United States House Select Committee on the January 6 Attack|en %}.  In these, we see constant sound-bites and quotes from people who stood with a corrupt and possibly illegitimate administration.  They participated in the planning of overturning a free and fair election.
 
 Now, more than two years later, they reluctantly turn their backs on their former colleagues to tell us about the wrong positions that *those former colleagues* had.  As I mentioned in [the June newsletter](https://www.buymeacoffee.com/jcolag/entropy-arbitrage-newsletter-june-2022), they all have a serious "all true, except anything that makes me sound like a bad person" vibe to them.
 

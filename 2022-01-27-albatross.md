@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -29,7 +29,7 @@ Rather than list every post in the series here, you can easily find them all on 
 
 ## Albatross
 
-Modern metaphorical references to the [albatross](https://en.wikipedia.org/wiki/Albatross) generally refers to legends of albatrosses being the souls of lost sailors and probably most notably [*The Rime of the Ancient Mariner*](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner), where the title character shoots such a bird out of frustration, leading to bad luck for the crew.  The crew forces the mariner to wear the albatross around his neck, leading to [the idiom](https://en.wiktionary.org/wiki/albatross_around_one%27s_neck).
+Modern metaphorical references to the {% wiki Albatross|albatross|en %} generally refers to legends of albatrosses being the souls of lost sailors and probably most notably {% wiki The_Rime_of_the_Ancient_Mariner|*The Rime of the Ancient Mariner*|en %}, where the title character shoots such a bird out of frustration, leading to bad luck for the crew.  The crew forces the mariner to wear the albatross around his neck, leading to [the idiom](https://en.wiktionary.org/wiki/albatross_around_one%27s_neck).
 
  > Captain's log, stardate 5275.6. Preparing to beam aboard the Enterprise, following the successful completion of delivery of medical supplies to the planet Dramia, in the remote Dramian star system.
 
@@ -63,7 +63,7 @@ This is more on the technical side of things, but it sounds like Federation medi
 
  > **SPOCK**: Hippocrates would not have approved of lame excuses, Doctor.
 
-[Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) was an Ancient Greek physician who is often referred to as the Father of Medicine.
+{% wiki Hippocrates|Hippocrates|en %} was an Ancient Greek physician who is often referred to as the Father of Medicine.
 
 ## Foster Adaptation
 
@@ -73,7 +73,7 @@ We find the adaptation for this episode as the first story in **Star Trek Log Si
 
 For reasons that I don't quite understand, Foster introduces this story with a fun action scene that also serves to introduce the technology used by the recreation room in *The Practical Joker*, but has nothing to do with the rest of the episode.
 
-This passage might also be notable for the Arabic influence on how (implicitly) Scott thinks about the creation.  It doesn't remind him of the cult of [St. Andrew](https://en.wikipedia.org/wiki/St_Andrew) and [kelpies](https://en.wikipedia.org/wiki/Kelpie), but [dervishes](https://en.wikipedia.org/wiki/Dervish) and [jinn](https://en.wikipedia.org/wiki/Jinn).  It's not necessarily useful, but it strikes me as interesting.
+This passage might also be notable for the Arabic influence on how (implicitly) Scott thinks about the creation.  It doesn't remind him of the cult of {% wiki St_Andrew|St. Andrew|en %} and {% wiki Kelpie|kelpies|en %}, but {% wiki Dervish|dervishes|en %} and {% wiki Jinn|jinn|en %}.  It's not necessarily useful, but it strikes me as interesting.
 
 Sulu also cuts his foot, which is mostly an opportunity to show off "organic clips" that bind the wound to heal, and then get absorbed by the patient's body.
 

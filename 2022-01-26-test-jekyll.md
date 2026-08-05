@@ -20,7 +20,7 @@ Once in a while, I have a small problem with some regularity that has an easy so
 
 ![Gears](/blog/assets/work-technology-vintage-wheel-retro-clock-606288-pxhere.com.jpg "Fiddly technical things ahead")
 
-This week, we have *The Case of Testing a Jekyll Plugin without Restarting the Blog Every Two Minutes*, starring...oh, let's say [Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot), since he has some early appearances in the public domain.  If you want a drier version of this post that just gets to the point, I worked out [most of the details](https://stackoverflow.com/q/70779122/3438854) on Stack Overflow <i class="fab fa-stack-overflow"></i>.
+This week, we have *The Case of Testing a Jekyll Plugin without Restarting the Blog Every Two Minutes*, starring...oh, let's say {% wiki Hercule_Poirot|Hercule Poirot|en %}, since he has some early appearances in the public domain.  If you want a drier version of this post that just gets to the point, I worked out [most of the details](https://stackoverflow.com/q/70779122/3438854) on Stack Overflow <i class="fab fa-stack-overflow"></i>.
 
 More to the point, though, as you might know from following the [developer journal](/blog/tag/devjournal) posts, **Entropy Arbitrage** now uses an inline tag that pulls metadata from a specified GitHub repository webpage.  The preliminary runs worked well, so I dedicated a good part of last week to adding caching, so that if I ultimately refer to the same repository dozens of times, from week to week, I'm *not* waiting to request that webpage dozens of times.
 
@@ -72,7 +72,7 @@ Finally and related, if we run the plugin's code from the operating system comma
 
 ## Scaffolding
 
-When building something complicated, whether it's a skyscraper or some code, we might erect [scaffolding](https://en.wikipedia.org/wiki/Scaffolding) around it, a support structure that surrounds the *real* structure to make different sections accessible.  That's what we need here.
+When building something complicated, whether it's a skyscraper or some code, we might erect {% wiki Scaffolding|scaffolding|en %} around it, a support structure that surrounds the *real* structure to make different sections accessible.  That's what we need here.
 
 ### Take 1 🎬
 

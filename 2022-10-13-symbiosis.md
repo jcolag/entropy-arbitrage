@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ That out of the way, let's jump right in.
 
  > **PICARD**: All hands, this is the Captain. As you may know, the sun in the Delos system is undergoing large-scale magnetic field changes, producing violent, gigantic flares. Now, we shall be studying this star at close range. Even though we shall be running with full deflectors, the closeness of this event and its severity are going to create problems.
 
-The star name, here, suggests two inspirations to me.  The Greek island [Delos/Δήλος](https://en.wikipedia.org/wiki/Delos) hosts some of the most important archaeological investigations in the region, and in a couple of years, would find itself added to the UNESCO [World Heritage List](https://en.wikipedia.org/wiki/World_Heritage_List).  If you don't like that possible inspiration, the 1973 film **Westworld** used the name for their amusement park, which the modern reboot has some minor nod to.
+The star name, here, suggests two inspirations to me.  The Greek island {% wiki Delos|Delos/Δήλος|en %} hosts some of the most important archaeological investigations in the region, and in a couple of years, would find itself added to the UNESCO {% wiki World_Heritage_List|World Heritage List|en %}.  If you don't like that possible inspiration, the 1973 film **Westworld** used the name for their amusement park, which the modern reboot has some minor nod to.
 
  > **TROI**: Captain, the level of tension on the ship is mounting.
 
@@ -43,7 +43,7 @@ What would they do without her insights about the crew becoming tense when enter
 
  > **T'JON**: I am T'Jon, Captain of the Sanction.
 
-You might recognize T'Jon as [Merritt Butrick](https://en.wikipedia.org/wiki/Merritt_Butrick), who also played David Marcus in [**The Wrath of Khan**]({% post_url 2022-03-24-twok %}) and [**The Search for Spock**]({% post_url 2022-03-31-tsfs %}).  If he doesn't look to feel up to this or looks like he aged disproportionately in a few years, he might well have felt awful, considering that, sadly, he'd die from AIDS complications within the year.
+You might recognize T'Jon as {% wiki Merritt_Butrick|Merritt Butrick|en %}, who also played David Marcus in [**The Wrath of Khan**]({% post_url 2022-03-24-twok %}) and [**The Search for Spock**]({% post_url 2022-03-31-tsfs %}).  If he doesn't look to feel up to this or looks like he aged disproportionately in a few years, he might well have felt awful, considering that, sadly, he'd die from AIDS complications within the year.
 
  > **PICARD**: Cargo? Are those people crazy? What could possibly be so important?
 
@@ -51,7 +51,7 @@ Psychiatric health issues seem to carry a serious stigma, for Picard to use the 
 
  > **SOBI**: Careful with your choice of words, T'Jon. It's ours, not yours.
 
-Besides Butrick, you might recognize Sobi as [Judson Scott](https://en.wikipedia.org/wiki/Judson_Scott), who played Joachim in **The Wrath of Khan**.
+Besides Butrick, you might recognize Sobi as {% wiki Judson_Scott|Judson Scott|en %}, who played Joachim in **The Wrath of Khan**.
 
  > **RIKER**: I have never seen humanoids with that power.
 
@@ -85,7 +85,7 @@ I realize that I point this out in almost every episode, but especially here, Da
 
 We've discussed the connections that this series seems to have to the War on Drugs in [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}), [*The Naked Now*]({% post_url 2022-06-02-naked %}), and [*Too Short a Season*]({% post_url 2022-09-01-short-season %}).
 
-However, I should also mention that this comes decades before the opioid epidemic began.  I mentioned before that the episode had plenty of time left to foul up its metaphor, and in 1988, this probably did it.  Today, we can look at this story as a parable about [Perdue Pharma](https://en.wikipedia.org/wiki/Purdue_Pharma#Controversy), pushing a legitimate medication to a point where it became a larger medical crisis than it treated...but OxyContin wouldn't exist for almost another decade.  As a result, this episode jumped from condemning the pharmaceutical industry for profiteering from suffering, to fabricating a then-implausible conspiracy about companies pushing unnecessary drugs to get people addicted, undercutting their point.
+However, I should also mention that this comes decades before the opioid epidemic began.  I mentioned before that the episode had plenty of time left to foul up its metaphor, and in 1988, this probably did it.  Today, we can look at this story as a parable about {% wiki Purdue_Pharma#Controversy|Perdue Pharma|en %}, pushing a legitimate medication to a point where it became a larger medical crisis than it treated...but OxyContin wouldn't exist for almost another decade.  As a result, this episode jumped from condemning the pharmaceutical industry for profiteering from suffering, to fabricating a then-implausible conspiracy about companies pushing unnecessary drugs to get people addicted, undercutting their point.
 
 They'll go on to muddle their message even more, with a story about how the plague *used to* really exist, but one planet didn't notice the end of the crisis, and so kept popping pills...
 
@@ -111,7 +111,7 @@ We see again that Picard finds people suspicious largely on the basis of how muc
  >
  > **YAR**: It doesn't feel artificial until the drug wears off. Then you pay the price. Before you know it, you're taking the drug not to feel good, but to keep from feeling bad.
 
-Again, we've taken a hard left turn into [After School Special](https://en.wikipedia.org/wiki/After_school_special) territory, with this, though Crosby's delivery comes off far better than most attempts.
+Again, we've taken a hard left turn into {% wiki After_school_special|After School Special|en %} territory, with this, though Crosby's delivery comes off far better than most attempts.
 
  > **PICARD**: No. I'm bound by the rules of the United Federation of Planets, which order me not to interfere with other worlds, other cultures. If I were to tell them any of this, I would violate that Prime Directive.
 
@@ -135,11 +135,11 @@ And while Picard paints the Federation as a plague to police itself away from un
 
  > **LAFORGE**: The Opraline system.
 
-Plus or minus the routine typos for star names, I *think* that the writers might have made a subtle joke that almost nobody in the audience would ever notice.  Specifically, while I can't find any "Opraline," if you pull out the *r*, you get a non-word that we could use as an adjective describing things that resemble [opalina](https://en.wikipedia.org/wiki/Opalina), parasites found in the intestines of frogs and toads.
+Plus or minus the routine typos for star names, I *think* that the writers might have made a subtle joke that almost nobody in the audience would ever notice.  Specifically, while I can't find any "Opraline," if you pull out the *r*, you get a non-word that we could use as an adjective describing things that resemble {% wiki Opalina|opalina|en %}, parasites found in the intestines of frogs and toads.
 
 Crusher somehow avoided using the term "parasitic" to describe the Brekkan scam, so ending with a possible reference to an actual parasite seems appropriate, if we can presume that specific typo or mis-read.
 
-Less compelling, but if we ignore the *r*, then we might consider that [**The Oprah Winfrey Show**](https://en.wikipedia.org/wiki/The_Oprah_Winfrey_Show) would have almost run its second season, when this aired.
+Less compelling, but if we ignore the *r*, then we might consider that {% wiki The_Oprah_Winfrey_Show|**The Oprah Winfrey Show**|en %} would have almost run its second season, when this aired.
 
 ## Conclusions
 

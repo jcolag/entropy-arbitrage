@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,13 +33,13 @@ While we don't get much out of this episode, I think that I might have...enjoyed
 
  > Captain's log, stardate 41798.2. We have been ordered by Starfleet to proceed to the Lorenze Cluster and investigate the disappearance of a light cruiser, USS *Drake*, which was in that system trying to unravel a mystery of its own, which began when recent long range probes indicated that all intelligent life on the planet Minos has disappeared.
 
-Despite the spelling---consistent across multiple sources---the name probably refers to physicist [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz), known for [his mathematical transformation](https://en.wikipedia.org/wiki/Lorentz_transformation) describing how different frames of reference in spacetime, moving at constant velocity, will relate to each other.  If it coincides with your interests, you'll probably notice the similarity in Lorentz's math to the calculations involved in [time dilation](https://en.wikipedia.org/wiki/Time_dilation), making it central to large branches of science fiction.
+Despite the spelling---consistent across multiple sources---the name probably refers to physicist {% wiki Hendrik_Lorentz|Hendrik Lorentz|en %}, known for {% wiki Lorentz_transformation|his mathematical transformation|en %} describing how different frames of reference in spacetime, moving at constant velocity, will relate to each other.  If it coincides with your interests, you'll probably notice the similarity in Lorentz's math to the calculations involved in {% wiki Time_dilation|time dilation|en %}, making it central to large branches of science fiction.
 
-When you have ships named "Drake," they probably memorialize [Francis Drake](https://en.wikipedia.org/wiki/Francis_Drake), the English explorer who circumnavigated the Earth in a single expedition.  However, given the genre and the era, I'll also accept [Frank Drake](https://en.wikipedia.org/wiki/Frank_Drake), who passed away only last month as this goes out, but whose name you might recognize from the [equation](https://en.wikipedia.org/wiki/Drake_equation) to estimate the number of extraterrestrial civilizations in the galaxy or his attempts at interstellar communication.
+When you have ships named "Drake," they probably memorialize {% wiki Francis_Drake|Francis Drake|en %}, the English explorer who circumnavigated the Earth in a single expedition.  However, given the genre and the era, I'll also accept {% wiki Frank_Drake|Frank Drake|en %}, who passed away only last month as this goes out, but whose name you might recognize from the {% wiki Drake_equation|equation|en %} to estimate the number of extraterrestrial civilizations in the galaxy or his attempts at interstellar communication.
 
-And as discussed in [*When the Bough Breaks*]({% post_url 2022-09-08-bough-breaks %}), [Minos](https://en.wikipedia.org/wiki/Minos) generally refers to the mythological king of Crete, who sacrificed children to the Minotaur.
+And as discussed in [*When the Bough Breaks*]({% post_url 2022-09-08-bough-breaks %}), {% wiki Minos|Minos|en %} generally refers to the mythological king of Crete, who sacrificed children to the Minotaur.
 
-Oh, and you might also notice the strange [*There Was an Old Lady*](https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly) aesthetic to this log entry.  Starfleet stopped detecting signals, so they sent a probe.  When the probe vanished, they sent more probes to find the missing probe.  Then, they sent the *Drake* to find the probes.  And now they need to send the *Enterprise* to find the *Drake* to find the probes to find the probe to find the signals, and I don't know *why* they investigated the change...
+Oh, and you might also notice the strange {% wiki There_Was_an_Old_Lady_Who_Swallowed_a_Fly|*There Was an Old Lady*|en %} aesthetic to this log entry.  Starfleet stopped detecting signals, so they sent a probe.  When the probe vanished, they sent more probes to find the missing probe.  Then, they sent the *Drake* to find the probes.  And now they need to send the *Enterprise* to find the *Drake* to find the probes to find the probe to find the signals, and I don't know *why* they investigated the change...
 
  > **PICARD**: Mister Data?
  >
@@ -65,7 +65,7 @@ They do *not*, however, seem particularly concerned with the fate of the *Drake*
 
  > **SALESMAN**: Whoever you are, wherever you're from, greetings. Welcome to Minos, the arsenal of freedom.
 
-You might recognize the sales representative as [Vincent Schiavelli](https://en.wikipedia.org/wiki/Vincent_Schiavelli), who I feel like appeared in...pretty much everything with a sense of humor, until his death.
+You might recognize the sales representative as {% wiki Vincent_Schiavelli|Vincent Schiavelli|en %}, who I feel like appeared in...pretty much everything with a sense of humor, until his death.
 
  > **RIKER**: By whom?
  >
@@ -75,7 +75,7 @@ I don't need to keep explaining this infantile posturing, do I...?  Data adds no
 
  > **T'SU**: Commander Riker, this is Ensign T'Su.  I'm monitoring a slight energy buildup near your position. I am not able to pinpoint the source.
 
-You might recognize T'Su as [Julia Nickson](https://en.wikipedia.org/wiki/Julia_Nickson), who has spent a lot of her career around science fiction and fantasy, including a later appearance on **Deep Space Nine** and the recurring character Catherine Sakai on **Babylon 5**.
+You might recognize T'Su as {% wiki Julia_Nickson|Julia Nickson|en %}, who has spent a lot of her career around science fiction and fantasy, including a later appearance on **Deep Space Nine** and the recurring character Catherine Sakai on **Babylon 5**.
 
  > **RIKER**: No. The name of my ship is the *Lollipop*.
  >
@@ -83,7 +83,7 @@ You might recognize T'Su as [Julia Nickson](https://en.wikipedia.org/wiki/Julia_
  >
  > **RIKER**: It's just been commissioned. It's a good ship.
 
-I don't know why this crew's popular culture references all seem to come from the 1930s, but this time, Riker refers to 1934's [*On the Good Ship Lollipop*](https://en.wikipedia.org/wiki/On_the_Good_Ship_Lollipop).  If people today had a comparable interest, then they would make references from the popular culture of the [Elizabethan era](https://en.wikipedia.org/wiki/Elizabethan_era).  And yes, you probably know Shakespeare's plays and sonnets, and maybe a little Kit Marlowe or Ben Jonson, but probably not much beyond that.
+I don't know why this crew's popular culture references all seem to come from the 1930s, but this time, Riker refers to 1934's {% wiki On_the_Good_Ship_Lollipop|*On the Good Ship Lollipop*|en %}.  If people today had a comparable interest, then they would make references from the popular culture of the {% wiki Elizabethan_era|Elizabethan era|en %}.  And yes, you probably know Shakespeare's plays and sonnets, and maybe a little Kit Marlowe or Ben Jonson, but probably not much beyond that.
 
  > **PICARD**: Doctor.
 
@@ -129,7 +129,7 @@ Finally, despite Troi finally doing something useful, as a counselor, she could 
 
 The story of Crusher's grandmother---what little we hear of it---reminds us that living on a colony carries a high likelihood of horrifying disaster.  Crusher's childhood grew bad enough that someone other than a doctor not only needed to treat patients, but needed to do so with improvised supplies on an alien planet.
 
-Oh, and while I can't say for sure, it seems like the star's name most likely refers to [Ayurveda](https://en.wikipedia.org/wiki/Ayurveda), the pseudo-medical and surgical tradition that may stretch back to the Bronze Age.  Several people transliterate the word similarly, and the tradition relies heavily on extracts from indigenous plants, much like the roots that Crusher identifies.  Less compelling, they might have meant it as a reference to [Arvada, CO](https://en.wikipedia.org/wiki/Arvada%2C_Colorado).
+Oh, and while I can't say for sure, it seems like the star's name most likely refers to {% wiki Ayurveda|Ayurveda|en %}, the pseudo-medical and surgical tradition that may stretch back to the Bronze Age.  Several people transliterate the word similarly, and the tradition relies heavily on extracts from indigenous plants, much like the roots that Crusher identifies.  Less compelling, they might have meant it as a reference to {% wiki Arvada%2C_Colorado|Arvada, CO|en %}.
 
 And while this has nothing to do with our cultural project, I do feel like I need to note the implication that this exchange also tells us that biochemistry mostly works identically, from planet to planet.  Crusher uses knowledge of medicinal plants native to a failed colony to identify a useful plant---on sight, no less, while having trouble focusing---on a world presumably well outside the Federation.
 

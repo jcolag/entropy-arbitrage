@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks [World Population Day](https://en.wikipedia.org/wiki/World_Population_Day).  I've already written about how concerns about overpopulation invariably tie to bigotry, though this day traffics more in the concerns about the concrete problems causing and resulting from a growing population, such as family planning and human rights.
+Today marks {% wiki World_Population_Day|World Population Day|en %}.  I've already written about how concerns about overpopulation invariably tie to bigotry, though this day traffics more in the concerns about the concrete problems causing and resulting from a growing population, such as family planning and human rights.
 
 ![A large crowd seated at a theater, photographed from behind](/blog/assets/music-black-and-white-people-crowd-concert-audience-874486-pxhere.com.png "Notice how nobody complains when the population density comes from people paying top-dollar for cramped seats.")
 
@@ -34,7 +34,7 @@ By now, if you follow along with this project---not that I'd expect anybody to d
  * You might recognize the name mystic square, in relation to puzzles and games.
    * ❓ Not yet implemented/revealed.
 
-At this point, then, you can play a solitaire version of [Hollywood Squares](https://en.wikipedia.org/wiki/Hollywood_Squares), essentially, though I don't particularly love that game.  Choose a square by clicking on it.  Answer a random trivia question.  Get an **O** (or 🙆) if you guess correctly or an **X** (or 🙅) if you guess incorrectly.  Continue until either **X** or **O** wins the game.
+At this point, then, you can play a solitaire version of {% wiki Hollywood_Squares|Hollywood Squares|en %}, essentially, though I don't particularly love that game.  Choose a square by clicking on it.  Answer a random trivia question.  Get an **O** (or 🙆) if you guess correctly or an **X** (or 🙅) if you guess incorrectly.  Continue until either **X** or **O** wins the game.
 
 ![A Mystic T-Square game with no winner](/blog/assets/mystic-t-square-demo.png "The only way to win is not to play?  No, wait, that makes a decent tagline for a movie, but a TERRIBLE tagline for a game.")
 

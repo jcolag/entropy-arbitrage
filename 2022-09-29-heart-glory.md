@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -63,7 +63,7 @@ While we don't know the political situation in this century, I suppose that we s
 
 I heard this line and giggled---as you might have---because in 2022, not only do we know how to encode video for streaming, but most of us probably watch this show encoded as a digital stream.  Our modern algorithms can scale fairly well with the required resolution, the complexity of colors, or whatever else that you might want in a video.
 
-However, when this aired, the world's best video encoding adhered to the [H.120](https://en.wikipedia.org/wiki/H.120), only a few years old at the time, and not usable over longer periods.  Practical algorithms started with [H.261](https://en.wikipedia.org/wiki/H.261), released about seven months after the episode.  1991 brought the [MPEG-1](https://en.wikipedia.org/wiki/MPEG-1) standard, which the film and television industry widely adopted, and which still influences how almost all communications work, today.
+However, when this aired, the world's best video encoding adhered to the {% wiki H.120|H.120|en %}, only a few years old at the time, and not usable over longer periods.  Practical algorithms started with {% wiki H.261|H.261|en %}, released about seven months after the episode.  1991 brought the {% wiki MPEG-1|MPEG-1|en %} standard, which the film and television industry widely adopted, and which still influences how almost all communications work, today.
 
 That said, if you can envision *analog* television broadcasts, how people originally watched the episode, then that should also have worked fine for the twenty-fourth century.
 
@@ -81,7 +81,7 @@ Imagine if they had lives at stake?  Oh, right.  They came here to rescue people
  >
  > **RIKER**: Toxic?
 
-[Deuterium](https://en.wikipedia.org/wiki/Deuterium), also known as hydrogen-2 and heavy hydrogen, consists of common hydrogen atoms---itself sometimes called "protium"---with additional neutrons in their nuclei.  On Earth, deuterium makes up less than one in six thousand of hydrogen atoms.
+{% wiki Deuterium|Deuterium|en %}, also known as hydrogen-2 and heavy hydrogen, consists of common hydrogen atoms---itself sometimes called "protium"---with additional neutrons in their nuclei.  On Earth, deuterium makes up less than one in six thousand of hydrogen atoms.
 
 If you have a membrane around your cell nucleus---you *probably* do, but I can't say for sure that no bacteria read my blog---then heavy water (two deuterium atoms bonded with one oxygen atom) presents a mild toxic threat, causing problems with cell division and eventually sustenance as it displaces ordinary water in cells.  However, as a stable isotope of hydrogen, deuterium doesn't generally pose a radiation threat.
 
@@ -145,7 +145,7 @@ Look, you know that I don't have a rosy view of the Federation, after watching s
 
 Two things, here.
 
-First, Picard has apparently only just discovered [code-switching](https://en.wikipedia.org/wiki/Code-switching).  Or, rather, he just discovered it in other people.  After all, he acts quite differently around his crew than he does towards the Ferengi in [*The Last Outpost*]({% post_url 2022-06-16-outpost %}) or Lutan in [*Code of Honor*]({% post_url 2022-06-09-code-honor %}).
+First, Picard has apparently only just discovered {% wiki Code-switching|code-switching|en %}.  Or, rather, he just discovered it in other people.  After all, he acts quite differently around his crew than he does towards the Ferengi in [*The Last Outpost*]({% post_url 2022-06-16-outpost %}) or Lutan in [*Code of Honor*]({% post_url 2022-06-09-code-honor %}).
 
 Second, Picard has re-introduced the idea that any non-human has divided loyalties.  By suggesting that Worf becomes a different person among the Klingons, he signals the crew that they should no longer consider him their friend.
 

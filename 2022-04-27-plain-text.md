@@ -27,7 +27,7 @@ Maybe of interest to some readers is that I maintain the notes (and everything e
 
 ## A Quick Story
 
-At one of my first jobs, we started discussing the possibility of replacing large parts of the code to shift the users away from [VT320](https://en.wikipedia.org/wiki/VT320) terminals and into...y'know, something more like a windowed application on a graphical operating system, like the rest of the world did.  I forget why we didn't just direct them to VT320 emulators, which was my initial recommendation to buy time while we worked on a more robust solution.  That's not important for the story, though.
+At one of my first jobs, we started discussing the possibility of replacing large parts of the code to shift the users away from {% wiki VT320|VT320|en %} terminals and into...y'know, something more like a windowed application on a graphical operating system, like the rest of the world did.  I forget why we didn't just direct them to VT320 emulators, which was my initial recommendation to buy time while we worked on a more robust solution.  That's not important for the story, though.
 
 As we started estimating the scope of this project, I asked the obvious question:  Where were the original specifications for the system?  Specifically, how would we know that the new version provided what the original promised.
 
@@ -39,11 +39,11 @@ Making matters worse, nobody could remember what application they used to write 
 
 As I mentioned above, I taught---college graduate courses---for about fifteen years.  Because my first class split the students between two facilities with a video link, I settled on a process of  producing a complete set of notes to refer to when I would inevitably lose track of where I was in the lecture, a sparser outline to distribute to help students keep track of where we should be, and a presentation to show on one screen that mostly followed the outline.
 
-I initially wrote these in whatever version of [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) that I had at the time, which most of the school also used.
+I initially wrote these in whatever version of {% wiki WordPerfect|WordPerfect|en %} that I had at the time, which most of the school also used.
 
-Eventually, WordPerfect fell out of favor.  The school no longer had copies, so I started importing the WordPerfect files into [Microsoft Word](https://en.wikipedia.org/wiki/Microsoft_word) every week.  That worked, but the conversions had enough flaws that I needed to manually review every lecture to fix the layout.  Not wanting to go through that every year, I quickly just converted all the files to Word's (old) format.
+Eventually, WordPerfect fell out of favor.  The school no longer had copies, so I started importing the WordPerfect files into {% wiki Microsoft_word|Microsoft Word|en %} every week.  That worked, but the conversions had enough flaws that I needed to manually review every lecture to fix the layout.  Not wanting to go through that every year, I quickly just converted all the files to Word's (old) format.
 
-A couple of years later, I moved to [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org) at home.  Learning my lesson about the tedious imports, I installed the software on the computer at my office at school, and converted everything for the second time, this time learning to use features like styles.
+A couple of years later, I moved to {% wiki OpenOffice.org|OpenOffice.org|en %} at home.  Learning my lesson about the tedious imports, I installed the software on the computer at my office at school, and converted everything for the second time, this time learning to use features like styles.
 
 The school's IT department decided to ban user-installed software on the office computers, meaning that I needed to import everything back into Microsoft Word.  Word and the OpenOffice family didn't understand each other's styles, making this tedious, and meaning that I needed to convert everything back to Microsoft Word's format.
 
@@ -51,7 +51,7 @@ I'm probably missing a couple of transitions, but you get my point.  But then, I
 
 ## Text Is King...or at Least in the Royal Family
 
-My solution for my lecture notes---not as useful as I would have liked, since the school closed a couple of years later, but still worth the effort---was to convert them to [Markdown](https://en.wikipedia.org/wiki/Markdown), adding a macro package to generate multiple versions of each document from the single source.  Rather than waste time at the last minute with any word processor, I generated PDF files, ready to print.
+My solution for my lecture notes---not as useful as I would have liked, since the school closed a couple of years later, but still worth the effort---was to convert them to {% wiki Markdown|Markdown|en %}, adding a macro package to generate multiple versions of each document from the single source.  Rather than waste time at the last minute with any word processor, I generated PDF files, ready to print.
 
 Since then, I have used text-adjacent formats for everything new, and slowly converted anything that I need to hunt for, if it turns up in a different format.
 
@@ -129,11 +129,11 @@ As mentioned above, once the JavaScript people started using JSON, it spread qui
 
 Naturally, JSON doesn't solve *all* data problems.  The data types---number, string, boolean, array, object, and null---reflect JavaScript's architecture, rather than some general specification, for example.  Many see it overly verbose for the information that it carries.  And the format has a certain fragility that doesn't need to be there.
 
-Likewise, I *recommend* JSON, but other formats exist that might fit an application better, such as the [PHP serialization format](https://en.wikipedia.org/wiki/PHP_serialization_format) or [YAML](https://en.wikipedia.org/wiki/YAML).  Just be sure that it has wide support.  I *like* [ASN.1](https://en.wikipedia.org/wiki/ASN.1) and [Open DDL](https://en.wikipedia.org/wiki/Open_Data_Description_Language), for example, but not everybody has libraries that supports them, and I don't have the patience to write them, which (in my opinion) makes them useless.
+Likewise, I *recommend* JSON, but other formats exist that might fit an application better, such as the {% wiki PHP_serialization_format|PHP serialization format|en %} or {% wiki YAML|YAML|en %}.  Just be sure that it has wide support.  I *like* {% wiki ASN.1|ASN.1|en %} and {% wiki Open_Data_Description_Language|Open DDL|en %}, for example, but not everybody has libraries that supports them, and I don't have the patience to write them, which (in my opinion) makes them useless.
 
 ### Markdown, for Text
 
-Names that you probably know in other contexts---John Gruber and Aaron Swartz---created [Markdown](https://en.wikipedia.org/wiki/Markdown) with readability in mind, and it has become standard enough that organizations like GitHub and GitLab simply assume that you'll write in Markdown.  Implementations have diverged---adding features---and converged back, so you can generally rely on everything from headings to tables.
+Names that you probably know in other contexts---John Gruber and Aaron Swartz---created {% wiki Markdown|Markdown|en %} with readability in mind, and it has become standard enough that organizations like GitHub and GitLab simply assume that you'll write in Markdown.  Implementations have diverged---adding features---and converged back, so you can generally rely on everything from headings to tables.
 
 You probably already know how to write Markdown, because many web-based communities, even the comments below 👀, use it as their standard for writing messages.
 
@@ -143,15 +143,15 @@ If you look, you can find two sub-categories of Markdown, depending on the use.
 
 *Embedded Markdown* appears in applications that support the easy editing of Markdown, but want to add metadata for organization or other management.  The aforementioned Boost Note, for example, stores Markdown text---the note---as an element of a [CSON](https://github.com/bevry/cson) object that describes how software should categorize and display the note.  Similarly, the blog formats using Markdown *technically* embed that Markdown in custom text-based formats that append the Markdown content---the actual blog post---to a text-based format of metadata, including the title and publication date.
 
-You can also find *many* alternatives to Markdown, and they're fine, too, if they do what you want.  I would recommend Markdown, however, because many applications and software libraries support it.  But if you'd rather work in Perl's old [pod](https://en.wikipedia.org/wiki/Plain_Old_Documentation) format or something else less popular, I won't judge you...well, not much, at least.
+You can also find *many* alternatives to Markdown, and they're fine, too, if they do what you want.  I would recommend Markdown, however, because many applications and software libraries support it.  But if you'd rather work in Perl's old {% wiki Plain_Old_Documentation|pod|en %} format or something else less popular, I won't judge you...well, not much, at least.
 
 ### CSV, for Spreadsheets
 
-If you have lists, simple tables, and ledgers, then you probably want that information stored as [comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values).  It's easy to type and edit the data, and it's easy to convert it to something else, like a Markdown table, SQL `INSERT` statements, or any other way that you might want to process the data later.
+If you have lists, simple tables, and ledgers, then you probably want that information stored as {% wiki Comma-separated_values|comma-separated values|en %}.  It's easy to type and edit the data, and it's easy to convert it to something else, like a Markdown table, SQL `INSERT` statements, or any other way that you might want to process the data later.
 
 Yes, this is a boring enough solution that every spreadsheet application already knows how to process it.
 
-If the commas make your data seem claustrophobic, you could also use [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) files, which change the delimiter.
+If the commas make your data seem claustrophobic, you could also use {% wiki Tab-separated_values|TSV|en %} files, which change the delimiter.
 
 ### Mermaid, for Diagrams
 

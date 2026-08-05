@@ -34,7 +34,7 @@ This should go without saying---even though I'm going to repeat it with every Bo
 
 This book, I know nothing about.  It came up in a search and calls itself a novel, and so it went on my list.  Khaheshi writing in Persian---"Western Farsi," if you prefer that naming---made it slightly more compelling than usual, since the world's exposure to Free Culture tends to look extremely Western and extremely white, among other extremities that don't affect much, here.  (And yes, I realize that I probably just offended every person of Iranian descent by assigning them a non-white identity.  But whiteness, in this context, comes from *colonialism*, not skin color or biological roots in the Caucasus Mountains.)
 
-Over and above the content advisories, I'll say now that invocation of the [American Dream](https://en.wikipedia.org/wiki/American_Dream) should almost always trigger concerns, because we've always fallen short of the ideal of a class-less society.  When someone invokes it, they generally either ignore the people who get failed by the system or want to condemn the system for failing people.  Either way, it will make a significant number of readers uncomfortable.
+Over and above the content advisories, I'll say now that invocation of the {% wiki American_Dream|American Dream|en %} should almost always trigger concerns, because we've always fallen short of the ideal of a class-less society.  When someone invokes it, they generally either ignore the people who get failed by the system or want to condemn the system for failing people.  Either way, it will make a significant number of readers uncomfortable.
 
 As I write this introduction, I don't know which way this particular book will fall, but I look forward to it, and hope that you do, too.
 

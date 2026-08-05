@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -46,7 +46,7 @@ Yes, I know that we have a movement that wants to push back against that idea, b
 
 This exchange tells me that nobody on the writing staff has a name that people, particularly people for whom English is a second language, need to say in public.  Anybody under those minor constraints quickly learns that you abandon the source language and always transcribe to the speaker's language, with any annotations for sounds that don't transfer exactly.
 
-I bring this up, because Picard has no reason to learn an alphabet, when the Jarada only asked him to reproduce the sounds.  Just have someone smarter than these two transcribe it to the future equivalent of the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and read it from that.  We'll find out at the end of the episode that he only has about a dozen words to memorize, too, and doesn't read them.
+I bring this up, because Picard has no reason to learn an alphabet, when the Jarada only asked him to reproduce the sounds.  Just have someone smarter than these two transcribe it to the future equivalent of the {% wiki International_Phonetic_Alphabet|IPA|en %}, and read it from that.  We'll find out at the end of the episode that he only has about a dozen words to memorize, too, and doesn't read them.
 
 Maybe interestingly, Picard could have difficulties beyond just his ability to remember and pronounce words.  If the Federation hasn't had any serious contact with the Jarada, their ears or atmosphere might not accentuate the sounds that the humans hear.  Of course, the episode doesn't care about this plot thread---though the franchise does, as seen in [**The Voyage Home**]({% post_url 2022-04-07-tvh %}), released the year before this season aired---but it seems interesting that they focus on Picard's literacy in an entirely new language than how anything would sound to its target audience.
 
@@ -90,7 +90,7 @@ More seriously, why doesn't all the time-space detail come from the program itse
 
 This episode pioneers an idea that fuels a lot my dislike of this series.  The writers could have done anything for this episode, including having some contrived alien world---see [*A Piece of the Action*]({% post_url 2020-12-03-action %}) for an obvious example---where Picard would find himself forced to take the role of a private investigator.  Picard could have any number of pastimes.  They could even go with the episode as presented, with Picard spearheading contact with a species that demands precise adherence to protocol.  Instead, the holodeck provides the characters and writers with a crutch, where they announce to us that they'd rather do anything but deal with the show that we all gathered to watch.
 
-If the writers would rather work on something other than *Star Trek*, and the characters would rather be in something other than *Star Trek*, then why should we watch *Star Trek*?  Similarly, if a viewer wanted to watch [**The Maltese Falcon**](https://en.wikipedia.org/wiki/The_Maltese_Falcon_%281941_film%29), Fox made that available on home video---Betamax, granted, but *still*---a few years prior.
+If the writers would rather work on something other than *Star Trek*, and the characters would rather be in something other than *Star Trek*, then why should we watch *Star Trek*?  Similarly, if a viewer wanted to watch {% wiki The_Maltese_Falcon_%281941_film%29|**The Maltese Falcon**|en %}, Fox made that available on home video---Betamax, granted, but *still*---a few years prior.
 
 It does give us some minor insight into the popular culture, suggesting that people enjoy film noir, but not outside its original context.  Of course, we could probably have learned the same amount by replacing Sherlock Holmes with Sam Spade in [*Lonely Among Us*]({% post_url 2022-06-30-lonely %}).  Of course, in that case, they would have subjected us to Brent Spiner trying to imitate Bogart, which...I think I'd rather pass.
 
@@ -154,7 +154,7 @@ I could press this into a comment about the culture---that they prioritize talki
 
 First, seriously, do these people not have real work to do?  What do they do on their time off, if they slack off so much on the job?
 
-Second, **Amazing Detective Stories** seems like a strange choice, because...it existed.  Launched as [**Scientific Detective Monthly**](https://en.wikipedia.org/wiki/Scientific_Detective_Monthly) by [Hugo Gernsback](https://en.wikipedia.org/wiki/Hugo_Gernsback) in 1930, it released fifteen issues (formally) published from January of that year to August 1931.  The five 1931 issues carry the **Amazing Detective Stories** title, following five issues with the **Amazing Detective Tales** title.
+Second, **Amazing Detective Stories** seems like a strange choice, because...it existed.  Launched as {% wiki Scientific_Detective_Monthly|**Scientific Detective Monthly**|en %} by {% wiki Hugo_Gernsback|Hugo Gernsback|en %} in 1930, it released fifteen issues (formally) published from January of that year to August 1931.  The five 1931 issues carry the **Amazing Detective Stories** title, following five issues with the **Amazing Detective Tales** title.
 
 One imagines that, in *Star Trek*'s history, this magazine either succeeded for at least a few more years or---as commonly happened---inspired a successor hoping to capitalize on name recognition.
 
@@ -164,7 +164,7 @@ I know why the *writers* wrote this.  They would care about the copyright status
 
  > **WHALEN**: He actually thinks you're Dixon Hill.
 
-It worries me that they don't seem to understand how fiction *or* computers work.  As a point of comparison, when this episode came out, many of us had played an adaptation of [**The Hobbit**](https://en.wikipedia.org/wiki/The_Hobbit_%281982_video_game%29) for about five years, but nobody gasped, "the characters really recognize me as Bilbo Baggins," as if the game has any other point.
+It worries me that they don't seem to understand how fiction *or* computers work.  As a point of comparison, when this episode came out, many of us had played an adaptation of {% wiki The_Hobbit_%281982_video_game%29|**The Hobbit**|en %} for about five years, but nobody gasped, "the characters really recognize me as Bilbo Baggins," as if the game has any other point.
 
 That assumes that this "Dixon Hill" thing has the structure of a game.  If we think of it more like a film, we can go back decades further of people failing to feel surprise that characters identify an actor as their pre-established character...
 
@@ -178,7 +178,7 @@ Pardon me for jumping around the timeline---theirs and ours---but while we proba
 
 I imagine that they wanted to go for a joke that, in the future, even the British will get excited about baseball.  Or not.
 
-As I write this, with four years left on the episode's timeline, DiMaggio's record still stands---with [Pete Rose](https://en.wikipedia.org/wiki/Pete_Rose) coming the closest in 1978---and nobody organizing the London Kings.
+As I write this, with four years left on the episode's timeline, DiMaggio's record still stands---with {% wiki Pete_Rose|Pete Rose|en %} coming the closest in 1978---and nobody organizing the London Kings.
 
  > **PICARD**: No he's not. He's...umm, he's from South America.
  >
@@ -208,7 +208,7 @@ Huh.  Shows how long it has been since I saw this last:  I could have sworn that
 
 Like the recurring idea about the characters wanting to feel edgy by *talking* about sex, mentioned above, we also see the recurring idea of their prudishness, here Crusher mortified to model herself on a likely sex worker.
 
-It seems especially prudish, here, given that [Dolly Parton](https://en.wikipedia.org/wiki/Dolly_Parton)---maybe one of the least-objectionable people in the public sphere, and has remained so for well over sixty years---has *always* talked openly about how she based her signature look on a woman in her hometown identified as a sex worker, calling her the most glamorous person who she had seen.
+It seems especially prudish, here, given that {% wiki Dolly_Parton|Dolly Parton|en %}---maybe one of the least-objectionable people in the public sphere, and has remained so for well over sixty years---has *always* talked openly about how she based her signature look on a woman in her hometown identified as a sex worker, calling her the most glamorous person who she had seen.
 
  > **PICARD**: Oh, very good. I've read all this before, you know. It's absolutely as it should be.
 
@@ -250,7 +250,7 @@ In superhero stories, writers justify adjusting the "danger level" as giving the
 
  > **REDBLOCK**: Good day, Mister Hill. My name is Cyrus Redblock. I hope you don't mind us dropping in.
 
-You might recognize Redblock as [Lawrence Tierney](https://en.wikipedia.org/wiki/Lawrence_Tierney), who built a career playing rough criminals, starting with [John Dillinger](https://en.wikipedia.org/wiki/John_Dillinger).
+You might recognize Redblock as {% wiki Lawrence_Tierney|Lawrence Tierney|en %}, who built a career playing rough criminals, starting with {% wiki John_Dillinger|John Dillinger|en %}.
 
  > **LEECH**: Where were you hatched, anyway?
  >

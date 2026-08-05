@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,7 +33,7 @@ We probably won't get much out of this episode beyond some shoddy old-age prosth
 
  > Captain's log, stardate 41309.5. We are in orbit around Persephone V, where I have been sent to confer with Admiral Mark Jameson in regard to an extraordinary situation.
 
-In Greek mythology, Hades kidnapped [Persephone](https://en.wikipedia.org/wiki/Persephone).  While trapped in the after-world, she accepted some food, forever tying her to the afterworld for half the year, her mother Demeter's grief serving as a metaphor for the changing seasons.  While no star has her name, you can probably see the connection to the story...or at least the title.
+In Greek mythology, Hades kidnapped {% wiki Persephone|Persephone|en %}.  While trapped in the after-world, she accepted some food, forever tying her to the afterworld for half the year, her mother Demeter's grief serving as a metaphor for the changing seasons.  While no star has her name, you can probably see the connection to the story...or at least the title.
 
  > **JAMESON**: Let's see it, Captain.
  >
@@ -45,11 +45,11 @@ Wait.  They show recordings on their viewer to show it to a third party who they
 
 Six *Earth* days?  B-but why would some random planet unrelated to the Federation measure time based on Earth?
 
-Meanwhile, "Mordan" might get its name from the [silversmith inventor of the mechanical pencil](https://en.wikipedia.org/wiki/Sampson_Mordan) or the [Iranian village](https://en.wikipedia.org/wiki/Murdan,_Narmashir).  Maybe slightly more likely, in that some people would actually recognize the word, a [mordant](https://en.wikipedia.org/wiki/Mordant) bind dyes to fabrics.  None of those sound like they have anything to do with the episode, though, so probably "no" on all counts.
+Meanwhile, "Mordan" might get its name from the {% wiki Sampson_Mordan|silversmith inventor of the mechanical pencil|en %} or the {% wiki Murdan,_Narmashir|Iranian village|en %}.  Maybe slightly more likely, in that some people would actually recognize the word, a {% wiki Mordant|mordant|en %} bind dyes to fabrics.  None of those sound like they have anything to do with the episode, though, so probably "no" on all counts.
 
 If we have a typo, here, and they meant "Morden," instead, that adds a bunch of people and small towns to the list of possibilities, but given that the uses of the name still lie about a decade in the future, neither the **Babylon 5** character nor the minor planet would make likely options.
 
-Oh, finally, you might recognize Karnas as [Michael Pataki](https://en.wikipedia.org/wiki/Michael_Pataki), most clearly (for us) as the provocateur Korax in [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}), suggesting that someone tow the *Enterprise* away as garbage.
+Oh, finally, you might recognize Karnas as {% wiki Michael_Pataki|Michael Pataki|en %}, most clearly (for us) as the provocateur Korax in [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}), suggesting that someone tow the *Enterprise* away as garbage.
 
  > **JAMESON**: My wife, Anne. Captain, there are certain details of this mission that you should understand before we begin.
 
@@ -75,7 +75,7 @@ Let's take this a step further:  Did he believe that he could pull off this tran
 
 It sounds like Federation science hasn't stopped cognitive decline, though I don't believe that anybody has mentioned this before now in the franchise, despite meeting several characters Jameson's age or older.  It also strikes me as odd, because the National Institute of Health [lists medical reasons for memory loss](https://www.nia.nih.gov/health/do-memory-problems-always-mean-alzheimers-disease), as do other lists from commercial institutions, and they all seem like things that Federation science would treat, beyond those that even *our* science can treat.
 
-Those causes that don't seem like they would have straightforward future solutions include diseases, such as [dementia](https://en.wikipedia.org/wiki/Dementia) and [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease)---someone even [announced a breakthrough](https://www.futurity.org/?p=2792402) *this week*, in our world---suggesting that the Federation hasn't done much work to mitigating them.
+Those causes that don't seem like they would have straightforward future solutions include diseases, such as {% wiki Dementia|dementia|en %} and {% wiki Alzheimer%27s_disease|Alzheimer's disease|en %}---someone even [announced a breakthrough](https://www.futurity.org/?p=2792402) *this week*, in our world---suggesting that the Federation hasn't done much work to mitigating them.
 
  > **PICARD**: That is an observation I'd expect from Counselor Troi.
 
@@ -97,7 +97,7 @@ Note Picard (once again) bristling at the possibility of someone not recognizing
  >
  > **PICARD**: Yes, I've heard of that story. It's a myth.
 
-You might know [Cerberus](https://en.wikipedia.org/wiki/Cerberus) as the multi-headed dog that guards the gates to the underworld, the second overt reference to Greek mythology and its underworld in this episode, after Persephone.  They dropped a consonant, though whether that comes from Federation culture or lack of research by the writers, I couldn't tell you.
+You might know {% wiki Cerberus|Cerberus|en %} as the multi-headed dog that guards the gates to the underworld, the second overt reference to Greek mythology and its underworld in this episode, after Persephone.  They dropped a consonant, though whether that comes from Federation culture or lack of research by the writers, I couldn't tell you.
 
 Also, contrast Picard's outright dismissal of Jameson's story, here, with his lecturing Data in [*Haven*]({% post_url 2022-07-28-haven %}) about legends often coming true.
 
@@ -125,13 +125,13 @@ Apparently, Jameson comes from an era similar to the original series, where peop
 
  > **PICARD**: He is the Admiral, Karnas. Before he left on this mission, he administered an overdose of an alien de-aging drug to himself. He wanted to face you with strength again, on even terms. This is what the drug has done to him.
 
-You might remember that I mentioned the 1980s obsession with the War on Drugs with [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}).  This takes more of an [after-school special](https://en.wikipedia.org/wiki/After_school_special) approach to it, demanding that we look Jameson's consequences in the face.
+You might remember that I mentioned the 1980s obsession with the War on Drugs with [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}).  This takes more of an {% wiki After_school_special|after-school special|en %} approach to it, demanding that we look Jameson's consequences in the face.
 
 This also---sloppily, I should say---ties together the Persephone myth, here, if you don't mind squinting and cocking your head to the left.  Karnas contrives to lure Jameson to Mordan, maybe derived from the Latin [*mortuus*](https://en.wiktionary.org/wiki/mortuus), "dead."  Feeling forced to return, he ingests the forbidden fruit, seeking to defy his mortality, but mortality always wins.
 
  > **PICARD**: Forty five years ago he made the wrong decision. He wanted to come here to somehow right it, to atone for what he did. Now all he can do is to give himself up to you. He brought this retribution on himself.
 
-Here, we see Picard working to defend not only an admitted violation of the Prime Directive---the name implying that it still has some importance---but arguable war crimes, [perfidy](https://en.wikipedia.org/wiki/Perfidy) and enabling or conspiring to commit many other war crimes.  And not only that, but he wants to defend it on the basis that Jameson wanted to "right" his war crimes...with a covert raid intent on, as I mentioned, a military coup over a foreign government.
+Here, we see Picard working to defend not only an admitted violation of the Prime Directive---the name implying that it still has some importance---but arguable war crimes, {% wiki Perfidy|perfidy|en %} and enabling or conspiring to commit many other war crimes.  And not only that, but he wants to defend it on the basis that Jameson wanted to "right" his war crimes...with a covert raid intent on, as I mentioned, a military coup over a foreign government.
 
  > **PICARD**: The hostages have been freed by Karnas, unharmed, and the body of Admiral Mark Jameson has been buried on Mordan, at the request of his widow and by the permission of Karnas. The quest for youth, Number One. So futile. Age and wisdom have their graces too.
 

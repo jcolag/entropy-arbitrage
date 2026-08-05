@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,7 +33,7 @@ This episode at least tries to pay off the story seeds planted in [*Coming of Ag
 
  > First officer's log, stardate 41775.5. We are en route to the ocean world of Pacifica. While our mission is scientific in nature, we look forward to the warm blue waters and fine beaches that make Pacifica a jewel of the galaxy.
 
-I assume that I don't need to actually explain that an ocean world named "Pacifica" almost certainly gets its name from the [Pacific Ocean](https://en.wikipedia.org/wiki/Pacific_Ocean).
+I assume that I don't need to actually explain that an ocean world named "Pacifica" almost certainly gets its name from the {% wiki Pacific_Ocean|Pacific Ocean|en %}.
 
  > **LAFORGE**: So the guy staggers to his feet and goes back to the girl, right? Well, she smiles, looks him right in the eye and says 'just try that in hyperspace!'
  >
@@ -47,7 +47,7 @@ I should draw a distinction on that point, by the way.  I take it for granted th
 
  > **DATA**: Dytallix B is one of seven uninhabited planets mined for the Federation by the Dytallix Mining Company. It is in the nearby Mira system.
 
-The name doesn't appear to have any meaning, but it serves to make the point that private companies still exist, and they still own entire planets.  Oh, and you might better recognize Mira, though, as [Omicron Ceti](https://en.wikipedia.org/wiki/Mira).
+The name doesn't appear to have any meaning, but it serves to make the point that private companies still exist, and they still own entire planets.  Oh, and you might better recognize Mira, though, as {% wiki Mira|Omicron Ceti|en %}.
 
  > **PICARD**: Mister La Forge, chart a course for it immediately. Warp seven. And there will be no records or logs mentioning any aspect of this diversion.
 
@@ -57,13 +57,13 @@ The fact that Starfleet has a system for preventing tasks from showing up in rec
  >
  > **DATA**: The third is just coming into range now, sir. It is Ambassador Class heavy cruiser, USS *Horatio*.
 
-This episode doesn't go in for subtlety, I guess.  Especially if you live in the United States, you probably recognize [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) as the author of pamphlets advocating for war against Great Britain, for independence of the American colonies.  The boy's name Horatio could refer to any number of historical figures or fictional characters, but the lack of a surname suggests that this probably refers to [the minor character in **Hamlet**](https://en.wikipedia.org/wiki/Horatio_%28Hamlet%29), itself a story about a man who plots to murder the king; the name appears to come from the Latin for "rational speaker," though not everyone agrees on that.  And the term "renegade" refers to someone who betrays their cause or society in general.  I don't believe that we ever hear from Rixx again, so I assume that he goes back home to become a revolutionary leader, given what happens to the other two captains.
+This episode doesn't go in for subtlety, I guess.  Especially if you live in the United States, you probably recognize {% wiki Thomas_Paine|Thomas Paine|en %} as the author of pamphlets advocating for war against Great Britain, for independence of the American colonies.  The boy's name Horatio could refer to any number of historical figures or fictional characters, but the lack of a surname suggests that this probably refers to {% wiki Horatio_%28Hamlet%29|the minor character in **Hamlet**|en %}, itself a story about a man who plots to murder the king; the name appears to come from the Latin for "rational speaker," though not everyone agrees on that.  And the term "renegade" refers to someone who betrays their cause or society in general.  I don't believe that we ever hear from Rixx again, so I assume that he goes back home to become a revolutionary leader, given what happens to the other two captains.
 
-As for the types of ships, while the names drift around in usages, [frigates](https://en.wikipedia.org/wiki/Frigate) generally escort and protect military convoys, and [heavy cruisers](https://en.wikipedia.org/wiki/Heavy_cruiser) (when they exist) tend to represent the "big guns" of the fleet, fast and well-armed.  Despite [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}), they've never made it clear what the *Enterprise* exists to do, but everybody else at this meeting commands a warship.
+As for the types of ships, while the names drift around in usages, {% wiki Frigate|frigates|en %} generally escort and protect military convoys, and {% wiki Heavy_cruiser|heavy cruisers|en %} (when they exist) tend to represent the "big guns" of the fleet, fast and well-armed.  Despite [*Encounter at Farpoint*]({% post_url 2022-05-19-farpoint1 %}), they've never made it clear what the *Enterprise* exists to do, but everybody else at this meeting commands a warship.
 
  > **PICARD**: Tau Ceti III. It was a bar. Quite an exotic one as I remember. What do I win?
 
-We last heard mention of [Tau Ceti](https://en.wikipedia.org/wiki/Tau_Ceti) in [*Space Seed*]({% post_url 2020-06-11-seed %}), which strikes me as interesting, given where this episode goes, and given that Omicron Ceti got an indirect mention, earlier.  In that episode, Sulu speculates that the *Botany Bay* planned to travel there instead of Alpha Ceti.  Since this episode aired, we have discovered at least four planets (plus a debris disk and four more unconfirmed planets) orbiting that star.
+We last heard mention of {% wiki Tau_Ceti|Tau Ceti|en %} in [*Space Seed*]({% post_url 2020-06-11-seed %}), which strikes me as interesting, given where this episode goes, and given that Omicron Ceti got an indirect mention, earlier.  In that episode, Sulu speculates that the *Botany Bay* planned to travel there instead of Alpha Ceti.  Since this episode aired, we have discovered at least four planets (plus a debris disk and four more unconfirmed planets) orbiting that star.
 
  > **KEEL**: Do you recall the night you introduced Jack Crusher to Beverly?
  >
@@ -147,7 +147,7 @@ Did Picard just...complain about gun control laws?
 
  > **AARON**: Please, sit down, Captain. We've been waiting. Go ahead and start, Captain. We don't stand on ceremony here. Oh, do eat up, Picard. Raise your hand if you want seconds.
 
-I have to laugh at the disgust on Picard's face, here, as if hundreds of millions of people don't eat [mealworms](https://en.wikipedia.org/wiki/Mealworm) every day.  While in the 1980s, it served to "other" these characters---along with anybody in the audience who eats mealworms---but today, it dramatically underscores Picard's thorough sense of his own superiority, seeing this meal as something beneath his dignity.
+I have to laugh at the disgust on Picard's face, here, as if hundreds of millions of people don't eat {% wiki Mealworm|mealworms|en %} every day.  While in the 1980s, it served to "other" these characters---along with anybody in the audience who eats mealworms---but today, it dramatically underscores Picard's thorough sense of his own superiority, seeing this meal as something beneath his dignity.
 
  > **PICARD**: What race are you? Where are you from?
  >

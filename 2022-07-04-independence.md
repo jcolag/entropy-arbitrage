@@ -13,13 +13,13 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today celebrates [Independence Day](https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29) in the United States, maybe explaining why much of the business world goes dark.  Coincidentally [Abkhazia](https://en.wikipedia.org/wiki/Abkhazia), the [Northern Mariana Islands](https://en.wikipedia.org/wiki/Northern_Mariana_Islands), [Rwanda](https://en.wikipedia.org/wiki/Rwanda), and the [Philippines](https://en.wikipedia.org/wiki/Philippines) all celebrate similar holidays.  You find a variety of national celebrations, this time of year; I have no proof, but I *suspect* that they might all trace to some ancient solstice celebration involving color and fire---translating to fireworks---plus parades.
+Today celebrates {% wiki Independence_Day_%28United_States%29|Independence Day|en %} in the United States, maybe explaining why much of the business world goes dark.  Coincidentally {% wiki Abkhazia|Abkhazia|en %}, the {% wiki Northern_Mariana_Islands|Northern Mariana Islands|en %}, {% wiki Rwanda|Rwanda|en %}, and the {% wiki Philippines|Philippines|en %} all celebrate similar holidays.  You find a variety of national celebrations, this time of year; I have no proof, but I *suspect* that they might all trace to some ancient solstice celebration involving color and fire---translating to fireworks---plus parades.
 
 ![Children of various ethnicities from around the United States and then-territories celebrate Independence Day outside the Capitol, next to Uncle Sam and Columbia](/blog/assets/American-1902-Fourth-of-July-fireworks.png "I don't know if the Filipino kid mortifies me or impresses me.")
 
 It seems unlikely, after all, that so many countries (and would-be countries) celebrate their identity so near to the start of summer.
 
-That said, given the Supreme Court's absolute rampage over the last couple of weeks, I imagine that many American readers might feel somewhat less than fully patriotic.  For those of us in that state, while I mentioned it last year around this time, I encourage you listen to a reading of [What to the Slave Is the Fourth of July?](https://en.wikipedia.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F) by Frederick Douglass.
+That said, given the Supreme Court's absolute rampage over the last couple of weeks, I imagine that many American readers might feel somewhat less than fully patriotic.  For those of us in that state, while I mentioned it last year around this time, I encourage you listen to a reading of {% wiki What_to_the_Slave_Is_the_Fourth_of_July%3F|What to the Slave Is the Fourth of July?|en %} by Frederick Douglass.
 
 <iframe
   allowfullscreen
@@ -51,7 +51,7 @@ To break myself out of a rut, I started work on a new---and simple...at least, i
  * You might recognize the name mystic square, in relation to puzzles and games.
  * The JavaScript code does something specific on loading the page, which seems unrelated to the other items, but might explain the **T**.
  * The HTML currently has a familiar-looking layout, also potentially relating to the **T** in the name.
- * It probably doesn't qualify as a clue, but so that nobody stresses over fitting in the reference, we use [T-squares](https://en.wikipedia.org/wiki/T-square) for drawing horizontal lines on a drafting table.
+ * It probably doesn't qualify as a clue, but so that nobody stresses over fitting in the reference, we use {% wiki T-square|T-squares|en %} for drawing horizontal lines on a drafting table.
 
 Each of those three pieces will feed into what I envision as a two-player game, probably mostly against a bare-bones artificial opponent, but maybe eventually online.
 

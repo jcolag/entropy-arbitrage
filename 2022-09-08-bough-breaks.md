@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,13 +37,13 @@ Don't expect much out of this episode...in any sense.
 
 This reflects a common science fiction trope, that the future will either make learning so easy or have such rough academic requirements, that elementary schools will teach what we currently think of as college-level courses.
 
-Here, [calculus](https://simple.wikipedia.org/wiki/Calculus) studies how to describe how things change as a function of some variable.  While we currently do typically teach it at the college level, that positioning has more to do with the inane way that we teach math as a "ladder" of subjects, where we teach entire years of math *just* so the students can understand the proofs (that they won't care about) anywhere from one to six years later.  But young children could probably understand the concepts behind calculus---for example, envisioning when and where to stand to catch a thrown ball---which an instructor could then use as the pretext to teach useful aspects of algebra, geometry, and trigonometry.
+Here, {% wiki Calculus|calculus|simple %} studies how to describe how things change as a function of some variable.  While we currently do typically teach it at the college level, that positioning has more to do with the inane way that we teach math as a "ladder" of subjects, where we teach entire years of math *just* so the students can understand the proofs (that they won't care about) anywhere from one to six years later.  But young children could probably understand the concepts behind calculus---for example, envisioning when and where to stand to catch a thrown ball---which an instructor could then use as the pretext to teach useful aspects of algebra, geometry, and trigonometry.
 
 However, I don't think the writers had that in mind.  I think they meant that science fiction means that kids learn things that they failed to understand in college...
 
  > **LAFORGE**: The Epsilon Mynos system, sir.
 
-One assumes that they meant "Mynos" to refer to [Minos](https://en.wikipedia.org/wiki/Minos), the mythical king of Crete, who periodically sacrificed children to the Minotaur.  In other words, the crew has no excuse to not see this plot coming, at this point.  Somebody named the entire *constellation* to warn them.
+One assumes that they meant "Mynos" to refer to {% wiki Minos|Minos|en %}, the mythical king of Crete, who periodically sacrificed children to the Minotaur.  In other words, the crew has no excuse to not see this plot coming, at this point.  Somebody named the entire *constellation* to warn them.
 
  > **RIKER**: Aldea. Tasha, I'm surprised you haven't heard the stories about Aldea, the wondrous mythical world. Like Atlantis of ancient Earth or Neinman of Xerxes VII. Advanced culture, centuries old. Self-contained, peaceful. Incredible technical sophistication providing the daily needs for all the citizens, so that they could turn themselves over to art and culture.
 
@@ -51,13 +51,13 @@ I like how Picard just glares at Riker as he lectures everyone, because you know
 
 Meanwhile, the word [aldea](https://en.wiktionary.org/wiki/aldea), from a bunch of Romance languages, refers to a small, rural town.
 
-[Xerxes](https://en.wikipedia.org/wiki/Xerxes_I) probably refers to the early Persian leader whose forces invaded Greece, though others have had the name, as well.  Apparently, a planet orbiting a star named for him has a legend about an Atlantis-style lost continent, which may imply that the dominant culture draws from the German, since *neinmann* would (poorly) translate to "no man," suggesting a place that nobody lives, like [utopia](https://en.wiktionary.org/wiki/utopia) comes from Greek roots for "not a place."  However, you might remember that the adaptation of [*The City on the Edge of Forever*]({% post_url 2020-07-23-edge %}) quietly slipped in Atlantis as historical fact shown by the Guardian.
+{% wiki Xerxes_I|Xerxes|en %} probably refers to the early Persian leader whose forces invaded Greece, though others have had the name, as well.  Apparently, a planet orbiting a star named for him has a legend about an Atlantis-style lost continent, which may imply that the dominant culture draws from the German, since *neinmann* would (poorly) translate to "no man," suggesting a place that nobody lives, like [utopia](https://en.wiktionary.org/wiki/utopia) comes from Greek roots for "not a place."  However, you might remember that the adaptation of [*The City on the Edge of Forever*]({% post_url 2020-07-23-edge %}) quietly slipped in Atlantis as historical fact shown by the Guardian.
 
 Finally, let's notice that Riker actually tries to demean Yar for not knowing an improbable story, knowing full well that she had an abusive childhood on the streets.  I point this out, because our culture often (accidentally) encourages this, questioning people when they don't know about things, as if everybody would have an identical background.
 
  > **RASHELLA**: I am Rashella. Welcome to Aldea.
 
-You might recognize Rashella as [Brenda Strong](https://en.wikipedia.org/wiki/Brenda_Strong), who definitely has a "mainstream" aspect to her career, in sitcoms and prime-time dramas, but also spends a lot of her time in "genre" television, most recently as Lex Luthor's mother on **Supergirl**.
+You might recognize Rashella as {% wiki Brenda_Strong|Brenda Strong|en %}, who definitely has a "mainstream" aspect to her career, in sitcoms and prime-time dramas, but also spends a lot of her time in "genre" television, most recently as Lex Luthor's mother on **Supergirl**.
 
  > **PICARD**: I am Jean-Luc Picard, Captain of the USS Enterprise. We come in peace.
 
@@ -119,7 +119,7 @@ Once again, Picard has decided to lie to a random alien in hopes of an advantage
  >
  > **PICARD**: The shield that protected your world in one way is weakening it in another. It is the radiation of your own sun that is destroying you.
 
-While this probably sounds effectively meaningless to my younger readers, this period's big, looming existential crisis involved [depletion of the ozone layer](https://en.wikipedia.org/wiki/Ozone_depletion).  In fact, as **The Next Generation** launched, most countries had recently signed on to the [Montreal Protocol](https://en.wikipedia.org/wiki/Montreal_Protocol), often described as the most successful environmental treaty in history...explaining why you younger folks have no idea why they dedicated so much of this script to ozone-shaming.
+While this probably sounds effectively meaningless to my younger readers, this period's big, looming existential crisis involved {% wiki Ozone_depletion|depletion of the ozone layer|en %}.  In fact, as **The Next Generation** launched, most countries had recently signed on to the {% wiki Montreal_Protocol|Montreal Protocol|en %}, often described as the most successful environmental treaty in history...explaining why you younger folks have no idea why they dedicated so much of this script to ozone-shaming.
 
 ## Conclusions
 

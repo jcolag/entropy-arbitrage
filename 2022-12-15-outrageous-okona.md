@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,13 +33,13 @@ I find this episode painful, so let's limit ourselves to getting through it in o
 
  > Captain's log, Stardate 42402.7. We are travelling in the Omega Sagitta system traversing between twin planets that form the Coalition of Madena. Both worlds are populated by a humanoid race which colonized the planets two centuries ago, and which now co-exist under a precarious but successful treaty.
 
-I prepared myself to hypothesize about what the name might refer to, but no, the constellation [Sagitta](https://en.wikipedia.org/wiki/Sagitta) does, in fact, exist.  However, we don't appear to refer to any of the stars as *omega*.  If you forced me to guess, I'd probably go with the star at the center of [Abell 63](https://en.wikipedia.org/wiki/Abell_63), the nebula that we also call UU Sagita (UU Sge), since the double-U resembles a lowercase omega enough that I could see someone making that mistake---either the writers or centuries of astronomers transcribing data---and it looks like roughly the right magnitude.
+I prepared myself to hypothesize about what the name might refer to, but no, the constellation {% wiki Sagitta|Sagitta|en %} does, in fact, exist.  However, we don't appear to refer to any of the stars as *omega*.  If you forced me to guess, I'd probably go with the star at the center of {% wiki Abell_63|Abell 63|en %}, the nebula that we also call UU Sagita (UU Sge), since the double-U resembles a lowercase omega enough that I could see someone making that mistake---either the writers or centuries of astronomers transcribing data---and it looks like roughly the right magnitude.
 
 "Madena" shows up as a surname around the world, though I can't find anybody who they might have specifically referenced.
 
  > **OKONA**: And this is the cargo carrier *Erstwhile*. Captain Okona at your service, sir. There's no need for your phasers, Captain. I'm harmless and not quite yet ready for mercy killing.
 
-You may recognize Okona---or his rump, in this particular scene---as [Billy Campbell](https://en.wikipedia.org/wiki/Billy_Campbell), who would go on to star in the film adaptation of **The Rocketeer**, **The 4400**, and quite a bit more.  Most recently, you may have heard his voice as the father (and the original character's...grandson?) on **The Rocketeer** cartoon, as well as reprising the role of Okona about a month ago (as this post goes out) in the **Prodigy** episode *Crossroads*.  They apparently credited him here as "William O. Campbell," as a tribute to and to distinguish him from the William Campbell who we know from [*The Squire of Gothos*]({% post_url 2020-05-07-squire %}) as Trelane, and [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}) as Koloth.
+You may recognize Okona---or his rump, in this particular scene---as {% wiki Billy_Campbell|Billy Campbell|en %}, who would go on to star in the film adaptation of **The Rocketeer**, **The 4400**, and quite a bit more.  Most recently, you may have heard his voice as the father (and the original character's...grandson?) on **The Rocketeer** cartoon, as well as reprising the role of Okona about a month ago (as this post goes out) in the **Prodigy** episode *Crossroads*.  They apparently credited him here as "William O. Campbell," as a tribute to and to distinguish him from the William Campbell who we know from [*The Squire of Gothos*]({% post_url 2020-05-07-squire %}) as Trelane, and [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}) as Koloth.
 
  > **OKONA**: A Klingon security officer.
  >
@@ -53,7 +53,7 @@ Plus, nobody corrects him, so we have bias against Klingons, either way.
 
  > **ROBINSON**: Well, I'm sure that you've said that to many ladies before, and it was no more true then than it is now.
 
-While not credited, because they apparently cut most of her dialogue, you might recognize Robinson as [Teri Hatcher](https://en.wikipedia.org/wiki/Teri_Hatcher), whose career would go on to star as Lois Lane for a few years, then go on to a *lot* more success than this little part.
+While not credited, because they apparently cut most of her dialogue, you might recognize Robinson as {% wiki Teri_Hatcher|Teri Hatcher|en %}, whose career would go on to star as Lois Lane for a few years, then go on to a *lot* more success than this little part.
 
  > **RIKER**: Mister Okona seems to have excellent vision as well as a healthy libido.
 
@@ -67,21 +67,21 @@ We rarely see overt statements about the Federations pop culture, so this Orega 
 
  > **COMPUTER**: Accessing.
 
-You might recognize several of the names on the computer's list, not because of their comedy fame, but because they show up in the show's credits.  I'll call the character that Data goes with "Comic," but based on the display, the original version called himself [Ronald D. Moore](https://en.wikipedia.org/wiki/Ronald_D._Moore).
+You might recognize several of the names on the computer's list, not because of their comedy fame, but because they show up in the show's credits.  I'll call the character that Data goes with "Comic," but based on the display, the original version called himself {% wiki Ronald_D._Moore|Ronald D. Moore|en %}.
 
  > **COMIC**: Thank you ladies and gentlemen. Thank you very much. You've been great. As a matter of fact, I'd like to take you home with me. Unfortunately, I took the last audience home, and there's no more room. Boom, boom. But thank you, really. Thank you. Hey, and thank you, for bringing me here. What's up?
 
-You might recognize the comic as [Joe Piscopo](https://en.wikipedia.org/wiki/Joe_Piscopo), who spent a few years on **Saturday Night Live** (among other shows and films) and his run as a right-wing talk radio host.
+You might recognize the comic as {% wiki Joe_Piscopo|Joe Piscopo|en %}, who spent a few years on **Saturday Night Live** (among other shows and films) and his run as a right-wing talk radio host.
 
 As far as I can tell, no actual Charnock's exists, and they named it for one of the artists on the crew.
 
  > **COMIC**: Funny? I don't know. It's a matter of opinion, I guess. Tip O'Neill in a dress? Some people say words that end with a K are funny. A briefcase that looks like a fish. Personally I find that hysterical.
 
-You can read up on [Tip O'Neill](https://en.wikipedia.org/wiki/Tip_O%27Neill)'s extensive political career on your own time, though I will point out that he made quite a few appearances in comedies as himself.  Data characterizes him as overweight, which I can't confirm in any pictures that I've seen.
+You can read up on {% wiki Tip_O%27Neill|Tip O'Neill|en %}'s extensive political career on your own time, though I will point out that he made quite a few appearances in comedies as himself.  Data characterizes him as overweight, which I can't confirm in any pictures that I've seen.
 
  > **COMIC**: All right, you're on. Jerry Lewis.
 
-I assume that everybody has at least *heard* of [Jerry Lewis](https://en.wikipedia.org/wiki/Jerry_Lewis), the highly problematic so-called King of Comedy who partnered for decades with [Dean Martin](https://en.wikipedia.org/wiki/Dean_Martin), and who used annual telethons to raise billions of dollars for the [Muscular Dystrophy Association](https://en.wikipedia.org/wiki/Muscular_Dystrophy_Association).
+I assume that everybody has at least *heard* of {% wiki Jerry_Lewis|Jerry Lewis|en %}, the highly problematic so-called King of Comedy who partnered for decades with {% wiki Dean_Martin|Dean Martin|en %}, and who used annual telethons to raise billions of dollars for the {% wiki Muscular_Dystrophy_Association|Muscular Dystrophy Association|en %}.
 
  > **DATA**: That does not apply. I simply want to know what is funny. I want to be able to involve myself in other people's laughter. I wish to join in.
 
@@ -105,7 +105,7 @@ We have a new twist on an old favorite, here.  Usually, we see Picard angry that
 
  > **RIKER**: Shades of Gulliver's Travels. He actually meant it.
 
-Riker likens the legitimate governmental authority of this place to [**Gulliver's Travels**](https://en.wikipedia.org/wiki/Gulliver%27s_Travels), presumably the adventure on [Lilliput](https://en.wikipedia.org/wiki/Lilliput_and_Blefuscu), where the people stand at around five or six inches tall.
+Riker likens the legitimate governmental authority of this place to {% wiki Gulliver%27s_Travels|**Gulliver's Travels**|en %}, presumably the adventure on {% wiki Lilliput_and_Blefuscu|Lilliput|en %}, where the people stand at around five or six inches tall.
 
 More interesting than the cultural reference, though, notice that despite starring in a franchise at its best when doing social satire stories, Riker only knows one of the most prominent English-language works of social satire superficially.  He understands the straightforward jokes about the power imbalance, but overlooks the behavior of the Lilliputians, who don't sound too different from the Federation.  They hold unnecessary grudges against rival powers.  They don't know how to resolve petty differences in opinion between factions.  And when they encounter somebody strange, such as Gulliver, they lead with violence.
 
@@ -157,7 +157,7 @@ I feel like we've seen plenty of counter-evidence for this in the franchise...
 
 Do they want us to believe that Data *accidentally* repeated a classic joke?
 
-Anyway, he makes reference to [George Burns](https://en.wikipedia.org/wiki/George_Burns) and [Gracie Allen](https://en.wikipedia.org/wiki/Gracie_Allen), who we previously discussed along with [**The Voyage Home**]({% post_url 2022-04-07-tvh %}).  They signed off their shows with Burns instructing Allen to "say goodnight, Gracie," to which she'd reply "goodnight, Gracie."
+Anyway, he makes reference to {% wiki George_Burns|George Burns|en %} and {% wiki Gracie_Allen|Gracie Allen|en %}, who we previously discussed along with [**The Voyage Home**]({% post_url 2022-04-07-tvh %}).  They signed off their shows with Burns instructing Allen to "say goodnight, Gracie," to which she'd reply "goodnight, Gracie."
 
 However, I find it more important to bring up the fact that, once again, we see the bridge as a classic hostile work environment, in the context of sexual harassment, with nobody having any concerns about people telling sex jokes on the job.  And the use of the word "girl" suggests a *minor*, which doesn't make this any more comfortable.
 

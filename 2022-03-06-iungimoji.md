@@ -15,7 +15,7 @@ proofed: true
 
 ![An Iungimoji game in progress](/blog/assets/iungimoji.png "Stage 2:  Force the player to write a story based on the emoji and the order they were revealed?")
 
-Sour grapes:  Admittedly, I have no interest in jumping on the [Wordle](https://en.wikipedia.org/wiki/Wordle) bandwagon, even though I *did* do it with my [Daily Nonogram]({% post_url 2021-02-21-nonogram %}) before anybody had ever considered playing [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows)---or whatever your local version might be---with words[^1].  I'm exaggerating for effect, of course.  Josh Wardle seems to be a nice guy who did a clever thing well-designed to become popular, and deserves the rewards that he's received.  It's a far cry from my approach of dumping out something with no feedback, mentioning it on my blog, and basically just tinkering with it for my use.
+Sour grapes:  Admittedly, I have no interest in jumping on the {% wiki Wordle|Wordle|en %} bandwagon, even though I *did* do it with my [Daily Nonogram]({% post_url 2021-02-21-nonogram %}) before anybody had ever considered playing {% wiki Bulls_and_Cows|Bulls and Cows|en %}---or whatever your local version might be---with words[^1].  I'm exaggerating for effect, of course.  Josh Wardle seems to be a nice guy who did a clever thing well-designed to become popular, and deserves the rewards that he's received.  It's a far cry from my approach of dumping out something with no feedback, mentioning it on my blog, and basically just tinkering with it for my use.
 
 Today, all of that...well, it doesn't actually change at all.  But I *am* releasing a [Daily 4x4 Pair-Matching Game](/iuengimoji), which I call **Iungimoji**, after the Latin verb "I connect/pair."  Oh, and it's also named for "emoji," obviously.  Latin verb conjugations can be irregular, but certainly not irregular enough to use the letter *j* centuries before it was added to anybody's alphabet.
 
@@ -31,4 +31,4 @@ And who knows?  Maybe someday, I'll revisit the code and have them save progress
 
 **Credits**:  The header image is a screenshot from the game.
 
-[^1]: OK, that's definitely a lie, since [Jotto](https://en.wikipedia.org/wiki/Jotto) is definitely something near two-thirds of a century old, which predates *anything* that I have ever done...
+[^1]: OK, that's definitely a lie, since {% wiki Jotto|Jotto|en %} is definitely something near two-thirds of a century old, which predates *anything* that I have ever done...

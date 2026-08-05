@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the 530<sup>th</sup> anniversary of the [Ensisheim meteorite](https://en.wikipedia.org/wiki/Ensisheim_meteorite) crash in France, important as Europe's oldest meteorite fall that still has preserved material *and* as the earliest meteorite fall for which we have a date.  Yes, as usual, we have to treat November as a month of anniversaries.
+Today marks the 530<sup>th</sup> anniversary of the {% wiki Ensisheim_meteorite|Ensisheim meteorite|en %} crash in France, important as Europe's oldest meteorite fall that still has preserved material *and* as the earliest meteorite fall for which we have a date.  Yes, as usual, we have to treat November as a month of anniversaries.
 
 ![A woodcut from the Chronicles of Nuremberg (1493) showing the meteorite landing in Ensisheim](/blog/assets/chronicles-nuremberg-ensisheim.png "We won't go into detail on the bizarre chain of custody on this rock...")
 

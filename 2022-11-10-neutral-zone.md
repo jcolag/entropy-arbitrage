@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -30,7 +30,7 @@ Rather than list every post in the series here, you can easily find them all on 
 
 ## The Neutral Zone
 
-If you lived in the United States at the time they produced this episode, you might *vaguely* remember that we had a lengthy and bitter [writers strike](https://en.wikipedia.org/wiki/1988_Writers_Guild_of_America_strike) looming.  It left the 1987--1988 television season producers scrambling to lock down their final scripts, and variously delayed the 1988--1989 season or caused producers to dig old or abandoned scripts out of their files.
+If you lived in the United States at the time they produced this episode, you might *vaguely* remember that we had a lengthy and bitter {% wiki 1988_Writers_Guild_of_America_strike|writers strike|en %} looming.  It left the 1987--1988 television season producers scrambling to lock down their final scripts, and variously delayed the 1988--1989 season or caused producers to dig old or abandoned scripts out of their files.
 
 That affects this episode, since they have clearly promised us a resolution to a long-term plot with this premise, and then basically forget about it.  And when we come back for the second season...well, you'll see its effects in full force, starting in two weeks.
 
@@ -38,7 +38,7 @@ I don't think that we'll mention it anywhere else, but this story borrows more t
 
  > **WORF**: At its present speed and heading, it will eventually enter the Kazi binary system and will certainly be destroyed. I could attach a tractor beam and adjust its heading.
 
-While the names [Kazi](https://en.wikipedia.org/wiki/Kazi_%28given_name%29), [Kasi](https://en.wikipedia.org/wiki/Kasi), and even [Qasi](https://en.wikipedia.org/wiki/Qazi_%28disambiguation%29) show up across the Celtic, Slavic, Iranian, South Asian, and Southeast Asian world, nothing stands out to me as "name for a solar system."
+While the names {% wiki Kazi_%28given_name%29|Kazi|en %}, {% wiki Kasi|Kasi|en %}, and even {% wiki Qazi_%28disambiguation%29|Qasi|en %} show up across the Celtic, Slavic, Iranian, South Asian, and Southeast Asian world, nothing stands out to me as "name for a solar system."
 
  > **DATA**: It is a piece of history. The opportunity to examine such an ancient vehicle does not come around very often, and as you pointed out, we do have the time.
 
@@ -92,7 +92,7 @@ However, if they mean us to see Worf as *more* alien than the ridged forehead, t
 
  > **DATA**: His name is Ralph Offenhouse, age fifty-five, occupation financier.
 
-You might recognize Offenhouse as [Mark Richman](https://en.wikipedia.org/wiki/Peter_Mark_Richman), who appeared almost everywhere on television for decades, but probably most prominently as Reverend Snow on **Three's Company**.
+You might recognize Offenhouse as {% wiki Peter_Mark_Richman|Mark Richman|en %}, who appeared almost everywhere on television for decades, but probably most prominently as Reverend Snow on **Three's Company**.
 
  > **DATA**: By your calendar two thousand, three hundred sixty-four.
 
@@ -108,9 +108,9 @@ Everybody finds his casual misogyny extremely amusing.  So much fun, right...?
 
  > **DATA**: Actually, the process of cryonics was never more than a fad, and did not continue much beyond the mid-twenty first century.
 
-Unless things change significantly, I would have to call this episode wildly optimistic about the state of [cryonics](https://en.wikipedia.org/wiki/Cryonics#History).  The total number of customers probably doesn't exceed two thousand people, with fewer than five hundred bodies currently preserved.  I'd hardly call that a fad, though *marketing* it became a mild fad in the 1980s.  And it honestly "did not continue much beyond the" first freezing in 1967.
+Unless things change significantly, I would have to call this episode wildly optimistic about the state of {% wiki Cryonics#History|cryonics|en %}.  The total number of customers probably doesn't exceed two thousand people, with fewer than five hundred bodies currently preserved.  I'd hardly call that a fad, though *marketing* it became a mild fad in the 1980s.  And it honestly "did not continue much beyond the" first freezing in 1967.
 
-That said, as always, *Star Trek*'s history may differ substantially, on occasion.  Cryonics companies on their Earth might have surpassed [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) by order's of magnitude, especially depending on how something like the Eugenics Wars shook out.
+That said, as always, *Star Trek*'s history may differ substantially, on occasion.  Cryonics companies on their Earth might have surpassed {% wiki Dunbar%27s_number|Dunbar's Number|en %} by order's of magnitude, especially depending on how something like the Eugenics Wars shook out.
 
  > **DATA**: I believe he means television, sir. That particular form of entertainment did not last much beyond the year two thousand, forty.
 
@@ -170,7 +170,7 @@ In fact, compare how Worf fumes about the Romulans with how Stiles did, in *Bala
 
  > **TEBOK**: I am Commander Tebok.
 
-You might recognize Tabok as [Marc Alaimo](https://en.wikipedia.org/wiki/Marc_Alaimo), who'll go on to spend a lot of time on **Deep Space Nine**.
+You might recognize Tabok as {% wiki Marc_Alaimo|Marc Alaimo|en %}, who'll go on to spend a lot of time on **Deep Space Nine**.
 
  > **TEBOK**: Captain Picard, because your actions are those of a thoughtful man, I'll tell you this. Matters more urgent caused our absence. Now, witness the result. Outposts destroyed, expansion of the Federation everywhere. Yes, we have indeed been negligent, Captain. But no more.
 
@@ -188,7 +188,7 @@ This episode seems out of left field, in many ways.  For example, most episodes 
 
 Again, looking at the timeline holistically for a moment, I wonder what the servants at Château Picard improve in themselves, while they clean up after his family or pick grapes.
 
-Yes, yes.  "But wait," I hear you cry from the back of the classroom.  "The Federation has replicators, making this a [post-scarcity economy](https://en.wikipedia.org/wiki/Post-scarcity_economy), so Picard must have his analysis straight, because everybody can get whatever food they like."
+Yes, yes.  "But wait," I hear you cry from the back of the classroom.  "The Federation has replicators, making this a {% wiki Post-scarcity_economy|post-scarcity economy|en %}, so Picard must have his analysis straight, because everybody can get whatever food they like."
 
 I hear you.  And that works on a superficial level, but look at *our* world, as a point of comparison, and buckle in for something of a rant.
 
@@ -198,7 +198,7 @@ Reaching beyond food, you might look at the clothing industry, where companies c
 
 Those examples don't even get to surplus with artificial scarcity applied.  Energy prices frequently rise purely because the oil-producing countries feel like they can gain politically by witholding reserves, so the actual amount of oil and capacity to refine it makes little difference to the price, even before we get to renewable energy generation.  Pharmaceutical companies take public money to fund research, then fiercely protect the patents of drugs while jacking up the prices, to protect "their" investments.  As I write this, we still have CEOs proudly telling their investors how they used news of minor inflation in early 2022 to raise prices for pure profit, creating much more significant inflation.  We could go on for a while, here, especially as we get into digital goods, such as books, software, access to databases, and so much more, or digital services like communication.
 
-In other words, we have the low-end version of replicators *today*:  [Overproduction](https://en.wikipedia.org/wiki/Overproduction).  If you know where to look, if you have the right kind of specialized access, then you can find almost anything that you might want lying around.  But a combination of pro-corporate laws, [rent-seeking](https://en.wikipedia.org/wiki/Rent-seeking) bottlenecks, poor allocation systems, and existing inequality arrange in a capitalist system to deprive certain people of what they need to survive, while making it look to the rest of us like we live in a materialistic utopia where material needs no longer exist.  If you don't believe me, go ask Alan Sugar.
+In other words, we have the low-end version of replicators *today*:  {% wiki Overproduction|Overproduction|en %}.  If you know where to look, if you have the right kind of specialized access, then you can find almost anything that you might want lying around.  But a combination of pro-corporate laws, {% wiki Rent-seeking|rent-seeking|en %} bottlenecks, poor allocation systems, and existing inequality arrange in a capitalist system to deprive certain people of what they need to survive, while making it look to the rest of us like we live in a materialistic utopia where material needs no longer exist.  If you don't believe me, go ask Alan Sugar.
 
 We could even push this further.  We don't know that civilians have access to replicators or transporters.  Assuming that the replicator literally converts energy to matter, that would require a lot of energy.  For example, one hundred grams of some undifferentiated protein sludge---to avoid thinking about the computational requirements of making "meat" that people can recognize---comes out a bit smaller than a quarter-pound meat patty, but would require just shy of nine thousand terajoules, which (assuming that I have the math right) would, if I have the math right, comes close to the current typical houshold energy usage for about twenty-four million years, or a tenth of all solar energy reaching Earth in one second...for a burger, with no bun, sides, or condiments.
 

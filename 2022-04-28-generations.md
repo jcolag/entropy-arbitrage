@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -46,7 +46,7 @@ We also see the various tools that a reporter of the era would use.
 
  > **HARRIMAN**: Excuse me, excuse me, excuse me. There will be plenty of time for questions later. I'm Captain John Harriman, and I'd like to welcome you all aboard.
 
-You probably already recognize Harriman as [Alan Ruck](https://en.wikipedia.org/wiki/Alan_Ruck).
+You probably already recognize Harriman as {% wiki Alan_Ruck|Alan Ruck|en %}.
 
  > **HARRIMAN**: I just want you to know how excited we all are to have a group of living legends with us on our maiden voyage. I remember reading about your missions when I was in grade school.
 
@@ -64,7 +64,7 @@ That interpretation also ignores the times that another member of the crew comma
  >
  > **CHEKOV**: Twelve years, sir.
 
-We don't know anything about Sulu's family situation prior to this, but this exchange tells us that this film probably takes place at least twelve years after we last saw the crew in **The Undiscovered Country**, rather than the three years between releases.  Actor [Jacqueline Kim](https://en.wikipedia.org/wiki/Jacqueline_Kim) would have been roughly twenty-nine years old at the time, though, so the intended timing depends on Sulu's unknown personal relationship.
+We don't know anything about Sulu's family situation prior to this, but this exchange tells us that this film probably takes place at least twelve years after we last saw the crew in **The Undiscovered Country**, rather than the three years between releases.  Actor {% wiki Jacqueline_Kim|Jacqueline Kim|en %} would have been roughly twenty-nine years old at the time, though, so the intended timing depends on Sulu's unknown personal relationship.
 
  > **CHEKOV**: I was never that young.
  >
@@ -88,7 +88,7 @@ I actually wouldn't find a comment like that particularly out of line, had it co
  >
  > **KIRK**: Take us out.
 
-The reaction gives an impression of how Starfleet has used Kirk as a symbol.  Imagine *anybody* since [Project Apollo](https://en.wikipedia.org/wiki/Apollo_program) commanding this kind of audience for such a straightforward and formal task.
+The reaction gives an impression of how Starfleet has used Kirk as a symbol.  Imagine *anybody* since {% wiki Apollo_program|Project Apollo|en %} commanding this kind of audience for such a straightforward and formal task.
 
  > **SCIENCE OFFICER**: The Lakul is one of two ships transporting El-Aurian refugees to Earth.
 
@@ -118,7 +118,7 @@ I mean, that worked out for most of the other films, though...
  >
  > **KIRK**: Don't tell me:  Tuesday.
 
-To start, we now know that the Federation's week looks a lot like ours, with a [Tuesday](https://en.wikipedia.org/wiki/Tuesday).  We also know that Starfleet officially launches new ships to great public acclaim days *before* they're actually ready.
+To start, we now know that the Federation's week looks a lot like ours, with a {% wiki Tuesday|Tuesday|en %}.  We also know that Starfleet officially launches new ships to great public acclaim days *before* they're actually ready.
 
  > **CHEKOV**: How many people were aboard that ship?
  >
@@ -142,15 +142,15 @@ It seems weird that Chekov just showed more leadership and compassion for endang
  >
  > **LIEUTENANT**: Sir, I'm having trouble locking onto them. They appear to be in some sort of temporal flux.
 
-The Lieutenant's actor is [Tim Russ](https://en.wikipedia.org/wiki/Tim_Russ), who would later star in **Voyager** as Tuvok.
+The Lieutenant's actor is {% wiki Tim_Russ|Tim Russ|en %}, who would later star in **Voyager** as Tuvok.
 
  > **SORAN**: You don't understand! Let me go back! Let me go back! Let me go back! Let me go back, please!
 
-You probably already recognize Soran as [Malcolm McDowell](https://en.wikipedia.org/wiki/Malcolm_McDowell), who generally plays villains of this type.
+You probably already recognize Soran as {% wiki Malcolm_McDowell|Malcolm McDowell|en %}, who generally plays villains of this type.
 
  > **GUINAN**: It's going to be okay.
 
-And you probably recognize Guinan as [Whoopi Goldberg](https://en.wikipedia.org/wiki/Whoopi_Goldberg).
+And you probably recognize Guinan as {% wiki Whoopi_Goldberg|Whoopi Goldberg|en %}.
 
  > **HARRIMAN**: I'll go. You have the bridge.
  >

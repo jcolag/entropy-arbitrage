@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the anniversary of the start of the [Cripple Creek Miners' Strike](https://en.wikipedia.org/wiki/Cripple_Creek_miners%27_strike_of_1894) in 1894, notable not just as a union victory, but also the only time in history---as the strike dragged on---that a United States state militia would be deployed in *support* of workers, rather than shooting at people to force them back to work.
+Today marks the anniversary of the start of the {% wiki Cripple_Creek_miners%27_strike_of_1894|Cripple Creek Miners' Strike|en %} in 1894, notable not just as a union victory, but also the only time in history---as the strike dragged on---that a United States state militia would be deployed in *support* of workers, rather than shooting at people to force them back to work.
 
 ![The town under martial law](/blog/assets/Cc_martiallaw.png "The modern world doesn't contain nearly enough of those small-wall-on-wheels gizmos...")
 
@@ -27,7 +27,7 @@ The changes were relatively light for the morning dashboard generator.
 
 The most important issue was adding "freezing rain" to the list of weather conditions that get identified in the daily bar graph.  Basically, I need to wait for these conditions to arise to see them get rejected---the code prints anything unrecognized---before the weather's name can be translated to a visual difference.  In this case, it's not perfect, but I use 🧊 the ice emoji.
 
-Beyond that, the documentation now explains the [QPF](https://en.wikipedia.org/wiki/Quantitative_precipitation_forecast) values, and I bumped a couple of libraries.
+Beyond that, the documentation now explains the {% wiki Quantitative_precipitation_forecast|QPF|en %} values, and I bumped a couple of libraries.
 
 ## Miniboost
 
@@ -35,7 +35,7 @@ Beyond that, the documentation now explains the [QPF](https://en.wikipedia.org/w
 
 My note-taking application needed a library bumped.
 
-Maybe more interestingly to people running Node.js applications, something changed on my system that began causing errors when running **Miniboost**, crashing the program before it could start.  Searching for the error message suggests that it's an [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL) issue, probably low on the technology stack, since nothing this program does involves encryption.
+Maybe more interestingly to people running Node.js applications, something changed on my system that began causing errors when running **Miniboost**, crashing the program before it could start.  Searching for the error message suggests that it's an {% wiki OpenSSL|OpenSSL|en %} issue, probably low on the technology stack, since nothing this program does involves encryption.
 
 The solution to the error is to set an environment variable, instructing libraries to use older versions of algorithms.
 
@@ -83,4 +83,4 @@ I'd like to play with some new user interface technologies, since it doesn't loo
 
 * * *
 
-**Credits**:  The header image is [Cripple Creek, Colo., under martial law, 1894](https://en.wikipedia.org/wiki/File:Cc_martiallaw.png) by Rastall, Benjamin McKie. University of Wisconsin, long in the public domain.
+**Credits**:  The header image is {% wiki File:Cc_martiallaw.png|Cripple Creek, Colo., under martial law, 1894|en %} by Rastall, Benjamin McKie. University of Wisconsin, long in the public domain.

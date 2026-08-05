@@ -14,9 +14,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today is the [International Day For Monuments and Sites](https://en.wikipedia.org/wiki/International_Day_For_Monuments_and_Sites)---also known as World Heritage Day---meant to draw attention to monuments and cultural heritage sites.
+Today is the {% wiki International_Day_For_Monuments_and_Sites|International Day For Monuments and Sites|en %}---also known as World Heritage Day---meant to draw attention to monuments and cultural heritage sites.
 
-If you don't find that worth celebrating, then you might also or instead find yourself mid-[Passover](https://en.wikipedia.org/wiki/Passover), recovering from [Easter](https://en.wikipedia.org/wiki/Easter), or observing [Ramadan](https://en.wikipedia.org/wiki/Ramadan), in which case, I hope that you have or had a great one.
+If you don't find that worth celebrating, then you might also or instead find yourself mid-{% wiki Passover|Passover|en %}, recovering from {% wiki Easter|Easter|en %}, or observing {% wiki Ramadan|Ramadan|en %}, in which case, I hope that you have or had a great one.
 
 ![The Great Wall of China](/blog/assets/Great-Wall-of-China.png "It feels like a grave historical injustice that Mongolia hasn't built The Awesome Ladder of the Eurasian Steppe as a tourist trap...")
 

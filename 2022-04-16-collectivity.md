@@ -51,7 +51,7 @@ In fact, others may not appreciate it as much as I do, but I think it's to the s
 
 The frustration that the various Collectivity members express feels like the best aspect of this entire breed of story, and I find it disappointing that I haven't really seen it in depth until now.  They variously vent---directly or abstractly---about the trigger-happy colleague who didn't abide by the consensus, the human attackers for assuming the worst, their colleagues for not coming to consensuses faster, and the human who can't decide whether he's a prisoner or a new recruit.
 
-It's also nice to see at least an *attempt* to show [consensus-based governance](https://en.wikipedia.org/wiki/Consensus_decision-making) and/or [holacracy](https://en.wikipedia.org/wiki/Holacracy) in action.
+It's also nice to see at least an *attempt* to show {% wiki Consensus_decision-making|consensus-based governance|en %} and/or {% wiki Holacracy|holacracy|en %} in action.
 
 ## What Works...Less Well?
 

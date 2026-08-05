@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -29,7 +29,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## The Schizoid Man
 
-I apologize for perpetuating the title, here, due to its unfortunate connotations.  Specifically, it comes from a *fairly* insulting term for a person with [schizophrenia](https://en.wikipedia.org/wiki/Schizophrenia), but now---to the extent that anybody uses it---stands in for what the popular imagination falsely sees as symptoms of schizophrenia, such as emotional coldness and flatness or multiple personalities.
+I apologize for perpetuating the title, here, due to its unfortunate connotations.  Specifically, it comes from a *fairly* insulting term for a person with {% wiki Schizophrenia|schizophrenia|en %}, but now---to the extent that anybody uses it---stands in for what the popular imagination falsely sees as symptoms of schizophrenia, such as emotional coldness and flatness or multiple personalities.
 
  > **PICARD**: Starfleet Command considers Graves' work on molecular cybernetics is reaching a critical stage. They consider this a priority one action.
 
@@ -51,7 +51,7 @@ He raises a legitimate point.  Starfleet ostensibly employs Troi in order to hel
 
  > **WESLEY**: Captain, I show the *Constantinople* in that general vicinity. She's a transport ship, used to ferry settlers. I'm showing two thousand and twelve colonists aboard.
 
-The transport takes its name from the Roman name for the now-Turkish city of [Istanbul](https://en.wikipedia.org/wiki/Istanbul), the 1930 change forming the basis of the [1953 novelty song](https://en.wikipedia.org/wiki/Istanbul_%28Not_Constantinople%29) that you've probably heard but maybe didn't realize came from 1953...
+The transport takes its name from the Roman name for the now-Turkish city of {% wiki Istanbul|Istanbul|en %}, the 1930 change forming the basis of the {% wiki Istanbul_%28Not_Constantinople%29|1953 novelty song|en %} that you've probably heard but maybe didn't realize came from 1953...
 
  > **TROI**: Now wait a minute. I don't understand---
  >
@@ -69,7 +69,7 @@ Oh, and notice that our *therapist* uses her confusion to casually demean people
 
  > **SELAR**: What symptoms have you noticed?
 
-You might, especially if you have some familiarity with the later franchise, recognize Dr. Selar as [Suzie Plakson](https://en.wikipedia.org/wiki/Suzie_Plakson), who'll go on to play a fairly significant character in this series.
+You might, especially if you have some familiarity with the later franchise, recognize Dr. Selar as {% wiki Suzie_Plakson|Suzie Plakson|en %}, who'll go on to play a fairly significant character in this series.
 
  > **GRAVES**: Women aren't people. They're women.
  >
@@ -81,7 +81,7 @@ Once again, we see the crew provided with an opportunity to take a stand against
 
  > **GRAVES**: It's an ancient little tune called *If I Only Had a Heart*. A plaintive lament sung by a mechanical man who longs to be human. It's his only wish.
 
-Most of you probably already know this, but for those who don't, [the song](https://en.wikipedia.org/wiki/If_I_Only_Had_a_Brain) specifically comes from [**The Wizard of Oz**](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_%281939_film%29), the 1939 film, showing that the obsession with American popular culture of the 1930s extends beyond the crew.
+Most of you probably already know this, but for those who don't, {% wiki If_I_Only_Had_a_Brain|the song|en %} specifically comes from {% wiki The_Wizard_of_Oz_%281939_film%29|**The Wizard of Oz**|en %}, the 1939 film, showing that the obsession with American popular culture of the 1930s extends beyond the crew.
 
  > **GRAVES**: Do you know what desire is?
  >
@@ -135,7 +135,7 @@ Also, however, I can't help but savor the irony over Picard asking if an egocent
 
  > **PICARD**: Our memorial service may have been premature. What an achievement. "So long as men can breathe or eyes can see, so long lives this, and this gives life to thee."
 
-Picard cites Shakespeare's [Sonnet 18](https://en.wikipedia.org/wiki/Sonnet_18), specifically the ending couplet.  And he...doesn't seem to understand the sonnet.  "This," in context, refers to the idea that the subject of the poem becomes immortal in the sense that people will talk about the poem, not that it gives the "Fair Youth" a robot body for handy rebirth.
+Picard cites Shakespeare's {% wiki Sonnet_18|Sonnet 18|en %}, specifically the ending couplet.  And he...doesn't seem to understand the sonnet.  "This," in context, refers to the idea that the subject of the poem becomes immortal in the sense that people will talk about the poem, not that it gives the "Fair Youth" a robot body for handy rebirth.
 
  > **DATA**: I had every right, Captain. I am man, he is machine. There is no question who must live and what must die.
  >

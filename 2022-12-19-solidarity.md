@@ -13,13 +13,13 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Tomorrow, we celebrate [International Human Solidarity Day](https://en.wikipedia.org/wiki/International_Human_Solidarity_Day), an observance to honor unity in diversity, raise awareness, and commit to solving global issues.
+Tomorrow, we celebrate {% wiki International_Human_Solidarity_Day|International Human Solidarity Day|en %}, an observance to honor unity in diversity, raise awareness, and commit to solving global issues.
 
 ![A dance at a Wikipedia event on the unity-in-diversity theme](/blog/assets/Unity-In-Diversity-Opening-Ceremony-Wiki-Conference-India-CGC-Mohali-2016-08-05-6656.png "Somewhere, there exists a United-Nations-Backing-a-Dance-Dance-Revolution joke in this, but I don't have it...")
 
-If you still don't believe me that Christmas splatters across December and part of January, today doesn't have its own explicit holiday that spans multiple traditions, but [Saturnalia](https://en.wikipedia.org/wiki/Saturnalia)---a Roman precursor to Christmas that includes [Opiconsivia](https://en.wikipedia.org/wiki/Opiconsivia) marking the end of harvest season---started on Saturday, and both the Latine [Las Posadas](https://en.wikipedia.org/wiki/Las_Posadas) and Filipino [Simbang Gabi](https://en.wikipedia.org/wiki/Simbang_Gabi) began on Friday.  All continue through the week...again, for those times when someone starts complaining that somebody *dared* to wish them "happy holidays."
+If you still don't believe me that Christmas splatters across December and part of January, today doesn't have its own explicit holiday that spans multiple traditions, but {% wiki Saturnalia|Saturnalia|en %}---a Roman precursor to Christmas that includes {% wiki Opiconsivia|Opiconsivia|en %} marking the end of harvest season---started on Saturday, and both the Latine {% wiki Las_Posadas|Las Posadas|en %} and Filipino {% wiki Simbang_Gabi|Simbang Gabi|en %} began on Friday.  All continue through the week...again, for those times when someone starts complaining that somebody *dared* to wish them "happy holidays."
 
-And for the actual reason that most people prefer to wish people happy holidays, sunset marked the start of [Hanukkah](https://en.wikipedia.org/wiki/Hanukkah).  While not the most important holiday in the Jewish religion, it has grown in cultural importance, probably for reasons comparable to the ascent of Christmas in Christian culture:  People like celebrations focusing on light and togetherness near the shortest days of the year.
+And for the actual reason that most people prefer to wish people happy holidays, sunset marked the start of {% wiki Hanukkah|Hanukkah|en %}.  While not the most important holiday in the Jewish religion, it has grown in cultural importance, probably for reasons comparable to the ascent of Christmas in Christian culture:  People like celebrations focusing on light and togetherness near the shortest days of the year.
 
 On to the software talk.
 

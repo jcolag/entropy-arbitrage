@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -71,7 +71,7 @@ Sigh...
 
 No historical culture has seriously imagined the Earth as flat.  Primarily, most people don't give the planet they live on much thought, with flat discs serving either as a metaphor for something or a lack of information far enough out where curvature would make a difference.  And at least as far back as the Ancient Greeks, and we have multiple ways to measure the curvature available to even the lowest budgets.
 
-Rather, American writers such as [Washington Irving](https://en.wikipedia.org/wiki/Washington_Irving) *needed* people to have historically believed in a flat Earth, in order to build [Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) up as a culture hero for the United States.  European countries had claimed as national heroes the other major explorers who had some association with the North American continent, and American writers didn't want to "share."  Since nobody claimed Columbus---probably because he got lost, never admitted that he didn't reach India, committed ethnic cleansing regimes so horrifying that they imprisoned him, and so forth---he became the hero of choice, essentially the "kid picked last" for teams in the gym class of national myth-building.
+Rather, American writers such as {% wiki Washington_Irving|Washington Irving|en %} *needed* people to have historically believed in a flat Earth, in order to build {% wiki Christopher_Columbus|Christopher Columbus|en %} up as a culture hero for the United States.  European countries had claimed as national heroes the other major explorers who had some association with the North American continent, and American writers didn't want to "share."  Since nobody claimed Columbus---probably because he got lost, never admitted that he didn't reach India, committed ethnic cleansing regimes so horrifying that they imprisoned him, and so forth---he became the hero of choice, essentially the "kid picked last" for teams in the gym class of national myth-building.
 
 Because Columbus has nothing to recommend him, in his personality or career, these American writers fabricated the idea of a widespread belief in a Flat Earth for him to oppose.
 
@@ -89,7 +89,7 @@ I should mention that, when watching, I overlooked the bit coming in a few secon
 
  > **RIKER**: Aye, sir. Wesley, reverse our direction, set a course for the Cornelian star system. Impulse power.
 
-No such star exists, as you might have already guessed.  Instead, the writers---what passes for writers, I mean, since the writers strike probably continues in the outside world---have tried to show off their fancy educations.  [Cornelian dilemma](https://en.wikipedia.org/wiki/Cornelian_dilemma) describes dramatic situations where a character must make a choice where all options will cause some significant harm.
+No such star exists, as you might have already guessed.  Instead, the writers---what passes for writers, I mean, since the writers strike probably continues in the outside world---have tried to show off their fancy educations.  {% wiki Cornelian_dilemma|Cornelian dilemma|en %} describes dramatic situations where a character must make a choice where all options will cause some significant harm.
 
 Unlike *The Spell of the Yukon*, I assume that we can all see how the dilemma applies to an episode where Picard makes the choice to kill the entire crew to spite an alien who wants to perform sadistic experiments on them...
 
@@ -101,7 +101,7 @@ Mind you, the "Romulan" happens to attack, so they do make the right choice for 
 
  > **RIKER**: It's a Federation ship. NCC one-three-zero-five-dash-E. It's the *Yamato*, our sister ship.
 
-The name Yamato shows up across Japanese culture in a way that I don't believe happens anywhere else, referring to places, families, ethnicities, philosophies, eras, art, and more, probably most prominently the family name of the [Imperial House of Japan](https://en.wikipedia.org/wiki/Imperial_House_of_Japan).  In modern science fiction, though, the name usually most directly pays tribute to 1974's [**Space Battleship Yamato**](https://en.wikipedia.org/wiki/Space_Battleship_Yamato) anime series and its sequels and adaptations.
+The name Yamato shows up across Japanese culture in a way that I don't believe happens anywhere else, referring to places, families, ethnicities, philosophies, eras, art, and more, probably most prominently the family name of the {% wiki Imperial_House_of_Japan|Imperial House of Japan|en %}.  In modern science fiction, though, the name usually most directly pays tribute to 1974's {% wiki Space_Battleship_Yamato|**Space Battleship Yamato**|en %} anime series and its sequels and adaptations.
 
 That especially seems likely, here, because "sister ships" generally have some commonality to their names, and you won't find many commonalities between *Enterprise* and *Yamato* that don't involve 1974 animation featuring them...
 
@@ -111,7 +111,7 @@ I know that I keep bringing this up, but I really wish I knew what purpose Starf
 
  > **NAGILUM**: Nagilum.
 
-You might have an inclination to connect "Nagilum" with Nāgīlā/נָגִילָה---as in [*Hāvā Nāgīlā*](https://en.wikipedia.org/wiki/Hava_Nagila) or *Let Us Rejoice*---but even though they didn't get him, they allegedly wrote this part for [Richard Mulligan](https://en.wikipedia.org/wiki/Richard_Mulligan), and named the alien by...pronouncing "Mulligan" backwards.
+You might have an inclination to connect "Nagilum" with Nāgīlā/נָגִילָה---as in {% wiki Hava_Nagila|*Hāvā Nāgīlā*|en %} or *Let Us Rejoice*---but even though they didn't get him, they allegedly wrote this part for {% wiki Richard_Mulligan|Richard Mulligan|en %}, and named the alien by...pronouncing "Mulligan" backwards.
 
  > **PICARD**: It is the way in which we propagate our species.
  >
@@ -139,7 +139,7 @@ That said, notice how well this fits with Picard's usual stance when dealing wit
 
  > **PICARD**: Come.
 
-Picard has Erik Satie's [*Gymnopodie I*](https://en.wikipedia.org/wiki/Gymnop%C3%A9dies) playing, part of a series of three piano compositions often cited as a precursor to what we now call [ambient music](https://en.wikipedia.org/wiki/Ambient_music).
+Picard has Erik Satie's {% wiki Gymnop%C3%A9dies|*Gymnopodie I*|en %} playing, part of a series of three piano compositions often cited as a precursor to what we now call {% wiki Ambient_music|ambient music|en %}.
 
  > **PICARD**: Oh, is that all? Well, Data, you're asking probably the most difficult of all questions. Some see it as a changing into an indestructible form, forever unchanging. They believe that the purpose of the entire universe is to then maintain that form in an Earth-like garden which will give delight and pleasure through all eternity. On the other hand, there are those who hold to the idea of our blinking into nothingness, with all our experiences, hopes and dreams merely a delusion.
 
