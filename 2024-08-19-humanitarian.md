@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we recognize humanitarian personnel and those who have died working for humanitarian causes in [World Humanitarian Day](https://en.wikipedia.org/wiki/World_Humanitarian_Day).  Given the ways that anti-democratic, anti-rights forces have started acting like cornered animals over the last few years, lashing out at anyone they can, I can only expect that we'll need to talk more about the holiday in future years, unfortunately.
+Today, we recognize humanitarian personnel and those who have died working for humanitarian causes in {% wiki World_Humanitarian_Day|World Humanitarian Day|en %}.  Given the ways that anti-democratic, anti-rights forces have started acting like cornered animals over the last few years, lashing out at anyone they can, I can only expect that we'll need to talk more about the holiday in future years, unfortunately.
 
 ![Workers passing out nutritional supplements](/blog/assets/2995064256_853fd34d7c_o.png "Not the point, but I've often wondered why NGOs didn't sell the sorts of foods depicted, both to subsidize the projects and because low-income people everywhere could presumably benefit as well")
 
@@ -164,7 +164,7 @@ Why do this from scratch instead of using another Free-licensed model?  In short
 
 In this case, the arms and legs swing as I'd expect, and other than a clear lack of resemblance to the human form, looks decent for a first attempt at toy-making; child-me probably would have accepted LLL-1 into my collection, especially earlier on when it matched the scale of other common action figure lines[^2].  And no, the paper "figurines" that I cut out while talking about [diversifying the "business" of Free Culture]({% post_url 2024-01-14-diversify %}) don't count as prior attempts at making toys.  I still have them, though, and somebody will want to know that Superflu comes up to LLL-1's waist, so you'd probably need to double the size of everything on that page to scale it to fit, here.
 
-[^2]:  In fact, I picked the 1:18 scale partly because it means that the characters should fit with [a certain famous toy line](https://en.wikipedia.org/wiki/Kenner_Star_Wars_action_figures)---a toy line that helped inspire a lot of how I imagine getting people interested in **The Light's Edge**---and also because I know from experience that the size turns a lot of household junk into dramatic-looking parts of toys...which I'll illustrate as I run out of things and have their packaging to display.
+[^2]:  In fact, I picked the 1:18 scale partly because it means that the characters should fit with {% wiki Kenner_Star_Wars_action_figures|a certain famous toy line|en %}---a toy line that helped inspire a lot of how I imagine getting people interested in **The Light's Edge**---and also because I know from experience that the size turns a lot of household junk into dramatic-looking parts of toys...which I'll illustrate as I run out of things and have their packaging to display.
 
 In the spirit of full disclosure for other people learning to use new tools, I should note that LLL-1 actually makes the first *viable* trial, suitable for getting limbs and a head.  Four prior attempts at printing a torso didn't leave enough space for the leg-pegs, and I also needed to experiment with the peg diameters.  This project *definitely* didn't go right the first time.  I kept the pieces, so maybe I'll write a full post on that evolution, at some point.
 

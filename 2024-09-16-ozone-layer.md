@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks---deep breath...---[International Day for the Preservation of the Ozone Layer](https://en.wikipedia.org/wiki/International_Day_for_the_Preservation_of_the_Ozone_Layer), commemorating the 1987 date signing the [Montreal Protocol](https://en.wikipedia.org/wiki/Montreal_Protocol).
+Today marks---deep breath...---{% wiki International_Day_for_the_Preservation_of_the_Ozone_Layer|International Day for the Preservation of the Ozone Layer|en %}, commemorating the 1987 date signing the {% wiki Montreal_Protocol|Montreal Protocol|en %}.
 
 ![Animation of the ozone layer over the Southern Hemisphere, 1957-2001](/blog/assets/Ozone-over-southern-hemisphere-Sep11-1957-2001.gif "I once pitched raising money by selling ozone shovels...")
 
-If you'd like a more traditional style of holiday, you can try the [Cry of Dolores](https://en.wikipedia.org/wiki/Cry_of_Dolores), celebrating [Miguel Hidalgo y Costilla](https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla) using the church bells to signal the start of the [Mexican War of Independence](https://en.wikipedia.org/wiki/Mexican_War_of_Independence).
+If you'd like a more traditional style of holiday, you can try the {% wiki Cry_of_Dolores|Cry of Dolores|en %}, celebrating {% wiki Miguel_Hidalgo_y_Costilla|Miguel Hidalgo y Costilla|en %} using the church bells to signal the start of the {% wiki Mexican_War_of_Independence|Mexican War of Independence|en %}.
 
 Otherwise, let's check out the projects.
 

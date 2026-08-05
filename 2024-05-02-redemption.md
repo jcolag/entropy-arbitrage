@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ This episode continues the Klingon/Duras arc, and so probably won't have too muc
 
  > Captain's log, stardate 44995.3. We're en route to the Klingon home world, where I will participate in the installation ceremony of Gowron, the next designated Leader of the High Council. This visit should also provide an opportunity for one of my officers to correct a grave injustice.
 
-I can't help but read a lot of [Tarzan](https://en.wikipedia.org/wiki/Tarzan) into Picard's relationship with the Klingons, in how it seems like the series wants to tell us that he can "perform" Klingon culture better than the people who grew up with it, due to some superior nature.  And while the casting won't entirely reflect it, this time, the fact that the modern Klingons often come off as Black-coded doesn't make that more pleasant.
+I can't help but read a lot of {% wiki Tarzan|Tarzan|en %} into Picard's relationship with the Klingons, in how it seems like the series wants to tell us that he can "perform" Klingon culture better than the people who grew up with it, due to some superior nature.  And while the casting won't entirely reflect it, this time, the fact that the modern Klingons often come off as Black-coded doesn't make that more pleasant.
 
 Really, consider that he barged into a Klingon court in [*Sins of the Father*]({% post_url 2023-08-24-sins-father %}) demanding that they appoint him as an officer.  And since then, every Klingon who shows up praises him, and now they invite him to official internal functions.
 

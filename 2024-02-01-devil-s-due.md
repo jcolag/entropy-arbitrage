@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,13 +37,13 @@ I believe that most of this episode's script comes from the work done on **Phase
  >
  > **DATA**: I don't.
 
-Did the writers really think that people showed up to watch *Star Trek* in order to watch the actors mess around in random other stories, in this case [*A Christmas Carol*](https://en.wikipedia.org/wiki/A_Christmas_Carol)?  Keep in mind as you answer, that this episode pretty much gets us to the midpoint of the series...
+Did the writers really think that people showed up to watch *Star Trek* in order to watch the actors mess around in random other stories, in this case {% wiki A_Christmas_Carol|*A Christmas Carol*|en %}?  Keep in mind as you answer, that this episode pretty much gets us to the midpoint of the series...
 
 And you might note that, once again, this vignette has no thematic relationship to the rest of the episode.
 
  > **DATA**: Yes, sir. I have studied the philosophies of virtually every known acting master. I find myself attracted to Stanislavsky, Adler, Garnav. Proponents of an acting technique known as the Method.
 
-He name-drops [Konstantin Stanislavsky](https://en.wikipedia.org/wiki/Konstantin_Stanislavski) and his student [Stella Adler](https://en.wikipedia.org/wiki/Stella_Adler), with Garnav presumably some future or alien actor.  [Method acting](https://en.wikipedia.org/wiki/Method_acting) exists, though the media has finally begun to call its use into question, when actors only seem to seriously reach for it to play terrible people, which encourages them to act inappropriately around their colleagues "for the part."
+He name-drops {% wiki Konstantin_Stanislavski|Konstantin Stanislavsky|en %} and his student {% wiki Stella_Adler|Stella Adler|en %}, with Garnav presumably some future or alien actor.  {% wiki Method_acting|Method acting|en %} exists, though the media has finally begun to call its use into question, when actors only seem to seriously reach for it to play terrible people, which encourages them to act inappropriately around their colleagues "for the part."
 
 Honestly, that almost makes sense for this show.  I could absolutely imagine an episode where the writers try to mine an hour of comedy from Data angrily denying his colleagues important resources and refusing to allow them to celebrate important occasions.
 
@@ -53,13 +53,13 @@ What "mess"?  Things seem bad for the station, but it doesn't seem like much of 
 
  > **PICARD**: If the tremors have frightened people, leading to this hysteria over Ardra, let us reassure them.
 
-You know, conversations *never* go well when someone throws around a word like [hysteria](https://en.wikipedia.org/wiki/Hysteria), a term historically used to deny the autonomy of women---the root word comes from the Greek term for a uterus---who had devastating symptoms like...well, opinions or anger.  Prescribed treatments often included barbaric ideas, such as confinement, stimulation of genitals by the doctor, marriage, heterosexual sex, and childbirth, or some combination of those, always regardless of any objections that the woman might have.
+You know, conversations *never* go well when someone throws around a word like {% wiki Hysteria|hysteria|en %}, a term historically used to deny the autonomy of women---the root word comes from the Greek term for a uterus---who had devastating symptoms like...well, opinions or anger.  Prescribed treatments often included barbaric ideas, such as confinement, stimulation of genitals by the doctor, marriage, heterosexual sex, and childbirth, or some combination of those, always regardless of any objections that the woman might have.
 
 And given where this episode goes, I suppose that I should once again ask:  Did the writers *intend* this awful connection?  It seems like an odd question to ask, I admit, in an episode that started out with Ebenezer Scrooge for no coherent reason.  But think about the planet's situation and how little interest Picard has in what they want.
 
  > **PICARD**: Her powers are, at the best, unclear. Think about it, Mister Worf. Transporter technology can make things appear and disappear. The illusion that she can transform herself into a Klingon creature could be created by holographic projection.
 
-Not to play...pardon the term, [devil's advocate](https://en.wikipedia.org/wiki/Devil%27s_advocate), but does the source of her power really matter?  I mean, I know how the episode plays out, but even if she doesn't have magical powers as such, she could still have plausibly brokered the peace deal and negotiated the contract a thousand years ago, with her powers either coming from technology or getting introduced in retelling the story over thousands of years.  For example, you could summarize the plot of [*Who Watches the Watchers?*]({% post_url 2023-05-25-who-watches-watchers %}) as technology giving Picard theological standing among an unsuspecting people; in [*Justice*]({% post_url 2022-07-07-justice %}), something similar nearly happens.  How do you think those cultures would talk about Picard, a thousand years later?
+Not to play...pardon the term, {% wiki Devil%27s_advocate|devil's advocate|en %}, but does the source of her power really matter?  I mean, I know how the episode plays out, but even if she doesn't have magical powers as such, she could still have plausibly brokered the peace deal and negotiated the contract a thousand years ago, with her powers either coming from technology or getting introduced in retelling the story over thousands of years.  For example, you could summarize the plot of [*Who Watches the Watchers?*]({% post_url 2023-05-25-who-watches-watchers %}) as technology giving Picard theological standing among an unsuspecting people; in [*Justice*]({% post_url 2022-07-07-justice %}), something similar nearly happens.  How do you think those cultures would talk about Picard, a thousand years later?
 
 That reminds me...this episode feels like it screams out for an analogy to the Prime Directive, pointing out that the Ardra story looks suspiciously like mundane imperialist colonization.  I won't even get into the question of whether Picard violates the Prime Directive, here, by stomping all over the planet's sovereignty on the grounds that he dislikes the woman.
 
@@ -67,7 +67,7 @@ That reminds me...this episode feels like it screams out for an analogy to the P
  >
  > **DATA**: Barnum, sir. PT.
 
-Nobody has actually found any evidence of [P.T. Barnum](https://en.wikipedia.org/wiki/P._T._Barnum) making [that assertion](https://en.wikipedia.org/wiki/There%27s_a_sucker_born_every_minute) or variations, and plenty of evidence that Barnum would never say something bad about people giving him money, regardless of what he may have thought.
+Nobody has actually found any evidence of {% wiki P._T._Barnum|P.T. Barnum|en %} making {% wiki There%27s_a_sucker_born_every_minute|that assertion|en %} or variations, and plenty of evidence that Barnum would never say something bad about people giving him money, regardless of what he may have thought.
 
 That said, Barnum lived about five hundred years before these people, and I'd have trouble even *naming* people who worked in the 1520s, let alone validating quotes by them...
 

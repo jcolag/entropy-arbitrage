@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we observe [World Metrology Day](https://en.wikipedia.org/wiki/World_Metrology_Day) a celebration of the [International Standard of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI), as in meters, kilograms, and seconds.  If you remember people getting excited about ditching the official one-kilogram weight kept in Paris, a few years back, that event coincided with the day, and [UNESCO](https://en.wikipedia.org/wiki/UNESCO) has taken it on as a celebration.
+Today, we observe {% wiki World_Metrology_Day|World Metrology Day|en %} a celebration of the {% wiki International_System_of_Units|International Standard of Units|en %} (SI), as in meters, kilograms, and seconds.  If you remember people getting excited about ditching the official one-kilogram weight kept in Paris, a few years back, that event coincided with the day, and {% wiki UNESCO|UNESCO|en %} has taken it on as a celebration.
 
 ![Le Grand-K, which you shouldn't confuse with breakfast cereal Special K, the International Prototype Kilogram](/blog/assets/le-grand-k.png "Tonight, we have platinum-iridium kilogram under glass...under more glass...under even more glass")
 

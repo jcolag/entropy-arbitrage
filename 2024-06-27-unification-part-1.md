@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ To begin with, I should note that this episode aired on 04 November 1991, Rodden
 
  > Captain's log, stardate 45233.1. Our terraforming mission to Doraf One has been cancelled, and the *Enterprise* recalled to Starbase two-thirty-four. Fleet Admiral Brackett would not discuss the matter on subspace for reasons she said would soon be clear.
 
-One imagines that the admiral takes her name from [Leigh Brackett](https://en.wikipedia.org/wiki/Leigh_Brackett), whose name you probably don't know unless you have a specific interest in the history of women writing science fiction, but if you enjoyed **The Empire Strikes Back** more than the other two films in the trilogy, guess who set up a lot of the early drafts...
+One imagines that the admiral takes her name from {% wiki Leigh_Brackett|Leigh Brackett|en %}, whose name you probably don't know unless you have a specific interest in the history of women writing science fiction, but if you enjoyed **The Empire Strikes Back** more than the other two films in the trilogy, guess who set up a lot of the early drafts...
 
  > **BRACKETT**: Three weeks ago, one of our most celebrated Ambassadors, an advisor to Federation leaders for generations, disappeared. He left no word of his destination. Two days ago, intelligence reports placed him on Romulus and I assure you it was an unauthorized visit. Computer, initiate linkage between this terminal and starbase computer system alpha two nine.
 
@@ -89,11 +89,11 @@ Have I mentioned Picard's self-obsessed nature, before?  He actually *fled* a cr
 
  > **DATA**: Captain, I have a visual identification of Senator Pardek of Romulus. This is a Barolian record of a trade negotiation in which Pardek participated four years ago.
 
-You might recognize Pardek as [Malachi Throne](https://en.wikipedia.org/wiki/Malachi_Throne), who played Commodore Méndez---and the voice of the Keeper---*way* back in [*The Menagerie*]({% post_url 2020-03-26-trek-menagerie-1 %}), among a richer career.
+You might recognize Pardek as {% wiki Malachi_Throne|Malachi Throne|en %}, who played Commodore Méndez---and the voice of the Keeper---*way* back in [*The Menagerie*]({% post_url 2020-03-26-trek-menagerie-1 %}), among a richer career.
 
  > **B'IJIK**: Greetings, Captain. I regret to inform you that Gowron and the High Council are quite busy and won't be able to speak with you today.
 
-You might recognize B'ijik as [Erick Avari](https://en.wikipedia.org/wiki/Erick_Avari), and goes on to a much more successful career, including a couple of future *Star Trek* appearances.
+You might recognize B'ijik as {% wiki Erick_Avari|Erick Avari|en %}, and goes on to a much more successful career, including a couple of future *Star Trek* appearances.
 
  > **PICARD**: Yes. And please add that if he is unable to provide a ship, then I am sure there are others in the Klingon Empire who would be willing to help me. And then, they would have our gratitude.
 
@@ -105,7 +105,7 @@ We met T'Pau in [*Amok Time*]({% post_url 2020-08-13-amok %}).
 
  > **K'VADA**: I know my duty, Captain. When I am given orders, I follow them, but I do not like secrets. I want to know why we are going on this mission.
 
-You might recognize K'vada, now, as [Stephen Root](https://en.wikipedia.org/wiki/Stephen_Root), who has gone on to a highly successful career, mostly in comedy.
+You might recognize K'vada, now, as {% wiki Stephen_Root|Stephen Root|en %}, who has gone on to a highly successful career, mostly in comedy.
 
  > **PICARD**: Quite nice. Thank you.
 
@@ -127,7 +127,7 @@ Notice that Riker chooses to minimize the value of both Dokachin and Troi by pai
  >
  > **DOKACHIN**: It was routed to the *Tripoli*, a holding vessel on the outer rim of the shipyard.
 
-Other places and things exist with the name, but generally, we mean the [Tripoli in Libya](https://en.wikipedia.org/wiki/Tripoli,_Libya)---in the United States, largely because [*The Marines' Hymn](https://en.wikisource.org/wiki/The_Marines%27_Hymn_%281942%29) calls it out as an implied extent of their influence---though the United States has also had a couple of ships by that name.
+Other places and things exist with the name, but generally, we mean the {% wiki Tripoli,_Libya|Tripoli in Libya|en %}---in the United States, largely because [*The Marines' Hymn](https://en.wikisource.org/wiki/The_Marines%27_Hymn_%281942%29) calls it out as an implied extent of their influence---though the United States has also had a couple of ships by that name.
 
  > **DOKACHIN**: In all the time that the Zakdorn have operated this depot, nothing has ever been lost. Never.
 
@@ -188,4 +188,4 @@ Come back in a week, when we wrap up the adventure on Romulus in *Unification, P
 **Credits**: The header image is [unification statue 01](https://www.flickr.com/photos/friarsbalsam/3377523551/)[^2] by [Christopher John SSF](https://www.flickr.com/photos/friarsbalsam/), made available under the terms of the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) license.
 
 [^1]:  I can't get away with a "the Romulans went to Jared/Ja'rod" joke, here, right?  Right?  Nah...
-[^2]:  Investigating as much as I could, you can apparently find this monument at the north end of the so-called [Third Tunnel of Aggression](https://en.wikipedia.org/wiki/Third_Tunnel_of_Aggression), in [Panmunjom](https://en.wikipedia.org/wiki/Panmunjom).  If anybody has more information on the sculptor and date of creation, I'd like to know the former for completeness, and the latter for strict adherence to copyright.
+[^2]:  Investigating as much as I could, you can apparently find this monument at the north end of the so-called {% wiki Third_Tunnel_of_Aggression|Third Tunnel of Aggression|en %}, in {% wiki Panmunjom|Panmunjom|en %}.  If anybody has more information on the sculptor and date of creation, I'd like to know the former for completeness, and the latter for strict adherence to copyright.

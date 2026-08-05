@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -36,7 +36,7 @@ Let's jump right into this nonsense...
 
  > Captain's log, stardate 45470.1. The Enterprise has been diverted to the Moab sector to track a stellar core fragment of a disintegrated neutron star. Our science teams have been asked to monitor the planetary disruptions it may cause.
 
-They appear to have named a sector after the Levantine [Kingdom of Moab](https://en.wikipedia.org/wiki/Moab).
+They appear to have named a sector after the Levantine {% wiki Moab|Kingdom of Moab|en %}.
 
  > **PICARD**: Any starships ever reported missing in this sector, Mister Data?
 
@@ -92,7 +92,7 @@ See, *this* works as an argument against eugenics, even though he buried it in o
 
  > **LAFORGE**: If the answer to all of this is in a visor created for a blind man who never would have existed in your society. No offense intended.
 
-This also works fairly well as an argument, a variation of the [curb cut effect](https://en.wikipedia.org/wiki/Curb_cut_effect), if you will, that making places and tools more accessible for people with specific difficulties makes them easier for almost all of us.
+This also works fairly well as an argument, a variation of the {% wiki Curb_cut_effect|curb cut effect|en %}, if you will, that making places and tools more accessible for people with specific difficulties makes them easier for almost all of us.
 
  > **CONOR**: Please, Matthew, continue.
 
@@ -100,7 +100,7 @@ Matthew plays Chopin's *Prelude in E minor (Op. 28 No. 4)*.
 
  > **CONOR** + **TROI**: All the King's horses and all the King's Men, couldn't put Humpty together again.
 
-Yes, they still tell the grand saga of [*Humpty Dumpty*](https://en.wikipedia.org/wiki/Humpty_Dumpty), which...did you know that it only became so popular because of a long-running 1860s Broadway musical?  I feel like I need to see this musical...
+Yes, they still tell the grand saga of {% wiki Humpty_Dumpty|*Humpty Dumpty*|en %}, which...did you know that it only became so popular because of a long-running 1860s Broadway musical?  I feel like I need to see this musical...
 
  > **TROI**: This is wrong.
 

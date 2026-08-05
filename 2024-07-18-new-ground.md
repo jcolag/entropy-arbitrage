@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -36,19 +36,19 @@ I wonder if this episode ties into a future episode that will similarly ignore i
 
  > Captain's log, stardate 45376.3. We are approaching the planet Bilana Three, where a new method of propulsion known as the Soliton Wave is being developed. The *Enterprise* has been asked to participate in one of the first tests of this new technology.
 
-While the episode almost goes out of its way to make this sound like some writer made something up on a whim, [solitons](https://en.wikipedia.org/wiki/Soliton) actually exist, a stable wave packet that travels at constant velocity through its medium and can recover after collisions.  We've known about them since at least the 1830s, which probably helps explain the quirky name.
+While the episode almost goes out of its way to make this sound like some writer made something up on a whim, {% wiki Soliton|solitons|en %} actually exist, a stable wave packet that travels at constant velocity through its medium and can recover after collisions.  We've known about them since at least the 1830s, which probably helps explain the quirky name.
 
  > **DATA**: Every nanosecond in this continuum is a moment in history, once it has elapsed.
 
 Why does anybody talk to him?  They *know* that he'll do this...
 
-Also, only nanoseconds?  Again, I find myself obliged to pedantically correct Data's pedantry, because surely, [Planck time](https://en.wikipedia.org/wiki/Planck_units)---usually defined as $$t_P = \sqrt{\frac{\hbar G}{c^5}}$$, in case you ever need that information---would make a far more appropriate unit for "moments in history," since we define the units entirely on physical context and actually don't have even a theoretical framework to deal with shorter durations, leading some physicists to assume that no shorter spans of time (or the other dimensions that we measure, for their relevant Planck units) exist.
+Also, only nanoseconds?  Again, I find myself obliged to pedantically correct Data's pedantry, because surely, {% wiki Planck_units|Planck time|en %}---usually defined as $$t_P = \sqrt{\frac{\hbar G}{c^5}}$$, in case you ever need that information---would make a far more appropriate unit for "moments in history," since we define the units entirely on physical context and actually don't have even a theoretical framework to deal with shorter durations, leading some physicists to assume that no shorter spans of time (or the other dimensions that we measure, for their relevant Planck units) exist.
 
  > **LAFORGE**: No, no, no, no. I mean, we're going to see something that people will talk about for years. I mean, think about it. No more bulky warp engines or nacelles. A ship just generates a Soliton wave and then rides it through space like a surfboard. This is going to be like being there to watch Chuck Yeager break the sound barrier, or Zefram Cochrane engage the first warp drive.
 
 Imagine the bizarre idea of this crew watching Zefram Cochrane---who we met in [*Metamorphosis*]({% post_url 2020-10-08-meta %}), by the way---engage the first warp drive, like *that* would ever happen...
 
-[Chuck Yeager](https://en.wikipedia.org/wiki/Chuck_Yeager), meanwhile, served as an Air Force (and Army Air Force, before that) test pilot who, indeed, broke the sound barrier on October 14, 1947, going to retire from the Air Force as a Brigadier General in 1975.  He'll get at least one more mention in this series, and also looms large in the inspiration for **Enterprise**, another decade in this episode's future.
+{% wiki Chuck_Yeager|Chuck Yeager|en %}, meanwhile, served as an Air Force (and Army Air Force, before that) test pilot who, indeed, broke the sound barrier on October 14, 1947, going to retire from the Air Force as a Brigadier General in 1975.  He'll get at least one more mention in this series, and also looms large in the inspiration for **Enterprise**, another decade in this episode's future.
 
  > **HELENA**: I hope you don't mind us dropping in on you like this, but when I heard the *Enterprise* was to be in this sector, we took the first transport and here we are.
 
@@ -56,11 +56,11 @@ Wait.  Can people...do things like that?  No plan, no paperwork, you knock on th
 
  > **HELENA**: Lapsang suchong tea, please. Have you been eating? You look thin.
 
-Helena drinks an [actual variety of tea](https://en.wikipedia.org/wiki/Lapsang_souchong), incidentally.
+Helena drinks an {% wiki Lapsang_souchong|actual variety of tea|en %}, incidentally.
 
  > **KYLE**: Come in. Lieutenant Worf. Very nice to see you again. And you must be Alexander. I hear you'll be coming to school with us for a while? Well, we're very excited to have you with us. I know the other boys and girls will be happy to have a new classmate. First I need to get a little information from you. Let's start with your name. Alexander Rozhenko. That's a tough one. Maybe you can help me with that. Could you spell your last name for me?
 
-You might (but probably won't) recognize Ms. Kyle as [Jennifer Edwards](https://en.wikipedia.org/wiki/Jennifer_Edwards), who played the lead in the 1968 adaptation of **Heidi**.  Her history as a child actor strikes me as an interesting choice, given the episode's focus on Alexander, played by [Brian Bonsall](https://en.wikipedia.org/wiki/Brian_Bonsall), then known primarily for his role on sitcom **Family Ties**, but would probably prefer that we now associate him with his musical career...
+You might (but probably won't) recognize Ms. Kyle as {% wiki Jennifer_Edwards|Jennifer Edwards|en %}, who played the lead in the 1968 adaptation of **Heidi**.  Her history as a child actor strikes me as an interesting choice, given the episode's focus on Alexander, played by {% wiki Brian_Bonsall|Brian Bonsall|en %}, then known primarily for his role on sitcom **Family Ties**, but would probably prefer that we now associate him with his musical career...
 
  > **WORF**: I apologize for being late, Captain. I was detained in school...I was enrolling my son in class.
 
@@ -80,7 +80,7 @@ On top of that, do you really want to tell me that not a *single* girl or non-bi
 
  > **KYLE**: As the value of their horns increased, the number of white rhinos in the wild kept falling, until they finally became extinct about two centuries ago. Now, I'd like to show you a pair of animals we're trying to save from extinction. Would you follow me? They're from Corvan Two, where their homes in the rainforests are being threatened by industrial pollutants. They're called Corvan gilvos. They're a little shy.
 
-The [white or square-lipped rhinoceros](https://en.wikipedia.org/wiki/White_rhinoceros) received Near Threatened status in 2013, when scientists estimated the total population at twenty thousand individuals, largely due to the poaching for their horns that Ms. Kyle describes.  The northern subspecies may have already gone *effectively* extinct, with only two known individuals left, both in captivity and both female.
+The {% wiki White_rhinoceros|white or square-lipped rhinoceros|en %} received Near Threatened status in 2013, when scientists estimated the total population at twenty thousand individuals, largely due to the poaching for their horns that Ms. Kyle describes.  The northern subspecies may have already gone *effectively* extinct, with only two known individuals left, both in captivity and both female.
 
  > **WORF**: You don't know why you lied, and yet you did. You don't know why you stole, and yet you did! Alexander, come here. When I was a child, younger than you, I lost my parents, my family, my people. Everything I had was taken from me except my sense of honor. It was the one thing I had which was truly Klingon and which no-one could take away. Do you know who they are?
 
@@ -120,9 +120,9 @@ And did nobody question this possibility when Ja'dar pitched this project?
 
 Wait, I have something for this, don't I?  Yes, in [*11001001*]({% post_url 2022-08-25-11001001 %})'s post, I cited [*That's No Moon*](https://journals.le.ac.uk/index.php/pst/article/view/1956), which estimates (on the order of) 10<sup>27</sup> joules to destroy an Earth-like planet[^1], figure that "most of the planet" equates to roughly the same value.  They say that the wave will reach the destination with a factor of two hundred more energy than expected, so that tells us that the *intended* energy came to somewhere in the neighborhood of 10<sup>25</sup> joules.
 
-[^1]:  Oddly, I don't see where they draw that conclusion, despite listing it in the abstract.  They cite the 10<sup>32</sup> value, but since that overcomes the [gravitational binding energy](https://en.wikipedia.org/wiki/Gravitational_binding_energy) of the planet---which you can confirm by calculating $$U = -\frac{3GM^2}{5R}$$, and who would've guessed that *this* post would spur me to work out how to render math nicely, with two equations...?---that looks more like disintegration than plain old destruction, which would certainly take orders of magnitude less power.
+[^1]:  Oddly, I don't see where they draw that conclusion, despite listing it in the abstract.  They cite the 10<sup>32</sup> value, but since that overcomes the {% wiki Gravitational_binding_energy|gravitational binding energy|en %} of the planet---which you can confirm by calculating $$U = -\frac{3GM^2}{5R}$$, and who would've guessed that *this* post would spur me to work out how to render math nicely, with two equations...?---that looks more like disintegration than plain old destruction, which would certainly take orders of magnitude less power.
 
-What does *that* look like?  Well, the asteroid impact that created the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) released around 10<sup>23</sup> joules, or a hundred times *less* than they deliberately aimed at a colony.  Imagine forming one hundred Gulfs of Mexico in rapid succession where we used to have a city, and you get the general idea.  Or if you don't like that, the Earth receives 10<sup>24</sup> joules of energy from the Sun every year, so you could instead imagine concentrating a decade's worth of solar energy into a single sunbeam.
+What does *that* look like?  Well, the asteroid impact that created the {% wiki Chicxulub_crater|Chicxulub crater|en %} released around 10<sup>23</sup> joules, or a hundred times *less* than they deliberately aimed at a colony.  Imagine forming one hundred Gulfs of Mexico in rapid succession where we used to have a city, and you get the general idea.  Or if you don't like that, the Earth receives 10<sup>24</sup> joules of energy from the Sun every year, so you could instead imagine concentrating a decade's worth of solar energy into a single sunbeam.
 
 I wonder if that explains Starfleet's interest.  We've seen since at least [*Contagion*]({% post_url 2023-02-02-contagion %}) that Starfleet has an interest in quietly snapping up new weapons under other pretexts, such as amateur archaeology, and if we read an episode like [*A Matter of Perspective*]({% post_url 2023-08-03-matter-perspective %}) even mildly cynically, they do sometimes fund useless-looking civilian technologies that happen to have potential as weapons.  And a way to aim 10<sup>25</sup> joules---again, the likely intended power, not the version raging out of control---at a planet many light years away with no loss of energy certainly looks like a potential weapon to me.
 

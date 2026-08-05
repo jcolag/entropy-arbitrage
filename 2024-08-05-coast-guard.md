@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Yesterday, in the United States, we *vaguely* celebrated [Coast Guard Day](https://en.wikipedia.org/wiki/Coast_Guard_Day), the military's maritime humanitarian and security service, rather than---generally speaking, at least until the War on Terror---yet another fighting force.  Unfortunately, because they generally don't see combat unless transferred to the control under the United States Navy during wartime, we mostly ignore them except to complain about their response times to get out to boaters in distress in terrible weather...
+Yesterday, in the United States, we *vaguely* celebrated {% wiki Coast_Guard_Day|Coast Guard Day|en %}, the military's maritime humanitarian and security service, rather than---generally speaking, at least until the War on Terror---yet another fighting force.  Unfortunately, because they generally don't see combat unless transferred to the control under the United States Navy during wartime, we mostly ignore them except to complain about their response times to get out to boaters in distress in terrible weather...
 
 ![Drawing of a Guards-person in an old uniform looking across a divide at an officer in a modern uniform, with the claim of honoring the past, forging the present, and charting the future](/blog/assets/Coast_Guard_Day_2013_by_Cory_Mendenhall.png "Yes, I did briefly consider updating the end-year on that span...")
 

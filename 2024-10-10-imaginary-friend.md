@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -53,7 +53,7 @@ We last saw Ogawa in [*Ethics*]({% post_url 2024-08-29-ethics %}).
 
  > **ISABELLA**: Hello, Clara.
 
-You might recognize Isabella as [Shay Astar](https://en.wikipedia.org/wiki/Shay_Astar), who'd go on to play August Leffler on [**3rd Rock from the Sun**](https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun), among other appearances.
+You might recognize Isabella as {% wiki Shay_Astar|Shay Astar|en %}, who'd go on to play August Leffler on {% wiki 3rd_Rock_from_the_Sun|**3rd Rock from the Sun**|en %}, among other appearances.
 
  > **LAFORGE**: So did we hit something or not? Shields say yes, sensors say no. This is very strange. Ensign, give me a breakdown on shield energy conversion and then run a spectral. Whoa. Where did you come from?
 
@@ -97,7 +97,7 @@ Consistently, Picard only negotiates in cases when the alien nearly destroys the
 
  > **PICARD**: You were taking her to places that were inappropriate, even dangerous.
 
-Yes, we must protect children from the hazards of the ship's Applebee's and that empty hallway.  They saved Clara from [type 2 diabetes](https://en.wikipedia.org/wiki/Type_2_diabetes) gained from eating her feelings like Troi does...
+Yes, we must protect children from the hazards of the ship's Applebee's and that empty hallway.  They saved Clara from {% wiki Type_2_diabetes|type 2 diabetes|en %} gained from eating her feelings like Troi does...
 
 ## Conclusions
 

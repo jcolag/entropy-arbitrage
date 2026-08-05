@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,7 +43,7 @@ Sigh...do I really need to deal with the random racism of Riker feeling fine wit
 
  > **LENOR**: We are in no hurry.
 
-You might recognize Lenor as [Max Grodénchik](https://en.wikipedia.org/wiki/Max_Grod%C3%A9nchik), who will go on to play fellow-Ferengi Rom on **Deep Space Nine**.
+You might recognize Lenor as {% wiki Max_Grod%C3%A9nchik|Max Grodénchik|en %}, who will go on to play fellow-Ferengi Rom on **Deep Space Nine**.
 
  > **BRIAM**: Ball park?
 
@@ -61,11 +61,11 @@ Wait, what?  **I** haven't seen these dolphins, and I've slogged through well ov
 
  > **KAMALA**: I am for you, Alrik of Valt.
 
-You might recognize Kamala as [Famke Janssen](https://en.wikipedia.org/wiki/Famke_Janssen), mostly a model at the time, but will soon hit it big in acting in [**GoldenEye**](https://en.wikipedia.org/wiki/GoldenEye), and went on to star in...a lot, honestly.
+You might recognize Kamala as {% wiki Famke_Janssen|Famke Janssen|en %}, mostly a model at the time, but will soon hit it big in acting in {% wiki GoldenEye|**GoldenEye**|en %}, and went on to star in...a lot, honestly.
 
 Notice the spots around her temples, by the way.  Apparently, the producers offered to bring Janssen over to **Deep Space Nine** (with the aforementioned Grodénchik), and the spots would get recycled for Jadzia Dax, the show's Trill character, despite the appearance of the Trill established in [*The Host*]({% post_url 2024-04-11-host %}).  I mention this, because when we get to **DS9**, we'll need to deal with the fact that most of Dax's plots will revolve around her dating or having dated somebody weird, and that might make more sense---though not better *taste*---in retrospect if they originally envisioned the character as a version of Kamala who finds a way to leave Alrik.
 
-That said, in 2024 many more of us in the West know this than we did in 1992, but naming the character [Kamala](https://en.wikipedia.org/wiki/Kamala_%28name%29) codes her as Hindu or connected with the culture, despite the performer's Dutch heritage.  I make that point, because it suggests a deliberate attempt to reference the creepy Orientalism of *Elaan of Troyius*, which...maybe don't maintain those particular traditions, TV writers?
+That said, in 2024 many more of us in the West know this than we did in 1992, but naming the character {% wiki Kamala_%28name%29|Kamala|en %} codes her as Hindu or connected with the culture, despite the performer's Dutch heritage.  I make that point, because it suggests a deliberate attempt to reference the creepy Orientalism of *Elaan of Troyius*, which...maybe don't maintain those particular traditions, TV writers?
 
  > **PICARD**: There is a provision in the Federation Constitution that protects an individual's fundamental rights. Now once you were brought aboard this ship---
 
@@ -133,7 +133,7 @@ As the Wikipedia folks say, [citation needed].  We've yet to see much passion, c
 
  > **KAMALA**: Even the walls of Jericho fell, Captain.
 
-One of the oldest cities in the world, [Jericho](https://en.wikipedia.org/wiki/Jericho) did have a defense wall, which (allegedly) fell in the [Battle of Jericho](https://en.wikipedia.org/wiki/Battle_of_Jericho) after the Israelites spent a week making as much noise as possible.
+One of the oldest cities in the world, {% wiki Jericho|Jericho|en %} did have a defense wall, which (allegedly) fell in the {% wiki Battle_of_Jericho|Battle of Jericho|en %} after the Israelites spent a week making as much noise as possible.
 
 Ironically, given that this scene started with a deep conversation about their mutual interest in archaeology, nobody has found any evidence of a comparable event during the right era, suggesting that the Battle of Jericho might have more legend in it than truth.
 
@@ -147,7 +147,7 @@ Once again, we have the repulsive idea that you can take advantage of women, but
 
  > **ALRIK**: Captain Picard.
 
-You probably don't recognize [Mickey Cottrell](https://en.wikipedia.org/wiki/Mickey_Cottrell), but considering that he passed away at the start of this year, I figure that I should at least call out his decent work, here, briefly.
+You probably don't recognize {% wiki Mickey_Cottrell|Mickey Cottrell|en %}, but considering that he passed away at the start of this year, I figure that I should at least call out his decent work, here, briefly.
 
  > **KAMALA**: Earl Grey Tea. Hot.
 

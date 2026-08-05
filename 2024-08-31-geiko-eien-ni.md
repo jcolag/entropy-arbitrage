@@ -47,7 +47,7 @@ The art in question shows as the "cover image" for the book, [commissioned on We
 
 ## What Works Well?
 
-To its credit, the story doesn't try to explain its world.  It revolves around the [geisha](https://en.wikipedia.org/wiki/Geisha) (technically *geiko*, in this case) tradition, yet avoids detailing anything about it, because it has nothing to do with the story.  We have a future world, but almost no indications of what has happened or when it takes place, again, because it has nothing to do with the story.  You get the idea.  It feels researched well enough that the author probably *could have* dumped piles of irrelevant information in our laps, but the story restrains itself.
+To its credit, the story doesn't try to explain its world.  It revolves around the {% wiki Geisha|geisha|en %} (technically *geiko*, in this case) tradition, yet avoids detailing anything about it, because it has nothing to do with the story.  We have a future world, but almost no indications of what has happened or when it takes place, again, because it has nothing to do with the story.  You get the idea.  It feels researched well enough that the author probably *could have* dumped piles of irrelevant information in our laps, but the story restrains itself.
 
 Oh, speaking of the geisha tradition, the story also doesn't do the ignorant Western thing of grouping the tradition with sex workers.  While certain Japanese governments have conflated the two groups before for various reasons, we in the West mostly make that mistake because American soldiers occupying Japan after the Second World War couldn't tell the difference between women in kimonos, so the sex workers started ironically using the term "geisha girl" to represent themselves.
 
@@ -73,7 +73,7 @@ You can find the author's other projects, including a one-person consulting firm
 
 ## What's Adaptable?
 
-We have something like half a dozen members of the [*okiya*](https://en.wikipedia.org/wiki/Okiya), and the mechanical lizard-like nohnas synthetic bodies.
+We have something like half a dozen members of the {% wiki Okiya|*okiya*|en %}, and the mechanical lizard-like nohnas synthetic bodies.
 
 ## Coming Attractions
 

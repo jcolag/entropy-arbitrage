@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, Turks and their neighbors celebrate spring in [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), though folk traditions describe it as honoring the meeting of two important Muslim prophets, and borrows a bit from the legend of [George of Lydda](https://en.wikipedia.org/wiki/Saint_George), celebrated around the same time in some other parts of Europe.
+Today, Turks and their neighbors celebrate spring in {% wiki H%C4%B1d%C4%B1rellez|Hıdırellez|en %}, though folk traditions describe it as honoring the meeting of two important Muslim prophets, and borrows a bit from the legend of {% wiki Saint_George|George of Lydda|en %}, celebrated around the same time in some other parts of Europe.
 
 ![Celebration of Hydyrlez in the Bakhchisarai region of the Republic of Crimea](/blog/assets/5ccd9a194a62b5-33270460-IMG-0735.png "Yeah, I brought Crimea into this.  What of it...?")
 
@@ -24,7 +24,7 @@ And on we go to the projects.
 
 ## Social Media
 
-This probably doesn't qualify as social media, as such, but for the sake of cramming it somewhere that nobody will mistake for code or other published work, for the sake of [the **Entropy Arbitrage** newsletter](https://buymeacoffee.com/jcolag), Mailchimp had me jump through a bunch of hoops to set up their version of [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)---which somehow requires directing some of my DNS to their servers---so that the big e-mail providers won't immediately classify the newsletter as spam.
+This probably doesn't qualify as social media, as such, but for the sake of cramming it somewhere that nobody will mistake for code or other published work, for the sake of [the **Entropy Arbitrage** newsletter](https://buymeacoffee.com/jcolag), Mailchimp had me jump through a bunch of hoops to set up their version of {% wiki DomainKeys_Identified_Mail|DKIM|en %}---which somehow requires directing some of my DNS to their servers---so that the big e-mail providers won't immediately classify the newsletter as spam.
 
 Note that they didn't bother to tell me about this until *after* I sent out the newsletter on Saturday, so anybody signed up will apparently need to check their spam folders.
 
@@ -50,7 +50,7 @@ In short---you can find the long version in the repository itself---I started te
 
 Students...reacted badly to that.  Some got the idea, but the less-diligent and more-anxiety-ridden cohorts managed to ignore my tiny tutorials and panicked as they tried to learn how to develop software in a bunch of different languages in seven days.  Worse, it took a long time for me to *discover* this disconnect.  I had a reputation as a harsh grader, largely from students who expected memorization to get them through a more analytical class, so many students assumed that I intended the more difficult task.
 
-Anyway, because I didn't want the language situation to cause any real frustration---I really only wanted the students to get experience with key features---I developed this interpreter, with configuration options that would provide the various features that I otherwise would have picked a "boring" language to showcase.  And that flexibility allowed me to add features that a student couldn't quickly find elsewhere at the time, such as a [`COME FROM`](https://en.wikipedia.org/wiki/COMEFROM) statement.
+Anyway, because I didn't want the language situation to cause any real frustration---I really only wanted the students to get experience with key features---I developed this interpreter, with configuration options that would provide the various features that I otherwise would have picked a "boring" language to showcase.  And that flexibility allowed me to add features that a student couldn't quickly find elsewhere at the time, such as a {% wiki COMEFROM|`COME FROM`|en %} statement.
 
 It could use some work to make it useful to anyone not solving one of my homework problems.  For example, the language doesn't yet support strings or functions...but it *could*.
 

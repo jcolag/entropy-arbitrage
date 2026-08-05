@@ -22,7 +22,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -50,11 +50,11 @@ Wait, they all believe that the devious Romulans hide around every corner, but t
 
  > **PICARD**: All right. I want to add the *Tian Nan Men*, the *Sutherland* and the *Hermes*, whether the yard superintendent says they're ready or not. Mister Data, will you select a group of experienced *Enterprise* officers to augment the crews of those ships.
 
-[Tiananmen](https://en.wikipedia.org/wiki/Tiananmen), meaning the Gate of Heaven-Sent Peace, previously served as the front gate to the Chinese imperial palace, but still stands as a prominent landmark from Beijing's city center.  South across Chang'an Avenue, you'll find [Tiananmen Square](https://en.wikipedia.org/wiki/Tiananmen_Square), which most of us in the West know from the [1989 protests and massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre), still prominent in media when this episode first aired, so they *probably* meant the last reference.
+{% wiki Tiananmen|Tiananmen|en %}, meaning the Gate of Heaven-Sent Peace, previously served as the front gate to the Chinese imperial palace, but still stands as a prominent landmark from Beijing's city center.  South across Chang'an Avenue, you'll find {% wiki Tiananmen_Square|Tiananmen Square|en %}, which most of us in the West know from the {% wiki 1989_Tiananmen_Square_protests_and_massacre|1989 protests and massacre|en %}, still prominent in media when this episode first aired, so they *probably* meant the last reference.
 
-The name Sutherland has many uses, including a common surname, but I believe that they all derive from [the Scottish county](https://en.wikipedia.org/wiki/Sutherland).  Rather than try to find a relevant person named Sutherland, I'll point out that, in recent years---far too recently for the show's writers to have considered it---the county plans to [build a spaceport](https://en.wikipedia.org/wiki/Sutherland_spaceport).
+The name Sutherland has many uses, including a common surname, but I believe that they all derive from {% wiki Sutherland|the Scottish county|en %}.  Rather than try to find a relevant person named Sutherland, I'll point out that, in recent years---far too recently for the show's writers to have considered it---the county plans to {% wiki Sutherland_spaceport|build a spaceport|en %}.
 
-One imagines that readers already know this, but most uses of the name [Hermes](https://en.wikipedia.org/wiki/Hermes) derive from the ancient Greek herald of the gods.
+One imagines that readers already know this, but most uses of the name {% wiki Hermes|Hermes|en %} derive from the ancient Greek herald of the gods.
 
  > **DATA**: You have commented on the lack of senior officers available for this mission. I believe my twenty-six years of Starfleet service qualifies me for such a post. However, if you do not believe the time has arrived for an android to command a starship, perhaps I should address myself to improving my---
  >
@@ -86,7 +86,7 @@ Notice that Picard brought Sela over to de-escalate, and almost immediately chal
 
 Did he really fall for such a transparent ploy in response to his transparent ploy?  Notice how this ties in with the line that I quoted at the start of the episode, by the way:  Picard believes that the Federation has some monopoly on military planning.  Much like he can't imagine the Duras kids overwhelming a government that he supports, he can't imagine his plan failing, nor can he imagine even his protégé's daughter---since she has a Romulan father---outclassing him.
 
-Also, I can't find a constellation named Eridon.  However, I do need to note the similarity to [Eridanus](https://en.wikipedia.org/wiki/Eridanus_%28constellation%29), particularly the genitive form *Eridani*.  [gamma Eridani](https://en.wikipedia.org/wiki/Gamma_Eridani) (γ Eri), also known as Zaurak, sits less than two hundred light years away from Earth.  That seems...oddly close to Earth, for the Klingon border.
+Also, I can't find a constellation named Eridon.  However, I do need to note the similarity to {% wiki Eridanus_%28constellation%29|Eridanus|en %}, particularly the genitive form *Eridani*.  {% wiki Gamma_Eridani|gamma Eridani|en %} (γ Eri), also known as Zaurak, sits less than two hundred light years away from Earth.  That seems...oddly close to Earth, for the Klingon border.
 
  > **DATA**: Mister Hobson! You will carry out my orders, or I will relieve you of duty.
  >
@@ -104,7 +104,7 @@ Much like Scott's habit revealed in [**The Search for Spock**]({% post_url 2022-
  >
  > **PICARD**: Granted.
 
-For reference, Worf resigned his commission, in the previous episode.  He shouldn't have any "duty" to return to, certainly not on Picard's say-so.  Does Starfleet still have his space-[I-9](https://en.wikipedia.org/wiki/Form_I-9) on file?  His space-[W4](https://en.wikipedia.org/wiki/Form_W-4)?
+For reference, Worf resigned his commission, in the previous episode.  He shouldn't have any "duty" to return to, certainly not on Picard's say-so.  Does Starfleet still have his space-{% wiki Form_I-9|I-9|en %} on file?  His space-{% wiki Form_W-4|W4|en %}?
 
 Anyway, since everybody involved realized that they wasted Denise Crosby in the first season by not giving Yar anything to do, and since the character's origins give the crew such a natural responsibility and affinity for a nominal enemy, which fits right into the show's new obsession with family drama, we can expect to see Sela---
 

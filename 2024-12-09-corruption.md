@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we observe [International Anti-Corruption Day](https://en.wikipedia.org/wiki/International_Anti-Corruption_Day), intended to raise awareness of corruption and ways to fight it.  It also seeks to draw attention to how corruption undermines the rule of law, human rights, markets, quality of life, and so forth.  I can't imagine why that might all become more relevant as we inch towards 2025...
+Today, we observe {% wiki International_Anti-Corruption_Day|International Anti-Corruption Day|en %}, intended to raise awareness of corruption and ways to fight it.  It also seeks to draw attention to how corruption undermines the rule of law, human rights, markets, quality of life, and so forth.  I can't imagine why that might all become more relevant as we inch towards 2025...
 
 ![A student carrying a protest sign defining corruption as an unworthy practice in democracies](/blog/assets/student-in-Uvira-spreads-anti-corruption-message.png "I can't disagree with the assertion")
 

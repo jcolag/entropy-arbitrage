@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -38,7 +38,7 @@ I will note here, rather than try to find a line worth quoting, that this episod
 
  > Captain's log, stardate 45652.1. The *Enterprise* has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region.
 
-Kids, when you have the option to visit anywhere named after [Typhon](https://en.wikipedia.org/wiki/Typhon), the most monstrous of monsters in Greek mythology, politely decline.  No good will come from that trip.  They almost certainly named the place after a deadly creature for a legitimate reason, you realize...
+Kids, when you have the option to visit anywhere named after {% wiki Typhon|Typhon|en %}, the most monstrous of monsters in Greek mythology, politely decline.  No good will come from that trip.  They almost certainly named the place after a deadly creature for a legitimate reason, you realize...
 
  > **RIKER**: Sometimes I wonder if he's stacking the deck.
 
@@ -104,21 +104,21 @@ Completely unrelated, this feels like the most *polite* time loop in fiction.  N
  >
  > **LAFORGE**: *Soyuz* class? They haven't been in service in over eighty years.
 
-One imagines that the ship refers to the [Montana city](https://en.wikipedia.org/wiki/Bozeman,_Montana), which will go on, four years after this episode, to (at least in theory) provide the setting for **First Contact**, which we'll probably cover...eventually.
+One imagines that the ship refers to the {% wiki Bozeman,_Montana|Montana city|en %}, which will go on, four years after this episode, to (at least in theory) provide the setting for **First Contact**, which we'll probably cover...eventually.
 
-The ship class almost certainly refers to the [Soyuz](https://en.wikipedia.org/wiki/Soyuz_%28spacecraft%29)---Союз, Russian for "union," which you might recognize in context of the Союз Советских Социалистических Республик/Union of Soviet Socialist Republics or CCCP---class of (once Soviet and now Russian) spacecraft in continuous use since 1966.  They generally carry a crew of three.
+The ship class almost certainly refers to the {% wiki Soyuz_%28spacecraft%29|Soyuz|en %}---Союз, Russian for "union," which you might recognize in context of the Союз Советских Социалистических Республик/Union of Soviet Socialist Republics or CCCP---class of (once Soviet and now Russian) spacecraft in continuous use since 1966.  They generally carry a crew of three.
 
 I can't help but note that we recently talked about [*Power Play*]({% post_url 2024-08-22-power-play %}), another episode where the crew needs to deal with a class of ship not seen in many decades.
 
  > **BATESON**: This is Captain Morgan Bateson of the Federation Starship *Bozeman*. Can we render assistance?
 
-You'll probably recognize Bateson as [Kelsey Grammer](https://en.wikipedia.org/wiki/Kelsey_Grammer), known almost entirely for his role as Frasier Crane on [**Cheers**](https://en.wikipedia.org/wiki/Cheers) and [Frasier's own spinoff](https://en.wikipedia.org/wiki/Frasier), despite a long career.  The latter had a revival, recently, which I ignored, because Grammar doesn't come off as the sort of person I want to support, if you scroll down to *Politics* and *Legal Issues*.  I mean, I also didn't watch much of the original **Frasier**'s run, but I might've given the revival a chance for a lot of other performers...
+You'll probably recognize Bateson as {% wiki Kelsey_Grammer|Kelsey Grammer|en %}, known almost entirely for his role as Frasier Crane on {% wiki Cheers|**Cheers**|en %} and {% wiki Frasier|Frasier's own spinoff|en %}, despite a long career.  The latter had a revival, recently, which I ignored, because Grammar doesn't come off as the sort of person I want to support, if you scroll down to *Politics* and *Legal Issues*.  I mean, I also didn't watch much of the original **Frasier**'s run, but I might've given the revival a chance for a lot of other performers...
 
 For the purposes of this show, however, I'd like to point out how strange Bateson's question sounds, because I can't think of a single time that Picard has found a strange ship and jumped to offer help.
 
  > **BATESON**: Of course I do. It's twenty-two seventy-eight.
 
-Because the film makes a fairly big deal about taking place more than three centuries after the launch of *Voyager 6*, that presumably places it sometime after 2277---three centuries after [*Voyager 1*](https://en.wikipedia.org/wiki/Voyager_program) launches---making the *Bozeman*'s disappearance roughly contemporary or earlier, hence the other-movie uniforms.
+Because the film makes a fairly big deal about taking place more than three centuries after the launch of *Voyager 6*, that presumably places it sometime after 2277---three centuries after {% wiki Voyager_program|*Voyager 1*|en %} launches---making the *Bozeman*'s disappearance roughly contemporary or earlier, hence the other-movie uniforms.
 
 ## Conclusions
 

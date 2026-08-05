@@ -47,7 +47,7 @@ Beyond that, you know what I know, at this stage.  I don't [follow Makarios on M
 
 ## What Works Well?
 
-The bickering relationship between Lily and Malin occasionally stumbles, but brings a lot of fun to an otherwise bleak section of the story.  If the story had much interest in traditional gender roles---I feel grateful that it doesn't---I'd compare it to [screwball comedies](https://en.wikipedia.org/wiki/Screwball_comedy), due to the entertaining conflict and the focus on the young woman.
+The bickering relationship between Lily and Malin occasionally stumbles, but brings a lot of fun to an otherwise bleak section of the story.  If the story had much interest in traditional gender roles---I feel grateful that it doesn't---I'd compare it to {% wiki Screwball_comedy|screwball comedies|en %}, due to the entertaining conflict and the focus on the young woman.
 
 Likewise, the escape delighted me, with how it felt carefully constructed, with real senses of space and stakes.
 

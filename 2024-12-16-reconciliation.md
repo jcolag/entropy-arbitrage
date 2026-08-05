@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I couldn't find any holidays for my part of the world, but over in South Africa---land of [Book Dash]({% post_url 2020-09-12-bookdash %}), for those who want a quick jolt of Free Culture in their Monday---takes today to celebrate its [Day of Reconciliation](https://en.wikipedia.org/wiki/Day_of_Reconciliation) and the end of Apartheid, a reclamation of the [Day of the Vow](https://en.wikipedia.org/wiki/Day_of_the_Vow) and anniversary of the founding of the [uMkhonto weSizwe](https://en.wikipedia.org/wiki/UMkhonto_weSizwe), both days that formerly celebrated violence.
+I couldn't find any holidays for my part of the world, but over in South Africa---land of [Book Dash]({% post_url 2020-09-12-bookdash %}), for those who want a quick jolt of Free Culture in their Monday---takes today to celebrate its {% wiki Day_of_Reconciliation|Day of Reconciliation|en %} and the end of Apartheid, a reclamation of the {% wiki Day_of_the_Vow|Day of the Vow|en %} and anniversary of the founding of the {% wiki UMkhonto_weSizwe|uMkhonto weSizwe|en %}, both days that formerly celebrated violence.
 
 ![The South African flag](/blog/assets/Flag-of-South-Africa.svg "No, I don't have snarky things to say about somebody's flag...")
 

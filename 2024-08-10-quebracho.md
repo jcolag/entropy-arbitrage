@@ -34,7 +34,7 @@ This should go without saying---even though I plan to repeat it with every Book 
 
 ## Viaje a la Tierra del Quebracho
 
-On the Internet Archive, they describe the film---the title translating to *Voyage to the Land of Quebracho* in English, presumably in reference to [the tree by that name](https://en.wikipedia.org/wiki/Quebracho_tree) also known as a "break-axe"---as follows.
+On the Internet Archive, they describe the film---the title translating to *Voyage to the Land of Quebracho* in English, presumably in reference to {% wiki Quebracho_tree|the tree by that name|en %} also known as a "break-axe"---as follows.
 
  > A boy starts an adventure following the railroad tracks, guided by a dream, and his curious and playful spirit. In his particular ordeal he will discover historical events that relate to the hard life of the forest loggers, an impetuous, exploitative company, and the displacement of the aboriginal inhabitants, in a story that brings alive the identity of different villages that are one. What is the past? Becoming aware of it, can change the history? Can we feel affection and belonging to that which we do not live but, strangely, we identify?
  >

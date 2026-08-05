@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ This episode *mostly* focuses on its plot, but it does have some interesting mom
 
  > **CRUSHER**: You were like a brother to me. Do you remember? We used played in the park near the lake.
 
-They've decided that we need to watch a presentation of Edmond Rostand 1897 play [**Cyrano de Bergerac**](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_%28play%29), apparently so that we can watch the rest of the cast roll their eyes at it.
+They've decided that we need to watch a presentation of Edmond Rostand 1897 play {% wiki Cyrano_de_Bergerac_%28play%29|**Cyrano de Bergerac**|en %}, apparently so that we can watch the rest of the cast roll their eyes at it.
 
 Oh, and you'll also presumably remember Barclay from [*Hollow Pursuits*]({% post_url 2023-09-21-hollow-pursuits %}).
 
@@ -43,7 +43,7 @@ Oh, and you'll also presumably remember Barclay from [*Hollow Pursuits*]({% post
 
 Oh, look, Data has found the One True Way of learning to act, which he discovered in [*Devil's Due*]({% post_url 2024-02-01-devil-s-due %}).
 
-By the way, I forgot to mention it with that episode in expressing my distaste for how the media portrays Method Acting, but would it surprise you to find out that Stanislavsky presents most of his extreme exercises as *parodies* of terrible actors, rather than a proper way to conduct yourself as a performer?  [Bradley Cooper, Cillian Murphy and the myths of Method acting](https://theconversation.com/bradley-cooper-cillian-murphy-and-the-myths-of-method-acting-224340) recently covered this in detail, saving me the trouble of actually reading [**An Actor Prepares**](https://en.wikipedia.org/wiki/An_Actor_Prepares)...
+By the way, I forgot to mention it with that episode in expressing my distaste for how the media portrays Method Acting, but would it surprise you to find out that Stanislavsky presents most of his extreme exercises as *parodies* of terrible actors, rather than a proper way to conduct yourself as a performer?  [Bradley Cooper, Cillian Murphy and the myths of Method acting](https://theconversation.com/bradley-cooper-cillian-murphy-and-the-myths-of-method-acting-224340) recently covered this in detail, saving me the trouble of actually reading {% wiki An_Actor_Prepares|**An Actor Prepares**|en %}...
 
  > **RIKER**: Data, because it's polite.
 
@@ -51,7 +51,7 @@ That kind of enthusiasm seems far more than polite.  Also, why did they not tell
 
  > **BARCLAY**: I'm picking up visual wavelengths only. Between forty-five hundred and seven thousand ångströms.
 
-This line strikes me as utterly bizarre.  First, I can't imagine anybody using [ångströms](https://en.wikipedia.org/wiki/Angstrom) to measure visible light, because you only get a factor of ten larger than using International Standard (SI) hundreds of nanometers, which doesn't really gain you anything, especially when the numbers end in zeroes.  Second, that range runs through almost the entire visible spectrum, from blue-on-the-border-of-violet through the more-orange parts of red, so why specify the range of visible-to-human wavelengths at all?
+This line strikes me as utterly bizarre.  First, I can't imagine anybody using {% wiki Angstrom|ångströms|en %} to measure visible light, because you only get a factor of ten larger than using International Standard (SI) hundreds of nanometers, which doesn't really gain you anything, especially when the numbers end in zeroes.  Second, that range runs through almost the entire visible spectrum, from blue-on-the-border-of-violet through the more-orange parts of red, so why specify the range of visible-to-human wavelengths at all?
 
  > **LAFORGE**: Don't mention it. You're one of my top engineers. It's about time you got in on some of the interesting stuff. This...this is why I'm in Starfleet.
 

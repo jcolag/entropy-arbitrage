@@ -34,15 +34,15 @@ Does fewer than sixty words make "a character"?  I mean, they couldn't even pick
 
 [^4]:  A reader kindly pointed out---to my chagrin, for not noticing it myself while assembling complaints---that this racial description also feels like lazy Orientalism and fetishism, while also making it an implicit part of the licensing deal that creators participate in those problems by choosing Jenny's ethnicity for themselves.  The choice marks the character as "exotic," but in a vague way that suspends the eventual blame for the creators using the character, not the creators *of* the character.
 
-I feel like this established an awful trend, where we got a flood of characters labeled "open source" who didn't have much more to them than a vague premise and sketchy picture, an entire line of literary [stone soups](https://en.wikipedia.org/wiki/Stone_Soup) in tin cans that abandons the communal premise of the story *and* of Free Culture.
+I feel like this established an awful trend, where we got a flood of characters labeled "open source" who didn't have much more to them than a vague premise and sketchy picture, an entire line of literary {% wiki Stone_Soup|stone soups|en %} in tin cans that abandons the communal premise of the story *and* of Free Culture.
 
 ## What Makes a Character a Character?
 
 Before we go any further, I want to make the point that, legally speaking, we don't really have a concept of a "character" as intellectual property.  We talk about characters informally, but when you look at what laws cover and how court cases shake out, you see that characters come in two parts.
 
-The "important" part comes from the body of knowledge accumulated over the course of stories told about the character.  The lawsuits over Sherlock Holmes seem the most instructive, here.  They never hinge on the presence of the character, but which stories elements of the characters originate in.  [Klinger](https://en.wikipedia.org/wiki/Klinger_v._Conan_Doyle_Estate,_Ltd.) tried to argue from the basis of characters, trying to invalidate the copyrights on the then-still-under-copyright stories as "events" in the lives of the characters, rather than changes to the characters.  The [lawsuit over **Enola Holmes**](https://en.wikipedia.org/wiki/Enola_Holmes_%28film%29#Lawsuit) focused on which stories showed the detective acting emotionally.
+The "important" part comes from the body of knowledge accumulated over the course of stories told about the character.  The lawsuits over Sherlock Holmes seem the most instructive, here.  They never hinge on the presence of the character, but which stories elements of the characters originate in.  {% wiki Klinger_v._Conan_Doyle_Estate,_Ltd.|Klinger|en %} tried to argue from the basis of characters, trying to invalidate the copyrights on the then-still-under-copyright stories as "events" in the lives of the characters, rather than changes to the characters.  The {% wiki Enola_Holmes_%28film%29#Lawsuit|lawsuit over **Enola Holmes**|en %} focused on which stories showed the detective acting emotionally.
 
-Critically, though, courts need to find characters [well-delineated](https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters) for those derived works to hold up as...well, derived works.  Classically, in [**The Maltese Falcon**](https://en.wikipedia.org/wiki/The_Maltese_Falcon_%28novel%29), Sam Spade didn't qualify as a character, since he largely sits through the plot as it unfolds, and doesn't rate as much more than a stock character when the story focuses on him at all.
+Critically, though, courts need to find characters {% wiki Copyright_protection_for_fictional_characters|well-delineated|en %} for those derived works to hold up as...well, derived works.  Classically, in {% wiki The_Maltese_Falcon_%28novel%29|**The Maltese Falcon**|en %}, Sam Spade didn't qualify as a character, since he largely sits through the plot as it unfolds, and doesn't rate as much more than a stock character when the story focuses on him at all.
 
 And I need to ask, here, does Jenny Everywhere seem well-delineated to anybody?  To put that question another way, without copying the description and somebody's art, could a person construct a character that violates an alleged Jenny Everywhere copyright?  As I look at it, unless all revelations about the character by different authors in their stories become a part of the character, I don't think that anybody could manage to pull it off.
 
@@ -88,7 +88,7 @@ Then, we have the enforcement end of this.  If somebody decided to sue me for us
 
 Let's go a few steps further.  If we have indeed [reversed copyright](https://www.iusmentis.com/copyright/allrightsreserved/)---see the second-to-last section, "The phrase by itself is not enough; a license must explicitly state the rights that are granted"---does that mean that I can theoretically sue Wintle for infringing on my alleged reversed right to create a similar character first?  That *seems* like the opposite of copyright.  Does it imply a copyleft regime granting everybody the same rights as the creator, provided that they extend that license to others on our work?
 
-The phrase appears to originate with [**The Principia Discordia**](https://en.wikipedia.org/wiki/Principia_Discordia), with the following line at the end.
+The phrase appears to originate with {% wiki Principia_Discordia|**The Principia Discordia**|en %}, with the following line at the end.
 
  > &#x24da; All Rites Reversed --- Reprint what you like
 
@@ -96,7 +96,7 @@ With [rite](https://en.wiktionary.org/wiki/rite) (religious custom) substituted 
 
 [^3]:  Again, we can't guarantee that common understanding, though.  People have treated the book as fully in the public domain, even though "reprint what you like" strongly suggests that we only have permission to extract verbatim sections for future publications.  I don't know what to tell you...
 
-After that, the [Free Software movement](https://en.wikipedia.org/wiki/Free_software_movement) previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of another (not legally binding) pseudo-copyright symbol, &#x1f12f; in this case, I assume that this situation took inspiration directly from the other.
+After that, the {% wiki Free_software_movement|Free Software movement|en %} previously used the phrasing "Copyleft---all rights reversed."  Realizing that the phrase has no meaning, however, their licenses outline exactly how the rights work in (for example) the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).  And given the similar insertion of another (not legally binding) pseudo-copyright symbol, &#x1f12f; in this case, I assume that this situation took inspiration directly from the other.
 
 This indicates the problem.  When I ask what that phrase implies here, I use the verb "imply," because it has no legal meaning to state anything explicitly.  You can't have a license of *vibes*.
 

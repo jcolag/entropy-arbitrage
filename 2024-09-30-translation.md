@@ -16,11 +16,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate [International Translation Day](https://en.wikipedia.org/wiki/International_Translation_Day), celebrating translation professionals.  You know that I like a language day.  This one coincides with the Christian feast of Jerome, patron saint of translators.  As someone who has spent a lot of time translating things---with and without computer assistance---and working with people to get software interfaces translated, I definitely want to applaud the people who do this for a living, even if I don't often have the opportunity to pay for the service.
+Today, we celebrate {% wiki International_Translation_Day|International Translation Day|en %}, celebrating translation professionals.  You know that I like a language day.  This one coincides with the Christian feast of Jerome, patron saint of translators.  As someone who has spent a lot of time translating things---with and without computer assistance---and working with people to get software interfaces translated, I definitely want to applaud the people who do this for a living, even if I don't often have the opportunity to pay for the service.
 
 ![The Rosetta Stone](/blog/assets/Rosetta-Stone-front-face.png "It belongs in a museum...but not that one")
 
-If you'd rather something trendier, we also have [Blasphemy Day](https://en.wikipedia.org/wiki/Blasphemy_Day), bringing attention to freedom of expression, especially in the form of criticism of religion.  We still have a couple of countries that apply the death penalty to blasphemy, so we don't want to forget about the issue.
+If you'd rather something trendier, we also have {% wiki Blasphemy_Day|Blasphemy Day|en %}, bringing attention to freedom of expression, especially in the form of criticism of religion.  We still have a couple of countries that apply the death penalty to blasphemy, so we don't want to forget about the issue.
 
 And on we go to the projects.
 

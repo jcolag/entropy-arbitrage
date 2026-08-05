@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,7 +34,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 I'll ignore the ill-advised romance subplot.  You can all probably guess how I feel about the idea that Ro would throw herself at Riker...
 
-Oh, I also didn't bother to leave her couple of lines in, but you might recognize Kristin as [Liz Vassey](https://en.wikipedia.org/wiki/Liz_Vassey), who has shown up in soap operas, science fiction, sitcoms, fantasy drama, police procedurals, and a surprising number of cross-genre pieces...usually to more success than this slop.
+Oh, I also didn't bother to leave her couple of lines in, but you might recognize Kristin as {% wiki Liz_Vassey|Liz Vassey|en %}, who has shown up in soap operas, science fiction, sitcoms, fantasy drama, police procedurals, and a surprising number of cross-genre pieces...usually to more success than this slop.
 
  > **TROI**: Data, chess isn't just a game of ploys and gambits. It's a game of intuition.
 
@@ -82,7 +82,7 @@ This, I think, shows Picard's reality.  They already pointed out that the ship p
 
  > **TROI**: *Ode to Psyche*, by John Keats.
 
-It surprises me that Troi has better taste than the usual "Shakespeare or the 1930s," gifting [an experimental Keats poem](https://en.wikipedia.org/wiki/Ode_to_Psyche).  People don't even really know Keats *for* that particular poem, which means that she actually needed to dig deeper than picking the most popular work by one of the most popular English poets.
+It surprises me that Troi has better taste than the usual "Shakespeare or the 1930s," gifting {% wiki Ode_to_Psyche|an experimental Keats poem|en %}.  People don't even really know Keats *for* that particular poem, which means that she actually needed to dig deeper than picking the most popular work by one of the most popular English poets.
 
  > **MACDUFF**: Approaching Central Command.
 

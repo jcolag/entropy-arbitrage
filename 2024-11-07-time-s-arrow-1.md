@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -104,7 +104,7 @@ Sorry to repeat myself, but they have a law against interfering with alien cultu
 
  > **GAMBLER**: Fold.
 
-You might recognize the bit-player as [Marc Alaimo](https://en.wikipedia.org/wiki/Marc_Alaimo), who previously played Gul Macet in [*The Wounded*]({% post_url 2024-01-25-wounded %}), and will go on to play Gul Dukat on **DS9**.
+You might recognize the bit-player as {% wiki Marc_Alaimo|Marc Alaimo|en %}, who previously played Gul Macet in [*The Wounded*]({% post_url 2024-01-25-wounded %}), and will go on to play Gul Dukat on **DS9**.
 
  > **PICARD**: We cannot make Mister Data our priority.
  >
@@ -124,9 +124,9 @@ Oh, now that he has a war to look forward to, *now* Picard will "make Mister Dat
 
  > **CLEMENS**: The eminent scientist Alfred Russell Wallace has revived the theory that Earth is at the center of the stellar universe. This distinguished natural philosopher has reaffirmed our planet as the only habitable globe in the heavens. A world, furthermore, constructed for the sole benefit of man. He's got a lot of folks excited about the notion.
 
-Underneath the prosthetics, you might recognize [Sam](https://en.wikipedia.org/wiki/Mark_Twain) as [Jerry Hardin](https://en.wikipedia.org/wiki/Jerry_Hardin), who popped up a *lot* around this time.
+Underneath the prosthetics, you might recognize {% wiki Mark_Twain|Sam|en %} as {% wiki Jerry_Hardin|Jerry Hardin|en %}, who popped up a *lot* around this time.
 
-[Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) focused mostly on evolution, but I don't doubt that he had mediocre cosmology ideas, too.
+{% wiki Alfred_Russel_Wallace|Alfred Russel Wallace|en %} focused mostly on evolution, but I don't doubt that he had mediocre cosmology ideas, too.
 
  > **DATA**: I am a personal friend.
 

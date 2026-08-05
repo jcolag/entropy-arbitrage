@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -59,13 +59,13 @@ Good for the alien intelligences not wanting to get too close to Riker...
 
  > **PICARD**: Mister Worf.
 
-The guard on the left, despite the lack of lines, you might recognize as [Patricia Tallman](https://en.wikipedia.org/wiki/Patricia_Tallman), a stunt performer who---in a few years---would go on play Lyta Alexander for the majority of competitor **Babylon 5**'s run.
+The guard on the left, despite the lack of lines, you might recognize as {% wiki Patricia_Tallman|Patricia Tallman|en %}, a stunt performer who---in a few years---would go on play Lyta Alexander for the majority of competitor **Babylon 5**'s run.
 
  > **RIKER**: A concussive charge would blow out the security fields. We could go in with phasers on wide beam, stun everybody. Sort it out later.
 
 You can tell the good guys on this show, because they'll look for excuses to commit violence against hostages and dismiss it as collateral damage...
 
-Wait.  This sounds familiar, especially considering that Picard will later talk about how proud the hostages will feel to sacrifice their lives in this incident.  This episode reminds me a *lot* of the story behind the pop psychology "diagnosis" of [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome), which I summarized in the post about [*Suddenly Human*]({% post_url 2023-11-30-suddenly-human %}).  But now I need to wonder if this seemingly mediocre episode has a secret, subversive agenda...although probably not, since nobody has Kristin Enmark's role, interceding to keep both inept sides from getting everybody killed.
+Wait.  This sounds familiar, especially considering that Picard will later talk about how proud the hostages will feel to sacrifice their lives in this incident.  This episode reminds me a *lot* of the story behind the pop psychology "diagnosis" of {% wiki Stockholm_syndrome|Stockholm Syndrome|en %}, which I summarized in the post about [*Suddenly Human*]({% post_url 2023-11-30-suddenly-human %}).  But now I need to wonder if this seemingly mediocre episode has a secret, subversive agenda...although probably not, since nobody has Kristin Enmark's role, interceding to keep both inept sides from getting everybody killed.
 
  > **TROI**: The crew values Picard's life above all others. Captain Picard, we agree to your proposal.
 
@@ -83,7 +83,7 @@ I don't know.  We've seen multiple Starfleet captains who tried to set themselve
 
  > **O'BRIEN**: I gave you that. In a place called McKinley Park. Green grass. Tall trees.
 
-Presumably, he means the [McKinley Park in Sacramento](https://en.wikipedia.org/wiki/McKinley_Park,_Sacramento), California.
+Presumably, he means the {% wiki McKinley_Park,_Sacramento|McKinley Park in Sacramento|en %}, California.
 
  > **TROI**: Lower the force field.
 

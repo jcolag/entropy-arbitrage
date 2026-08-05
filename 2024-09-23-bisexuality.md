@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks [Celebrate Bisexuality Day](https://en.wikipedia.org/wiki/Celebrate_Bisexuality_Day), also often referred to as a Pride or Visibility day instead of a name that sounds more like directions, but it has a goal of helping to raise awareness of the issues that bisexual people face, and to acknowledge the bisexual people in our circles, who---rumor has it---could look like *anyone*.
+Today marks {% wiki Celebrate_Bisexuality_Day|Celebrate Bisexuality Day|en %}, also often referred to as a Pride or Visibility day instead of a name that sounds more like directions, but it has a goal of helping to raise awareness of the issues that bisexual people face, and to acknowledge the bisexual people in our circles, who---rumor has it---could look like *anyone*.
 
 ![The bisexual pride flag](/blog/assets/Bisexual_Pride_Flag.svg "I see you, or at least some of you.  Actually, could you shimmy to the left a little so that the tree doesn't block you...?")
 

@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Yesterday marked [World Statistics Day](https://en.wikipedia.org/wiki/World_Statistics_Day), though we apparently only actually celebrate it every five years and this one doesn't count.  Maybe this looks more like a year early than a day late, then.  I don't know.  It celebrates statistics, though, and that seems interesting...
+Yesterday marked {% wiki World_Statistics_Day|World Statistics Day|en %}, though we apparently only actually celebrate it every five years and this one doesn't count.  Maybe this looks more like a year early than a day late, then.  I don't know.  It celebrates statistics, though, and that seems interesting...
 
 ![A graph of the normal distribution](/blog/assets/Standard-Normal-Distribution.png "Perfectly normal, nothing to see here...")
 

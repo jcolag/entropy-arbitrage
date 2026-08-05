@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,11 +35,11 @@ Don't expect much out of this episode.  Even the references feel bland enough th
 
  > **WORF**: Captain, I am picking up a general distress signal from Gamelan Five.
 
-Did someone name a star after [a percussive music style](https://en.wikipedia.org/wiki/Gamelan)?
+Did someone name a star after {% wiki Gamelan|a percussive music style|en %}?
 
  > **DIRGO**: It's my own modification. It's more efficient. You can study it if you want to.
 
-You might recognize Dirgo as [Nick Tate](https://en.wikipedia.org/wiki/Nick_Tate), known primarily for his role as Alan Carter on [**Space:  1999**](https://en.wikipedia.org/wiki/Space:_1999).
+You might recognize Dirgo as {% wiki Nick_Tate|Nick Tate|en %}, known primarily for his role as Alan Carter on {% wiki Space:_1999|**Space:  1999**|en %}.
 
  > **WESLEY**: Captain? Of a mining shuttle?
 
@@ -85,7 +85,7 @@ Given how many times that he has mentioned it, I feel fairly confident that *eve
 
  > **PICARD**: Auprès de ma blonde, il fait bon, fait bon, fait bon. Ensign, where are we?
 
-*Next to My Girl*, or [*Auprès de ma blonde*](https://en.wikipedia.org/wiki/Aupr%C3%A8s_de_ma_blonde), goes back a couple of centuries, personalizing the animosity between France and Holland at the time.
+*Next to My Girl*, or {% wiki Aupr%C3%A8s_de_ma_blonde|*Auprès de ma blonde*|en %}, goes back a couple of centuries, personalizing the animosity between France and Holland at the time.
 
  > **PICARD**: There's so much I wanted to tell you. The Academy, there's someone, someone who meant a great deal to me. He's been there forever. Someone you must get to know. His name is Boothby. Now, you tell him that you and I were friends. Now, when I was there, he helped me. Listen to him.
 

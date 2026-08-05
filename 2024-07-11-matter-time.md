@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -36,9 +36,9 @@ This episode mostly concerns it with its dual plots, but you know how this goes.
 
  > Captain's log, stardate 45349.1. The Enterprise is on its way to Penthara Four, where a type C asteroid has struck an unpopulated continent. The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of twenty-first century Earth. Commander La Forge has begun work on a plan that would counteract the devastation.
 
-I can't find any prior reference for the star's name, but [nuclear winter](https://en.wikipedia.org/wiki/Nuclear_winter) came into the public imagination during the 1980s, the idea that nuclear war would result in dropping the amount of solar energy that enters Earth's atmosphere, severely cooling the world.  As far as I can tell, nobody has ever really managed to validate the premise, and a lot of the early math stopped making sense around when this episode aired.
+I can't find any prior reference for the star's name, but {% wiki Nuclear_winter|nuclear winter|en %} came into the public imagination during the 1980s, the idea that nuclear war would result in dropping the amount of solar energy that enters Earth's atmosphere, severely cooling the world.  As far as I can tell, nobody has ever really managed to validate the premise, and a lot of the early math stopped making sense around when this episode aired.
 
-Even so, it has come back into casual conversation *not* as an anti-war concern, but in the guise of [climate engineering](https://en.wikipedia.org/wiki/Climate_engineering), suggesting that we can briefly slow down Global Warming at the tiny cost of starving plenty of people and making solar power less viable.  No, really, we have an entire fleet of wealthy people who adore the idea of polluting the atmosphere so that they can keep burning coal.
+Even so, it has come back into casual conversation *not* as an anti-war concern, but in the guise of {% wiki Climate_engineering|climate engineering|en %}, suggesting that we can briefly slow down Global Warming at the tiny cost of starving plenty of people and making solar power less viable.  No, really, we have an entire fleet of wealthy people who adore the idea of polluting the atmosphere so that they can keep burning coal.
 
  > **DATA**: The odds of that occurring, Captain, are extremely unlikely, given the time frame.
 
@@ -52,7 +52,7 @@ We don't have a *real* episode of the show, unless Picard petulantly refuses to 
 
  > **RASMUSSEN**: Oops. Excuse me, Captain, but you were standing right where I needed to be.
 
-You may recognize Rasmussen as [Matt Frewer](https://en.wikipedia.org/wiki/Matt_Frewer), who despite a lengthy career, people mostly know him from his work as (fictional) artificial intelligence [Max Headroom](https://en.wikipedia.org/wiki/Max_Headroom)...allegedly coming back on AMC, at some point.
+You may recognize Rasmussen as {% wiki Matt_Frewer|Matt Frewer|en %}, who despite a lengthy career, people mostly know him from his work as (fictional) artificial intelligence {% wiki Max_Headroom|Max Headroom|en %}...allegedly coming back on AMC, at some point.
 
  > **RASMUSSEN**: Where I come from, every historian knows the bridge of old 1701-D.
 
@@ -76,7 +76,7 @@ How the **heck** did Picard decide that future credentials looked "in order"?  W
 
 Actually, wouldn't Lore look more like an unsold prototype?  I mean, if we need to waste time on time-wasting pedantry, here, why can't we do it accurately...?
 
-Anyway, you presumably don't need me to tell you about Ford's [Model T](https://en.wikipedia.org/wiki/Ford_Model_T) or (second) [Model A](https://en.wikipedia.org/wiki/Ford_Model_A_%281927%E2%80%9331%29).  However, as long as I already started nitpicking this nonsense, I should note that Ford actually sold several lines of cars *before* the Model T, but Ford *mass-produced* the T, important because of that, rather than because of the existence of the automobile.  If we must draw an analogy between Soong and Ford, then Lore looks more like the [Quadricycle](https://en.wikipedia.org/wiki/Ford_Quadricycle), hand-built, low quantity, and barely known, and Data the (original) [Model A](https://en.wikipedia.org/wiki/Ford_Model_A_%281903%E2%80%9304%29), the alleged reliable product that barely worked...
+Anyway, you presumably don't need me to tell you about Ford's {% wiki Ford_Model_T|Model T|en %} or (second) {% wiki Ford_Model_A_%281927%E2%80%9331%29|Model A|en %}.  However, as long as I already started nitpicking this nonsense, I should note that Ford actually sold several lines of cars *before* the Model T, but Ford *mass-produced* the T, important because of that, rather than because of the existence of the automobile.  If we must draw an analogy between Soong and Ford, then Lore looks more like the {% wiki Ford_Quadricycle|Quadricycle|en %}, hand-built, low quantity, and barely known, and Data the (original) {% wiki Ford_Model_A_%281903%E2%80%9304%29|Model A|en %}, the alleged reliable product that barely worked...
 
  > **PICARD**: We've located three underground pockets of carbon dioxide, here, here and here. Our drilling phasers can release enough of the gas to form an envelope which would temporarily hold in the heat of the sun.
  >
@@ -84,13 +84,13 @@ Anyway, you presumably don't need me to tell you about Ford's [Model T](https://
 
 Take what I said about climate engineering above, and apply it here in reverse, I guess.
 
-Honestly, this plot actually angers me in how blithely it thinks that you can---and *should*---tinker with ecosystems to get immediate and beneficial changes.  They act like smoke and dust will instantly cool the planet to freezing immediately, as if they've never experienced a cloudy sky or *night* before, and also think that [greenhouse gases](https://en.wikipedia.org/wiki/Greenhouse_gas)...I guess trap and *generate* heat so quickly that you can see the effects in an afternoon rather than decades.
+Honestly, this plot actually angers me in how blithely it thinks that you can---and *should*---tinker with ecosystems to get immediate and beneficial changes.  They act like smoke and dust will instantly cool the planet to freezing immediately, as if they've never experienced a cloudy sky or *night* before, and also think that {% wiki Greenhouse_gas|greenhouse gases|en %}...I guess trap and *generate* heat so quickly that you can see the effects in an afternoon rather than decades.
 
 And in doing this, it also completely ignores the actual threat of nuclear winter, the lack of solar radiation to grow crops and otherwise store energy, in favor of interpreting it as some sort of atomic-powered winter...
 
  > **RASMUSSEN**: You know, Homer was blind, and Milton. Bach, Monet, Wonder.
 
-[Homer](https://en.wikipedia.org/wiki/Homer), among other things wrote the epic poems **The Iliad** and **The Odyssey**.  [John Milton](https://en.wikipedia.org/wiki/John_Milton) wrote the epic poem **Paradise Lost**.  [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) wrote many late-Baroque orchestral pieces.  [Oscar-Claude Monet](https://en.wikipedia.org/wiki/Claude_Monet) started the impressionist art movement.  The aberration on the list whose work has *not* fallen into the public domain, [Stevie Wonder](https://en.wikipedia.org/wiki/Stevie_Wonder), born Stevland Hardaway Judkins, quickly became one of the twentieth century's most influential musicians, making the R&B genre more accessible by embracing electronic music, who at the time that this aired, would have had an extra boost in popularity due to his work in Spike Lee's **Jungle Fever**.
+{% wiki Homer|Homer|en %}, among other things wrote the epic poems **The Iliad** and **The Odyssey**.  {% wiki John_Milton|John Milton|en %} wrote the epic poem **Paradise Lost**.  {% wiki Johann_Sebastian_Bach|Johann Sebastian Bach|en %} wrote many late-Baroque orchestral pieces.  {% wiki Claude_Monet|Oscar-Claude Monet|en %} started the impressionist art movement.  The aberration on the list whose work has *not* fallen into the public domain, {% wiki Stevie_Wonder|Stevie Wonder|en %}, born Stevland Hardaway Judkins, quickly became one of the twentieth century's most influential musicians, making the R&B genre more accessible by embracing electronic music, who at the time that this aired, would have had an extra boost in popularity due to his work in Spike Lee's **Jungle Fever**.
 
 Normally, I'd point out that we don't generally consider it polite conversation to say "hey, I can actually name people with disabilities similar to yours," but we don't really see much of the reaction, so they seem to have included the exchange to show Rasmussen as awkward.
 
@@ -98,7 +98,7 @@ That said, I wonder if they meant the line to tip us off to the twist, here.  Th
 
  > **LAFORGE**: The Enterprise will monitor the CO<sub>2</sub> concentrations at six different altitudes. If all goes well, it shouldn't take more than twenty bore sites.
 
-I refuse to believe that future professionals will refer to chemicals by the representation of chemical formulae, if only because they don't always provide an unambiguous term, because it doesn't give any indication of the structure.  It doesn't really matter in the case of carbon dioxide, because carbon doesn't allow for much flexibility in structure with small molecules, but once you start talking about molecules that include [radicals](https://en.wikipedia.org/wiki/Radical_%28chemistry%29), for example, counting atoms doesn't tell you anything about the molecule.
+I refuse to believe that future professionals will refer to chemicals by the representation of chemical formulae, if only because they don't always provide an unambiguous term, because it doesn't give any indication of the structure.  It doesn't really matter in the case of carbon dioxide, because carbon doesn't allow for much flexibility in structure with small molecules, but once you start talking about molecules that include {% wiki Radical_%28chemistry%29|radicals|en %}, for example, counting atoms doesn't tell you anything about the molecule.
 
  > **RASMUSSEN**: Picard's empath won't trust you. That's what they all said.
  >
@@ -112,7 +112,7 @@ You could almost believe that drilling random holes in the surface of a planet t
 
  > **DATA**: Yes, sir. Mozart's Jupiter symphony in C major, Bach's Brandenburg Concerto number three, Beethoven's Ninth Symphony, second movement, molto vivace and *La Donna e Mobile* from Verdi's **Rigoletto**.
 
-Mozart finished [Symphony No. 41](https://en.wikipedia.org/wiki/Symphony_No._41_%28Mozart%29), his longest, near the end of his life, nicknamed *The Jupiter Symphony* sometime after.  Bach, mentioned above due to his eyesight, composed the [Brandenburg Concertos](https://en.wikipedia.org/wiki/Brandenburg_Concertos) at probably the height of his career.  Beethoven composed his [Symphony No. 9](https://en.wikipedia.org/wiki/Symphony_No._9_%28Beethoven%29) near the end of his life, and has become so famous that you probably recognize the fourth movement's *Ode to Joy*, which itself---along with the poem by the same name by [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller)---has become a protest anthem around the world.  [**Rigoletto**](https://en.wikipedia.org/wiki/Rigoletto), based on Victor Hugo's [**Le roi s'amuse](https://en.wikipedia.org/wiki/Le_roi_s%27amuse), where [*La donna è mobile*](https://en.wikipedia.org/wiki/La_donna_%C3%A8_mobile) ("The Lady Is Fickle") has gone from a cynical song showcasing the opera's tenor to, through its popularity among Venetian gondoliers, a stereotype of "Italian music" that you've probably heard played in pizzerias.
+Mozart finished {% wiki Symphony_No._41_%28Mozart%29|Symphony No. 41|en %}, his longest, near the end of his life, nicknamed *The Jupiter Symphony* sometime after.  Bach, mentioned above due to his eyesight, composed the {% wiki Brandenburg_Concertos|Brandenburg Concertos|en %} at probably the height of his career.  Beethoven composed his {% wiki Symphony_No._9_%28Beethoven%29|Symphony No. 9|en %} near the end of his life, and has become so famous that you probably recognize the fourth movement's *Ode to Joy*, which itself---along with the poem by the same name by {% wiki Friedrich_Schiller|Friedrich Schiller|en %}---has become a protest anthem around the world.  {% wiki Rigoletto|**Rigoletto**|en %}, based on Victor Hugo's {% wiki Le_roi_s%27amuse|**Le roi s'amuse|en %}, where {% wiki La_donna_%C3%A8_mobile|*La donna è mobile*|en %} ("The Lady Is Fickle") has gone from a cynical song showcasing the opera's tenor to, through its popularity among Venetian gondoliers, a stereotype of "Italian music" that you've probably heard played in pizzerias.
 
 Notably, Verdi obsessed over keeping *La donna è mobile* secret, even from the cast of the opera, because he considered the melody so catchy that everybody would copy it if it "leaked" before the premiere.  Apparently, he made the right call, because accounts generally say that people hummed and whistled it in the streets for weeks, before the gondoliers picked it up.
 
@@ -130,7 +130,7 @@ I don't want to imply that he definitely has an inappropriate impulse, here, but
 
  > **PICARD**: Yes, Professor, I know. What if one of those lives I save down there is a child who grows up to be the next Adolf Hitler or Khan Singh? Every first year philosophy student have been asked that question ever since the earliest wormholes were discovered. But this is not a class in temporal logic. It's not theoretical, it's not hypothetical, it's real. Surely you see that?
 
-I assume that I don't need to explain [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) to anybody.  Singh, we met in [*Space Seed*]({% post_url 2020-06-11-seed %}) and spent a bunch of time with in [**The Wrath of Khan**]({% post_url 2022-03-24-twok %}).
+I assume that I don't need to explain {% wiki Adolf_Hitler|Hitler|en %} to anybody.  Singh, we met in [*Space Seed*]({% post_url 2020-06-11-seed %}) and spent a bunch of time with in [**The Wrath of Khan**]({% post_url 2022-03-24-twok %}).
 
 Meanwhile, Picard somehow manages to turn around the thought experiment to, I guess, challenge each of us to ask why we don't murder the babies in our lives, knowing that any of them could plausibly become a mass murderer or tyrant[^1].
 
@@ -142,7 +142,7 @@ Also, since at least [*Encounter at Farpoint*]({% post_url 2022-05-26-farpoint2 
 
  > **PICARD**: Every choice we make allows us to manipulate the future. Do I ask Adrienne or Suzanne to the spring dance? Do I take my holiday on Corsica or on Risa? A person's life, their future, hinges on each of a thousand choices. Living is making choices. Now you ask me to believe that if I make a choice other than the one found in your history books, then your past will be irrevocably altered. Well, you know, Professor, perhaps I don't give a damn about your past, because your past is my future and as far as I'm concerned, it hasn't been written yet.
 
-The show inflicted Risa on us first in [*Captain's Holiday*]({% post_url 2023-09-07-captain-s-holiday %}), and it seems telling that Picard compares it to [Corsica](https://en.wikipedia.org/wiki/Corsica), a Mediterranean island primarily known as the birthplace of Napoleon Bonaparte and its [separatist movement](https://en.wikipedia.org/wiki/Corsican_nationalism) that has occasionally turned to violence.
+The show inflicted Risa on us first in [*Captain's Holiday*]({% post_url 2023-09-07-captain-s-holiday %}), and it seems telling that Picard compares it to {% wiki Corsica|Corsica|en %}, a Mediterranean island primarily known as the birthplace of Napoleon Bonaparte and its {% wiki Corsican_nationalism|separatist movement|en %} that has occasionally turned to violence.
 
 Mostly, though, notice Picard's thinking, here, trying to equate choosing a date to a school dance (apparently something he does often) or selecting a vacation resort with deciding whether to allow some large number of people---I don't think that we ever learned the size of the colony---to die.
 

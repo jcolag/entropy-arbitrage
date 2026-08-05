@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ Prepare yourselves for maybe one of the most self-indulgent episodes in the seri
 
  > Captain's log, stardate 45397.3. Two days ago, Starbase five-one-four lost contact with the research vessel *Vico*, which was sent to explore the interior of a Black Cluster. We are en route to investigate.
 
-The lost ship most likely references [Francesco de Vico](https://en.wikipedia.org/wiki/Francesco_de_Vico), nineteenth century astronomer for whom we have named at least a Lunar crater and asteroid.
+The lost ship most likely references {% wiki Francesco_de_Vico|Francesco de Vico|en %}, nineteenth century astronomer for whom we have named at least a Lunar crater and asteroid.
 
  > **TIMOTHY**: Are my parents all right?
 
@@ -85,7 +85,7 @@ Also, thinking of Data as loosely modeled on perceptions and stereotypes of Asia
 
  > **TROI**: I know it sounds unusual, but it is understandable. Technically, it's called enantiodromia. Conversion into the opposite. Timothy went from human to machine, from being emotional to being emotionless. But the underlying trauma is still there. He's just found a new way to suppress it.
 
-It turns out that [enantiodromia](https://en.wikipedia.org/wiki/Enantiodromia) does actually exist, at least as a psychological concept suggested by Carl Jung, though it doesn't really look like this nonsense...
+It turns out that {% wiki Enantiodromia|enantiodromia|en %} does actually exist, at least as a psychological concept suggested by Carl Jung, though it doesn't really look like this nonsense...
 
  > **PICARD**: Data, I would like you to make Timothy the best android he can possibly be.
 

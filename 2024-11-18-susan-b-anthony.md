@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the 152<sup>nd</sup> anniversary of [Susan B. Anthony](https://en.wikipedia.org/wiki/Susan_B._Anthony) and her fourteen conspirators for having the *unmitigated gall* to cast votes in the 1872 presidential election despite their lady-parts.  Without their brave civil disobedience and capture of the media's attention before and during the trial, it might have taken longer for the United States to grant universal suffrage.
+Today marks the 152<sup>nd</sup> anniversary of {% wiki Susan_B._Anthony|Susan B. Anthony|en %} and her fourteen conspirators for having the *unmitigated gall* to cast votes in the 1872 presidential election despite their lady-parts.  Without their brave civil disobedience and capture of the media's attention before and during the trial, it might have taken longer for the United States to grant universal suffrage.
 
 ![A caricature of Susan B. Anthony on the front page of the New York Daily Graphic](/blog/assets/Daily-Graphic-Woman-Who-Dared.png "Why has nobody turned this sketch into a Saturday morning cartoon?")
 

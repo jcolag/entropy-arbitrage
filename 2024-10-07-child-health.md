@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-In the United States, in accordance with [36 U.S.C. § 105](https://www.law.cornell.edu/uscode/text/36/105), the first Monday in October designates [Child Health Day](https://en.wikipedia.org/wiki/Child_Health_Day), bringing awareness to the need for year-round health programs.
+In the United States, in accordance with [36 U.S.C. § 105](https://www.law.cornell.edu/uscode/text/36/105), the first Monday in October designates {% wiki Child_Health_Day|Child Health Day|en %}, bringing awareness to the need for year-round health programs.
 
 ![International children dressed in their native costumes participate in the 100th anniversary of the Statue of Liberty](/blog/assets/DPLA-4461efafd5c4ba7fde8eedb1f13f439e.png "I now live in fear that I might have actually known some of these kids...")
 

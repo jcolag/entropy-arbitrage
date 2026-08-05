@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -36,7 +36,7 @@ Brace yourselves.  This episode will probably hurt...
 
  > Captain's Log, Stardate 44614.6. We are approaching Starbase three-one-three, where we will pick up a shipment of scientific equipment for transport to a Federation outpost in the Guernica System. During the journey we will be hosting a special guest.
 
-Presumably, the star takes its name from the town of [Guernica](https://en.wikipedia.org/wiki/Guernica).
+Presumably, the star takes its name from the town of {% wiki Guernica|Guernica|en %}.
 
  > **LAFORGE**: You remember about a year ago when we were caught in that booby trap the Menthars set? Okay. While we were trying to get out of it, I went down to the holodeck to study an engine prototype that was made when the Enterprise was first designed. And the computer, well, it gave me an image of the engine, but it also created this hologram of the designer. Doctor Leah Brahms.
 
@@ -74,11 +74,11 @@ Did I expect to see ribbed velour sweaters?  No, I did not.  And yet, here we ar
 
  > **COMPUTER**: Please state your request in precise candlepower.
 
-Why would *anybody* design a user interface like that?  Can you identify the [candlepower](https://en.wikipedia.org/wiki/Candlepower) value of *any* light source in your life, other than estimating a literal candle?
+Why would *anybody* design a user interface like that?  Can you identify the {% wiki Candlepower|candlepower|en %} value of *any* light source in your life, other than estimating a literal candle?
 
  > **LAFORGE**: See, it's not a matter of precision, computer, it's a matter of mood. Brighter than this. More. More. A little more. Hold. Right there. Perfect. Now, some music. Maybe a little soft jazz. No, that's not right. Let me think here. Oh, I got it! Some Brahms! A piano étude. Nah, that's too corny. Probably everybody thinks of that. Computer, just give me some guitar. Classical guitar. Doesn't matter who. Yes, thank you.
 
-You see, she has the same surname as [Johannes Brahms](https://en.wikipedia.org/wiki/Johannes_Brahms), so she must like the music.  {% emoji eyeroll %}
+You see, she has the same surname as {% wiki Johannes_Brahms|Johannes Brahms|en %}, so she must like the music.  {% emoji eyeroll %}
 
  > **LAFORGE**: Standard procedure when guests come on board. Protocol. I mean, it was nothing specific, actually. Just, you know...
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,7 +43,7 @@ We *get* it, Riker has a problem with Ro.
 
  > **VAREL**: They are offline.
 
-You might recognize Varel as [Susanna Thompson](https://en.wikipedia.org/wiki/Susanna_Thompson), who we'll see again in about six months, then somewhere during the **DS9** run as Dax's ex for one of television's first same-sex kisses, and a recurring role as the Borg Queen on **Voyager**.  More recently and prominently, she also had regular/recurring roles as Moira Queen on [**Arrow**](https://en.wikipedia.org/wiki/Arrow_%28TV_series%29) and as Carol Preston on [**Timeless**](https://en.wikipedia.org/wiki/Timeless_%28TV_series%29), among a bunch of other roles over the last thirty-plus years.
+You might recognize Varel as {% wiki Susanna_Thompson|Susanna Thompson|en %}, who we'll see again in about six months, then somewhere during the **DS9** run as Dax's ex for one of television's first same-sex kisses, and a recurring role as the Borg Queen on **Voyager**.  More recently and prominently, she also had regular/recurring roles as Moira Queen on {% wiki Arrow_%28TV_series%29|**Arrow**|en %} and as Carol Preston on {% wiki Timeless_%28TV_series%29|**Timeless**|en %}, among a bunch of other roles over the last thirty-plus years.
 
  > **RIKER**: Geordi, you and Ro.
 
@@ -75,9 +75,9 @@ We can't have an episode featuring Romulans that doesn't also feature our protag
 
 I mean, if their technology works anything like ours, then the difference in computers decades apart comes more from the manufacturing techniques than capabilities.  If you handed today's top-of-the-line desktop computer to a computer user in 1984, they'd have more computing capacity than probably the rest of the world combined, but nothing (assuming that you didn't give them a Wi-Fi adapter) about the box would surprise them[^3], nor would it put anybody on the path to duplicating it.
 
-[^3]:  Actually, [microcode](https://en.wikipedia.org/wiki/Microcode)-based architectures, where you have small, high-speed processors emulating the microprocessor that the machine claims to have, *might* represent a new idea.  I don't know if somebody can find it without knowing to look for it, though, since the chip still acts like its specification.
+[^3]:  Actually, {% wiki Microcode|microcode|en %}-based architectures, where you have small, high-speed processors emulating the microprocessor that the machine claims to have, *might* represent a new idea.  I don't know if somebody can find it without knowing to look for it, though, since the chip still acts like its specification.
 
-And on the other side of this argument, imagine somebody today desperately needing a computer for something important, and you offer them a [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K).  Does that sound like a reasonable response?  And when this aired, the analogy would look more like offering an [IBM 701](https://en.wikipedia.org/wiki/IBM_701), a device from a time when we probably had fewer than a hundred computers in the world total, and we didn't even have [magnetic core memory](https://en.wikipedia.org/wiki/Magnetic-core_memory) yet.
+And on the other side of this argument, imagine somebody today desperately needing a computer for something important, and you offer them a {% wiki Macintosh_128K|Macintosh 128K|en %}.  Does that sound like a reasonable response?  And when this aired, the analogy would look more like offering an {% wiki IBM_701|IBM 701|en %}, a device from a time when we probably had fewer than a hundred computers in the world total, and we didn't even have {% wiki Magnetic-core_memory|magnetic core memory|en %} yet.
 
  > **LAFORGE**: But my uniform, my visor. Are you saying I'm some blind ghost with clothes?
  >
@@ -115,17 +115,17 @@ Starfleet apparently prioritizes people who put their work before their health. 
 
  > **PICARD**: if she hadn't lost her rank as a result of that incident at Garon Four, I think she would've made Lieutenant Commander by now.
 
-Wait, really?  I have a clear soft spot for the character, but---again, assuming that the character and performer have roughly the same age---at twenty-seven years old at the time of the episode, that seems like awfully fast advancement.  For comparison, in our timeline, 1980's [DOPMA](https://en.wikipedia.org/wiki/Defense_Officer_Personnel_Management_Act) governs minimum qualifications for promotion.  Lieutenant commander requires nine to eleven years of service with minimum time in each rank.
+Wait, really?  I have a clear soft spot for the character, but---again, assuming that the character and performer have roughly the same age---at twenty-seven years old at the time of the episode, that seems like awfully fast advancement.  For comparison, in our timeline, 1980's {% wiki Defense_Officer_Personnel_Management_Act|DOPMA|en %} governs minimum qualifications for promotion.  Lieutenant commander requires nine to eleven years of service with minimum time in each rank.
 
 Oh, right.  We have the death certificate, which matches the crew manifest file from [*Conundrum*]({% post_url 2024-08-15-conundrum %}).  That lists Ro's date of birth as 2340 January 17, enrolling in Starfleet Academy in 2358 and graduating in 2362, which both confirms that the Academy does work like a college, and---assuming that almost exactly four seasons after [*The Neutral Zone*]({% post_url 2022-11-10-neutral-zone %})'s 2364 sets this in 2368---establishes Ro as about a year older than Forbes.
 
 Anyway, if Starfleet has something like DOPMA, then this alternate-timeline Ro would still need about another year before her promotion to lieutenant commander, suggesting that Starfleet does allow for more rapid advancement.  Still allows it, I mean, since Captain Kirk (created in pre-DOPMA days) definitely didn't have over twenty years of service when the original series began.
 
-By the way, why do they use the same calendar that we do, when they seemingly have a non-Earth-centric calendar in use throughout the franchise in their stardates?  I assume that Mrs. Ro didn't give birth on Earth, and unless you actually live in Earth's orbit---or in orbit around the Earth, yes---then the year has absolutely no meaning for you.  And that doesn't even go near the issues of information about events needing to travel, which makes up a lot of the background that went into [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity).
+By the way, why do they use the same calendar that we do, when they seemingly have a non-Earth-centric calendar in use throughout the franchise in their stardates?  I assume that Mrs. Ro didn't give birth on Earth, and unless you actually live in Earth's orbit---or in orbit around the Earth, yes---then the year has absolutely no meaning for you.  And that doesn't even go near the issues of information about events needing to travel, which makes up a lot of the background that went into {% wiki Theory_of_relativity|relativity|en %}.
 
 You might argue that the prop department did this as an inside joke, and never expected us to pause to read the entire dossier.  But if so, then why did they get the information as close to "correct" as we can expect, given the fictional setting?
 
-Regardless, I hinted at this at the end of last week's post teasing this week, but in a lot of ways, Ro and La Forge listening in on the funeral arrangements to hear what people think about them strongly recalls the funeral scene in [**The Adventures of Tom Sawyer**](https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer), where everybody presumes that young Tom has died and, hearing about it, attends his own funeral with the help of his friends.  And somehow, this does a far better job with Mark Twain than the episode(s) *with* the man as a character, coming up in two and four weeks.
+Regardless, I hinted at this at the end of last week's post teasing this week, but in a lot of ways, Ro and La Forge listening in on the funeral arrangements to hear what people think about them strongly recalls the funeral scene in {% wiki The_Adventures_of_Tom_Sawyer|**The Adventures of Tom Sawyer**|en %}, where everybody presumes that young Tom has died and, hearing about it, attends his own funeral with the help of his friends.  And somehow, this does a far better job with Mark Twain than the episode(s) *with* the man as a character, coming up in two and four weeks.
 
  > **LAFORGE**: Maybe we should develop our own interphase device. If it can teach Ro Laren humility, it can do anything.
 
@@ -143,7 +143,7 @@ It seems like maybe people have grown more comfortable with grieving, since we s
 
 ### The Bad
 
-We continue to see the Bajorans presented as some sort of underclass, both in how they seem to consistently get Ro's name wrong, and how they present their spiritual beliefs as barely worth mentioning in the context of death.  They also continue to make a point that Riker gets to discipline Ro more aggressively than anybody else on the ship that we've seen.  Similarly, we see Romulan lives treated as disposable and of a far lower priority than protecting even minor proprietary technology.  And Starfleet apparently imposes the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) on the galaxy.
+We continue to see the Bajorans presented as some sort of underclass, both in how they seem to consistently get Ro's name wrong, and how they present their spiritual beliefs as barely worth mentioning in the context of death.  They also continue to make a point that Riker gets to discipline Ro more aggressively than anybody else on the ship that we've seen.  Similarly, we see Romulan lives treated as disposable and of a far lower priority than protecting even minor proprietary technology.  And Starfleet apparently imposes the {% wiki Gregorian_calendar|Gregorian calendar|en %} on the galaxy.
 
 Along with the racism, we also see sexism in how we still treat Crusher as too emotional and Ro as to mouthy.
 

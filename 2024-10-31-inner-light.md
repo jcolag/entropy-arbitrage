@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -32,7 +32,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## The Inner Light
 
-The episode title presumably takes its name from [the Beatles song](https://en.wikipedia.org/wiki/The_Inner_Light_%28song%29), which admittedly feels thematically appropriate.  Otherwise, I'll skip past the jargon and minor appearance by Nurse Ogawa, since the episode puts its focus purely on the alien culture.
+The episode title presumably takes its name from {% wiki The_Inner_Light_%28song%29|the Beatles song|en %}, which admittedly feels thematically appropriate.  Otherwise, I'll skip past the jargon and minor appearance by Nurse Ogawa, since the episode puts its focus purely on the alien culture.
 
  > **PICARD**: This is not my life! I know that much.
 
@@ -62,7 +62,7 @@ Once again, either Riker gives orders that everybody should have already guessed
 
 Unrelated to our general project, I wish that they would've given this ceremony more emotional resonance with almost anything, because the music that he plays will go on to have many lives (so many orchestral arrangements, starting with the thirtieth anniversary album, I believe, though this arrangement appears on the fourth soundtrack album for the show), even becoming something of Picard's theme---literally, in some parts of **Picard** the show---but seeing the moment where it appears falls flat, feeling more like something learnable than something important...
 
-Oh, also, you might note the similarity to [*The Skye Boat Song*](https://en.wikipedia.org/wiki/The_Skye_Boat_Song) and its predecessors, which has gotten some time in early **Doctor Who**, with a reprise in the latest season/series...and it genuinely bothers me that I know all that, a clear sign of my misspent youth.
+Oh, also, you might note the similarity to {% wiki The_Skye_Boat_Song|*The Skye Boat Song*|en %} and its predecessors, which has gotten some time in early **Doctor Who**, with a reprise in the latest season/series...and it genuinely bothers me that I know all that, a clear sign of my misspent youth.
 
  > **PICARD**: Oh, it's me, isn't it? I'm the someone. I'm the one it finds. That's what this launching is. A probe that finds me in the future.
 

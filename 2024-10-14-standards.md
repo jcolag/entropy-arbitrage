@@ -16,9 +16,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks [World Standards Day](https://en.wikipedia.org/wiki/World_Standards_Day), which honors the experts and organizations in many fields who draft and develop voluntary technical standards.  Hug your local GFCI outlet and Unicode chart, in other words.
+Today marks {% wiki World_Standards_Day|World Standards Day|en %}, which honors the experts and organizations in many fields who draft and develop voluntary technical standards.  Hug your local GFCI outlet and Unicode chart, in other words.
 
-Oh, in the United States, we also have [Indigenous Peoples Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day_%28United_States%29) and the thing about the weirdo who even the Spanish Empire said that his shenanigans seemed criminal in a land that he lied about until his death, but we politely pretend that he did something useful.
+Oh, in the United States, we also have {% wiki Indigenous_Peoples%27_Day_%28United_States%29|Indigenous Peoples Day|en %} and the thing about the weirdo who even the Spanish Empire said that his shenanigans seemed criminal in a land that he lied about until his death, but we politely pretend that he did something useful.
 
 ![ISA founding plaque in Prague](/blog/assets/Memory-plaque-of-founding-ISA-in-Prague.png "Oddly, not manufactured to any standard...")
 
@@ -72,4 +72,4 @@ Also, you can probably bet on more work on **The Light's Edge**, and maybe anoth
 
 * * *
 
-**Credits**:  The header image is [Memory plaque of founding ISA in Prague cropped](https://commons.wikimedia.org/wiki/File:Memory_plaque_of_founding_ISA_in_Prague_cropped.jpg) by [Luděk Kovář](https://cs.wikipedia.org/wiki/Wikipedista:Gumruch), made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
+**Credits**:  The header image is [Memory plaque of founding ISA in Prague cropped](https://commons.wikimedia.org/wiki/File:Memory_plaque_of_founding_ISA_in_Prague_cropped.jpg) by {% wiki Wikipedista:Gumruch|Luděk Kovář|cs %}, made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.

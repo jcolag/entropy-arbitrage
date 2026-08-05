@@ -16,9 +16,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today marks the 424<sup>th</sup> anniversary of the massive eruption of [Huaynaputina](https://en.wikipedia.org/wiki/Huaynaputina) in what we now call southern Peru.  Records suggest that people may have seen indications of the impending eruption as early as December 1599, and that it lasted for half to nearly a full day, with ash falling in the area for weeks.
+Today marks the 424<sup>th</sup> anniversary of the massive eruption of {% wiki Huaynaputina|Huaynaputina|en %} in what we now call southern Peru.  Records suggest that people may have seen indications of the impending eruption as early as December 1599, and that it lasted for half to nearly a full day, with ash falling in the area for weeks.
 
-If you live in the United States, you know about the eruption by reputation, even if you've never heard the name or connected it to a volcano.  For example, the trouble that the English had in establishing [Jamestown](https://en.wikipedia.org/wiki/Jamestown,_Virginia) and the [1605 California floods](https://en.wikipedia.org/wiki/California_flood_of_1605) both trace their origins to the eruption, and the entire Northern Hemisphere seems to have had at least one wet summer and colder winter around 1601.
+If you live in the United States, you know about the eruption by reputation, even if you've never heard the name or connected it to a volcano.  For example, the trouble that the English had in establishing {% wiki Jamestown,_Virginia|Jamestown|en %} and the {% wiki California_flood_of_1605|1605 California floods|en %} both trace their origins to the eruption, and the entire Northern Hemisphere seems to have had at least one wet summer and colder winter around 1601.
 
 ![Colca Canyon, the remnants of Huaynaputina](/blog/assets/3587376222_a401a77c8f_o.png "What a difference four centuries makes, right?")
 
@@ -26,7 +26,7 @@ I assure you that none of these projects will remotely have the importance of ei
 
 ## Not-So-Secret Project
 
-I don't remember if these changes went out during this week, but [**The Light's Edge**'s landing page](https://www.thelightsedge.com/) now includes a minimal e-mail submission form.  For anybody needing to do this, since I already have [PHP](https://en.wikipedia.org/wiki/PHP) running on my VPS for other purposes, I whipped up a quick script to pass the address on to me based on this rough pattern.
+I don't remember if these changes went out during this week, but [**The Light's Edge**'s landing page](https://www.thelightsedge.com/) now includes a minimal e-mail submission form.  For anybody needing to do this, since I already have {% wiki PHP|PHP|en %} running on my VPS for other purposes, I whipped up a quick script to pass the address on to me based on this rough pattern.
 
 ```php
 <?php

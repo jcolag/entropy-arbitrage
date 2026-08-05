@@ -44,7 +44,7 @@ Oh, hang on.  We should have music for this...
   Your browser does not support the HTML audio element.
 </audio>
 
-This year, then, I present the title story of 1892's **Christmas Every Day and Other Stories Told for Children** by novelist, critic, and more [William Dean Howells](https://en.wikipedia.org/wiki/William_Dean_Howells).  I found the kid charming, *and* I feel like so many television shows have produced versions of this story that I can't rightly ignore the presumed original instance.
+This year, then, I present the title story of 1892's **Christmas Every Day and Other Stories Told for Children** by novelist, critic, and more {% wiki William_Dean_Howells|William Dean Howells|en %}.  I found the kid charming, *and* I feel like so many television shows have produced versions of this story that I can't rightly ignore the presumed original instance.
 
 On the chance that this does become an informal tradition, send me your favorite stories that fit the bill---short, comedic, and in the public domain[^2]---for whatever winter holidays that you celebrate, since I'd rather not constantly go to the Christmas well.  And on that note, let's go...
 

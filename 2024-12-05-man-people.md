@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -32,7 +32,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## Man of The People
 
-We should probably get it out of the way now, that the writers transparently modeled the plot after Oscar Wilde's [**The Picture of Dorian Gray**](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray), down to naming the transport ship the *Dorian*.  Here, the character who usually doesn't serve much purpose beyond decoration substitutes for the painting, which I feel would work well as ironic meta-commentary, if I thought that the writers had that much self-awareness...
+We should probably get it out of the way now, that the writers transparently modeled the plot after Oscar Wilde's {% wiki The_Picture_of_Dorian_Gray|**The Picture of Dorian Gray**|en %}, down to naming the transport ship the *Dorian*.  Here, the character who usually doesn't serve much purpose beyond decoration substitutes for the painting, which I feel would work well as ironic meta-commentary, if I thought that the writers had that much self-awareness...
 
  > Captain's log, stardate 46071.6. We have been called to the aid of a transport ship, which has been attacked near Rekag-Seronia. Hostilities between the two factions on that planet have intensified recently, threatening an important Federation shipping route.
 
@@ -40,7 +40,7 @@ Note the important aspect, here:  They have threatened *commerce*.
 
  > **SIMONS**: Ambassador Alkar, the Rekag-Seronia dispute has threatened Federation ships for many months. We are grateful that you are willing to undertake this mission, and you have our full support.
 
-You might recognize Simons as none other than [George Wallace](https://en.wikipedia.org/wiki/George_D._Wallace)...the actor, I mean, not any of the many others.  He played Commando Cody in [**Radar Men from the Moon**](https://en.wikipedia.org/wiki/Radar_Men_from_the_Moon)---maybe most relevant to his appearance, here---and had a lengthy career from there that branched into Broadway.
+You might recognize Simons as none other than {% wiki George_D._Wallace|George Wallace|en %}...the actor, I mean, not any of the many others.  He played Commando Cody in {% wiki Radar_Men_from_the_Moon|**Radar Men from the Moon**|en %}---maybe most relevant to his appearance, here---and had a lengthy career from there that branched into Broadway.
 
  > **RIKER**: Hi. It's that time again. The dreaded crew evaluation reports.
 
@@ -60,7 +60,7 @@ Annoyingly, this feels like a huge advance for Riker.  You might remember his pe
 
  > **JANEWAY**: I know it must be my imagination, but it seems as though Lieutenant Pinder just doesn't want me in his section.
 
-You might recognize Janeway *not* as Kate Mulgrew, but as [Lucy Boryer](https://en.wikipedia.org/wiki/Lucy_Boryer), then known primarily as Janine on **Doogie Howser, M.D.**
+You might recognize Janeway *not* as Kate Mulgrew, but as {% wiki Lucy_Boryer|Lucy Boryer|en %}, then known primarily as Janine on **Doogie Howser, M.D.**
 
  > **TROI**: Well, maybe he's just tired of hearing you complain.
 

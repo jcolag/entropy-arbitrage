@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ It doesn't look like we'll get much out of this episode.
 
  > **LAFORGE**: I enjoy the bachelor's life too much.
 
-Yeah, those [grapes were probably sour](https://en.wikipedia.org/wiki/The_Fox_and_the_Grapes), anyway.
+Yeah, those {% wiki The_Fox_and_the_Grapes|grapes were probably sour|en %}, anyway.
 
 I don't oppose LaForge getting out of the dating game, given how creepily he has acted towards every woman who interested him, but somehow, I don't think that he will, unfortunately...
 
@@ -45,7 +45,7 @@ That sounds so much healthier than his current approach of trying to "put the mo
 
  > **LEIJTEN**: It's the shuttlepod Mendez stole from the *Aries*.
 
-You briefly see that the pod has the name Cousteau, presumably a reference to [Jacques](https://en.wikipedia.org/wiki/Jacques_Cousteau), the French polymath who brought oceanography to the masses for decades.
+You briefly see that the pod has the name Cousteau, presumably a reference to {% wiki Jacques_Cousteau|Jacques|en %}, the French polymath who brought oceanography to the masses for decades.
 
  > **DATA**: I am an android. It is not possible---
  >

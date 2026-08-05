@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate [Women's Equality Day](https://en.wikipedia.org/wiki/Women%27s_Equality_Day), commemorating the adoption of the Nineteenth Amendment to the United States Constitution, prohibiting governments from blocking people from voting based on gender.
+Today, we celebrate {% wiki Women%27s_Equality_Day|Women's Equality Day|en %}, commemorating the adoption of the Nineteenth Amendment to the United States Constitution, prohibiting governments from blocking people from voting based on gender.
 
 ![Nancy Pelosi, Anna Eshoo, Barbara Lee, and Jackie Speier speaking at a UCSF Womens Equality Day event](/blog/assets/30004393205_1c983b741d_o.png "The lab coat assures accuracy...")
 
@@ -60,7 +60,7 @@ For those who need an explanation, Codeberg has a feature where, if you have a r
 
 Our buddy LLL-1 has gotten some nice improvements, I think.  E slimmed down dramatically, over the past week, making em more credible as a model for a humanoid character.  Es limb lengths and head size now follow the height of the model, which they always should have done.
 
-Maybe most usefully, though, es model now includes a shaft through the torso to attach the front and back with a #6 machine screw under the [Unified Thread Standard](https://en.wikipedia.org/wiki/Unified_Thread_Standard)---so about three and a half millimeters in diameter---which I believe that you can find pretty much anywhere.  It shows some flaws in the design, like I still need to tweak the pegs holding the limbs in place, but this should make the figures easier to assemble *and* more secure than tape or glue.
+Maybe most usefully, though, es model now includes a shaft through the torso to attach the front and back with a #6 machine screw under the {% wiki Unified_Thread_Standard|Unified Thread Standard|en %}---so about three and a half millimeters in diameter---which I believe that you can find pretty much anywhere.  It shows some flaws in the design, like I still need to tweak the pegs holding the limbs in place, but this should make the figures easier to assemble *and* more secure than tape or glue.
 
 ![LLL-1 considering the exploration of a crystalline cavern](/blog/assets/lights-edge-lll-2-a.png "Pardon the dust. I've had that geode on various shelves for over thirty years and never figured out how to clean it, but at least I finally found a use for it...")
 

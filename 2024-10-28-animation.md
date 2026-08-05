@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate [International Animation Day](https://en.wikipedia.org/wiki/International_Animation_Day), celebrating the art of animation.  If you go in for the Free Culture side of things, this might make a good day to finally check out [**Monkaa**]({% post_url 2020-12-12-monkaa %}), [**Your Face Is a Saxophone**]({% post_url 2022-02-19-saxophone %}), or [**Viaje a la Tierra del Quebracho**]({% post_url 2024-08-10-quebracho %}).
+Today, we celebrate {% wiki International_Animation_Day|International Animation Day|en %}, celebrating the art of animation.  If you go in for the Free Culture side of things, this might make a good day to finally check out [**Monkaa**]({% post_url 2020-12-12-monkaa %}), [**Your Face Is a Saxophone**]({% post_url 2022-02-19-saxophone %}), or [**Viaje a la Tierra del Quebracho**]({% post_url 2024-08-10-quebracho %}).
 
 ![Six frames that (could) loop to show a bouncing ball](/blog/assets/Animexample3.png "Boing")
 
@@ -76,4 +76,4 @@ Now that I've preserved my Cohost posts, I'd most like to go back to cleaning er
 
 * * *
 
-**Credits**:  The header image is [Third in a series of three example images about animation](https://commons.wikimedia.org/wiki/File:Animexample3.png) by [Branko](https://en.wikipedia.org/wiki/User:Branko), released into the public domain by the artist.
+**Credits**:  The header image is [Third in a series of three example images about animation](https://commons.wikimedia.org/wiki/File:Animexample3.png) by {% wiki User:Branko|Branko|en %}, released into the public domain by the artist.

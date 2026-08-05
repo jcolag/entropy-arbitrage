@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -73,7 +73,7 @@ I like that they all got up to find their shelter, apparently not knowing the sh
 
 Two things to note, here.
 
-First, "Bussard collectors" come from the theoretical [Bussard ramscoop](https://en.wikipedia.org/wiki/Bussard_ramjet) design, where a spacecraft might collect hydrogen while in flight, using it to fuel a fusion reactor for propulsion.  Physicist [Robert Bussard](https://en.wikipedia.org/wiki/Robert_W._Bussard) proposed the idea in 1960, and they have appeared widely in science fiction since then.
+First, "Bussard collectors" come from the theoretical {% wiki Bussard_ramjet|Bussard ramscoop|en %} design, where a spacecraft might collect hydrogen while in flight, using it to fuel a fusion reactor for propulsion.  Physicist {% wiki Robert_W._Bussard|Robert Bussard|en %} proposed the idea in 1960, and they have appeared widely in science fiction since then.
 
 Second, you do *not* activate the "collectors" to emit stuff, pretty much by definition.
 

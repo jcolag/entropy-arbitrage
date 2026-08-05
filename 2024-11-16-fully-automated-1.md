@@ -51,7 +51,7 @@ Oh, and I should probably mention that I should have divided this book different
 
 Mechanically, it stood out to me that the game has (loose) rules for characters who want to work "off-screen," in what they call Interstitial parts of the story.  Characters need to travel, sleep, and so forth, and it feels clever to say that the game continues, even though none of the players will get involved.
 
-While I would only use it as a starting point for further reading, I do have to admit that---in some contexts---the setting could make a decent introduction to economic ideas such as [Georgism](https://en.wikipedia.org/wiki/Georgism) and [communitarianism](https://en.wikipedia.org/wiki/Communitarianism).
+While I would only use it as a starting point for further reading, I do have to admit that---in some contexts---the setting could make a decent introduction to economic ideas such as {% wiki Georgism|Georgism|en %} and {% wiki Communitarianism|communitarianism|en %}.
 
 And as you can probably already see below, I see a bunch of structural problems with the setting,  However, while this might differ with personal taste, I at least appreciate the overall concept, here.  And more importantly, the flaws in the system *could* represent opportunities for a more interesting game world than taking it at its world that everything works so well.
 
@@ -67,7 +67,7 @@ In the history, I can't help notice---much like [**Let's Move Forward**]({% post
 
 Likewise, the description of the economy makes me extremely uncomfortable.  While I like the idea of working out an equitable economic system, and would support many aspects of what they propose, this instance perpetuates so many capitalist institutions.  Characters need to pay taxes, take out bank loans, go into debt, and so forth.  But the text constantly implores us not to worry, because *nobody* would ever economically exploit somebody else, and everybody has public finances, so neighbors will probably help out if you get into trouble.  Oh, and the neighbors might also force you to move into worse quarters, if they don't like you for whatever reason[^1], but don't worry about swindlers.
 
-[^1]:  No, really.  Page 165, "A common example includes building co-ops seeking to convince or compel empty-nesters or residents who under-contribute to their building to downsize by moving to a smaller apartment in the building," followed immediately by "Well-liked neighbors are usually given a pass on low occupancy issues. Many will regularly host guests for neighbors to maintain favor."  The community [redlines](https://en.wikipedia.org/wiki/Redlining) you based on "vibes," leaving plenty of room for overt discrimination.
+[^1]:  No, really.  Page 165, "A common example includes building co-ops seeking to convince or compel empty-nesters or residents who under-contribute to their building to downsize by moving to a smaller apartment in the building," followed immediately by "Well-liked neighbors are usually given a pass on low occupancy issues. Many will regularly host guests for neighbors to maintain favor."  The community {% wiki Redlining|redlines|en %} you based on "vibes," leaving plenty of room for overt discrimination.
 
 ## Opportunities
 

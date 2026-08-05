@@ -130,7 +130,7 @@ I planned to create this little story as only a single social media post---or qu
 
 For the record, I saw no damage from last week's earthquake in the New York area, and the eclipse down here only hit around 90% of totality, in case you thought that any of this actually happened to *me*.
 
-Oh, and I intended the (mangled) demons' names near the end to loosely reference to Alichino, Malacoda, and Draghignazzo from Dante's [**Inferno**](https://en.wikipedia.org/wiki/Inferno_%28Dante%29).  They guard the Fifth Bolgia of the Eighth Circle of Hell, Malebolge, as members of the *Malebranche* or Evil Claws, and present themselves as significantly less addled and childish, although Dante did have the twelve demons communicate across long distance with genuine fart sounds---a combination of natural and simulated---so maybe I classed them up, somehow?  Gustave Doré definitely drew them without pants, though.
+Oh, and I intended the (mangled) demons' names near the end to loosely reference to Alichino, Malacoda, and Draghignazzo from Dante's {% wiki Inferno_%28Dante%29|**Inferno**|en %}.  They guard the Fifth Bolgia of the Eighth Circle of Hell, Malebolge, as members of the *Malebranche* or Evil Claws, and present themselves as significantly less addled and childish, although Dante did have the twelve demons communicate across long distance with genuine fart sounds---a combination of natural and simulated---so maybe I classed them up, somehow?  Gustave Doré definitely drew them without pants, though.
 
 * * *
 

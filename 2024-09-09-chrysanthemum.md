@@ -16,7 +16,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate---or at least we might in Japan---[Chrysanthemum Day](https://en.wikipedia.org/wiki/Chrysanthemum_Day), one of their oldest festivals, surviving for over a thousand years.
+Today, we celebrate---or at least we might in Japan---{% wiki Chrysanthemum_Day|Chrysanthemum Day|en %}, one of their oldest festivals, surviving for over a thousand years.
 
 ![A display of chrysanthemums in Lahore, Pakistan](/blog/assets/Chrysanthemum.show.png "In the United States, our system of units and measurements would clock this as Way Too Many Mums")
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -41,11 +41,11 @@ I go through all this to make the point that Spock probably can't hurt Federatio
 
  > **PICARD**: And I will not return without a full explanation. Ambassador, with great respect for all that you've achieved on behalf of the Federation, this sort of cowboy diplomacy will not easily be tolerated anymore.
 
-Ah, hypocrisy.  Picard calls out [cowboy diplomacy](https://en.wikipedia.org/wiki/Cowboy_diplomacy), a dismissive term for taking risky measures, particularly intimidation, to resolve international conflicts.
+Ah, hypocrisy.  Picard calls out {% wiki Cowboy_diplomacy|cowboy diplomacy|en %}, a dismissive term for taking risky measures, particularly intimidation, to resolve international conflicts.
 
 First, Picard misuses the term, here; Spock does act recklessly, but people generally mean it in the sense of Teddy Roosevelt's "speak softly and carry a big stick," neither of which Spock has really done.  More importantly, though, Picard *does* do this routinely, threatening every political opponent with implied or demonstrated violence, if they don't accept his demands.  Hell, Picard did exactly this only *last episode*, in threatening to back one of Gowron's political opponents.
 
-That said, at least from the perspective of someplace like the United States, the government would probably have the authority to prosecute Spock under something like the [Logan Act](https://en.wikipedia.org/wiki/Logan_Act), which forbids citizens from getting involved in the country's disputes with foreign powers without prior authorization.
+That said, at least from the perspective of someplace like the United States, the government would probably have the authority to prosecute Spock under something like the {% wiki Logan_Act|Logan Act|en %}, which forbids citizens from getting involved in the country's disputes with foreign powers without prior authorization.
 
  > **PICARD**: Reunification? After so many centuries? After so many fundamental differences have evolved between your peoples?
 
@@ -174,4 +174,4 @@ Come back in a week, when a skinny guy burglarizes the *Enterprise*, in *A Matte
 
 **Credits**: The header image is [unification statue 01](https://www.flickr.com/photos/friarsbalsam/3377523551/)[^1] by [Christopher John SSF](https://www.flickr.com/photos/friarsbalsam/), made available under the terms of the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) license.
 
-[^1]:  Investigating as much as I could, you can apparently find this monument at the north end of the so-called [Third Tunnel of Aggression](https://en.wikipedia.org/wiki/Third_Tunnel_of_Aggression), in [Panmunjom](https://en.wikipedia.org/wiki/Panmunjom).  If anybody has more information on the sculptor and date of creation, I'd like to know the former for completeness, and the latter for strict adherence to copyright.
+[^1]:  Investigating as much as I could, you can apparently find this monument at the north end of the so-called {% wiki Third_Tunnel_of_Aggression|Third Tunnel of Aggression|en %}, in {% wiki Panmunjom|Panmunjom|en %}.  If anybody has more information on the sculptor and date of creation, I'd like to know the former for completeness, and the latter for strict adherence to copyright.

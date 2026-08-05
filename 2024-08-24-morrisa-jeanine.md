@@ -61,7 +61,7 @@ Given that the artist doesn't work exclusively or primarily in Free Culture, I a
 
 {% include lesswell.md %}
 
-One glaring problem, to me, comes from the...sameness.  A super-majority of songs tells stories of a lovelorn protagonist trying to convince their partner to make more of a commitment.  And one song goes so far as to talk about "never [having] it like" [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) and [Bobby Brown](https://en.wikipedia.org/wiki/Bobby_Brown), which...look, I don't know how younger people see that relationship in retrospect, but given what we know about his infidelity and abuse, maybe not having it like that works out for the best?
+One glaring problem, to me, comes from the...sameness.  A super-majority of songs tells stories of a lovelorn protagonist trying to convince their partner to make more of a commitment.  And one song goes so far as to talk about "never [having] it like" {% wiki Whitney_Houston|Whitney Houston|en %} and {% wiki Bobby_Brown|Bobby Brown|en %}, which...look, I don't know how younger people see that relationship in retrospect, but given what we know about his infidelity and abuse, maybe not having it like that works out for the best?
 
 ## Opportunities
 

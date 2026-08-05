@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -41,7 +41,7 @@ As I asked about the O'Brien Sock War from [*In Theory*]({% post_url 2024-04-25-
 
 This feels like such an inane plan, so utterly prone to failure, that I genuinely wish that we had a cut of this scene where Alexander called in his high-powered legal team[^1] for the negotiations.
 
-[^1]:  I spent far too long researching a consensus on history's best lawyers, as if I would pitch a holodeck scene with the (typical for the franchise) joke of two historical figures, one random alien, and a contemporary famous person in the field.  But then I got side-tracked reading about [Johnnie Cochran](https://en.wikipedia.org/wiki/Johnnie_Cochran)'s career, and then realized that [Marvin Belli](https://en.wikipedia.org/wiki/Melvin_Belli) still had a few years left to live at the time, who I imagine we all remember as [*And the Children Shall Lead*]({% post_url 2021-03-11-children %})'s Gorgon the Friendly Angel, and ended up reading about *his* career.  Anyway, that deep in reading about lawyers, I realized that the offhand comment would need all this setup and have no real point to it, since we can't exactly re-film the scene, so...here, have a lengthy footnote about it, I guess, encouraging everybody to read about Cochran and Belli.
+[^1]:  I spent far too long researching a consensus on history's best lawyers, as if I would pitch a holodeck scene with the (typical for the franchise) joke of two historical figures, one random alien, and a contemporary famous person in the field.  But then I got side-tracked reading about {% wiki Johnnie_Cochran|Johnnie Cochran|en %}'s career, and then realized that {% wiki Melvin_Belli|Marvin Belli|en %} still had a few years left to live at the time, who I imagine we all remember as [*And the Children Shall Lead*]({% post_url 2021-03-11-children %})'s Gorgon the Friendly Angel, and ended up reading about *his* career.  Anyway, that deep in reading about lawyers, I realized that the offhand comment would need all this setup and have no real point to it, since we can't exactly re-film the scene, so...here, have a lengthy footnote about it, I guess, encouraging everybody to read about Cochran and Belli.
 
 And let's not forget the adverb, there, a condescending "simply" as if nobody could avoid that conclusion, and it takes no effort to negotiate a contract.
 
@@ -67,9 +67,9 @@ Given how much abuse this show heaps on Mrs. Troi, I have to admit to enjoying h
 
 *Thank* you.  This gets right to the heart of the contract problem, that neither side really understands how to build trust and only one side has any enforcement power.  Real contracts work---to the extent that they do, I mean---because it allows the party with less power to get the government to intervene on their behalf, if they have a good case.
 
-In our world---perhaps ironically, given that we have Klingons in the discussion, here---lack of faith in the judicial leads to cultures that revolve around personal honor, historically resulting in people resolving conflicts with [duels](https://en.wikipedia.org/wiki/Duel).  The shoddy reasoning goes that, if you risk your life to protect your reputation, then you probably wouldn't do anything wrong, not noticing (or maybe not *caring*) that good reputations have far more value to people harming others than people doing good deeds.
+In our world---perhaps ironically, given that we have Klingons in the discussion, here---lack of faith in the judicial leads to cultures that revolve around personal honor, historically resulting in people resolving conflicts with {% wiki Duel|duels|en %}.  The shoddy reasoning goes that, if you risk your life to protect your reputation, then you probably wouldn't do anything wrong, not noticing (or maybe not *caring*) that good reputations have far more value to people harming others than people doing good deeds.
 
-In the modern world, you don't get that, but you often see [arbitration](https://en.wikipedia.org/wiki/Arbitration), where the participants appeal to a third party who acts similar to a judge.  And in such cases, you need to worry about bias, because one party drives more business to the arbitrator, and so the arbitrator will want to keep that party happy.  Or, in this episode's case, the third party needs to work with Worf every day, and so probably won't impose anything but symbolic punishments on the more-powerful party.
+In the modern world, you don't get that, but you often see {% wiki Arbitration|arbitration|en %}, where the participants appeal to a third party who acts similar to a judge.  And in such cases, you need to worry about bias, because one party drives more business to the arbitrator, and so the arbitrator will want to keep that party happy.  Or, in this episode's case, the third party needs to work with Worf every day, and so probably won't impose anything but symbolic punishments on the more-powerful party.
 
  > **PICARD**: I will not continue have that woman continuing to use this ship for her convenience, simply because her daughter happens to be one of my officers.
 
@@ -103,7 +103,7 @@ It worries me that either they didn't bother to do this a bunch of scenes ago, w
 
  > **CAMPIO**: Indeed, Mrs. Troi. You are even lovelier in person.
 
-You might recognize Campio as [Tony Jay](https://en.wikipedia.org/wiki/Tony_Jay), who made a significant career of his deep voice.
+You might recognize Campio as {% wiki Tony_Jay|Tony Jay|en %}, who made a significant career of his deep voice.
 
  > **DATA**: This residue would be the waste left behind.
 

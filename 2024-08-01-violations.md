@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -49,7 +49,7 @@ Oh, please.  Does his audience not include enough underage colleagues for his bo
 
  > **DATA**: My understanding of the human brain suggests that the process is the same for you. Each memory is encoded in chains of molecules. If you want to retrieve it, you simply access the proper RNA sequence.
 
-We have never really understood how [human memory](https://en.wikipedia.org/wiki/Memory) works on a mechanical level, and most theories haven't lasted long or had much empirical backing, but Data at least presents one major then-current theory.  Modern theories tend to lean on a variety of interacting mechanisms, and you can still find articles published regularly insisting that this team or that team has discovered the "real" method, sometimes re-proposing variations on RNA-based storage[^1].
+We have never really understood how {% wiki Memory|human memory|en %} works on a mechanical level, and most theories haven't lasted long or had much empirical backing, but Data at least presents one major then-current theory.  Modern theories tend to lean on a variety of interacting mechanisms, and you can still find articles published regularly insisting that this team or that team has discovered the "real" method, sometimes re-proposing variations on RNA-based storage[^1].
 
 [^1]:  I should probably note, especially since Data speaks the line in question, that artificial intelligence research plays a big role in why everybody wants to find the specific mechanisms involved in human memory, beyond helping people with memory disorders.  Neural networks---the current industry darling that shoves large language models down your throat at every opportunity---operate on the classical assumption that we store memories as networks of synapses, the connections between our neurons.  If it turns out that we actually store memories as RNA stashed in cells, to pick one possible example, then the artificial neural networks *definitely* don't have the theoretical backing that its proponents believe that they have.
 
@@ -79,7 +79,7 @@ Also, wait a minute.  Does this represent an actual *memory* that Troi has?  We'
 
  > **MARTIN**: No. I'm still getting unusual neurotransmitter readings in the diencephalon, but they might be a result of the coma.
 
-The [diencephalon](https://en.wikipedia.org/wiki/Diencephalon) does actually exist in the brain, which you may also know as the tweenbrain or interbrain, depending on how long you've held on your neuroscience books.
+The {% wiki Diencephalon|diencephalon|en %} does actually exist in the brain, which you may also know as the tweenbrain or interbrain, depending on how long you've held on your neuroscience books.
 
  > **CRUSHER**: I'll check the biofilter readings from the Ullian transporter log. It's possible they could still be carrying a harmful organism.
 
@@ -97,7 +97,7 @@ This has nothing to do with our project, really, but does Jev have anything like
 
  > **CRUSHER**: I found the same pattern. If I didn't know better, I'd say they both had Iresine syndrome. That's the only medical condition that would produce that pattern.
 
-Far from pertaining to neurology, [iresine](https://en.wikipedia.org/wiki/Iresine) comes from the amaranth family, more on the ornamental side, as opposed to the clades that give us spinach, beets, quinoa, and so forth.
+Far from pertaining to neurology, {% wiki Iresine|iresine|en %} comes from the amaranth family, more on the ornamental side, as opposed to the clades that give us spinach, beets, quinoa, and so forth.
 
  > **PICARD**: What else can we do? Station a guard? Set up a force field? I don't see that those would be any more effective.
 

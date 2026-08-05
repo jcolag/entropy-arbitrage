@@ -22,7 +22,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -38,9 +38,9 @@ I vaguely remember this season of the show blindsiding me, figuring that nobody 
 
  > **REPORTER**: Yes, sir. And will this be a sequel to Connecticut Yankee, Mister Twain?
 
-[**A Connecticut Yankee in King Arthur's Court**](https://en.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court) tells the story of Hank Morgan, who wakes up in the middle of [**Le Morte d'Arthur**](https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur), and pushes to industrialize and militarize the kingdom to not-so-great ends.
+{% wiki A_Connecticut_Yankee_in_King_Arthur%27s_Court|**A Connecticut Yankee in King Arthur's Court**|en %} tells the story of Hank Morgan, who wakes up in the middle of {% wiki Le_Morte_d%27Arthur|**Le Morte d'Arthur**|en %}, and pushes to industrialize and militarize the kingdom to not-so-great ends.
 
-A couple of years after this episode, Whoopi Goldberg would play *Vivien* Morgan in the loose TV-movie adaptation [**A Knight in Camelot**](https://en.wikipedia.org/wiki/A_Knight_in_Camelot).
+A couple of years after this episode, Whoopi Goldberg would play *Vivien* Morgan in the loose TV-movie adaptation {% wiki A_Knight_in_Camelot|**A Knight in Camelot**|en %}.
 
  > **RIKER**: The coroner said this is where they kept all the cholera victims.
 
@@ -50,7 +50,7 @@ Seeing him in his disguise, Riker fits surprisingly well with the whole "protect
 
 This framing feels vaguely offensive, and I don't know whether to blame the writers overall or the characters.
 
-The episode takes place in 1893, right?  That drops it near the end of the [fifth cholera pandemic](https://en.wikipedia.org/wiki/1881%E2%80%931896_cholera_pandemic), and the fifth major outbreak of the century.  And while nearly a million people died over the course of the spread, strict quarantine measures severely limited outbreaks in the United States.  Six years later, the [next pandemic](https://en.wikipedia.org/wiki/1899%E2%80%931923_cholera_pandemic) would repeat most of that.  After that?  Oh, the [seventh pandemic](https://en.wikipedia.org/wiki/Seventh_cholera_pandemic) started in 1961 and continues to today, with well over a million people dying so far.  If I read the reports correctly, when this episode aired, around ten thousand people had recently died of a cholera surge in Peru.
+The episode takes place in 1893, right?  That drops it near the end of the {% wiki 1881%E2%80%931896_cholera_pandemic|fifth cholera pandemic|en %}, and the fifth major outbreak of the century.  And while nearly a million people died over the course of the spread, strict quarantine measures severely limited outbreaks in the United States.  Six years later, the {% wiki 1899%E2%80%931923_cholera_pandemic|next pandemic|en %} would repeat most of that.  After that?  Oh, the {% wiki Seventh_cholera_pandemic|seventh pandemic|en %} started in 1961 and continues to today, with well over a million people dying so far.  If I read the reports correctly, when this episode aired, around ten thousand people had recently died of a cholera surge in Peru.
 
 At the time of the episode, the mortality rate had started to drop due to advances in treatment, but you know as well as I do that treatment has a tendency to cost money and not get distributed equitably.
 
@@ -58,25 +58,25 @@ Anyway, back to the point:  Cholera seems *pretty virulent* to me.  They focus o
 
  > **PICARD**: The play? **A Midsummer Night's Dream**. We have performed in London, Paris, Milan. *Milan*, to sold out houses. I assure you, you will have the rent, in full, with a bonus.
 
-When I think of cover stories that imply that I'll soon have plenty of money, I can't say that itinerant actors touring with [the show](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) where the fairy queen has sex with a donkey named Nick Bottom[^1] doesn't exactly rank in my top-ten.
+When I think of cover stories that imply that I'll soon have plenty of money, I can't say that itinerant actors touring with {% wiki A_Midsummer_Night%27s_Dream|the show|en %} where the fairy queen has sex with a donkey named Nick Bottom[^1] doesn't exactly rank in my top-ten.
 
 [^1]:  Other things happen, too, but we both know that you don't care after hearing that.
 
  > **BELLBOY**: Don't forget. The name's London. Jack London.
 
-You might actually have a better chance of knowing [Jack London](https://en.wikipedia.org/wiki/Jack_London)'s name than Clemens/Twain's, having made an international name for himself in journalism and fiction, including a fair amount of science fiction.  Take care while reading his work, though, because while you'll probably cheer on his pro-union, anti-capitalist politics, he had the full panoply of "oh, please stop talking" views on race and eugenics that the worst people of his era had to offer...though he also slipped in occasional short stories that seem to want to at least camouflage that reputation.
+You might actually have a better chance of knowing {% wiki Jack_London|Jack London|en %}'s name than Clemens/Twain's, having made an international name for himself in journalism and fiction, including a fair amount of science fiction.  Take care while reading his work, though, because while you'll probably cheer on his pro-union, anti-capitalist politics, he had the full panoply of "oh, please stop talking" views on race and eugenics that the worst people of his era had to offer...though he also slipped in occasional short stories that seem to want to at least camouflage that reputation.
 
-It strikes me as somewhat ironic---or maybe poorly researched---that this story has Clemens worry about the Asian-coded foreigner conspiring with a Black woman, when Clemens (rightly) described abolishing slavery as liberating white people as well as Black, whereas London spent a lot of time railing against Asian immigration and wishing that a "great white hope" would defeat [Jack Johnson](https://en.wikipedia.org/wiki/Jack_Johnson_%28boxer%29) after he became the heavyweight champion to mitigate the damage he perceived done to boxing by a Black person winning.
+It strikes me as somewhat ironic---or maybe poorly researched---that this story has Clemens worry about the Asian-coded foreigner conspiring with a Black woman, when Clemens (rightly) described abolishing slavery as liberating white people as well as Black, whereas London spent a lot of time railing against Asian immigration and wishing that a "great white hope" would defeat {% wiki Jack_Johnson_%28boxer%29|Jack Johnson|en %} after he became the heavyweight champion to mitigate the damage he perceived done to boxing by a Black person winning.
 
-While I have that thought, I'll also expand on my comment hidden in the image caption [last time]({% post_url 2024-11-07-time-s-arrow-1 %}), that Clemens also became friends with [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla).  And while the popular Tesla biographies and fictionalized appearances wouldn't start getting much attention until another couple of years after the episode aired, and I don't think that they'd have any reason to place him in San Francisco for his story, it seems strange in retrospect that they didn't connect Clemens with Data *through* their shared interest in weird technology.
+While I have that thought, I'll also expand on my comment hidden in the image caption [last time]({% post_url 2024-11-07-time-s-arrow-1 %}), that Clemens also became friends with {% wiki Nikola_Tesla|Nikola Tesla|en %}.  And while the popular Tesla biographies and fictionalized appearances wouldn't start getting much attention until another couple of years after the episode aired, and I don't think that they'd have any reason to place him in San Francisco for his story, it seems strange in retrospect that they didn't connect Clemens with Data *through* their shared interest in weird technology.
 
-Actually, with that weirdness and the cholera nonsense above, I wonder if somebody hastily rewrote this episode from something that actually makes sense, for some external reason.  I say that, because while San Francisco didn't have an 1893 cholera outbreak that I can find, it *did* have a [1900 plague outbreak](https://en.wikipedia.org/wiki/1900%E2%80%931904_San_Francisco_plague) as part of the broader [third plague pandemic](https://en.wikipedia.org/wiki/Third_plague_pandemic) that lasted for about a century and ultimately killed millions.  And the virulence of bubonic plague inversely tracks sanitation and pest control, which would better fit with Crusher's line.  And now we have a series of historical deviations from what could've made the script work more smoothly, which seems suspicious, if not particularly important to the post...
+Actually, with that weirdness and the cholera nonsense above, I wonder if somebody hastily rewrote this episode from something that actually makes sense, for some external reason.  I say that, because while San Francisco didn't have an 1893 cholera outbreak that I can find, it *did* have a {% wiki 1900%E2%80%931904_San_Francisco_plague|1900 plague outbreak|en %} as part of the broader {% wiki Third_plague_pandemic|third plague pandemic|en %} that lasted for about a century and ultimately killed millions.  And the virulence of bubonic plague inversely tracks sanitation and pest control, which would better fit with Crusher's line.  And now we have a series of historical deviations from what could've made the script work more smoothly, which seems suspicious, if not particularly important to the post...
 
  > **RIKER**: I just want you to know that I have the utmost respect for the law.
 
 I can't help drawing a parallel between Riker's actions, here, and the (predominantly white) folks who "back the blue" when accusations of police violence come up, but want the police department destroyed when they get pulled over for speeding (or asked to stop rioting).
 
-By the way, you might recognize the cop as [William Boyett](https://en.wikipedia.org/wiki/William_Boyett), possibly an instance of mild stunt-casting, given his long history of playing law enforcement types, from nameless detectives in his early appearances to the cop in [*The Big Goodbye*]({% post_url 2022-08-04-big-goodbye %}) and the judge in the contemporary-to-this-episode **Newsies** starring Christian Bale, which they soon moved to Broadway.
+By the way, you might recognize the cop as {% wiki William_Boyett|William Boyett|en %}, possibly an instance of mild stunt-casting, given his long history of playing law enforcement types, from nameless detectives in his early appearances to the cop in [*The Big Goodbye*]({% post_url 2022-08-04-big-goodbye %}) and the judge in the contemporary-to-this-episode **Newsies** starring Christian Bale, which they soon moved to Broadway.
 
  > **DATA**: I suggest we postpone our greetings for another occasion.
 
@@ -92,7 +92,7 @@ This exposes the shoddy nature of their cover story, with Carmichael walking in 
 
  > **CLEMENS**: Madam, I'd be delighted. So, this is a spaceship? You ever run into Halley's comet?
 
-Clemens had something of an obsession with [Halley's comet](https://en.wikipedia.org/wiki/Halley%27s_Comet), born two weeks after its 1835 perihelion and convinced---correctly, as it would turn out---that he'd die shortly after the 1910 perihelion.  Largely because of that bit of storytelling, the comet (and Twain's works) stayed in the news and other media around the 1986 perihelion, then when the comet released an enormous amount of dust in 1990--1991, the latter probably not too long before when they wrote the episode.
+Clemens had something of an obsession with {% wiki Halley%27s_Comet|Halley's comet|en %}, born two weeks after its 1835 perihelion and convinced---correctly, as it would turn out---that he'd die shortly after the 1910 perihelion.  Largely because of that bit of storytelling, the comet (and Twain's works) stayed in the news and other media around the 1986 perihelion, then when the comet released an enormous amount of dust in 1990--1991, the latter probably not too long before when they wrote the episode.
 
 Anyway, this shows a serious lack of imagination on the fictionalized writer's part, if that seems like the most exotic thing that he can think of in the universe.
 

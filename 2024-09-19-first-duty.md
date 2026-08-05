@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -45,7 +45,7 @@ Bigotry all around, then...
 
  > **BRAND**: Hello, Captain. I know you're a close friend of the Crusher family.
 
-You might recognize the admiral as [Jacqueline Brookes](https://en.wikipedia.org/wiki/Jacqueline_Brookes), known more for her stage work, but a mainstay on screen for about thirty years.
+You might recognize the admiral as {% wiki Jacqueline_Brookes|Jacqueline Brookes|en %}, known more for her stage work, but a mainstay on screen for about thirty years.
 
  > **PICARD**: This is an unhappy way to begin commencement. If you require any assistance, then the *Enterprise* is at your disposal.
 
@@ -53,7 +53,7 @@ This seems rather self-important of Picard, doesn't it?  The Admiral presumably 
 
  > **LOCARNO**: Captain, sir.
 
-And you might recognize Locarno as [Robert Duncan McNeill](https://en.wikipedia.org/wiki/Robert_Duncan_McNeill) for his then-future role as the nearly identical but inexplicably not the same Tom Paris on **Voyager**.  Both characters will make fairly brief appearances on the aforementioned **Lower Decks**.
+And you might recognize Locarno as {% wiki Robert_Duncan_McNeill|Robert Duncan McNeill|en %} for his then-future role as the nearly identical but inexplicably not the same Tom Paris on **Voyager**.  Both characters will make fairly brief appearances on the aforementioned **Lower Decks**.
 
  > **WESLEY**: Captain, Mom, will you excuse us please? Nick and I have some things we need to talk about.
 
@@ -61,7 +61,7 @@ Wow, they might as well have written that line as "we need to crime."
 
  > **BOOTHBY**: Hey! Can't you see that's a flower bed?
 
-And you might recognize Boothby as [Ray Walston](https://en.wikipedia.org/wiki/Ray_Walston), who had an extensive career lasting more than fifty years.  But despite his work in film and musical comedy, most people---especially at the time---recognize him as the lead on [**My Favorite Martian**](https://en.wikipedia.org/wiki/My_Favorite_Martian).
+And you might recognize Boothby as {% wiki Ray_Walston|Ray Walston|en %}, who had an extensive career lasting more than fifty years.  But despite his work in film and musical comedy, most people---especially at the time---recognize him as the lead on {% wiki My_Favorite_Martian|**My Favorite Martian**|en %}.
 
  > **PICARD**: Boothby? Jean-Luc Picard, class of twenty-seven.
 
@@ -79,13 +79,13 @@ It took him decades to say *thank you* to someone who---we'll find out---saved h
 
  > **SITO**: No. Yes.
 
-You probably won't recognize [Shannon Fill](https://en.wikipedia.org/wiki/Shannon_Fill) except for this role.  While she made a few contemporary appearances, she'll show up again in the back half of the final season---shortly before Wesley's own swan song[^1]---and revisits her character in the aforementioned **Lower Decks** flashback set around the time of this episode.
+You probably won't recognize {% wiki Shannon_Fill|Shannon Fill|en %} except for this role.  While she made a few contemporary appearances, she'll show up again in the back half of the final season---shortly before Wesley's own swan song[^1]---and revisits her character in the aforementioned **Lower Decks** flashback set around the time of this episode.
 
 [^1]:  I mean, except for the fact that modern *Star Trek* seems to think that we craved more of the character, and so crams him into random shows that would work far better without some smug, all-powerful being explaining why he can't fix things himself.
 
  > **LOCARNO**: As we entered Titan's gravitational sphere, I gave the signal to tighten up and move into a diamond slot formation. Remaining in the diamond formation, we executed a low apogee turn around Titan then began a z-plus twenty-five degree climb in preparation for a Yeager loop. Approximately nine seconds later, Cadet Albert's ship collided with Cadet Hajar's. We had less than two seconds to activate our emergency transporters and beam to the evac stations at Mimas. Everyone made it except Josh.
 
-We discussed [Chuck Yeager](https://en.wikipedia.org/wiki/Chuck_Yeager) about two months ago while discussing [*New Ground*]({% post_url 2024-07-18-new-ground %}), this episode suggesting that his breaking the sound barrier inspired this loop stunt, somehow.
+We discussed {% wiki Chuck_Yeager|Chuck Yeager|en %} about two months ago while discussing [*New Ground*]({% post_url 2024-07-18-new-ground %}), this episode suggesting that his breaking the sound barrier inspired this loop stunt, somehow.
 
  > **HAJAR**: We had discussed changing our approach after I filed the flight plan. The final decision was made en route to Saturn. I didn't consider it significant enough to mention here. I apologize for the confusion, sir. I should have been more precise.
 
@@ -97,7 +97,7 @@ This team, remember, represents the best of the students, a group to take pride 
 
  > **ALBERT**: Mister Crusher?
 
-This should make the final introduction, even though he has brooded around the episode since the start of the episode.  You might recognize the elder Albert as [Ed Lauter](https://en.wikipedia.org/wiki/Ed_Lauter), a common character actor for decades, who would occasionally talk in interviews about how everybody recognized him, but nobody could actually identify him.  Oddly, he died about six months after Brookes.
+This should make the final introduction, even though he has brooded around the episode since the start of the episode.  You might recognize the elder Albert as {% wiki Ed_Lauter|Ed Lauter|en %}, a common character actor for decades, who would occasionally talk in interviews about how everybody recognized him, but nobody could actually identify him.  Oddly, he died about six months after Brookes.
 
  > **CRUSHER**: There must be something wrong with the satellite data. It might have been tampered with.
 
@@ -109,13 +109,13 @@ I need to stress that, while Brand and her flunky have served as decent and fair
 
 The show's signature imaginary sport, I believe, got its first appearance in [*11001001*]({% post_url 2022-08-25-11001001 %}), this presumably taking place in Picard's first or second years, depending on when the sport's season runs.
 
-While I know the city of [Minsk](https://en.wikipedia.org/wiki/Minsk), I don't know if this refers to a specific institution that would have a natural rivalry with Starfleet Academy, except to the extent that the original series seemed to imply that the Soviet Union never joined the Federation.  And if they wanted to make that reference, then I find it highly objectionable that they didn't pair this exchange with some kid in a different uniform running by them screaming "[Minsk State Linguistic University](https://en.wikipedia.org/wiki/Minsk_State_Linguistic_University) *invented* parrises squares, Herberts" in a thick pseudo-Russian accent.
+While I know the city of {% wiki Minsk|Minsk|en %}, I don't know if this refers to a specific institution that would have a natural rivalry with Starfleet Academy, except to the extent that the original series seemed to imply that the Soviet Union never joined the Federation.  And if they wanted to make that reference, then I find it highly objectionable that they didn't pair this exchange with some kid in a different uniform running by them screaming "{% wiki Minsk_State_Linguistic_University|Minsk State Linguistic University|en %} *invented* parrises squares, Herberts" in a thick pseudo-Russian accent.
 
  > **BOOTHBY**: Well the cadets today are just as proud of the Nova Squadron. The celebration they held after Nova won the Rigel Cup made 'twenty-four look like a dinner party. To the other cadets, the members of that team are gods, and that's a hard image to live up to. But Nick Locarno, he watches out for them. He keeps them together. Nick is what makes that team special. He's their coach, surrogate father and best friend all in one. A natural leader. The members of that team love him. If he asks them to do something, they do it, even if it means going right over a cliff.
 
 Huh, weird, that sort of behavior doesn't appear *anywhere* else in Starfleet.  I mean, other than every time a captain feels like doing something illegal, and everybody risks their careers and lives to support their surrogate father.  I can't imagine where these kids would've picked that up... {% emoji eyeroll %}
 
-Anyway, [Rigel](https://en.wikipedia.org/wiki/Rigel) has gotten many mentions since [*Mudd's Women*]({% post_url 2020-02-20-trek-m-women %}), as recently as [*Half a Life*]({% post_url 2024-04-04-half-life %}), so I feel like telling you about the star at this point would only come off as condescending...
+Anyway, {% wiki Rigel|Rigel|en %} has gotten many mentions since [*Mudd's Women*]({% post_url 2020-02-20-trek-m-women %}), as recently as [*Half a Life*]({% post_url 2024-04-04-half-life %}), so I feel like telling you about the star at this point would only come off as condescending...
 
  > **WESLEY**: It's a Kolvoord Starburst, sir.
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names serve as trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -77,7 +77,7 @@ Does the computer...*not* work out the scale best to present its output data?  I
 
  > **DATA**: Yes, sir. There are two possible destinations. The Brechtian Cluster and the Argos system.
 
-Presumably, they named the cluster for [Bertolt](https://en.wikipedia.org/wiki/Bertolt_Brecht), and the star for [Odysseus's dog](https://en.wikipedia.org/wiki/Argos_%28dog%29).
+Presumably, they named the cluster for {% wiki Bertolt_Brecht|Bertolt|en %}, and the star for {% wiki Argos_%28dog%29|Odysseus's dog|en %}.
 
  > **PICARD**: We're not hunters, Doctor. Nor is it our role to exact revenge.
 

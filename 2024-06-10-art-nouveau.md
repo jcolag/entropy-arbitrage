@@ -16,7 +16,7 @@ spell: Nouveau Fýlakas Onomáton CPREP Gran Vitral del Ciudad Unported
 * Ignore for ToC
 {:toc}
 
-Today marks [World Art Nouveau Day](https://en.wikipedia.org/wiki/World_Art_Nouveau_Day)---sometimes referred to as "WAND," because we almost never get a long name with a pronounceable acronym---celebrating...well, the [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) movement, often trying to convey a sense of dynamism and movement.  When you see works, from line art up to architecture, with little asymmetries, organic lines, and especially lines that seem to indicate motion, then you probably have something relevant.
+Today marks {% wiki World_Art_Nouveau_Day|World Art Nouveau Day|en %}---sometimes referred to as "WAND," because we almost never get a long name with a pronounceable acronym---celebrating...well, the {% wiki Art_Nouveau|Art Nouveau|en %} movement, often trying to convey a sense of dynamism and movement.  When you see works, from line art up to architecture, with little asymmetries, organic lines, and especially lines that seem to indicate motion, then you probably have something relevant.
 
 ![Gran Vitral Tiffany del Hotel Ciudad de Mexico](/blog/assets/80130778-panoramio.png "I spent far too long deciding which appropriately licensed picture I wanted to use to represent the Art Nouveau movement, suggesting that maybe I like the style a bit...")
 
@@ -40,7 +40,7 @@ Because I don't watch much, but would like to cast as wide a note as possible in
 
 While I haven't *done* anything with it, yet---I do hope to get back to this project, one day, because I still see some potential in it---I have added [faces.js](https://zengm.com/facesjs/) to replace the almost worthless code that I wrote to try to draw faces.
 
-I'd love to fix my own face code, and invite anybody with an interest to do so, but this library has a bank of head, eye, nose, and mouth shapes, which honestly looks a lot more like what I wanted in the first place.  My original vision for that code hoped that I would find a public domain [facial composite](https://en.wikipedia.org/wiki/Facial_composite) system, but since the field of modular face systems started in 1959, that seems unlikely.
+I'd love to fix my own face code, and invite anybody with an interest to do so, but this library has a bank of head, eye, nose, and mouth shapes, which honestly looks a lot more like what I wanted in the first place.  My original vision for that code hoped that I would find a public domain {% wiki Facial_composite|facial composite|en %} system, but since the field of modular face systems started in 1959, that seems unlikely.
 
 ## Entropy Arbitrage
 

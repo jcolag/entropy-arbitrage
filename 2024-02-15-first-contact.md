@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ Think about, as you watch---I assume that readers watch the episodes, and don't 
 
  > **TAVA**: Move him onto the diagnostic pad.
 
-You probably don't recognize Tava at all, but if you did, you might identify her as [Sachi Parker](https://en.wikipedia.org/wiki/Sachi_Parker), daughter of [Shirley MacLaine](https://en.wikipedia.org/wiki/Shirley_MacLaine).  I point out that connection, because I've often referred to the strange attachment that this series seems to have to New Age ideas and images, and at the time, MacLaine's books and films often featured much of the same.
+You probably don't recognize Tava at all, but if you did, you might identify her as {% wiki Sachi_Parker|Sachi Parker|en %}, daughter of {% wiki Shirley_MacLaine|Shirley MacLaine|en %}.  I point out that connection, because I've often referred to the strange attachment that this series seems to have to New Age ideas and images, and at the time, MacLaine's books and films often featured much of the same.
 
  > **PICARD**: We almost always encounter shock and fear on this sort of mission. We hope that you will help us facilitate our introduction.
 
@@ -75,7 +75,7 @@ No, really.  While our world has trust fund babies telling you that your neighbo
 
  > **LANEL**: There are guards out there. You'll never escape that way. I'm not afraid of you.
 
-You might recognize Lanel as [Bebe Neuwirth](https://en.wikipedia.org/wiki/Bebe_Neuwirth), who...I mean, it probably doesn't matter your preferred medium, you've probably seen her in *something*, because she gets around.  But we can start with around a hundred episodes playing Lilith Sternin-Crane on **Cheers**, **Frasier**, and related shows.
+You might recognize Lanel as {% wiki Bebe_Neuwirth|Bebe Neuwirth|en %}, who...I mean, it probably doesn't matter your preferred medium, you've probably seen her in *something*, because she gets around.  But we can start with around a hundred episodes playing Lilith Sternin-Crane on **Cheers**, **Frasier**, and related shows.
 
  > **LANEL**: Will I ever see you again?
  >
