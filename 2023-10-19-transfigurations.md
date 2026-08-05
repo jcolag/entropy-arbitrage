@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ I don't think that we'll get much out of this episode, but maybe it'll prove me 
 
 I've watched this crew LARP as various detectives, build wooden models of sailing ships by hand, and develop new technologies for their personal edification, to say nothing of group meals and games on duty or loitering in the bar during their work shifts.  How much quieter can their jobs even get?
 
-Also, I can find a species of wasp called [gelis](https://en.wikipedia.org/wiki/Gelis), but not much else, certainly not a constellation.
+Also, I can find a species of wasp called {% wiki Gelis|gelis|en %}, but not much else, certainly not a constellation.
 
  > **LAFORGE**: That's her.
 
@@ -63,11 +63,11 @@ Ah, Worf has joined the masses who find work and science objectionable...
 
  > Captain's log, stardate 43960.6. Our mission to map the Zeta Gelis star cluster is proceeding on schedule. Meanwhile, Doctor Crusher reports that the recovery of the patient she has named John Doe continues at a remarkable pace.
 
-In at least the United States and---somewhat less often---the United Kingdom, we use the name [John Doe](https://en.wikipedia.org/wiki/John_Doe) and variations as placeholders for names that we either don't know or want to redact.  It seems unlikely that the tradition has survived hundreds of years, but I suppose that John Doe and Richard Roe also implausibly date to fourteenth-century English legal thought experiments.
+In at least the United States and---somewhat less often---the United Kingdom, we use the name {% wiki John_Doe|John Doe|en %} and variations as placeholders for names that we either don't know or want to redact.  It seems unlikely that the tradition has survived hundreds of years, but I suppose that John Doe and Richard Roe also implausibly date to fourteenth-century English legal thought experiments.
 
  > **PICARD**: Have you tried synaptic induction?
 
-In nerve cells, [synapses](https://en.wikipedia.org/wiki/Synapse) pass signals to neighbor neurons.  Induction generally refers---across multiple fields---applying some external energy to something in order to provoke an effect.  Picard, in other words, has chosen to ask the doctor "have you tried forcing his nerves to work," as if he has the better grasp on medicine.
+In nerve cells, {% wiki Synapse|synapses|en %} pass signals to neighbor neurons.  Induction generally refers---across multiple fields---applying some external energy to something in order to provoke an effect.  Picard, in other words, has chosen to ask the doctor "have you tried forcing his nerves to work," as if he has the better grasp on medicine.
 
 He has decided to contribute by mansplaining, in other words.
 
@@ -111,7 +111,7 @@ You'll notice that Picard has shifted, in this scene, from mildly annoyed at Wor
  >
  > **PICARD**: They make serious accusations against you.
 
-Did they, though?  Those accusations sound *stereotypically* vague and flimsy, more like [lèse-majesté](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9) than any material threat.  But Picard doesn't like disturbing natural orders, I suppose, which came up previously in at least [*Too Short a Season*]({% post_url 2022-09-01-short-season %}).
+Did they, though?  Those accusations sound *stereotypically* vague and flimsy, more like {% wiki L%C3%A8se-majest%C3%A9|lèse-majesté|en %} than any material threat.  But Picard doesn't like disturbing natural orders, I suppose, which came up previously in at least [*Too Short a Season*]({% post_url 2022-09-01-short-season %}).
 
  > **PICARD**: We must consider all options, Doctor, and not let our personal feelings impede our judgment.
 

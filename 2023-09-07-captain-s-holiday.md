@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -77,15 +77,15 @@ By the way, you'll note the weird half-layered tunic thing that Picard wears as 
 
  > **RIKER**: **Ulysses** by James Joyce? **Ethics, Sophistry, and the Alternate Universe** by Ving Kuda. You call that light reading?
 
-OK, so, weird as it might sound today, in the 1980s, [**Ulysses**](https://en.wikipedia.org/wiki/Ulysses_%28novel%29) had a reputation as an impenetrable work of literature, even though it doesn't have much in it that would stymie a casual reader, except for maybe its length and the fact that Joyce used a real neighborhood for his setting, and so didn't bother to explain details that the rest of us might miss.
+OK, so, weird as it might sound today, in the 1980s, {% wiki Ulysses_%28novel%29|**Ulysses**|en %} had a reputation as an impenetrable work of literature, even though it doesn't have much in it that would stymie a casual reader, except for maybe its length and the fact that Joyce used a real neighborhood for his setting, and so didn't bother to explain details that the rest of us might miss.
 
 Now, don't get me wrong, here.  You *can* get yourself deeply involved in the deliberate parallels to **The Odyssey**, Joyce's use of metaphor and language, the "Joyce Wars" over which version a given group considers canonical and why, the cloud of obscenity trials, and so forth...but if you planned to read it that way, then you wouldn't *only* bring the novel.  Without the supplemental research, you have an entertaining (if long) stream-of-consciousness novel about the protagonist's life.
 
-To me, this marks Picard as something of a fraud for thinking that reading a long novel makes him look intellectual.  I mean, if you *must* bring James Joyce into this argument, at least reach for his [**Finnegan's Wake**](https://en.wikipedia.org/wiki/Finnegans_Wake), which reads more like a puzzle than a novel.  (Disclaimer:  If someone forced me to make a list of my favorite novels, this would probably get near the top of the list, so...biases.)
+To me, this marks Picard as something of a fraud for thinking that reading a long novel makes him look intellectual.  I mean, if you *must* bring James Joyce into this argument, at least reach for his {% wiki Finnegans_Wake|**Finnegan's Wake**|en %}, which reads more like a puzzle than a novel.  (Disclaimer:  If someone forced me to make a list of my favorite novels, this would probably get near the top of the list, so...biases.)
 
 Anyway, the other book sounds more intensive, but "sophistry" has multiple meanings:  The original word referred to teachings in political or philosophical rhetoric, but the more modern meaning suggests plausible but fallacious reasoning, meaning that the book could talk about how alternate universes don't make sense, or make rude jokes about beard-Spock.  Maybe more usefully, you might have noticed that the title refers to *the* alternate universe, perhaps suggesting that the Federation hasn't seen much inter-universal travel since [*Mirror, Mirror*]({% post_url 2020-09-03-mirror %})---I just noticed that post went out as close to three years ago as we could have gotten---and that the average person knows about the Empire.
 
-As for the author, the surname "Kuda" appears to come from roughly [Croatia](https://en.wikipedia.org/wiki/Croatia).  And "Ving" tends to serve as a nickname for Irving, such as in the case of [Ving Rhames](https://en.wikipedia.org/wiki/Ving_Rhames), whose career I will *not* discuss, since he has nothing to do with this episode beyond the example.
+As for the author, the surname "Kuda" appears to come from roughly {% wiki Croatia|Croatia|en %}.  And "Ving" tends to serve as a nickname for Irving, such as in the case of {% wiki Ving_Rhames|Ving Rhames|en %}, whose career I will *not* discuss, since he has nothing to do with this episode beyond the example.
 
  > **PICARD**: A simple handshake would have sufficed.
 
@@ -99,7 +99,7 @@ Yes, the plot hinges on Riker trying to prank his boss into having sex.
 
  > **SOVAK**: I know you're working with her. I warn you, it's a mistake.
 
-You might recognize Sovak as [Max Grodénchik](https://en.wikipedia.org/wiki/Max_Grod%C3%A9nchik), known---other than for his stage work---for playing Rom on **Deep Space Nine**, the brother of recurring-on-this-show (mostly Ferengi-portraying) Armin Shimerman's character.
+You might recognize Sovak as {% wiki Max_Grod%C3%A9nchik|Max Grodénchik|en %}, known---other than for his stage work---for playing Rom on **Deep Space Nine**, the brother of recurring-on-this-show (mostly Ferengi-portraying) Armin Shimerman's character.
 
  > **SOVAK**: Obviously you've never dealt with my people before.
  >
@@ -111,7 +111,7 @@ Seriously, imagine any context where "I deal with people of your race/culture fa
 
  > **PICARD**: I don't recall saying I was embarrassed. If's just that I prefer to be acquainted with the women that I kiss.
 
-Let's get this out of the way:  Patrick Stewart has almost twenty years on [Jennifer Hetrick](https://en.wikipedia.org/wiki/Jennifer_Hetrick), which I wouldn't call *terrible*, given that she seems equally interested, but it does shade everything else, especially in an episode where he acted disgusted about the possible presence of an older woman who finds *him* attractive.  And he did grump about the kiss *per se*, not that he didn't meet her beforehand.
+Let's get this out of the way:  Patrick Stewart has almost twenty years on {% wiki Jennifer_Hetrick|Jennifer Hetrick|en %}, which I wouldn't call *terrible*, given that she seems equally interested, but it does shade everything else, especially in an episode where he acted disgusted about the possible presence of an older woman who finds *him* attractive.  And he did grump about the kiss *per se*, not that he didn't meet her beforehand.
 
 Ick, in other words.  I realize that this plays on romantic comedy tropes, to a certain extent, but this change of heart---or other part of his anatomy---comes out of nowhere and feels totally inappropriate to what we've seen so far.
 

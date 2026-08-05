@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -60,7 +60,7 @@ And you'll probably recognize Ensign Gomez from her previous appearance in [*Q W
 
  > **WORF**: Rhomboid Dronegar Sector zero-zero-six.
 
-While I assume that "rhomboid" refers to anything looking like a [rhombus](https://en.wikipedia.org/wiki/Rhombus), I can't find any reference to a "Dronegar," and I don't spot any anagram that makes any sense.
+While I assume that "rhomboid" refers to anything looking like a {% wiki Rhombus|rhombus|en %}, I can't find any reference to a "Dronegar," and I don't spot any anagram that makes any sense.
 
  > **GREBNEDLOG**: We are far from home.
 
@@ -122,7 +122,7 @@ Again, they feel it appropriate to talk about their sexual prowess with a minor.
 
  > **PICARD**: Several friends and I were on leave at Farspace Starbase Earhart. It was little more than a galactic outpost in those days.
 
-I assume that they named the facility after [Amelia Earhart](https://en.wikipedia.org/wiki/Amelia_Earhart), though I have to admit that I don't like the feel of "farspace starbase," as a term.
+I assume that they named the facility after {% wiki Amelia_Earhart|Amelia Earhart|en %}, though I have to admit that I don't like the feel of "farspace starbase," as a term.
 
  > **WESLEY**: Was this before the Klingons joined the Federation?
 
@@ -130,13 +130,13 @@ Previously, we've assumed that the Klingons had only entered into some alliance 
 
  > **PICARD**: That's right. Well, my mates and I were at the Bonestell Recreation Facility...
 
-How interesting.  They honored [Chesley Bonestell](https://en.wikipedia.org/wiki/Chesley_Bonestell), "the Father of Modern Space Art."
+How interesting.  They honored {% wiki Chesley_Bonestell|Chesley Bonestell|en %}, "the Father of Modern Space Art."
 
 Anyway, Picard tells his macho story about how he had clever insults and almost fought off a group of far stronger opponents, which...sure, Jean-Luc.
 
  > **WESLEY**: But William James won't be in my Starfleet exams.
 
-Father of American Psychology [William James](https://en.wikipedia.org/wiki/William_James) certainly *seems* like someone who Starfleet would find interesting, given how frequently they center psychology in the strategies that they use against people.  Though I can understand Wesley's assumption, since nobody in this universe seems to believe in therapy.
+Father of American Psychology {% wiki William_James|William James|en %} certainly *seems* like someone who Starfleet would find interesting, given how frequently they center psychology in the strategies that they use against people.  Though I can understand Wesley's assumption, since nobody in this universe seems to believe in therapy.
 
  > **WORF**: Then force it must be.
 
@@ -150,9 +150,9 @@ I like how they suddenly don't care about their colleague, because they have a w
 
  > **LAFORGE**: Blowing that hydrogen exhaust through the Bussard collectors sure put on a nice light show.
 
-One assumes that you find a Bussard collector as part of a [Bussard ramjet](https://en.wikipedia.org/wiki/Bussard_ramjet), which scoops up (*collects*) hydrogen as it travels, using it for fusion, which powers a magnetic field to propel the ship, a theory based on a design by [Robert W. Bussard](https://en.wikipedia.org/wiki/Robert_W._Bussard).
+One assumes that you find a Bussard collector as part of a {% wiki Bussard_ramjet|Bussard ramjet|en %}, which scoops up (*collects*) hydrogen as it travels, using it for fusion, which powers a magnetic field to propel the ship, a theory based on a design by {% wiki Robert_W._Bussard|Robert W. Bussard|en %}.
 
-Now, I appreciate referencing historical figures as much as anyone.  However, consider how silly it sounds to still name the device after its inventor, four hundred years later.  We've managed to drop [Edison](https://en.wikipedia.org/wiki/Thomas_edison)'s name from almost everything that he invented, in a few short decades.  And sure, you can point to the [Cassegrain reflector telescope](https://en.wikipedia.org/wiki/Cassegrain_reflector)---1672, so invented about 350 years ago---as an instance where we do that today, but we only *really* use Cassegrain's name on the rare occasions that we need to compare different telescope designs, such as when shopping for one.  We also have a similar edge case when singling out a specific archaic design, such as a "Torricelli storm glass" to specify his transitional device between [storm glass](https://en.wikipedia.org/wiki/Storm_glass) and [barometer](https://en.wikipedia.org/wiki/Barometer), or an "Edison bulb" to refer to a glass lightbulb with a visible filament.
+Now, I appreciate referencing historical figures as much as anyone.  However, consider how silly it sounds to still name the device after its inventor, four hundred years later.  We've managed to drop {% wiki Thomas_edison|Edison|en %}'s name from almost everything that he invented, in a few short decades.  And sure, you can point to the {% wiki Cassegrain_reflector|Cassegrain reflector telescope|en %}---1672, so invented about 350 years ago---as an instance where we do that today, but we only *really* use Cassegrain's name on the rare occasions that we need to compare different telescope designs, such as when shopping for one.  We also have a similar edge case when singling out a specific archaic design, such as a "Torricelli storm glass" to specify his transitional device between {% wiki Storm_glass|storm glass|en %} and {% wiki Barometer|barometer|en %}, or an "Edison bulb" to refer to a glass lightbulb with a visible filament.
 
  > **PULASKI**: Saving your life.
 

@@ -74,7 +74,7 @@ The introduction does a nice job of setting up a tense situation, with enough hi
 
 Or even news delivering exposition to us that, honestly, we probably could've guessed from the context.
 
-Speaking of what I'll now probably always think of as "Channel 3 Exposition News"---in honor of the [Action News](https://en.wikipedia.org/wiki/Action_News) television format that has done so much damage to public discourse---despite not serving much actual storytelling purpose, I do think they work surprisingly well.
+Speaking of what I'll now probably always think of as "Channel 3 Exposition News"---in honor of the {% wiki Action_News|Action News|en %} television format that has done so much damage to public discourse---despite not serving much actual storytelling purpose, I do think they work surprisingly well.
 
 And while I don't necessarily know if I *care*, yet, the individual relationships that the story presents to us seem like they have a potentially interesting story to tell.
 

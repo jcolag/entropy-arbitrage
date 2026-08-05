@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -69,7 +69,7 @@ One might call that the entire point of terrorism, in fact.  And by "one," I mea
 
 The episode hints at this, but I might as well raise the issue explicitly:  If they drop by to heal one side of a civil war, does it *matter* that they won't sell better weapons?  They've insulated their "trading partner" from attacks to enable them to kill more people anyway.
 
-We see this dynamic a lot, in unexpected places, by the way.  Boxers wear those padded gloves to protect the delicate bones in our hands, which allows participants to hit harder, making the sport more dangerous.  Similarly (since I'll talk about the sport in a bit anyway), American football has become *more* dangerous as they've improved the safety equipment, because it allows aggressors to worry less about their own safety.  In finance, we have entire fields studying [moral hazards](https://en.wikipedia.org/wiki/Moral_hazard) when protection from risk---from insurance, for example---creates a strong incentive to take on greater risk, because someone else bears responsibility for cleaning up the mess.
+We see this dynamic a lot, in unexpected places, by the way.  Boxers wear those padded gloves to protect the delicate bones in our hands, which allows participants to hit harder, making the sport more dangerous.  Similarly (since I'll talk about the sport in a bit anyway), American football has become *more* dangerous as they've improved the safety equipment, because it allows aggressors to worry less about their own safety.  In finance, we have entire fields studying {% wiki Moral_hazard|moral hazards|en %} when protection from risk---from insurance, for example---creates a strong incentive to take on greater risk, because someone else bears responsibility for cleaning up the mess.
 
  > **FINN**: I need someone better. I heard you were with the Federation flagship and I knew you had to be.
 
@@ -79,7 +79,7 @@ Metaphorically---which we need to look at, since the *Enterprise* doesn't have a
 
  > **DATA**: But the Elway Theorem proved to be entirely inaccurate. All research was abandoned by the mid-twenty-third century.
 
-I can only think of one Elway of relevance, especially at the time they wrote this, American football quarterback [John Elway](https://en.wikipedia.org/wiki/John_Elway), who became widespread in media by 1987, and led the Denver Broncos in a loss against the San Francisco 49ers the evening prior to this episode's airing.  I dig out all this utterly useless information---despite caring about football exactly as much as you probably expected *before* reading this paragraph---to make the point that they *definitely* meant John Elway.
+I can only think of one Elway of relevance, especially at the time they wrote this, American football quarterback {% wiki John_Elway|John Elway|en %}, who became widespread in media by 1987, and led the Denver Broncos in a loss against the San Francisco 49ers the evening prior to this episode's airing.  I dig out all this utterly useless information---despite caring about football exactly as much as you probably expected *before* reading this paragraph---to make the point that they *definitely* meant John Elway.
 
  > **RIKER**: This is no way to live.
 
@@ -101,9 +101,9 @@ Ha!  Don't make me count up all the people he has threatened to shoot.  Granted,
 
  > **DATA**: Yet there are numerous examples where it was successful. The independence of the Mexican State from Spain, the Irish Unification of 2024, and the Kensey Rebellion.
 
-The [Mexican War of Independence](https://en.wikipedia.org/wiki/Mexican_War_of_Independence) took about eleven years, also looks a lot like a civil war from some perspectives, and has nothing to do with [Cinco de Mayo](https://en.wikipedia.org/wiki/Cinco_de_Mayo).
+The {% wiki Mexican_War_of_Independence|Mexican War of Independence|en %} took about eleven years, also looks a lot like a civil war from some perspectives, and has nothing to do with {% wiki Cinco_de_Mayo|Cinco de Mayo|en %}.
 
-The United Kingdom partitioned Ireland in 1921, and [unification](https://en.wikipedia.org/wiki/United_Ireland) has stayed in the discourse to varying degrees since.  Note that you Irish readers have a ticking clock, if you want to make this line work.  Seventeen months and twelve days as I post this.  Go, though I feel like you could probably get it done without violence, at this point, so I don't know what to tell you...
+The United Kingdom partitioned Ireland in 1921, and {% wiki United_Ireland|unification|en %} has stayed in the discourse to varying degrees since.  Note that you Irish readers have a ticking clock, if you want to make this line work.  Seventeen months and twelve days as I post this.  Go, though I feel like you could probably get it done without violence, at this point, so I don't know what to tell you...
 
 Presumably, the Kensey Rebellion occurs later than 2024, since I can't find anything that sounds appropriate.
 

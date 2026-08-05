@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,7 +39,7 @@ Ah, yes, the obligatory paranoid "the Romulans only exist to cause problems" sta
 
  > **LAFORGE**: All right, Commander. You've got till your next birthday to get that right.
 
-Riker fails to play 1954 jazz standard [*Misty*](https://en.wikipedia.org/wiki/Misty_%28song%29), maybe flubbing it because it doesn't come from the 1930s like the rest of their popular culture...
+Riker fails to play 1954 jazz standard {% wiki Misty_%28song%29|*Misty*|en %}, maybe flubbing it because it doesn't come from the 1930s like the rest of their popular culture...
 
 Also, they seem to have an obsession with Riker's birthday, in this introduction.
 
@@ -73,7 +73,7 @@ Like the waiter in that French café during senior year!
 
 Oh, sorry.  Most readers probably won't remember that ad campaign.  Pardon the YouTube link, especially at a time when they've decided to take a Quixotic stand against ad blockers, but spend thirty seconds to [watch a coffee commercial](https://www.youtube.com/watch?v=mcMpJlYynBw) to catch up with the references.
 
-You see, in the 1970s through the 1990s, Madison Avenue concluded that women loved nothing more than reminiscing about their adventures while sipping flavored instant coffee.  What does this have to do with *Star Trek*?  OK, not much, but as long as we made it this far, I might as well point out that this ad campaign gave---I believe---a young [Lea Thompson](https://en.wikipedia.org/wiki/Lea_Thompson) her first national exposure, and Thompson has gone on to direct a couple of episodes of **Picard** and had a brief role in another episode.
+You see, in the 1970s through the 1990s, Madison Avenue concluded that women loved nothing more than reminiscing about their adventures while sipping flavored instant coffee.  What does this have to do with *Star Trek*?  OK, not much, but as long as we made it this far, I might as well point out that this ad campaign gave---I believe---a young {% wiki Lea_Thompson|Lea Thompson|en %} her first national exposure, and Thompson has gone on to direct a couple of episodes of **Picard** and had a brief role in another episode.
 
  > **TROI**: She was an excellent Captain's wife, and a very good ship's counselor. She took over after I left.
 
@@ -81,7 +81,7 @@ The phrase "an excellent Captain's wife" turns my stomach...
 
  > **TOMALAK**: Admiral Picard, Captain Riker. It's good to see you again.
 
-You'll remember Tomalak from [*The Enemy*]({% post_url 2023-06-15-enemy %}) and [*The Defector*]({% post_url 2023-07-06-defector %}), where I talk more about [Andreas Katsulas](https://en.wikipedia.org/wiki/Andreas_Katsulas).
+You'll remember Tomalak from [*The Enemy*]({% post_url 2023-06-15-enemy %}) and [*The Defector*]({% post_url 2023-07-06-defector %}), where I talk more about {% wiki Andreas_Katsulas|Andreas Katsulas|en %}.
 
  > **TOMALAK**: After much debate. Your Captain Riker is the kind of negotiator even the Ferengi should avoid.
 

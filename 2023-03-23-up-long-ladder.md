@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ We start with the crew ignoring Worf in distress at his station.  Some things ne
  >
  > **PICARD**: A loose alliance formed in the early part of the twenty-second century. It was the first stirrings of world government. You should read more history, Number One. Computer, locate exact dates in which this signal beacon was in general use.
 
-Despite the later mention of a Third World War, it seems interesting that they'd create an entirely new organization of European states, here.  While the [Maastricht Treaty](https://en.wikipedia.org/wiki/Maastricht_Treaty) forming the modern European Union and the Euro wouldn't show up, in our world, until 1992, the predecessor [European Economic Community](https://en.wikipedia.org/wiki/European_Economic_Community) had existed since 1957, and the [Western European Union](https://en.wikipedia.org/wiki/Western_European_Union) had existed since 1954, forming a weak economic and military alliance.
+Despite the later mention of a Third World War, it seems interesting that they'd create an entirely new organization of European states, here.  While the {% wiki Maastricht_Treaty|Maastricht Treaty|en %} forming the modern European Union and the Euro wouldn't show up, in our world, until 1992, the predecessor {% wiki European_Economic_Community|European Economic Community|en %} had existed since 1957, and the {% wiki Western_European_Union|Western European Union|en %} had existed since 1954, forming a weak economic and military alliance.
 
 The name also doesn't quite make sense, since "hegemony"---usually pronounced with a soft "g" in at least American English, by the way---usually refers to the authority of one social group over another, particularly if people think of the subservient group as consenting.  Owners have hegemony over labor, for example, because corporations exert significant control over workers, with the fig-leaf of consent, because the workers theoretically opt into work...and we ignore the part where those who opt out tend to starve to death.  Similarly, instead of the term "toxic masculinity," you'll sometimes see "hegemonic masculinity" in its place, because it specifies the mechanism by which a particular person's masculinity might turn toxic.
 

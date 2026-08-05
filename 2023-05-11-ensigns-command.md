@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -42,11 +42,11 @@ I wonder if they picked the violin for Data, because of his Sherlock Holmes obse
 
 As I've mentioned previously, while modern audiences typically identify Data as representing neurodiversity, lines like this remind me how strong the association with Asians felt at the time.  Remember, when this aired, the Western view of Asian musicians began and ended with the over-achieving immigrant kids at the local school, who generally didn't love music, but did it technically well, because they had first-generation immigrants as parents who literally needed to prove their (economic) value to government officials.
 
-Lucky people might know local musicians who loved the art more.  Diligent people might remember [Yo-Yo Ma](https://en.wikipedia.org/wiki/Yo-Yo_Ma) from a then-small set of media appearances that started---except for an appearance on [**The Tonight Show**](https://en.wikipedia.org/wiki/The_Tonight_Show_Starring_Johnny_Carson) at the age of nine---around this time.  Seriously, this came out in a world where only a handful of people, mostly children, had any awareness of Yo-Yo Ma, if you can believe that.
+Lucky people might know local musicians who loved the art more.  Diligent people might remember {% wiki Yo-Yo_Ma|Yo-Yo Ma|en %} from a then-small set of media appearances that started---except for an appearance on {% wiki The_Tonight_Show_Starring_Johnny_Carson|**The Tonight Show**|en %} at the age of nine---around this time.  Seriously, this came out in a world where only a handful of people, mostly children, had any awareness of Yo-Yo Ma, if you can believe that.
 
 I give you this horrifying tour of Asian-American vanishingly small representation in music to make the point that we had a pervasive (and, I repeat, extremely wrong) stereotype of Asian musicians having some technical perfection, but lacking some inherent quality that should bring the music to life.  That stereotype extended---and still unfortunately extends---to outsourcing jobs to Asian workers, and probably further than that.  And they apply it to Data.
 
-Again, I don't begrudge anybody who sees themselves in Data, no matter how you identify yourself.  Seriously, go forth and claim the representation that Hollywood apparently won't give you {% emoji raised fist %}, even if you need to fudge a few facts to make your identification work.  But not only do we *not* have stereotypes about neurodiverse folks failing to make compelling art, but anecdotes of so-called [savant syndrome](https://en.wikipedia.org/wiki/Savant_syndrome) have provided us with a pop culture association of autism in particular with great art, so those associations would have made less sense at the time.
+Again, I don't begrudge anybody who sees themselves in Data, no matter how you identify yourself.  Seriously, go forth and claim the representation that Hollywood apparently won't give you {% emoji raised fist %}, even if you need to fudge a few facts to make your identification work.  But not only do we *not* have stereotypes about neurodiverse folks failing to make compelling art, but anecdotes of so-called {% wiki Savant_syndrome|savant syndrome|en %} have provided us with a pop culture association of autism in particular with great art, so those associations would have made less sense at the time.
 
  > **PICARD**: Excessive honesty can be disastrous, particularly in a commander.
  >
@@ -58,7 +58,7 @@ Every single time Picard opens his mouth on the topic of leadership, he sounds l
 
  > **CRUSHER**: And you may begin to believe in those limitations yourself.
 
-I don't care about Crusher's line, but use it because it comes immediately before the music, and you might recognize [*Eine Kleine Nachtmusik*](https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik), among Mozart's more famous works.
+I don't care about Crusher's line, but use it because it comes immediately before the music, and you might recognize {% wiki Eine_kleine_Nachtmusik|*Eine Kleine Nachtmusik*|en %}, among Mozart's more famous works.
 
  > **RIKER**: Captain, we're receiving a message from the Sheliak Corporate.
 
@@ -76,9 +76,9 @@ Also, this gives some indication of history, though I feel like the shows set a 
  >
  > **RIKER**: Tau Cygna Five is in the de Laure Belt. Heavy concentrations of hyperonic radiation.
 
-"Cygna" doesn't make any sense, but [tau Cygni](https://en.wikipedia.org/wiki/Tau_Cygni) sits about seventy light years from Earth.  I can't find anything indication that a "de Laure Belt" exists or who it might refer to.  While I can't find anything called "hyperonic" that doesn't relate to this episode, it looks suspiciously like "hyperionic" (with an extra **i**), which---despite my assumption that I'd turn up something about ions---serves as an alternate term for Hyperionian, as in something relating to Hyperion, either the Titan of Greek myth or the [moon of Saturn](https://en.wikipedia.org/wiki/Hyperion_%28moon%29).
+"Cygna" doesn't make any sense, but {% wiki Tau_Cygni|tau Cygni|en %} sits about seventy light years from Earth.  I can't find anything indication that a "de Laure Belt" exists or who it might refer to.  While I can't find anything called "hyperonic" that doesn't relate to this episode, it looks suspiciously like "hyperionic" (with an extra **i**), which---despite my assumption that I'd turn up something about ions---serves as an alternate term for Hyperionian, as in something relating to Hyperion, either the Titan of Greek myth or the {% wiki Hyperion_%28moon%29|moon of Saturn|en %}.
 
-I can only find one "Armens" of note, a postulated tribe of Bronze Age Europeans who may have given their name to modern [Armenia](https://en.wikipedia.org/wiki/Name_of_Armenia), though the country has no shortage of competing etymological theories.
+I can only find one "Armens" of note, a postulated tribe of Bronze Age Europeans who may have given their name to modern {% wiki Name_of_Armenia|Armenia|en %}, though the country has no shortage of competing etymological theories.
 
  > **CRUSHER**: They must have found a way to adapt. Milan's work with radiation sensitivity suggests it is possible. Perhaps with extensive viral therapy.
 
@@ -170,7 +170,7 @@ Again, I may hammer on this particular nail often, but:  Maybe they should consi
 
  > **DATA**: Strictly speaking, sir, it is not my playing. It is a precise imitation of the techniques of Jascha Heifetz and Trenka Bronken.
 
-[Heifetz](https://en.wikipedia.org/wiki/Jascha_Heifetz) had passed away about two years before this episode aired.  Bronken seems original to this episode.
+{% wiki Jascha_Heifetz|Heifetz|en %} had passed away about two years before this episode aired.  Bronken seems original to this episode.
 
 ## Conclusions
 

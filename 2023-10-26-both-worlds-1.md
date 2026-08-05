@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,7 +35,7 @@ I suppose that we dive right in, on this one.  I have a lot of reasons to dislik
 
  > Captain's log, Stardate 43989.1. The *Enterprise* has arrived at Jouret Four in response to a distress signal from one of the Federation's outermost colonies.
 
-Hm.  I honestly don't even know where to go, with this one.  I only knew and can only find one significant Jouret, New Age cult leader [Luc Jouret](https://en.wikipedia.org/wiki/Luc_Jouret), who'd soon---after this episode aired, I mean---flee Québec in scandal and ultimately trigger his cult's mass suicide.
+Hm.  I honestly don't even know where to go, with this one.  I only knew and can only find one significant Jouret, New Age cult leader {% wiki Luc_Jouret|Luc Jouret|en %}, who'd soon---after this episode aired, I mean---flee Québec in scandal and ultimately trigger his cult's mass suicide.
 
 And, OK, sure, the writers maybe didn't have Luc in mind when they wrote this, and if they did, they couldn't know the future.  But it still looks an awful lot like the Federation named a star after a homeopathic cult leader.  And we have noted the New Age influence on this era of the Federation before.
 
@@ -49,7 +49,7 @@ Starfleet has apparently spent the last year or so planning for war...though not
 
 The last feels like a tangential joke, but in the 1980s and 1990s, a lot of xenophobia hinged on foreign investors---specifically from Japan, at the time---buying high-profile properties in major cities around the United States.  In New York, the Mobil Building and Rockefeller Center probably have the most recognition.  In California, you'd have Pebble Beach Golf Links and LA's Biltmore Hotel.  They also invested heavily in companies.  In other franchises, you see hints of this awe/fear in **Back to the Future, Part 2** and **Die Hard**, which both show a massive and (somehow) worrisome Japanese presence in American business.
 
-As I mentioned in the discussion around [*Q Who?*]({% post_url 2023-03-09-q-who %}), even though they don't read as offensively as the Ferengi do, a lot of us at the time looked at the Borg, saw them as [Yellow Peril](https://en.wikipedia.org/wiki/Yellow_Peril) stereotypes, and objected, a faceless "enemy" that lives communally echoing perceptions of Chinese communism, constantly experiments with technology echoing the Japanese dominance in the transistor industry, and the media pitching every yen converted to dollars as the prelude to a non-violent invasion.
+As I mentioned in the discussion around [*Q Who?*]({% post_url 2023-03-09-q-who %}), even though they don't read as offensively as the Ferengi do, a lot of us at the time looked at the Borg, saw them as {% wiki Yellow_Peril|Yellow Peril|en %} stereotypes, and objected, a faceless "enemy" that lives communally echoing perceptions of Chinese communism, constantly experiments with technology echoing the Japanese dominance in the transistor industry, and the media pitching every yen converted to dollars as the prelude to a non-violent invasion.
 
 And yes, if you've ever wondered why so many people my age learned or tried to learn Japanese, it *does* have a lot to do with the media making it seem like we would inevitably all need to interview with Japanese managers.  And also yes, you see echoes of *that* propaganda in stories about the Chinese investing in Africa that amount to sour grapes that it didn't occur to us to build a good relationship, first.
 
@@ -65,7 +65,7 @@ Well, it didn't take them long at all to make this creepy.
 
 And I blame both of them, by the way.  Picard implied that Shelby slept her way into her position, and Hanson openly admits that he wishes that it happened that way.
 
-Oh, and you might recognize Shelby as [Elizabeth Dennehy](https://en.wikipedia.org/wiki/Elizabeth_Dennehy), who apart from having a somewhat more famous father, has had a significant career in genre shows and soap operas.  Most recently, you might have seen her in the second-to-last episode of **Picard**, as now-Admiral Shelby.
+Oh, and you might recognize Shelby as {% wiki Elizabeth_Dennehy|Elizabeth Dennehy|en %}, who apart from having a somewhat more famous father, has had a significant career in genre shows and soap operas.  Most recently, you might have seen her in the second-to-last episode of **Picard**, as now-Admiral Shelby.
 
  > **HANSON**: You may want to tell him that. We're still waiting on his decision. This is the third time we've pulled out the captain's chair for Riker. He just won't sit down. Let me tell you something, Jean-Luc. There are a lot of young hotshots like Shelby on their way up. Riker could suddenly look like he's standing still next to them. He's hurting his career by staying put. If I were you, I'd kick him in the rear end for his own good.
 
@@ -119,7 +119,7 @@ Caring about the health and readiness of the crew?  I'll *definitely* faint, at 
 
  > **HANSON**: At nineteen hundred hours yesterday, the USS *Lalo* departed Zeta Alpha Two on a freight run to Sentinel Minor Four. At twenty-two-hundred hours and twelve minutes, a distress signal was received at Starbase one-five-seven. The *Lalo* reported contact with an alien vessel described as cube shaped. The distress signal ended abruptly, and she's not been heard from since.
 
-I assume that they named the ship for [Bhai Lalo](https://en.wikipedia.org/wiki/Bhai_Lalo).
+I assume that they named the ship for {% wiki Bhai_Lalo|Bhai Lalo|en %}.
 
  > **SHELBY**: I thought they weren't interested in human life forms, only our technology.
  >
@@ -181,7 +181,7 @@ He acts like his approach has worked so well, so far...
 
  > **HANSON**: We're moving to intercept at Wolf three-five-nine. We'll make our stand there. How much longer can you maintain pursuit?
 
-[Wolf 359](https://en.wikipedia.org/wiki/Wolf_359) sits about eight light years from Earth, one of the smallest and faintest stars that we've detected.  Despite that, it might have a planet around it.  Interestingly, the star appeared multiple times in novels and television shows during the 1950s and 1960s.
+{% wiki Wolf_359|Wolf 359|en %} sits about eight light years from Earth, one of the smallest and faintest stars that we've detected.  Despite that, it might have a planet around it.  Interestingly, the star appeared multiple times in novels and television shows during the 1950s and 1960s.
 
  > **PICARD**: I am Locutus of Borg. Resistance is futile. Your life as it has been is over. From this time forward, you will service us.
 

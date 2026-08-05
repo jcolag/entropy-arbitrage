@@ -49,7 +49,7 @@ I grew excited when I saw a story, here, because...well, I'll let the world's cr
 
 I remember finding the site in those early days, and not finding any stories, despite the idea having such promise.  In any case, I ran across it in my notes, gave it a quick look, and...it now has a story to it.
 
-It occurs to me that, in varying revisions, the background on the name got lost, so those of you who don't have a long history with computing puzzles might want to read about the [glider](https://en.wikipedia.org/wiki/Glider_%28Conway%27s_Life%29).
+It occurs to me that, in varying revisions, the background on the name got lost, so those of you who don't have a long history with computing puzzles might want to read about the {% wiki Glider_%28Conway%27s_Life%29|glider|en %}.
 
 ## What Works Well?
 
@@ -75,7 +75,7 @@ And this.
 
  > ~~If you are reading it from the 33rd Chaos Communication Congress, there should be stickers somewhere. Go look for them and~~ join #glider-ink on Freenode to discuss the project!
 
-I struck out the parts that no longer seem relevant, since the collaborator now exists and the 33<sup>rd</sup> [CCC](https://en.wikipedia.org/wiki/Chaos_Communication_Congress) met in 2016.  And the payment links haven't yet materialized.  (Note that I didn't check the IRC channel, so I can't tell you if it still has or ever had any active discussions.)
+I struck out the parts that no longer seem relevant, since the collaborator now exists and the 33<sup>rd</sup> {% wiki Chaos_Communication_Congress|CCC|en %} met in 2016.  And the payment links haven't yet materialized.  (Note that I didn't check the IRC channel, so I can't tell you if it still has or ever had any active discussions.)
 
 ## What's Adaptable?
 

@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -39,7 +39,7 @@ After so many episodes where people have talked about the importance of the *Ent
 
  > **LAFORGE**: Almost isn't good enough. You want to be the one to explain when the Captain says 'Engage' and we just sit here?
 
-Hm.  I had all intentions of praising LaForge for actually setting some boundaries around Wesley, but Wesley pretty much blows him off, to no reaction.  I've often referred to Wesley as an "[indigo child](https://en.wikipedia.org/wiki/Indigo_children)," who parents often refused to discipline for worries about interfering with their pseudo-mystical development.  Although I can't help noticing that this also has an [*It's a **Good** Life*](https://en.wikipedia.org/wiki/It%27s_a_Good_Life) vibe, too, of Wesley---sure, inadvertently, but due to lax supervision and carelessness---"wishing Beverly into the cornfield."
+Hm.  I had all intentions of praising LaForge for actually setting some boundaries around Wesley, but Wesley pretty much blows him off, to no reaction.  I've often referred to Wesley as an "{% wiki Indigo_children|indigo child|en %}," who parents often refused to discipline for worries about interfering with their pseudo-mystical development.  Although I can't help noticing that this also has an {% wiki It%27s_a_Good_Life|*It's a **Good** Life*|en %} vibe, too, of Wesley---sure, inadvertently, but due to lax supervision and carelessness---"wishing Beverly into the cornfield."
 
  > **CRUSHER**: I'll be a little more comprehensive than that, Chief. Doctor Crusher to Doctor Hill. Respond, please. Doctor Selar, your present location? Computer, current whereabouts of Doctors Hill and Selar.
 
@@ -61,7 +61,7 @@ I mean...it might.  She hasn't proven particularly good at her job.  Based on pa
 
  > **DATA**: The *Wellington* is the only Federation vessel in this sector. It reports normal operations. A Ferengi ship within communications range also reports nothing unusual.
 
-Generally speaking, ships named *Wellington* refer---directly or indirectly---to the Duke of Wellington, [Arthur Wellesley](https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington) in particular.
+Generally speaking, ships named *Wellington* refer---directly or indirectly---to the Duke of Wellington, {% wiki Arthur_Wellesley,_1st_Duke_of_Wellington|Arthur Wellesley|en %} in particular.
 
  > **TRAVELER**: As long as she thinks she is alive, she is alive.
  >

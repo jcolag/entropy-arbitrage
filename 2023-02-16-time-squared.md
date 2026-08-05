@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -73,7 +73,7 @@ Riker's tone-deafness makes some sense, when you consider that he "liked the sou
 
  > **RIKER**: NCC one-seven-zero-one-D, USS *Enterprise*, shuttle-craft five.
 
-We generally see [El Baz](https://en.wikipedia.org/wiki/El-Baz) as an Arabic surname, meaning "the falcon."
+We generally see {% wiki El-Baz|El Baz|en %} as an Arabic surname, meaning "the falcon."
 
  > **PICARD**: I'm fine, Doctor. Save your ministrations for your patient. I want a staff meeting in five minutes. Doctor, I assume you will want to remain here.
 
@@ -87,7 +87,7 @@ Do they record their logs as video?  Do they *vlog*?  I ask both because I find 
 
  > **WORF**: There is the theory of the Möbius. A twist in the fabric of space where time becomes a loop from which there is no escape.
 
-I don't know of any such theory, but I do know of [the strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip), a three-dimensional object with a single surface.  It doesn't fit the situation, but it seems like the sort of reference that a writer of the era would *think* sounds appropriate...
+I don't know of any such theory, but I do know of {% wiki M%C3%B6bius_strip|the strip|en %}, a three-dimensional object with a single surface.  It doesn't fit the situation, but it seems like the sort of reference that a writer of the era would *think* sounds appropriate...
 
  > **PICARD**: You're saying that when our time intersects with the time he left, in that instant he will function normally and, and there will be two of us.
 
@@ -137,7 +137,7 @@ I've half-joked before about Picard using adventure and violence as a substitute
 
  > **PICARD**: Or maybe he was thrown back in time, so that we would be able to take another road. Make a different choice. Well, they say if you travel far enough you will eventually meet yourself. Having experienced that, Number One, it's not something I would care to repeat.
 
-The quote comes from Joseph Campbell's, [**Myths to Live By**](https://en.wikipedia.org/wiki/Myths_to_Live_By).
+The quote comes from Joseph Campbell's, {% wiki Myths_to_Live_By|**Myths to Live By**|en %}.
 
 ## Conclusions
 

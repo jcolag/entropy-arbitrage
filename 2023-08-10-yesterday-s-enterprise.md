@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -42,7 +42,7 @@ I thank Guinan for calling out the sexism and macho posturing, here, though I al
 
  > **PICARD**: Lieutenant, what are their sensor readings? Is that an enemy vessel?
 
-You might want to know that the belt with a supporting shoulder strap that you see on the lower-ranking officers derives from the so-called [Sam Browne](https://en.wikipedia.org/wiki/Sam_Browne_belt) belt, devised by its namesake to overcome a disability, but quickly spread through the British military of the day, then to other militaries, and to police forces, most prominently today the [Royal Canadian Mounted Police](https://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police).  We occasionally see it in civilian fashion, too, though it generally doesn't last long, due specifically to the militaristic connotations.
+You might want to know that the belt with a supporting shoulder strap that you see on the lower-ranking officers derives from the so-called {% wiki Sam_Browne_belt|Sam Browne|en %} belt, devised by its namesake to overcome a disability, but quickly spread through the British military of the day, then to other militaries, and to police forces, most prominently today the {% wiki Royal_Canadian_Mounted_Police|Royal Canadian Mounted Police|en %}.  We occasionally see it in civilian fashion, too, though it generally doesn't last long, due specifically to the militaristic connotations.
 
 Also, you might notice the similarity in appearance to Worf's baldric, especially since Worf doesn't appear for most of the episode.
 
@@ -54,7 +54,7 @@ Also, I guess that George and Gracie from [**The Voyage Home**]({% post_url 2022
 
  > **DATA**: Possibly the formation of a Kerr loop from superstring material. It would require high-energy interactions occurring in the vicinity for such a structure to be formed. The rift is certainly not stable, Captain. It could collapse at any time.
 
-Data *probably* means some kind of [rotating black hole](https://en.wikipedia.org/wiki/Rotating_black_hole), [Roy Kerr](https://en.wikipedia.org/wiki/Roy_Kerr) having his name on a lot of the research, there.
+Data *probably* means some kind of {% wiki Rotating_black_hole|rotating black hole|en %}, {% wiki Roy_Kerr|Roy Kerr|en %} having his name on a lot of the research, there.
 
  > **RIKER**: There's no record of the Romulans ever assaulting the *Enterprise*-C.
 
@@ -62,7 +62,7 @@ I wonder if they meant this as a dig at the show's usual timeline, where any of 
 
  > **GARRETT**: Yes.
 
-You may recognize Garrett as model/actress [Tricia O'Neal](https://en.wikipedia.org/wiki/Tricia_O%27Neil), who made many guest appearances on television around this time.
+You may recognize Garrett as model/actress {% wiki Tricia_O%27Neil|Tricia O'Neal|en %}, who made many guest appearances on television around this time.
 
  > **GUINAN**: No, we're not. At least, we're not supposed to be. This is not a ship of war. This is a ship of peace.
 
@@ -98,7 +98,7 @@ Wow, romance in this century really jumps around.  If they don't push their way 
 
  > **PICARD**: I discovered long ago that she has a special wisdom. I've learned to trust it. I could arrange for you to speak with her if you wish.
 
-This comes precariously close to the [magical negro](https://en.wikipedia.org/wiki/Magical_Negro) trope.
+This comes precariously close to the {% wiki Magical_Negro|magical negro|en %} trope.
 
  > **PICARD**: One more ship will make no difference in the here and now. But twenty-two years ago, one ship could have stopped this war before it started.
 
@@ -142,4 +142,4 @@ Coming up next week, we find out whether all the talk about Data having rights, 
 
 **Credits**: The header image is [Balloon Corps](https://commons.wikimedia.org/wiki/File:Balloon_Corps.jpg) by a **Harper's Weekly** artist in 1861, long in the public domain.
 
-[^1]:  This episode *did*, after all, air about a year into [George H. W. Bush](https://en.wikipedia.org/wiki/George_H._W._Bush) term in office.
+[^1]:  This episode *did*, after all, air about a year into {% wiki George_H._W._Bush|George H. W. Bush|en %} term in office.

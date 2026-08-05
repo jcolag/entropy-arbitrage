@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -35,17 +35,17 @@ Did you, by chance, think that two back-to-back meditations on the nature of fam
 
  > **WORF**: Halfway through the Woden sector.
 
-You probably already know this, given how Norse mythology has had more than a few moments of prominence in popular culture since this episode aired, but in modern English, we generally refer to Woden as [Odin](https://en.wikipedia.org/wiki/Odin).
+You probably already know this, given how Norse mythology has had more than a few moments of prominence in popular culture since this episode aired, but in modern English, we generally refer to Woden as {% wiki Odin|Odin|en %}.
 
  > **CRUSHER**: This boy. He's human.
 
-You might recognize "this boy" as former child actor and teen idol [Chad Allen](https://en.wikipedia.org/wiki/Chad_Allen_%28actor%29).  You might not connect him with his most famous character, [Tommy Westphall](https://en.wikipedia.org/wiki/Tommy_Westphall), whose single appearance (apparently) spawned the late [Dwayne McDuffie](https://en.wikipedia.org/wiki/Dwayne_McDuffie)'s idea that most prime-time network television takes place in a shared fictional universe in Westphall's mind.
+You might recognize "this boy" as former child actor and teen idol {% wiki Chad_Allen_%28actor%29|Chad Allen|en %}.  You might not connect him with his most famous character, {% wiki Tommy_Westphall|Tommy Westphall|en %}, whose single appearance (apparently) spawned the late {% wiki Dwayne_McDuffie|Dwayne McDuffie|en %}'s idea that most prime-time network television takes place in a shared fictional universe in Westphall's mind.
 
  > **CRUSHER**: It's not uncommon. It was identified centuries ago as the Stockholm syndrome.
 
 Ugh.
 
-You have, no doubt, already have some awareness of so-called [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome).  You may *not* know that no such psychiatric disorder has an official listing, it has no means of diagnosis, and that the real 1973 story sounds far wilder---and far more relatable---than the narrative presented by media.
+You have, no doubt, already have some awareness of so-called {% wiki Stockholm_syndrome|Stockholm Syndrome|en %}.  You may *not* know that no such psychiatric disorder has an official listing, it has no means of diagnosis, and that the real 1973 story sounds far wilder---and far more relatable---than the narrative presented by media.
 
 In short, the Swedish police bungled their reaction to the bank robbery so badly, that it turned into a long-term hostage situation, where the victims worried so much about becoming "collateral damage" in their own rescue, that they began negotiating on behalf of robber Jan-Erik Olsson.  Seeing Olsson in far over his head and the police making things worse, Kristin Enmark worked both sides, going so far as to call the Prime Minister, who...told her to take pride in potentially dying on the job, if the rescue went wrong.
 
@@ -65,11 +65,11 @@ He seems so sincere, here, that he considers this a secret, despite making simil
 
  > **ENDAR**: I am Captain Endar of the warship Q'Maire. To whom am I speaking?
 
-You might recognize Endar as [Sherman Howard](https://en.wikipedia.org/wiki/Sherman_Howard), who people at the time probably best knew for playing Lex Luthor in the contemporary [Superboy](https://en.wikipedia.org/wiki/Superboy_%28TV_series%29) show.
+You might recognize Endar as {% wiki Sherman_Howard|Sherman Howard|en %}, who people at the time probably best knew for playing Lex Luthor in the contemporary {% wiki Superboy_%28TV_series%29|Superboy|en %} show.
 
  > **PICARD**: You should have notified the Federation authorities. To conceal him was a clear violation of our agreement.
 
-B-but Jean-Luc, what happened to "This is not a law. It is a treaty. It is designed to smooth relations between peoples. Not to act as a straitjacket," from [*The Ensigns of Command*]({% post_url 2023-05-11-ensigns-command %})...?  Ignoring that bit of hypocrisy, it also seems highly unlikely that anybody negotiated a treaty requiring everyone on one side to disclose anybody living with them who has an association with the other.  Picard seems to want to equate adoption with becoming a [prisoner of war](https://en.wikipedia.org/wiki/Prisoner_of_war) held past the end of the war.
+B-but Jean-Luc, what happened to "This is not a law. It is a treaty. It is designed to smooth relations between peoples. Not to act as a straitjacket," from [*The Ensigns of Command*]({% post_url 2023-05-11-ensigns-command %})...?  Ignoring that bit of hypocrisy, it also seems highly unlikely that anybody negotiated a treaty requiring everyone on one side to disclose anybody living with them who has an association with the other.  Picard seems to want to equate adoption with becoming a {% wiki Prisoner_of_war|prisoner of war|en %} held past the end of the war.
 
  > **PICARD**: Doesn't he deserve to become more than that? His true heritage is human, Endar.
 

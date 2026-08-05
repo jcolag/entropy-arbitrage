@@ -14,7 +14,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, in a self-explanatory part of the world, people celebrate the [European Day of the Righteous](https://en.wikipedia.org/wiki/European_Day_of_the_Righteous), originally a memorial for the Armenian Genocide, but now more broadly honoring people who have taken stands against authoritarians or crimes against humanity.
+Today, in a self-explanatory part of the world, people celebrate the {% wiki European_Day_of_the_Righteous|European Day of the Righteous|en %}, originally a memorial for the Armenian Genocide, but now more broadly honoring people who have taken stands against authoritarians or crimes against humanity.
 
 ![All in blue, the European circle of stars logo to the left of the words "European Day of the Righteous"](/blog/assets/European-Day-of-the-Righteous-logo.png "I don't think that I've ever seen a holiday with its own logo")
 
@@ -58,7 +58,7 @@ Anyway, I get excited about this sort of thing to a rather embarrassing degree. 
 
 It took me more than long enough to get around to it, but I *finally* got my Mastodon scheduler script working, though based on my changes, I couldn't tell you if my problem came from my procedure, a server glitch, or my code.
 
-To spare you the long story---I'll probably write something up on using the Mastodon API, soon---I would frequently receive an error telling me "record not found."  That seems like a problem *somewhere*, since the ["post a status" endpoint](https://docs.joinmastodon.org/methods/statuses/#create) doesn't list an [HTTP 404](https://en.wikipedia.org/wiki/HTTP_404) code as a possible output.
+To spare you the long story---I'll probably write something up on using the Mastodon API, soon---I would frequently receive an error telling me "record not found."  That seems like a problem *somewhere*, since the ["post a status" endpoint](https://docs.joinmastodon.org/methods/statuses/#create) doesn't list an {% wiki HTTP_404|HTTP 404|en %} code as a possible output.
 
 While I need to investigate further, I *suspect* that my use of an "idempotency ID" might have sidelined me, again, either because I misused it or because the server had problems.  Itempotency refers to (idempotent) operations, where you can apply them repeatedly to your system state---usually a database, these days---and not worry if you've made repeated changes.  We care about idempotency in distributed systems, where the connection might drop, without you knowing exactly where the operation interrupted; for idempotent operations, you retry without checking, because it won't do any damage.  For example, you generally idempotently delete things, but you can't idempotently give someone money, because you can't delete a record "too many times," but you *can* transfer the wrong amount of money by repeating a payment.  In Mastodon's case, the API makes posting *optionally* idempotent, by allowing the application to provide the ID to say that it should treat all the toots identically.
 

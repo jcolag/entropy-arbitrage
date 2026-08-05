@@ -48,7 +48,7 @@ I admit that I've sat on this book forever, because---much like with [**Green Co
 
 I guess that I can see some potential in the relationship between Ray and Nomar.
 
-And as much as I hate the trope of finding it shocking to introduce a beautiful---objectified, even---woman who also {% sfx gasp! %} can talk about esoteric topics, I find the Emma character's knowledge of both [Kit Marlowe](https://en.wikipedia.org/wiki/Christopher_Marlowe) and [Philip Marlowe](https://en.wikipedia.org/wiki/Philip_Marlowe) refreshing, in a story that didn't feel like it'd have much interest in that sort of thing.
+And as much as I hate the trope of finding it shocking to introduce a beautiful---objectified, even---woman who also {% sfx gasp! %} can talk about esoteric topics, I find the Emma character's knowledge of both {% wiki Christopher_Marlowe|Kit Marlowe|en %} and {% wiki Philip_Marlowe|Philip Marlowe|en %} refreshing, in a story that didn't feel like it'd have much interest in that sort of thing.
 
 Likewise, while the first chapter drags, the second (eventually) sets up what sounds like a potentially interesting plot.  And it introduces that problem something like one-twentieth of the way into the book, rather than avoiding it.
 

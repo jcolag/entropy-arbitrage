@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -105,7 +105,7 @@ I can't think of any time that the *Enterprise* went to an Ordek Nebula, but the
 
  > **NOT PICARD**: {% emoji musical notes %} Come cheer up my lads, 'Tis to glory we steer. To find something new in this wonderful year. To honor we call you as free men and brave. For who are so free as the sons of the waves? Hearts of Oak are our ships, Jolly tars are our men. We always are ready. Steady, boys, steady. We'll fight, and we'll conquer, again and again. {% emoji musical notes %}
 
-Fake-Picard sings [*Heart of Oak*](https://en.wikipedia.org/wiki/Heart_of_Oak), the march of the United Kingdom's navy, which seems like a bizarre choice...
+Fake-Picard sings {% wiki Heart_of_Oak|*Heart of Oak*|en %}, the march of the United Kingdom's navy, which seems like a bizarre choice...
 
  > **RIKER**: That's not the Captain I know.
 

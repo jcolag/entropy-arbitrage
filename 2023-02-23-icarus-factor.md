@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -29,7 +29,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## The Icarus Factor
 
-As you may already know, the title refers to [Icarus](https://en.wikipedia.org/wiki/Icarus), the son of mythical craftsman Daedalus, who escaped the Labyrinth of King Minos with artificial wings.  Icarus failed to follow his father's directions and flew "too close to the Sun," melting the wax that held his wings together.
+As you may already know, the title refers to {% wiki Icarus|Icarus|en %}, the son of mythical craftsman Daedalus, who escaped the Labyrinth of King Minos with artificial wings.  Icarus failed to follow his father's directions and flew "too close to the Sun," melting the wax that held his wings together.
 
 This episode tries *so* hard to tie its different plots together thematically, but fails while also failing to tie the title to the plots, other that some people have fathers...
 
@@ -45,7 +45,7 @@ They reminisce about the not-so-manual manual docking from [*Encounter at Farpoi
 
 I don't dislike Kyle Riker's sweater-jumpsuit, though the checked turtleneck/ascot seems a bit much...
 
-Also, you might recognize the elder Riker as character actor [Mitchell Ryan](https://en.wikipedia.org/wiki/Mitchell_Ryan), from a career starting in 1958 and apparently surviving his death last year, with at least one project not yet released.
+Also, you might recognize the elder Riker as character actor {% wiki Mitchell_Ryan|Mitchell Ryan|en %}, from a career starting in 1958 and apparently surviving his death last year, with at least one project not yet released.
 
  > **WESLEY**: I was just talking to Worf. He's really eccentric at times.
  >
@@ -79,7 +79,7 @@ We've gone back to that nonsense, again...?
 
  > **PULASKI**: Poor guy. Picked up a flu virus on our last stop at Nasreldine.
 
-I assume that she means something like [Nasreddin](https://en.wikipedia.org/wiki/Nasreddin).
+I assume that she means something like {% wiki Nasreddin|Nasreddin|en %}.
 
  > **TROI**: Commander Pulaski's greatest medical skill is her empathy. You must be Commander Riker's father.
 

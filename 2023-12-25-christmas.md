@@ -19,7 +19,7 @@ I don't need to explain [Christmas]({% post_url 2019-12-24-christmas %}) to anyo
 
 ![A girl in a red cloak and hat carrying white ice skates over her shoulder in a snowy outdoor area](/blog/assets/outdoor-snow-cold-winter-girl-skate-669822-pxhere.com.png "Smart kid, finding a way to avoid the family fighting over who brought the best dessert")
 
-I happen to like the holiday, though I don't have much interest in the religious side.  I've long said that the shortest days (and so the longest nights) on the calendar make *ideal* excuses for celebration and togetherness, as exemplified by the Iranian [Yaldā Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night) celebrations held on the winter solstice.  As such, I don't consider it a coincidence that so many cultures had and still have comparable holidays within the span of about a week.
+I happen to like the holiday, though I don't have much interest in the religious side.  I've long said that the shortest days (and so the longest nights) on the calendar make *ideal* excuses for celebration and togetherness, as exemplified by the Iranian {% wiki Yald%C4%81_Night|Yaldā Night|en %} celebrations held on the winter solstice.  As such, I don't consider it a coincidence that so many cultures had and still have comparable holidays within the span of about a week.
 
 Anyway, to those who celebrate, have a wonderful Christmas; to those who don't, you should also have a pretty great day, if you have that option.  Now, I can't guarantee that my project updates won't look like proverbial coal in your stocking, but let's go, anyway...
 

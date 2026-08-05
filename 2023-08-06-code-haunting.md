@@ -33,7 +33,7 @@ And no, I don't even mean "sometimes code does things that you don't expect and 
 
 ## The Polish Poe
 
-For the majority of people (presumably) not already acquainted, I'd like to introduce you to [Stefan Grabiński](https://en.wikipedia.org/wiki/Stefan_Grabi%C5%84ski), a once-popular-in-Europe writer often referred to as either The Polish Poe or The Polish Lovecraft---as in [Edgar Allen](https://en.wikipedia.org/wiki/Edgar_Allan_Poe) or [Howard Phillips](https://en.wikipedia.org/wiki/Howard_Phillips_Lovecraft)---which might give you some idea of his niche.
+For the majority of people (presumably) not already acquainted, I'd like to introduce you to {% wiki Stefan_Grabi%C5%84ski|Stefan Grabiński|en %}, a once-popular-in-Europe writer often referred to as either The Polish Poe or The Polish Lovecraft---as in {% wiki Edgar_Allan_Poe|Edgar Allen|en %} or {% wiki Howard_Phillips_Lovecraft|Howard Phillips|en %}---which might give you some idea of his niche.
 
 I forget where I discovered him, maybe through some Polish colleague in a discussion of interesting authors, maybe some other means.  It probably doesn't matter, other than if someone led me to his work, that person at least deserves my acknowledging that.  I feel comfortable talking about his work, here, because his work should have fallen into the public domain in Poland in 2008, though I won't quote any here, since I don't know of a Free Culture translation.
 
@@ -47,7 +47,7 @@ While Grabiński gives this a clear supernatural bend, you can see how he gets t
 
 Some readers might note that the supernatural form of this idea already protrudes into our world, in various ways.
 
-In some Melanesian and Polynesian cultures, they have had the idea of [mana](https://en.wikipedia.org/wiki/Mana_%28Oceanian_cultures%29), a spiritual energy ebbing and flowing through everything, making it better.  Some believe that you can place mana into an object, making it more powerful, in some way.
+In some Melanesian and Polynesian cultures, they have had the idea of {% wiki Mana_%28Oceanian_cultures%29|mana|en %}, a spiritual energy ebbing and flowing through everything, making it better.  Some believe that you can place mana into an object, making it more powerful, in some way.
 
 That brings us to the broader idea of enchantments of objects, and we see this *today* in fantasy role-playing games, where a character might have a "+3 sword," a sword that, for magical reasons...does better sword-things.
 
@@ -61,7 +61,7 @@ I associate this idea with code, because programming revolves *almost* entirely 
 
 We have **intention**, because we want the code to do something.  I've talked about this before, in the context of even the best [AI not replacing programmers]({% post_url 2021-07-18-copilot %}), because someone will always need to figure out how to solve a problem and explain that solution---to varying degrees of granularity---to the compiler or AI.
 
-Then, we have **personal imperfections**, where the developers took shortcuts or otherwise had some quirky idea of how things should work.  The colors that don't *quite* match, the form fields that appear in what feels like the wrong order, the odd phrasing of directions, formatting that only acknowledges the existence of one country, and many more small issues build up to give software the imprint of everyone who has worked on it.  And that doesn't even get to the deliberate "[Easter eggs](https://en.wikipedia.org/wiki/Easter_egg_%28media%29)" inserted into software by developers, for various reasons.
+Then, we have **personal imperfections**, where the developers took shortcuts or otherwise had some quirky idea of how things should work.  The colors that don't *quite* match, the form fields that appear in what feels like the wrong order, the odd phrasing of directions, formatting that only acknowledges the existence of one country, and many more small issues build up to give software the imprint of everyone who has worked on it.  And that doesn't even get to the deliberate "{% wiki Easter_egg_%28media%29|Easter eggs|en %}" inserted into software by developers, for various reasons.
 
 And finally, we have **trauma**, because shortly after we start, we start chasing bugs down and struggling to fix increasingly obscure problems, until either we (somehow) finish or determine that the cost to run down the remaining bugs will overwhelm the value provided by eliminating them.  When you write code, particularly code for other people, you mostly work in a state where you either feel frustrated that you haven't gotten something working *or* move on to the next broken thing.
 
@@ -69,9 +69,9 @@ Even more than most art, I would hazard to suggest, software embodies (at least 
 
 ## Maps and Territories, Too?
 
-To push this a bit further, let's talk a bit about another now-obscure author from Poland, [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski).
+To push this a bit further, let's talk a bit about another now-obscure author from Poland, {% wiki Alfred_Korzybski|Alfred Korzybski|en %}.
 
-While obscure today, Korzybski once had *massive* influence on today's world.  You probably don't know his name, but you've heard his work echoed when people [mistake the map for the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), forgetting that abstractions leave out important issues.  Or you might remember me (or someone else) talking about [avoiding forms of the verb *to be*, for greater clarity]({% post_url 2022-12-04-specificity %}).  You might recognize the references dropped to him in the works of Heinlein, van Vogt, Wilson, Hubbard, and more.  His work helped determine which Nazi war criminals could reasonably stand trial, and (less seemly, through Hubbard) it influenced aspects of [Scientology](https://en.wikipedia.org/wiki/Scientology).
+While obscure today, Korzybski once had *massive* influence on today's world.  You probably don't know his name, but you've heard his work echoed when people {% wiki Map%E2%80%93territory_relation|mistake the map for the territory|en %}, forgetting that abstractions leave out important issues.  Or you might remember me (or someone else) talking about [avoiding forms of the verb *to be*, for greater clarity]({% post_url 2022-12-04-specificity %}).  You might recognize the references dropped to him in the works of Heinlein, van Vogt, Wilson, Hubbard, and more.  His work helped determine which Nazi war criminals could reasonably stand trial, and (less seemly, through Hubbard) it influenced aspects of {% wiki Scientology|Scientology|en %}.
 
 In any case, his first book, [**Manhood of Humanity**](https://www.gutenberg.org/ebooks/25457), presents some ideas that come off as oddball, but have some decent points within those ideas.  In particular, the book tries to make the case that it doesn't help us to think of humans as precisely like other animals, because we definitely differ, nor does it help us to think of ourselves as completely different, since we definitely share a lot with the rest of life on Earth.  He tries to thread this needle as follows.
 
@@ -103,7 +103,7 @@ Nope.  No, we will *not* do that.
 
 We might care for a couple of reasons, depending on what tasks we have in front of us.
 
-First, this echoes something that I've written about before, that [all our work embodies values]({% post_url 2020-10-18-stories %}), and we can either choose those values or allow society and our unconscious biases to choose them for us.  As programmers, then, we have an obligation to consider what we bring to projects, in terms of intent and emotion.  If we'll end projects by haunting our users anyway, then we can at least make them benevolent hauntings, more like European [household deities](https://en.wikipedia.org/wiki/Household_deity) than poltergeists.
+First, this echoes something that I've written about before, that [all our work embodies values]({% post_url 2020-10-18-stories %}), and we can either choose those values or allow society and our unconscious biases to choose them for us.  As programmers, then, we have an obligation to consider what we bring to projects, in terms of intent and emotion.  If we'll end projects by haunting our users anyway, then we can at least make them benevolent hauntings, more like European {% wiki Household_deity|household deities|en %} than poltergeists.
 
 Likewise, making software "professional" often involves a long process of tracking down and exterminating those idiosyncrasies, to replace them with---in effect---the ghost of the corporation that owns and sells the software.  In that context, the software needs to "speak" with a single voice, not many distinctive voices.
 

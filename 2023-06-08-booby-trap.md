@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -43,7 +43,7 @@ A...what, now?
 
 Two things.
 
-First, the violinist plays [*Hungarian Dances*, Number Five](https://en.wikipedia.org/wiki/Hungarian_Dances_%28Brahms%29) by [Johannes Brahms](https://en.wikipedia.org/wiki/Johannes_Brahms), which comes with its own issues.  Plot-wise, it (weirdly, since we have no way of knowing its significance) tries to cue up another character with the name Brahms coming.  And culture-wise, having a Romani-themed violinist suggests that the Federation may have forgotten about Brahms, instead classifying his "Romani-style" music as (maybe) folk tunes.
+First, the violinist plays {% wiki Hungarian_Dances_%28Brahms%29|*Hungarian Dances*, Number Five|en %} by {% wiki Johannes_Brahms|Johannes Brahms|en %}, which comes with its own issues.  Plot-wise, it (weirdly, since we have no way of knowing its significance) tries to cue up another character with the name Brahms coming.  And culture-wise, having a Romani-themed violinist suggests that the Federation may have forgotten about Brahms, instead classifying his "Romani-style" music as (maybe) folk tunes.
 
 This sort of accidental revisionist cultural history does occasionally come up, with several Broadway standards assumed by many to have come from far older traditions.
 
@@ -93,7 +93,7 @@ This seems even more bizarre.  LaForge has worked on this ship for at least two 
 
  > **COMPUTER**: A development stage prototype schematic at Utopia Planitia. Drafting room five of the Mars Station, Stardate 40174.
 
-You may already know this, but [Utopia Planitia](https://en.wikipedia.org/wiki/Utopia_Planitia) does, in fact, exist.  Multiple Martian probes have landed there, to begin their exploration.
+You may already know this, but {% wiki Utopia_Planitia|Utopia Planitia|en %} does, in fact, exist.  Multiple Martian probes have landed there, to begin their exploration.
 
  > **LAFORGE**: Great. Another woman who won't get personal with me in the holodeck. Leah, I want to find a way to supplement the energy supply to the ship and to the engines. Could we alter the matter-antimatter paths?
 

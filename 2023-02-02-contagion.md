@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,15 +33,15 @@ This episode mostly focuses on its plot, though some of the culture peeks out.  
 
  > Captain's log, stardate 42609.1. In response to a desperate plea by my old friend, Captain Donald Varley of the USS *Yamato*, I am running a grave risk by taking the Enterprise into the Neutral Zone. Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship. Perhaps with both crews working together we can be able to eliminate the problems before our presence is detected by the Romulans.
 
-The *Yamato* got a mention in [*Where Silence Has Lease*]({% post_url 2022-12-01-silence-lease %}), where I pointed out the pervasiveness of the name in Japanese culture, but suggested that it most likely referred to 1974's [**Space Battleship Yamato**](https://en.wikipedia.org/wiki/Space_Battleship_Yamato) anime series, and that Galaxy-class ship might all take their names from 1970s animation.
+The *Yamato* got a mention in [*Where Silence Has Lease*]({% post_url 2022-12-01-silence-lease %}), where I pointed out the pervasiveness of the name in Japanese culture, but suggested that it most likely referred to 1974's {% wiki Space_Battleship_Yamato|**Space Battleship Yamato**|en %} anime series, and that Galaxy-class ship might all take their names from 1970s animation.
 
 Also, it seems interesting that, while this time the evidence supports him, Picard once again has a bogus-sounding excuse for violating international laws.  We've seen this behavior since [*The Last Outpost*]({% post_url 2022-06-16-outpost %}).  Does the *Yamato*'s presence, here, suggest that they previously came up with some pretext to enter the Neutral Zone, where something happened to them?
 
-And as an aside, I should probably mention that the episode's overall plot bears at least a superficial resemblance to programming games such as 1961's [Darwin](https://en.wikipedia.org/wiki/Darwin_%28programming_game%29) and 1984's [Code War](https://en.wikipedia.org/wiki/Core_War), where two (or more) applications compete to take control of a real or simulated computer.  It doesn't generally manifest as the attacked program randomly malfunctioning, however.
+And as an aside, I should probably mention that the episode's overall plot bears at least a superficial resemblance to programming games such as 1961's {% wiki Darwin_%28programming_game%29|Darwin|en %} and 1984's {% wiki Core_War|Code War|en %}, where two (or more) applications compete to take control of a real or simulated computer.  It doesn't generally manifest as the attacked program randomly malfunctioning, however.
 
  > **WESLEY**: Four minutes and thirty-three seconds, sir.
 
-Given the aforementioned episode with the *Yamato*'s prior appearance, I feel like we have to assume that the writers tried to slip in a reference to John Cage's [*4′33″*](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3), which instructs the performers to not play anything during the three movements.
+Given the aforementioned episode with the *Yamato*'s prior appearance, I feel like we have to assume that the writers tried to slip in a reference to John Cage's {% wiki 4%E2%80%B233%E2%80%B3|*4′33″*|en %}, which instructs the performers to not play anything during the three movements.
 
  > **VARLEY**: It's good to see you again, Jean-Luc, despite your antique humor. I only hope your people are able to help us. Malfunctions are becoming serious. We lost an engineering team when the computer shut down a force field in an open shuttle bay. Eighteen people.
 

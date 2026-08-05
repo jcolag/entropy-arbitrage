@@ -83,7 +83,7 @@ That seems reasonable to me...
 
 They seem to have something like an encyclopedia---or news service, or social media, or maybe all three, though the specific usage of the name implies at least an encyclopedia---called the Commons.
 
-We get some history on a former country of some sort, but the book can't trouble itself to name the place.  But we should probably now suspect that their world sits (approximately) six light years away from a [yellow dwarf star](https://en.wikipedia.org/wiki/G-type_main-sequence_star), which implies at least [one candidate](https://en.wikipedia.org/wiki/Barnard%27s_Star) for where this might take place, assuming that this story has anything to do with Earth.
+We get some history on a former country of some sort, but the book can't trouble itself to name the place.  But we should probably now suspect that their world sits (approximately) six light years away from a {% wiki G-type_main-sequence_star|yellow dwarf star|en %}, which implies at least {% wiki Barnard%27s_Star|one candidate|en %} for where this might take place, assuming that this story has anything to do with Earth.
 
 They play a professional sport called "flashball," with teams including the Harriers and Falcons.  We don't get anything like a *complete* description of the game, but we do get the general premise and fandom.  And it seems both appropriately futuristic and straightforward.
 

@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -57,7 +57,7 @@ And, unsurprisingly, Picard holds a grudge against an officer duty-bound to ques
 
  > **NAKAMURA**: Captain Picard? 
 
-You probably recognize Nakamura as [Clyde Kusatsu](https://en.wikipedia.org/wiki/Clyde_Kusatsu), who has had guest and recurring roles on television since **Kung Fu**, but has become increasingly known for his involvement with the SAG-AFTRA union.
+You probably recognize Nakamura as {% wiki Clyde_Kusatsu|Clyde Kusatsu|en %}, who has had guest and recurring roles on television since **Kung Fu**, but has become increasingly known for his involvement with the SAG-AFTRA union.
 
  > **NAKAMURA**: As you know, we've had disturbing news from both sides of the zone. We're here to respond when needed. And it won't hurt to have the Romulans know that we're nearby. Well, Captain, I want to thank you for this opportunity. For five hundred years every ship that has borne the name of the *Enterprise* has been a legend. This one is no different.
 
@@ -89,7 +89,7 @@ Data clearly does *not* have rights, if they can transfer him into a chain of co
 
  > **MADDOX**: "When in disgrace with fortune and men's eyes, I all alone beweep my outcast state." Is it just words to you, or do you fathom the meaning?
 
-You might already recognize this as the first two lines of Shakespeare's [Sonnet 29](https://en.wikipedia.org/wiki/Sonnet_29).  And it seems like another point where the episode stumbles.  For example, it seems highly improbable that Maddox picked this sonnet at random, implying that either he wants to taunt Data, or Data has that sonnet marked in some way that made it the obvious point to open the book.  The first option severely undermines Maddox's position, if true, exposing that he almost certainly considers Data a living being with emotions.
+You might already recognize this as the first two lines of Shakespeare's {% wiki Sonnet_29|Sonnet 29|en %}.  And it seems like another point where the episode stumbles.  For example, it seems highly improbable that Maddox picked this sonnet at random, implying that either he wants to taunt Data, or Data has that sonnet marked in some way that made it the obvious point to open the book.  The first option severely undermines Maddox's position, if true, exposing that he almost certainly considers Data a living being with emotions.
 
 The second option, however, suggests that the sonnet carries special meaning to Data.  And that would make sense, because it talks about envy.  The speaker envies people who have friends, people with special skills, people with influence, and even contented people, as opposed to the speaker's self-loathing, which doesn't sound *unlike* Data, who has spent multiple episodes---most recently [*The Schizoid Man*]({% post_url 2022-12-29-schizoid-man %})---looking for help connecting with his colleagues.
 
@@ -157,7 +157,7 @@ Incidentally, I should mention that, while modern audiences often do and probabl
 
 We'll see this in other ways through the series, too.  People will question Data's ability to create and to lead, much in the way that large companies (still) often unfairly treat their Asian employees and contractors as "good workers" with little prospect for advancement.  In about a month and a half, we'll also start talking about an entire political group mired in a lot of these same stereotypes and more.
 
-I bring this all up, because we can see some parallels between this case and the [internment of Japanese Americans](https://en.wikipedia.org/wiki/Internment_of_Japanese_Americans) during World War II, and the broader fight for Asian-American rights, including citizenship.  That didn't involve medical experimentation that we know of, but the reasoning behind internment and the [Chinese Exclusion Act](https://en.wikipedia.org/wiki/Chinese_Exclusion_Act) do bear a close resemblance to Maddox's argument that any delay would pose some ill-defined danger.
+I bring this all up, because we can see some parallels between this case and the {% wiki Internment_of_Japanese_Americans|internment of Japanese Americans|en %} during World War II, and the broader fight for Asian-American rights, including citizenship.  That didn't involve medical experimentation that we know of, but the reasoning behind internment and the {% wiki Chinese_Exclusion_Act|Chinese Exclusion Act|en %} do bear a close resemblance to Maddox's argument that any delay would pose some ill-defined danger.
 
 ## Conclusions
 

@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -30,13 +30,13 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## Who Watches the Watchers
 
-The title of the episode comes from a translation of the Latin *quis custodiet ipsos custodes?* from Juvenal, usually used referring to political power.  For example, relevant to absolutely nothing in America politics starting two months ago (and ongoing), if someone calls himself "the Law and Order President," who prosecutes him for any crimes that he commits?  Does anyone have the authority to oversee the ethics of a court that has taken the responsibility of monitoring the rest of the country?  This episode does *not* have that kind of depth---or maybe it does, and I keep forgetting to give the series credit for biting satire---but the phrase largely came into the popular culture through the [**Watchmen**](https://en.wikipedia.org/wiki/Watchmen) graphic novel, published a couple of years before this aired.
+The title of the episode comes from a translation of the Latin *quis custodiet ipsos custodes?* from Juvenal, usually used referring to political power.  For example, relevant to absolutely nothing in America politics starting two months ago (and ongoing), if someone calls himself "the Law and Order President," who prosecutes him for any crimes that he commits?  Does anyone have the authority to oversee the ethics of a court that has taken the responsibility of monitoring the rest of the country?  This episode does *not* have that kind of depth---or maybe it does, and I keep forgetting to give the series credit for biting satire---but the phrase largely came into the popular culture through the {% wiki Watchmen|**Watchmen**|en %} graphic novel, published a couple of years before this aired.
 
  > Captain's log, Stardate 43173.5. We are en route to Mintaka Three, where a three man Federation anthropological field team has been studying the inhabitants. Our mission is to resupply the outpost and repair their malfunctioning reactor.
 
-Almost surprisingly, at this point, [Mintaka](https://en.wikipedia.org/wiki/Mintaka) not only exists, also known as delta Orionis, but you probably *recognize* it as the right-most (or western-most) star on Orion's belt.  It sits around twelve hundred light years away from Earth.
+Almost surprisingly, at this point, {% wiki Mintaka|Mintaka|en %} not only exists, also known as delta Orionis, but you probably *recognize* it as the right-most (or western-most) star on Orion's belt.  It sits around twelve hundred light years away from Earth.
 
-By the way, if the on-planet scenery looks familiar, we have returned to [Vasquez Rocks](https://en.wikipedia.org/wiki/Vasquez_Rocks) in Los Angeles County, previously featured in at least [*Friday's Child*]({% post_url 2020-10-22-friday %}) and [**The Voyage Home**]({% post_url 2022-04-07-tvh %}).
+By the way, if the on-planet scenery looks familiar, we have returned to {% wiki Vasquez_Rocks|Vasquez Rocks|en %} in Los Angeles County, previously featured in at least [*Friday's Child*]({% post_url 2020-10-22-friday %}) and [**The Voyage Home**]({% post_url 2022-04-07-tvh %}).
 
  > **LAFORGE**: We've finished replicating the parts they'll need, but what I don't understand is why a three man station would need a reactor capable of producing four point two gigawatts.
 
@@ -48,7 +48,7 @@ I realize that the plot of the episode hinges on this, but this policy seems wil
 
  > **LIKO**: Why did we have to come so early?
 
-Under the prosthetics, you might recognize Liko as [Ray Wise](https://en.wikipedia.org/wiki/Ray_Wise), soon to become known for his work on **Twin Peaks**.  His daughter Oji, you might recognize as comedian and actor [Pamela Adlon](https://en.wikipedia.org/wiki/Pamela_Adlon).
+Under the prosthetics, you might recognize Liko as {% wiki Ray_Wise|Ray Wise|en %}, soon to become known for his work on **Twin Peaks**.  His daughter Oji, you might recognize as comedian and actor {% wiki Pamela_Adlon|Pamela Adlon|en %}.
 
  > **CRUSHER**: You increased the levels of tricordrazine? Let me see his chart, please.
 
@@ -70,7 +70,7 @@ No, we didn't hallucinate Pulaski, at least not in [*Pen Pals*]({% post_url 2023
 
  > **DATA**: The area around the duck blind exhibits Karst topography. Sinkholes, underground rivers, and caverns. And the rock strata contain a high concentration of thallium compounds which may be obstructing our sensor beams.
 
-[Karsts](https://en.wikipedia.org/wiki/Karst) do, in fact, describe something at least similar to what Data presents.  [Thallium](https://en.wikipedia.org/wiki/Thallium) likewise exists, and has a fairly high toxicity, called "the poisoner's poison" for the difficulty in detecting it, which...should the Mintakans have a village, there?  That seems ill-advised, especially since Karsts mean water, which means that they probably don't generally live long...
+{% wiki Karst|Karsts|en %} do, in fact, describe something at least similar to what Data presents.  {% wiki Thallium|Thallium|en %} likewise exists, and has a fairly high toxicity, called "the poisoner's poison" for the difficulty in detecting it, which...should the Mintakans have a village, there?  That seems ill-advised, especially since Karsts mean water, which means that they probably don't generally live long...
 
  > **RIKER**: What kind of services?
  >
@@ -118,7 +118,7 @@ Exceptions have existed, and in times of danger, still exist, but...don't *bet o
 
  > **CRUSHER**: Prepare two cc's of norep.
 
-I talked about norep in [*Skin of Evil*]({% post_url 2022-10-20-skin-evil %}), another name for the neurotransmitter and hormone [norepinephrine](https://en.wikipedia.org/wiki/Norepinephrine)
+I talked about norep in [*Skin of Evil*]({% post_url 2022-10-20-skin-evil %}), another name for the neurotransmitter and hormone {% wiki Norepinephrine|norepinephrine|en %}
 
  > **TROI**: Liko, you don't want to kill me.
 
@@ -134,7 +134,7 @@ It sounds extremely condescending and imperial, when he says it out loud like th
 
 Also, by the way, consider the damage that Picard has *actually* done, here.  Rather than carefully defusing the cult, he has exposed the existence of advanced aliens with bizarre technologies, and furnished proof.
 
-Remember, they started the episode by comparing the development of the Mintakans to the [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age), when we (on Earth) started settling into communities and *writing*.  These people, or their children or grandchildren---assuming that they don't all die from thallium poisoning, I mean---will start recording what they remember of this encounter.  Do we not think that this will become something like a [UFO religion](https://en.wikipedia.org/wiki/UFO_religion) as they interpret and reinterpret the story?  In our world, right now, we have people sifting through any early documents that we can find, looking for any evidence that they can misinterpret as referring to alien manipulation of our history.  How many generations do you think it'll take for The Picard, who refused to let the people identify him as the Overseer, to become the Overseer's son who died to explain why their god needs a spaceship---sorry to trigger anybody's post-traumatic stress for [**The Final Frontier**]({% post_url 2022-04-14-tff %})---or something like that...?
+Remember, they started the episode by comparing the development of the Mintakans to the {% wiki Bronze_Age|Bronze Age|en %}, when we (on Earth) started settling into communities and *writing*.  These people, or their children or grandchildren---assuming that they don't all die from thallium poisoning, I mean---will start recording what they remember of this encounter.  Do we not think that this will become something like a {% wiki UFO_religion|UFO religion|en %} as they interpret and reinterpret the story?  In our world, right now, we have people sifting through any early documents that we can find, looking for any evidence that they can misinterpret as referring to alien manipulation of our history.  How many generations do you think it'll take for The Picard, who refused to let the people identify him as the Overseer, to become the Overseer's son who died to explain why their god needs a spaceship---sorry to trigger anybody's post-traumatic stress for [**The Final Frontier**]({% post_url 2022-04-14-tff %})---or something like that...?
 
 Even if that doesn't happen, this will spur scientific advances, because they now know that they can travel to other stars and meet people with amazing powers.  Along the way to space travel, they'll (accidentally) create plenty of weapons.  Either of these might happen instead of leaving a minor cult to wither away.
 

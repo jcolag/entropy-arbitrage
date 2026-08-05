@@ -14,9 +14,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I apologize for mangling the name in the title, but the world generally sets aside today as the---take a deep breath for this one...---[Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War](https://en.wikipedia.org/wiki/Time_of_Remembrance_and_Reconciliation_for_Those_Who_Lost_Their_Lives_during_the_Second_World_War), which...you don't actually need me to explain that extremely specific name, do you?  In Europe especially, it carries added meaning as the anniversary of the [Allies accepting the German surrender](https://en.wikipedia.org/wiki/Victory_in_Europe_Day).
+I apologize for mangling the name in the title, but the world generally sets aside today as the---take a deep breath for this one...---{% wiki Time_of_Remembrance_and_Reconciliation_for_Those_Who_Lost_Their_Lives_during_the_Second_World_War|Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War|en %}, which...you don't actually need me to explain that extremely specific name, do you?  In Europe especially, it carries added meaning as the anniversary of the {% wiki Victory_in_Europe_Day|Allies accepting the German surrender|en %}.
 
-If you find that too mainstream, you can celebrate a holiday that also involves death *and* ideas closely associated with Nazis, [White Lotus Day](https://en.wikipedia.org/wiki/White_Lotus_Day), the anniversary of the death of [Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky), founder of [Theosophy](https://en.wikipedia.org/wiki/Theosophists).
+If you find that too mainstream, you can celebrate a holiday that also involves death *and* ideas closely associated with Nazis, {% wiki White_Lotus_Day|White Lotus Day|en %}, the anniversary of the death of {% wiki Helena_Petrovna_Blavatsky|Helena Blavatsky|en %}, founder of {% wiki Theosophists|Theosophy|en %}.
 
 ![Field Marshall Wilhelm Keitel, signing the ratified surrender terms for the German Army at Russian Headquarters in Berlin. Germany, May 7, 1945](/blog/assets/keitel-111-SC-206292.png "I always assumed that pop culture exaggerated the monocle affectation...")
 

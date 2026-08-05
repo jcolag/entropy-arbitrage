@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -38,7 +38,7 @@ Oh, and to save myself some energy, I can't find any useful prior references to 
 
  > **BARCLAY**: Trouble? Why would there be trouble?
 
-You might recognize Barclay as [Dwight Schultz](https://en.wikipedia.org/wiki/Dwight_Schultz), who at the time people most closely associated with his role of Captain "Howling Mad" Murdock on [**The A-Team**](https://en.wikipedia.org/wiki/The_A-Team).  Today, people mostly know him for either this or for spouting his right-wing views and conspiracy theories to anybody who'll listen.
+You might recognize Barclay as {% wiki Dwight_Schultz|Dwight Schultz|en %}, who at the time people most closely associated with his role of Captain "Howling Mad" Murdock on {% wiki The_A-Team|**The A-Team**|en %}.  Today, people mostly know him for either this or for spouting his right-wing views and conspiracy theories to anybody who'll listen.
 
  > **LAFORGE**: It is, and you'll observe it. So get back to your post.
  >

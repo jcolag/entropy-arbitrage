@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -44,7 +44,7 @@ Also, we may have something of a change, here, in that Picard has so far seemed 
 
  > **PICARD**: Commander Riker will captain the *Hathaway*.
 
-I can't find anything or anybody named Hathaway who seems to land closer to *Star Trek* than [Anne Hathaway](https://en.wikipedia.org/wiki/Anne_Hathaway_%28wife_of_Shakespeare%29), Shakespeare's wife, who no, you shouldn't confuse with [the modern actor](https://en.wikipedia.org/wiki/Anne_Hathaway), who would've attended elementary school around when this aired.
+I can't find anything or anybody named Hathaway who seems to land closer to *Star Trek* than {% wiki Anne_Hathaway_%28wife_of_Shakespeare%29|Anne Hathaway|en %}, Shakespeare's wife, who no, you shouldn't confuse with {% wiki Anne_Hathaway|the modern actor|en %}, who would've attended elementary school around when this aired.
 
  > **PICARD**: With the Borg threat, I decided that my officers and I needed to hone our tactical skills. In a crisis situation, it is prudent to have several options.
 
@@ -102,9 +102,9 @@ Way to dismiss the idea of caring for your officers...
 
  > **BRACTOR**: Why was your ship combative with another Federation vessel of lesser design? Why do you now protect your former target? What is its value to you?
 
-Yes, [Armin Shimerman](https://en.wikipedia.org/wiki/Armin_Shimerman) has returned as another Ferengi.  He last did so in [*The Last Outpost*]({% post_url 2022-06-16-outpost %}) and will later star in **Deep Space Nine** as Quark, but we more recently saw him in [*Haven*]({% post_url 2022-07-28-haven %}) as a box-lid.
+Yes, {% wiki Armin_Shimerman|Armin Shimerman|en %} has returned as another Ferengi.  He last did so in [*The Last Outpost*]({% post_url 2022-06-16-outpost %}) and will later star in **Deep Space Nine** as Quark, but we more recently saw him in [*Haven*]({% post_url 2022-07-28-haven %}) as a box-lid.
 
-Bractor's unnamed partner, by contrast, you might have more trouble recognizing as [David Lander](https://en.wikipedia.org/wiki/David_L._Lander).  Despite a long career in television and activism, if you recognize him at all, you probably do so from his work as "Squiggy" on [**Laverne & Shirley**](https://en.wikipedia.org/wiki/Laverne_%26_Shirley), opposite Michael McKean.
+Bractor's unnamed partner, by contrast, you might have more trouble recognizing as {% wiki David_L._Lander|David Lander|en %}.  Despite a long career in television and activism, if you recognize him at all, you probably do so from his work as "Squiggy" on {% wiki Laverne_%26_Shirley|**Laverne & Shirley**|en %}, opposite Michael McKean.
 
  > **PICARD**: You needn't. The answer is no. Your actions have been wholly criminal. You will not profit by them.
 

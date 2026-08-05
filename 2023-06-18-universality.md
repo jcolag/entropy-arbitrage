@@ -18,7 +18,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I've always kicked around a vague idea for this discussion in the back of my mind, but never quite felt like I had the right to step forward and talk about it.  I don't want to speak too much about marginalized groups, because society doesn't treat me as marginalized.  However, I have seen it come up a few times and in different contexts, so I feel the need to say *something*, and [Pride Month](https://en.wikipedia.org/wiki/Pride_Month) seemed like an especially useful time to do that.
+I've always kicked around a vague idea for this discussion in the back of my mind, but never quite felt like I had the right to step forward and talk about it.  I don't want to speak too much about marginalized groups, because society doesn't treat me as marginalized.  However, I have seen it come up a few times and in different contexts, so I feel the need to say *something*, and {% wiki Pride_Month|Pride Month|en %} seemed like an especially useful time to do that.
 
 Specifically, few things worry me more than when I hear people---particularly representing already-marginalized groups---worrying that they don't fit into the groups that they believe they should.
 
@@ -30,7 +30,7 @@ This comes in many, many "flavors."
  * The n<sup>th</sup>-generation immigrant---particularly in the United States---who grew up among predominantly white people, and so doesn't feel accepted among white people, nor do they feel accepted among the racial group that people associate them with.
  * People representing gender and sexual minorities, who worry that they don't feel quite the same way that similarly identifying people on social media feel about certain issues, or that they don't understand the cultural references or share alleged common experiences.
 
-I assume that any of us could write a dozen more of these, dealing with religion, culture, and more, but you probably already get the point.  Marginalized people of all sorts often feel a "social [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)," where they worry that someone will discover that they don't feel like they connect with the mainstream, and also don't seem to fit their marginalized identity.
+I assume that any of us could write a dozen more of these, dealing with religion, culture, and more, but you probably already get the point.  Marginalized people of all sorts often feel a "social {% wiki Impostor_syndrome|impostor syndrome|en %}," where they worry that someone will discover that they don't feel like they connect with the mainstream, and also don't seem to fit their marginalized identity.
 
 And to those readers, or friends of readers, no matter what your identity, I want to let you in on probably the one secret to enjoying life that most people haven't.
 
@@ -44,7 +44,7 @@ It means that "fitting" doesn't come from some innate trait.  It comes from find
 
 ## I Saw Lists, Though...
 
-Among the many banes of the Internet age---if you'll allow me to shake my fist at the sky, for a moment---people clog social media with recycled lists of nostalgic nonsense that they try to apply to everyone.  And it has spread into *other* media, too, in the form of hyper-specific stories of nostalgia.  Can you, for example, find a more straightforward description of [**Stranger Things**](https://en.wikipedia.org/wiki/Stranger_Things) than a live-action presentation of an "only '80s kids will remember..." meme?  Some scripts feel like the largest share of words goes to naming famous brands.
+Among the many banes of the Internet age---if you'll allow me to shake my fist at the sky, for a moment---people clog social media with recycled lists of nostalgic nonsense that they try to apply to everyone.  And it has spread into *other* media, too, in the form of hyper-specific stories of nostalgia.  Can you, for example, find a more straightforward description of {% wiki Stranger_Things|**Stranger Things**|en %} than a live-action presentation of an "only '80s kids will remember..." meme?  Some scripts feel like the largest share of words goes to naming famous brands.
 
 I call out the famous streaming series, both because most people have some familiarity with it by this point, and because it forces me to use my own "mainstream" experience as an example.  After all, as I try to quickly point out in conversations about marginalized people, nobody would ever seriously call me marginalized, as (I assume) a straight white man.  As such, I find myself represented everywhere, and **Stranger Things** seems instructive, here.  Consider how well this show, in theory, should align with my childhood.
 
@@ -55,9 +55,9 @@ I call out the famous streaming series, both because most people have some famil
 
 However, I don't feel any connection with the show.  It doesn't resemble my childhood in any meaningful way, and I don't mean that they changed the setting to different suburbs elsewhere in the country.  Rather, I mean that the characters conform to a certain variety of affluence, age, and gender that mass media would like you to believe felt universal---because the artifacts of that performative identity have remained---when they actually described a minority.
 
-Specifically, you can see three major elements of popular culture permeating their world:  [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg), [Steven King](https://en.wikipedia.org/wiki/Stephen_King), and [**Dungeons & Dragons**](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set).  And while, yes, all three have made companies a lot of money over the years, they hadn't achieved such popularity that a random sampling of pre-teens would turn up many D&D players, most families viewed going to the movies as a significant event, and horror didn't have a huge fandom.  Again, exceptions existed, often in the form of young people who wanted to perform age, affluence, and (usually male) gender, at least in my own experience.
+Specifically, you can see three major elements of popular culture permeating their world:  {% wiki Steven_Spielberg|Steven Spielberg|en %}, {% wiki Stephen_King|Steven King|en %}, and {% wiki Dungeons_%26_Dragons_Basic_Set|**Dungeons & Dragons**|en %}.  And while, yes, all three have made companies a lot of money over the years, they hadn't achieved such popularity that a random sampling of pre-teens would turn up many D&D players, most families viewed going to the movies as a significant event, and horror didn't have a huge fandom.  Again, exceptions existed, often in the form of young people who wanted to perform age, affluence, and (usually male) gender, at least in my own experience.
 
-By contrast, at around that time, I cared far more about parts of mainstream culture that looked more like [**Benson**](https://en.wikipedia.org/wiki/Benson_%28TV_series%29), [**Remington Steele**](https://en.wikipedia.org/wiki/Remington_Steele), various syndicated cartoons, and home computers than any of their nonsense.  Nostalgia for *my* childhood would require reading more and plenty of staring at blue computer screens.  Seriously, at my school, we talked about that sort of thing on the playground.
+By contrast, at around that time, I cared far more about parts of mainstream culture that looked more like {% wiki Benson_%28TV_series%29|**Benson**|en %}, {% wiki Remington_Steele|**Remington Steele**|en %}, various syndicated cartoons, and home computers than any of their nonsense.  Nostalgia for *my* childhood would require reading more and plenty of staring at blue computer screens.  Seriously, at my school, we talked about that sort of thing on the playground.
 
 Why bring all this up and drag you through my weird childhood?  I want to make the point that these products, whether television shows or Internet memes, look like they want to exclude, sure.  But once you realize how narrow a view most of them have, you realize that they can't exist to exclude, but rather must exist in hopes of finding other people who identify with the author's tiny minority.
 
@@ -83,7 +83,7 @@ Your identity doesn't define you.  You define your identity.  Likewise, you *hav
 
 ## Even in the Mainstream
 
-And I want to point out that this doesn't apply solely to marginalized groups.  The way that straight and white people fit into society involves ignoring large parts of our personalities and most of our interests, too.  While I don't recommend the show and don't like inserting non-Free Culture quotes into posts, one line from [**The Drew Carey Show**](https://en.wikipedia.org/wiki/The_Drew_Carey_Show) has stuck with me for a long time and applies, here.
+And I want to point out that this doesn't apply solely to marginalized groups.  The way that straight and white people fit into society involves ignoring large parts of our personalities and most of our interests, too.  While I don't recommend the show and don't like inserting non-Free Culture quotes into posts, one line from {% wiki The_Drew_Carey_Show|**The Drew Carey Show**|en %} has stuck with me for a long time and applies, here.
 
  > Oh, you hate your job?  Oh my God, well why didn't you say so?  You know there's a support group for that.  It's called **Everybody**.  They meet at the bar!
 

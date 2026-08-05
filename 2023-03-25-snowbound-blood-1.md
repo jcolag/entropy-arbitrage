@@ -71,7 +71,7 @@ I should also mention that, due to the nature of [RenPy](https://www.renpy.org/)
 
 ## What's Adaptable?
 
-We meet a handful of (apparently) troll characters, Repiton Corporation, self-healing glass, the ancient Bizkantine Empire, its cult of the Vivifier, **Vored My Bong Water and Look at Me Now:  The Turnin Kaikai Story**, **Who Wants to Be a Hyperlooper**, Corporate Convenienceries, [**From Repiton to a Moon**](https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon), various cryptocurrencies, the start of an ancient mythology, and probably more.
+We meet a handful of (apparently) troll characters, Repiton Corporation, self-healing glass, the ancient Bizkantine Empire, its cult of the Vivifier, **Vored My Bong Water and Look at Me Now:  The Turnin Kaikai Story**, **Who Wants to Be a Hyperlooper**, Corporate Convenienceries, {% wiki From_the_Earth_to_the_Moon|**From Repiton to a Moon**|en %}, various cryptocurrencies, the start of an ancient mythology, and probably more.
 
 ## Next
 

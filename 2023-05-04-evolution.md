@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -32,19 +32,19 @@ Rather than list every post in the series here, you can quickly find them all on
 
 Maybe the most important aspect of this episode?  The spandex-clad future has ended, so you might notice people moving around more fluidly, in uniforms that a person might actually wear.
 
-Also, we've lost track of Dr. Pulaski.  Diana Muldaur would move on to [**L.A. Law**](https://en.wikipedia.org/wiki/L.A._Law), where they would end her character's arc by having her walk into an empty elevator shaft, jokingly alluded to in some official **Next Generation** reference material, though nobody has yet suggested that Pulaski suffered the same fate.
+Also, we've lost track of Dr. Pulaski.  Diana Muldaur would move on to {% wiki L.A._Law|**L.A. Law**|en %}, where they would end her character's arc by having her walk into an empty elevator shaft, jokingly alluded to in some official **Next Generation** reference material, though nobody has yet suggested that Pulaski suffered the same fate.
 
  > Captain's log, Stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astrophysical research. Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.
 
-I can only find one [Kavis](https://en.wikipedia.org/wiki/Kavis), a tiny village in Iran.
+I can only find one {% wiki Kavis|Kavis|en %}, a tiny village in Iran.
 
-[Neutronium](https://en.wikipedia.org/wiki/Neutronium)...exists hypothetically, generally some version of an element with no protons, therefore its nucleus has only neutrons.  With no electron shells bound to a positively charged nucleus, the nuclei can touch and merge, assembling *extremely* hypothetical macroscopic atoms with no electrostatic forces to push the particles apart.  I don't believe that it happens in this franchise, but it often shows up in other franchises as the default "implausibly dense substance that blocks whatever it needs to block" technology.
+{% wiki Neutronium|Neutronium|en %}...exists hypothetically, generally some version of an element with no protons, therefore its nucleus has only neutrons.  With no electron shells bound to a positively charged nucleus, the nuclei can touch and merge, assembling *extremely* hypothetical macroscopic atoms with no electrostatic forces to push the particles apart.  I don't believe that it happens in this franchise, but it often shows up in other franchises as the default "implausibly dense substance that blocks whatever it needs to block" technology.
 
  > **STUBBS**: Spectacular, isn't it, my young friend?
 
 We have some civilian fashion, here.  With some small (and probably implausible) changes in pattern, it doesn't seem too different from "business casual" in a lot of circles.
 
-Also, I don't, because I never watched the show, but you might recognize Stubbs as [Ken Jenkins](https://en.wikipedia.org/wiki/Ken_Jenkins), known primarily for his role on **Scrubs**, but has also had a wider career of bit parts similar to this one.
+Also, I don't, because I never watched the show, but you might recognize Stubbs as {% wiki Ken_Jenkins|Ken Jenkins|en %}, known primarily for his role on **Scrubs**, but has also had a wider career of bit parts similar to this one.
 
  > **CRUSHER**: Well, it's nice to be together again. I was at Starfleet Medical for a year. I missed about two inches of him.
 
@@ -74,7 +74,7 @@ Ha!  Seriously, why do they keep inviting her, if even Picard has started to not
 
  > **GUINAN**: You know, a doctor friend once said the same thing to me. Frankenstein was his name.
 
-I would normally assume that Guinan made a joke, there, but considering that they've frequently hinted that Sherlock Holmes exists---and the detail that the series constantly undermines its funniest jokes---maybe they do mean to say that the events of [**Frankenstein**](https://en.wikipedia.org/wiki/Frankenstein) actually occurred in this universe...
+I would normally assume that Guinan made a joke, there, but considering that they've frequently hinted that Sherlock Holmes exists---and the detail that the series constantly undermines its funniest jokes---maybe they do mean to say that the events of {% wiki Frankenstein|**Frankenstein**|en %} actually occurred in this universe...
 
  > **WESLEY**: I always get an A.
 
@@ -82,7 +82,7 @@ This episode seems shockingly self-aware.  Again, the *characters* can see that 
 
  > **DATA**: It is *Stars and Stripes Forever*, sir, by John Phillip Sousa, a popular American composer of band music in the early twentieth century.
 
-I guess that I can take a break for this episode, then.  You can look up [Sousa](https://en.wikipedia.org/wiki/John_Philip_Sousa) on your own time...
+I guess that I can take a break for this episode, then.  You can look up {% wiki John_Philip_Sousa|Sousa|en %} on your own time...
 
  > **STUBBS**: Nobody will say anything at all, Wesley. We will not even be mentioned. I could live with failure. Well, maybe not. But never even to try. To miss your one chance at bat. Do you know baseball?
  >
@@ -96,7 +96,7 @@ Maybe notably absent from this discussion, maybe, we might talk about the tradit
 
  > **STUBBS**: No. In here. With the knowledge of statistics, runs, hits and errors, times at bat, box scores. Men like us do not need holodecks, Wesley. I have played seasons in my mind. It was my reward to myself for patience. Knowing my turn would come. Call your shot. Point to a star. One great blast and the crowd rises. A brand-new era in astrophysics. Postponed one hundred and ninety-six years on account of rain.
 
-I have to laugh at this, because on one hand, [box scores](https://en.wikipedia.org/wiki/Box_score_%28baseball%29) chart what each player did during each inning of the game.  At the height of the game's popularity, spectators and people listening to the report on the radio would fill in the box scores as the game progressed, and newspapers would publish an "official" score, so that they could work out any action that they couldn't specifically see.  In other words, Stubbs describes a fairly routine part of the hobby, prior to television.
+I have to laugh at this, because on one hand, {% wiki Box_score_%28baseball%29|box scores|en %} chart what each player did during each inning of the game.  At the height of the game's popularity, spectators and people listening to the report on the radio would fill in the box scores as the game progressed, and newspapers would publish an "official" score, so that they could work out any action that they couldn't specifically see.  In other words, Stubbs describes a fairly routine part of the hobby, prior to television.
 
 On the other hand, though---probably because the writers didn't know better---massively overstates the relevance of "statistics."  He suggests that you need to have taken a course in the mathematical discipline, rather than knowing what the values mean.
 
@@ -116,7 +116,7 @@ I guess that, now that Picard has heard these sorts of dismissive words coming o
 
  > **PICARD**: I can't get the story of Gulliver out of my head. Overpowered by Lilliputians. How long do we have to wait?
 
-Much as with Riker in [*The Outrageous Okona*]({% post_url 2022-12-15-outrageous-okona %}), Picard shows that he has some familiarity with [**Gulliver's Travels**](https://en.wikipedia.org/wiki/Gulliver%27s_Travels)---specificially the adventure on [Lilliput](https://en.wikipedia.org/wiki/Lilliput_and_Blefuscu)---but only on a superficial level of tiny people attacking the protagonist.  As I mentioned with that episode, the story exists to show the *small-mindedness* of the Lilliputians, how they can't work out petty differences and see every newcomer as a potential threat, especially if they stumble around destroying things.
+Much as with Riker in [*The Outrageous Okona*]({% post_url 2022-12-15-outrageous-okona %}), Picard shows that he has some familiarity with {% wiki Gulliver%27s_Travels|**Gulliver's Travels**|en %}---specificially the adventure on {% wiki Lilliput_and_Blefuscu|Lilliput|en %}---but only on a superficial level of tiny people attacking the protagonist.  As I mentioned with that episode, the story exists to show the *small-mindedness* of the Lilliputians, how they can't work out petty differences and see every newcomer as a potential threat, especially if they stumble around destroying things.
 
 This episode has some parallels, but I think that Picard would feel some surprise about which role he plays.
 
@@ -136,9 +136,9 @@ Did he stop off in the middle of his evil rant to ask Troi on a date?  Sometimes
 
  > **STUBBS**: Lockman on first, Dark on second. Thompson at the plate Branca on the mound.
 
-Let's see what we can figure out, here.  Branca seems like the most improbable name in this situation, which points us to [Ralph Branca](https://en.wikipedia.org/wiki/Ralph_Branca), playing for the Brooklyn Dodgers from 1944 to 1953, the Detroit Tigers in 1953 and 1954, and the New York Yankees in 1954.  And...well, there we go.  We don't need any more information than that, because Branca pitched when [Bobby Thompson](https://en.wikipedia.org/wiki/Bobby_Thomson) hit the [Shot Heard 'Round the World](https://en.wikipedia.org/wiki/Shot_Heard_%27Round_the_World_%28baseball%29) for the New York Giants on October 3, 1951.
+Let's see what we can figure out, here.  Branca seems like the most improbable name in this situation, which points us to {% wiki Ralph_Branca|Ralph Branca|en %}, playing for the Brooklyn Dodgers from 1944 to 1953, the Detroit Tigers in 1953 and 1954, and the New York Yankees in 1954.  And...well, there we go.  We don't need any more information than that, because Branca pitched when {% wiki Bobby_Thomson|Bobby Thompson|en %} hit the {% wiki Shot_Heard_%27Round_the_World_%28baseball%29|Shot Heard 'Round the World|en %} for the New York Giants on October 3, 1951.
 
-That gives us [Whitey Lockman](https://en.wikipedia.org/wiki/Whitey_Lockman) and [Alvin Dark](https://en.wikipedia.org/wiki/Alvin_Dark) with the Giants, indeed on first and second bases.
+That gives us {% wiki Whitey_Lockman|Whitey Lockman|en %} and {% wiki Alvin_Dark|Alvin Dark|en %} with the Giants, indeed on first and second bases.
 
 Why go to this trouble?  Well, at first, I didn't want to skip some reference and find out that it had some deep meaning to the story.  And maybe it does, though I don't quite know how, because this ranks up as one of the biggest moments in the history of the sport.  We have one possibility, that this might expose Stubbs as something of a fraud or poser, because we've caught him at a random time, and his boasted-about baseball geekery has only led him to an event that almost any fan would know about.  Or we have the other possibility, that the situation has so upset Stubbs, that he needs to lean on this famous moment to pull himself together, maybe because he thinks of himself as a fraud in these sorts of moments.
 
@@ -160,7 +160,7 @@ This seems like it exposes a couple of problems.
 
 Primarily, I notice that they needed Stubbs to exert political influence to convince the Federation that intelligent nanites should have someplace to live.  Would the government have condemned the nanites to starve (or eat the *Enterprise*) if Stubbs hadn't grabbed this mission?  What would they do with refugees?
 
-Also, this gets more to science, which gets a bit weird, since we see it through the filters of the future *and* writers who didn't generally go to school for science, however...they tried to kill the nanites with [gamma rays](https://en.wikipedia.org/wiki/Gamma_ray), which come primarily from nuclear reactions, but may also come from different kinds of neutron stars.
+Also, this gets more to science, which gets a bit weird, since we see it through the filters of the future *and* writers who didn't generally go to school for science, however...they tried to kill the nanites with {% wiki Gamma_ray|gamma rays|en %}, which come primarily from nuclear reactions, but may also come from different kinds of neutron stars.
 
 The latter may follow, because of the former.  That is, because neutrons don't have a charge to repel each other---either alone or with electrons---"neutronium" might constantly undergo constant fusion and fission.  And since they arrived at Alpha Kavis "to study the decay of neutronium," that *maybe* sounds like they just dropped this new variety of life in a solar system that might kill them.
 

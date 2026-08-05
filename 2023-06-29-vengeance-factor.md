@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -68,7 +68,7 @@ He cares about peace, but *definitely* not three weeks worth of care, not for al
  >
  > **PICARD**: It's not unlike much the history of my own planet.
 
-They somehow refuse to use the word [feud](https://en.wikipedia.org/wiki/Feud), here.  Feuds have, in fact, shown up frequently (along with duels) around the world, and still do, usually when the culture sees governmental peace-making as lacking.  The plan usually starts out as an attempt at retributive justice, but since the two sides have no means of mediating what that means, you end up with a spiral of escalating violence.
+They somehow refuse to use the word {% wiki Feud|feud|en %}, here.  Feuds have, in fact, shown up frequently (along with duels) around the world, and still do, usually when the culture sees governmental peace-making as lacking.  The plan usually starts out as an attempt at retributive justice, but since the two sides have no means of mediating what that means, you end up with a spiral of escalating violence.
 
 This might give some impression of the state of inter-governmental affairs, given how the crew frequently treats the Ferengi and Romulans in a tit-for-tat manner, looking for reasons to punish and dominate these other groups.
 
@@ -134,7 +134,7 @@ I feel like they could have beamed her out, or at least *restrained* her, before
  >
  > **PICARD**: Starbase three-four-three. We're to take on medical supplies for the Alpha Leonis system.
 
-They probably named the ship after the creator of the first liquid-fueled rocket [Robert Goddard](https://en.wikipedia.org/wiki/Robert_H._Goddard).  And you more likely know the star as [Regulus](https://en.wikipedia.org/wiki/Regulus), which got mentions in [*The Menagerie*]({% post_url 2020-03-26-trek-menagerie-1 %}) and [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}).
+They probably named the ship after the creator of the first liquid-fueled rocket {% wiki Robert_H._Goddard|Robert Goddard|en %}.  And you more likely know the star as {% wiki Regulus|Regulus|en %}, which got mentions in [*The Menagerie*]({% post_url 2020-03-26-trek-menagerie-1 %}) and [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}).
 
 ## Conclusions
 

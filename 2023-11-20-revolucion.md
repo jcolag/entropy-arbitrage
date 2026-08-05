@@ -14,9 +14,9 @@ spell: Día de la Revolución Cucaracha Homestuck Hussie Feliz Dia Revolucion
 * Ignore for ToC
 {:toc}
 
-Today, Mexico celebrates [Día de la Revolución](https://en.wikipedia.org/wiki/Revolution_Day_%28Mexico%29), commemorating the start of the [Mexican Revolution](https://en.wikipedia.org/wiki/Mexican_Revolution), which overthrew the [Díaz](https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz) political machine.
+Today, Mexico celebrates {% wiki Revolution_Day_%28Mexico%29|Día de la Revolución|en %}, commemorating the start of the {% wiki Mexican_Revolution|Mexican Revolution|en %}, which overthrew the {% wiki Porfirio_D%C3%ADaz|Díaz|en %} political machine.
 
-Closer to home---wherever you live, assuming that you don't live in Mexico, either---then you might wish to spare a moment, today, for the [Transgender Day of Remembrance](https://en.wikipedia.org/wiki/Transgender_Day_of_Remembrance), memorializing people murdered due to transphobia.  And maybe we could...I don't know, *stop* with the whole "bigotry makes sense as a reason to murder" thing. {% emoji shrug %}
+Closer to home---wherever you live, assuming that you don't live in Mexico, either---then you might wish to spare a moment, today, for the {% wiki Transgender_Day_of_Remembrance|Transgender Day of Remembrance|en %}, memorializing people murdered due to transphobia.  And maybe we could...I don't know, *stop* with the whole "bigotry makes sense as a reason to murder" thing. {% emoji shrug %}
 
 ![Children from the Montessori Kindergarten singing "La Cucaracha"](/blog/assets/Feliz-Dia-de-la-Revolucion-Mexico.png "The caption tells me what they sang; I couldn't confirm it beyond that, if anybody needs authentication")
 

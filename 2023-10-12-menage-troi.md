@@ -19,7 +19,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -45,7 +45,7 @@ Somehow, I don't believe that Riker actually plays chess.  He doesn't seem like 
 
  > **WESLEY**: Perfect. The queen's gambit finished off with the Aldabren Exchange.
 
-Well, now I can't believe that Wesley plays chess, either, because the [queen's gambit](https://en.wikipedia.org/wiki/Queen%27s_Gambit) starts the game, and so probably had little to nothing to do with Riker's win, here.
+Well, now I can't believe that Wesley plays chess, either, because the {% wiki Queen%27s_Gambit|queen's gambit|en %} starts the game, and so probably had little to nothing to do with Riker's win, here.
 
 I can't find an "Aldabren" that doesn't call back to this episode, though.
 
@@ -63,7 +63,7 @@ He won't let the Ferengi thing go...
 
  > **FAREK**: She's as repulsive as the rest of them.
 
-You might recognize Farek as [Ethan Philips](https://en.wikipedia.org/wiki/Ethan_Phillips), at the time primarily known for his role on the sitcom [**Benson**](https://en.wikipedia.org/wiki/Benson_(TV_series)), but since that time, *Star Trek* fans have learned to recognize him more as Neelix from **Voyager**, plus a couple of smaller roles.
+You might recognize Farek as {% wiki Ethan_Phillips|Ethan Philips|en %}, at the time primarily known for his role on the sitcom {% wiki Benson_%28TV_series%29|**Benson**|en %}, but since that time, *Star Trek* fans have learned to recognize him more as Neelix from **Voyager**, plus a couple of smaller roles.
 
  > **PICARD**: Perhaps later, Lwaxana. Mister Data and I were just about to show Reittan Grax the er, the er, the new door mechanisms on the aft turbolifts. If you'll excuse us?
 
@@ -109,7 +109,7 @@ I see we have plenty of racism to slog through.
 
  > **LAFORGE**: Fifteen hours from Gamma Erandi, and already the subspace static is playing hell with communications.
 
-"Erandi" seems original to this episode, though the name resembles [gamma Eridani](https://en.wikipedia.org/wiki/Gamma_Eridani) or Zaurak, which would go well with the various other z-sounds that we get at the end of the episode.
+"Erandi" seems original to this episode, though the name resembles {% wiki Gamma_Eridani|gamma Eridani|en %} or Zaurak, which would go well with the various other z-sounds that we get at the end of the episode.
 
  > **WESLEY**: I never thought of that. I always assumed I'd be coming back to the Enterprise.
 
@@ -133,7 +133,7 @@ Does Betazed not have investigators of their own?  I can't imagine that Worf's t
 
  > **LAFORGE**: Thanks for your help, Wes, but you'd better get aboard the *Bradbury*. They were ready to break orbit an hour ago.
 
-While other possibilities exist, I have to assume that they named the *Bradbury* after science fiction writer [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury).
+While other possibilities exist, I have to assume that they named the *Bradbury* after science fiction writer {% wiki Ray_Bradbury|Ray Bradbury|en %}.
 
  > **TROI**: I think I know what she's doing. You have to fight to get her back, Captain.
 
@@ -157,7 +157,7 @@ Also, skipping ahead a bit...why does his uniform not fit?  I guess that this co
 
  > **PICARD**: Notify Starfleet we are en route to the Xanthras system for our rendezvous with the *Zapata*.
 
-I can't find any references to a Xanthras outside this episode, but one imagines that they named the *Zapata* after Mexican Revolutionary [Emiliano Zapata](https://en.wikipedia.org/wiki/Emiliano_Zapata).
+I can't find any references to a Xanthras outside this episode, but one imagines that they named the *Zapata* after Mexican Revolutionary {% wiki Emiliano_Zapata|Emiliano Zapata|en %}.
 
 ## Conclusions
 

@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,7 +34,7 @@ I don't have anything useful to say about this episode, so I guess that we'll ju
 
  > Captain's log, stardate 43152.4. We are cautiously entering the Delta Rana star system three days after receiving a distress call from the Federation colony on its fourth planet. The garbled transmission reported the colony under attack from an unidentified spacecraft. Our mission is one of rescue and, if necessary, confrontation with a hostile force.
 
-Somebody took poor notes, here, I suspect.  As you can probably guess, we don't have a constellation called Rana.  We *do*, however, use that name---Latin for "the frog"---for [delta Eridani](https://en.wikipedia.org/wiki/Delta_Eridani), about thirty light years from Earth.  And that seems like an improbable coincidence, unless we have sloppy transcription on the actual star.
+Somebody took poor notes, here, I suspect.  As you can probably guess, we don't have a constellation called Rana.  We *do*, however, use that name---Latin for "the frog"---for {% wiki Delta_Eridani|delta Eridani|en %}, about thirty light years from Earth.  And that seems like an improbable coincidence, unless we have sloppy transcription on the actual star.
 
 They'll even call the star Rana, which seems to confirm that theory as much as it'd ever confirm anything.
 
@@ -64,7 +64,7 @@ In case you didn't catch that, Picard floated the idea that the attackers needed
 
  > **PICARD**: I remember a Starfleet admiral once saying the same thing about some renegade Andorians in the Triangulum system. It turns out that they had dismantled their ship and hidden it.
 
-That seems like a good place to hide a ship, considering that the "system" probably looks more like [a constellation with fourteen stars](https://en.wikipedia.org/wiki/Triangulum) or [a galaxy more than three million light years away](https://en.wikipedia.org/wiki/Triangulum_Galaxy).
+That seems like a good place to hide a ship, considering that the "system" probably looks more like {% wiki Triangulum|a constellation with fourteen stars|en %} or {% wiki Triangulum_Galaxy|a galaxy more than three million light years away|en %}.
 
 Also, I like how casually he mentions the rebels in his wonderful utopia...
 

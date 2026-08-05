@@ -14,9 +14,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today celebrates the [International Day of United Nations Peacekeepers](https://en.wikipedia.org/wiki/International_Day_of_United_Nations_Peacekeepers), paying tribute to those who have served in peacekeeping operations.
+Today celebrates the {% wiki International_Day_of_United_Nations_Peacekeepers|International Day of United Nations Peacekeepers|en %}, paying tribute to those who have served in peacekeeping operations.
 
-If you wonder why you can't contact your American colleagues, we also celebrate [Memorial Day](https://en.wikipedia.org/wiki/Memorial_Day) on the last Monday of May, honoring military personnel who died while serving the country.  The media prefers to explain it as "the unofficial start of summer," because they'd just as soon not remind us that the wars that invariably benefit their parent corporations have a human cost to them, but *do* want to remind us to start shopping for barbecues and trips to the beach.
+If you wonder why you can't contact your American colleagues, we also celebrate {% wiki Memorial_Day|Memorial Day|en %} on the last Monday of May, honoring military personnel who died while serving the country.  The media prefers to explain it as "the unofficial start of summer," because they'd just as soon not remind us that the wars that invariably benefit their parent corporations have a human cost to them, but *do* want to remind us to start shopping for barbecues and trips to the beach.
 
 ![The UN Peacekeepers force´s helmet](/blog/assets/Blue-helmet.png "Do they pad them on the outside?  That seems irresponsible")
 
@@ -28,7 +28,7 @@ For those of you interested in such things, I'll have the next issue of the [**E
 
 If you have signed up [on Mailchimp](https://entropy-arbitrage.mailchimpsites.com/)---though I don't quite trust the company---you'll get the e-mail on Saturday.  If you have subscribed on Buy Me a Coffee (the link in the previous paragraph, the *Follow* button to the upper-right of the page), you'll get it on Tuesday morning, the sixth of June, because I never publish blog posts on Tuesdays, making that a nicer match than Saturdays.
 
-What will you find inside?  For May, I wrote a piece on the visual design of alternate universes, talked a bit about the current state of job-hunting, a maybe-final update on a side-project, and media consumption skewed toward honoring [Asian American and Pacific Islander Heritage Month](https://en.wikipedia.org/wiki/Asian_American_and_Pacific_Islander_Heritage_Month).  If you have joined as a member on Buy Me a Coffee, then you can already see previews for some of that.
+What will you find inside?  For May, I wrote a piece on the visual design of alternate universes, talked a bit about the current state of job-hunting, a maybe-final update on a side-project, and media consumption skewed toward honoring {% wiki Asian_American_and_Pacific_Islander_Heritage_Month|Asian American and Pacific Islander Heritage Month|en %}.  If you have joined as a member on Buy Me a Coffee, then you can already see previews for some of that.
 
 ## Periodic Scripts
 

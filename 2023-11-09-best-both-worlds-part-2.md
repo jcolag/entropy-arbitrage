@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -48,7 +48,7 @@ I assume that this refers to [*Evolution*]({% post_url 2023-05-04-evolution %}).
 
  > **SHELBY**: The *Tolstoy*, the *Kyushu*, the *Melbourne*.
 
-One assumes that these refer to Russian author [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy), the [southernmost of Japan's major islands](https://en.wikipedia.org/wiki/Kyushu), and [the Australian metropolis](https://en.wikipedia.org/wiki/Melbourne).
+One assumes that these refer to Russian author {% wiki Leo_Tolstoy|Leo Tolstoy|en %}, the {% wiki Kyushu|southernmost of Japan's major islands|en %}, and {% wiki Melbourne|the Australian metropolis|en %}.
 
  > **RIKER**: Reset subspace communications. Scrambler code, Riker One
  >
@@ -84,7 +84,7 @@ As mentioned, we don't really get much, this time around, other than Riker getti
 
 ### The Bad
 
-The crew seems to have passed beyond poor planning to a poor understanding of [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind), unable to acknowledge that other people know what they know.
+The crew seems to have passed beyond poor planning to a poor understanding of {% wiki Theory_of_mind|theory of mind|en %}, unable to acknowledge that other people know what they know.
 
 We also see continued hatred and disgust of the Romulans.  Likewise, when a Borg representative talks about wanting to raise everyone's quality of life, they have no questions or discussion points, only a plan to stop it.
 

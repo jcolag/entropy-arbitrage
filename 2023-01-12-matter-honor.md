@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -29,7 +29,7 @@ Rather than list every post in the series here, you can quickly find them all on
 
 ## A Matter of Honor
 
-Another week, another mess.  I'd blame it on the [writers strike](https://en.wikipedia.org/wiki/1988_Writers_Guild_of_America_strike), if it didn't feel so consistent with the episodes from long before the strike...
+Another week, another mess.  I'd blame it on the {% wiki 1988_Writers_Guild_of_America_strike|writers strike|en %}, if it didn't feel so consistent with the episodes from long before the strike...
 
  > **WESLEY**: Sorry. It's a friend of mine. You look just like him.
  >
@@ -111,7 +111,7 @@ It bothers me that, when people talk about how much they dislike Wesley, his "pr
 
  > **RIKER**: Enterprise, this is Captain William Riker of the Klingon vessel, Pagh. I order you to lower your shields and surrender.
 
-Seeing this, I can't help compare this to the works of [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs), who created at least two major heroes---John Carter and Tarzan---whose stories both chart a eugenics-tinged story of wealthy white men coming to dominate entire civilizations through their superior nature.  While less violent, Riker doesn't succeed by learning anything from the Klingons; instead, he succeeds by forcing the Klingons to accept his authority, which...again, not a great lesson.
+Seeing this, I can't help compare this to the works of {% wiki Edgar_Rice_Burroughs|Edgar Rice Burroughs|en %}, who created at least two major heroes---John Carter and Tarzan---whose stories both chart a eugenics-tinged story of wealthy white men coming to dominate entire civilizations through their superior nature.  While less violent, Riker doesn't succeed by learning anything from the Klingons; instead, he succeeds by forcing the Klingons to accept his authority, which...again, not a great lesson.
 
 And if you think that feels too hard on the story, compare Riker's arc with Mendon's.  He came in with the expectation of the predominantly human *Enterprise* crew seeing him as their natural superior.  Instead, they knock him down both for acting too boldly and bypassing his immediate supervisor *and* for acting too timidly.  By the end of the episode, they have mostly forgotten about him.  Meanwhile, Riker goes into this to get into the record books, blusters his way through the job, violates his oath (and lies about it), scams the captain, mutinies, and...wins everybody's respect and comes out of this with a prospective girlfriend.  His exchange ends, not because he kidnapped his boss, but because the crew respects him too much, threatening the captain's authority.
 

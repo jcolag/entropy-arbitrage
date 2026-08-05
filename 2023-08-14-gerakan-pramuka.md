@@ -15,7 +15,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-While more recent than I would generally prefer, today marks the 62<sup>nd</sup> anniversary of the founding of the [Gerakan Pramuka](https://en.wikipedia.org/wiki/Gerakan_Pramuka_Indonesia), Indonesia's home-grown youth scouting organization, founded to overhaul the prior scouting movement to erase its British influences.  I wouldn't say that I find these organizations comfortable or devoid of criticism, but I do appreciate the sentiment of wanting to decolonize the institutions that affect the youth.
+While more recent than I would generally prefer, today marks the 62<sup>nd</sup> anniversary of the founding of the {% wiki Gerakan_Pramuka_Indonesia|Gerakan Pramuka|en %}, Indonesia's home-grown youth scouting organization, founded to overhaul the prior scouting movement to erase its British influences.  I wouldn't say that I find these organizations comfortable or devoid of criticism, but I do appreciate the sentiment of wanting to decolonize the institutions that affect the youth.
 
 ![Indonesian Scouts at the 8th Indonesian National Rover Moot July 8-17 2003](/blog/assets/Gerakan-Pramuka-Indonesia-Scouts-8th-Indonesian-National-Rover-Moot-2003.png "See, I would've called epaulets and a cloak too much, but he makes them work...")
 
@@ -45,4 +45,4 @@ Oh, and as I wrote yesterday, I need to stash the [**Kabang!**]({% post_url 2023
 
 * * *
 
-**Credits**:  The header image is slightly adapted from [Gerakan Pramuka Indonesia Scouts 8th Indonesian National Rover Moot 2003](https://commons.wikimedia.org/wiki/File:Gerakan_Pramuka_Indonesia_Scouts_8th_Indonesian_National_Rover_Moot_2003.jpg) by [Anakmadiun](https://en.wikipedia.org/wiki/User:Anakmadiun), made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
+**Credits**:  The header image is slightly adapted from [Gerakan Pramuka Indonesia Scouts 8th Indonesian National Rover Moot 2003](https://commons.wikimedia.org/wiki/File:Gerakan_Pramuka_Indonesia_Scouts_8th_Indonesian_National_Rover_Moot_2003.jpg) by {% wiki User:Anakmadiun|Anakmadiun|en %}, made available under the terms of the [Creative Commons Attribution Share-Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.

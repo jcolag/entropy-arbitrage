@@ -19,7 +19,7 @@ As somewhat usual for a Sunday post around these parts, I've seen the same conve
 
 ![A collage of various mascot characters from the Fediverse applications](/blog/assets/fediverse-mascots.png "Honestly, I didn't plan on putting in nearly this much work for this post's image")
 
-In particular, I want to talk about the broad dismissal of the so-called [Fediverse]({% post_url 2020-01-18-fediverse %}) as maybe-interesting from a technological perspective with [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub), but irrelevant to the choice of social network.
+In particular, I want to talk about the broad dismissal of the so-called [Fediverse]({% post_url 2020-01-18-fediverse %}) as maybe-interesting from a technological perspective with {% wiki ActivityPub|ActivityPub|en %}, but irrelevant to the choice of social network.
 
 While I understand the reasoning behind the argument, especially the last couple of years have shown us that another view might prove more productive in the long run.
 

@@ -19,7 +19,7 @@ spell: Tanakh Stardate Riker Pagh Kurn Starfleet LaForge LAFORGE Worf Khitomer R
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -47,7 +47,7 @@ Now I wonder if the writers mean to rewrite *A Matter of Honor*, or if Riker and
 
  > **KURN**: You are relieved. May I take my station, Captain?
 
-You might recognize Kurn as [Tony Todd](https://en.wikipedia.org/wiki/Tony_Todd), who...honestly, especially in genre fiction after 1986, you'd probably have a quieter time listing the productions that he *didn't* act in.  Kurn himself will return a few times in the franchise, and Todd will play more characters than him.
+You might recognize Kurn as {% wiki Tony_Todd|Tony Todd|en %}, who...honestly, especially in genre fiction after 1986, you'd probably have a quieter time listing the productions that he *didn't* act in.  Kurn himself will return a few times in the franchise, and Todd will play more characters than him.
 
  > **KURN**: I am Kurn, commander rank, Klingon Defense Force. You will address me as Commander or sir at all times. I am fully aware of all Starfleet regulations, and they will be strictly adhered to by all personnel while I am in command. It is my intention to bring a sense of discipline that you may not be accustomed to. With your permission, of course, Captain.
 
@@ -87,11 +87,11 @@ Once again, they could have done this on the way over, but instead, they wait un
 
 The *Intrepid*, or rather "an *Intrepid*," got some focus back in [*The Immunity Syndrome]({% post_url 2020-12-10-immunity %}), then an all-Vulcan vessel.
 
-As for why the writers chose the name, many Earth militaries have commissioned ships named *Intrepid* or some variant, at least as far back as the French *Intrépide* in 1666.  Most Americans probably have the most familiarity, though, with the [American aircraft carrier](https://en.wikipedia.org/wiki/USS_Intrepid_%28CV-11%29), largely because since 1982 it has served as a [Sea, Air, & Space Museum](https://en.wikipedia.org/wiki/Intrepid_Sea,_Air_%26_Space_Museum) in New York City.
+As for why the writers chose the name, many Earth militaries have commissioned ships named *Intrepid* or some variant, at least as far back as the French *Intrépide* in 1666.  Most Americans probably have the most familiarity, though, with the {% wiki USS_Intrepid_%28CV-11%29|American aircraft carrier|en %}, largely because since 1982 it has served as a {% wiki Intrepid_Sea,_Air_%26_Space_Museum|Sea, Air, & Space Museum|en %} in New York City.
 
 ![An aerial photograph showing Pier 86 with the Intrepid Museum at bottom center, and the Enterprise carried above](/blog/assets/6973294496_b57b9dcbff_o.png "No, really.")
 
-Since 2012, except for a stint under repairs from hurricane damage, you'll find the [*Enterprise*](https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise)...or "an *Enterprise*," at least.
+Since 2012, except for a stint under repairs from hurricane damage, you'll find the {% wiki Space_Shuttle_Enterprise|*Enterprise*|en %}...or "an *Enterprise*," at least.
 
  > **WORF**: K'mpec urged me to drop my challenge, abandon my family honor. It was impossible to believe I was hearing a Klingon speak.
 

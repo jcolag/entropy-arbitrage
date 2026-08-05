@@ -20,7 +20,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -36,19 +36,19 @@ This episode feels far more interested in its directing than in the Federation, 
 
  > **DATA**: Captain, we have arrived at Tanuga Four. The away team has completed its survey of Doctor Apgar's work and is ready to return to the ship.
 
-Several businesses around the world seem to have the name "Tanuga," though I can't find any commonality between them.  Oddly, I have personally known multiple, unrelated people with the surname [Apgar](https://en.wikipedia.org/wiki/Apgar_%28surname%29), plus almost anybody who has had a baby in the past seventy years probably has some awareness of the famous obstetrician, which makes me wonder why they made these people non-human...
+Several businesses around the world seem to have the name "Tanuga," though I can't find any commonality between them.  Oddly, I have personally known multiple, unrelated people with the surname {% wiki Apgar_%28surname%29|Apgar|en %}, plus almost anybody who has had a baby in the past seventy years probably has some awareness of the famous obstetrician, which makes me wonder why they made these people non-human...
 
  > **DATA**: Interesting.
 
 You'll notice that Data still finds it extremely uncomfortable to criticize Picard in any way.  We saw in [*We'll Always Have Paris*]({% post_url 2022-10-27-paris %}) that some lower-level members of the crew dance around Picard's limited skill at his hobbies, and Wesley went far out of his way to fluff up Picard's ego as recently as [*The Bonding*]({% post_url 2023-06-01-bonding %}).  This shows that sentiment rises as high as the third in command on the ship.
 
-Meanwhile, I won't quote the various lines, but Data refers to [constructivism](https://en.wikipedia.org/wiki/Constructivism_%28art%29), [surrealism](https://en.wikipedia.org/wiki/Surrealism), [Dada](https://en.wikipedia.org/wiki/Dada), [Fauvism](https://en.wikipedia.org/wiki/Fauvism), [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso), and [Fernand Léger](https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger).  He also suggests a "proto-Vulcan" painting style.
+Meanwhile, I won't quote the various lines, but Data refers to {% wiki Constructivism_%28art%29|constructivism|en %}, {% wiki Surrealism|surrealism|en %}, {% wiki Dada|Dada|en %}, {% wiki Fauvism|Fauvism|en %}, {% wiki Pablo_Picasso|Pablo Picasso|en %}, and {% wiki Fernand_L%C3%A9ger|Fernand Léger|en %}.  He also suggests a "proto-Vulcan" painting style.
 
 Oh, and note Picard's grumpiness, which carries the suggestion that Picard doesn't want to paint if he can't do it well.  We've seen in prior episodes that they can't justify enjoying a hobby without turning it into a potential career.
 
  > Captain's log, Stardate 43610.4. After completing a delivery of dicosilium to the Tanuga Four research station, our away team has received an update from Doctor Nel Apgar on his efforts to create Krieger Waves, a potentially valuable new power source.
 
-I assume that dicosilium has no relationship to [psyllium](https://en.wikipedia.org/wiki/Psyllium), though I can't find a closer match.  While many people have the surname [Krieger](https://en.wikipedia.org/wiki/Krieger_%28surname%29), I can't find any who might have discovered or specified a waveform; more likely, they named the waves after someone working on the show.
+I assume that dicosilium has no relationship to {% wiki Psyllium|psyllium|en %}, though I can't find a closer match.  While many people have the surname {% wiki Krieger_%28surname%29|Krieger|en %}, I can't find any who might have discovered or specified a waveform; more likely, they named the waves after someone working on the show.
 
  > **RIKER**: Murder? Now wait a minute, you can't come on---
 
@@ -80,7 +80,7 @@ It sounds like he *does* need explanations.  He showed up on the station to judg
 
 You have to appreciate how the franchise loves the idea of Riker as cool and collected from his poker expertise, but...accuse him of violating a woman's boundaries, and he *completely* flips out.
 
-In fact, count this among the episodes where I can't tell if they meant this as aggressive satire or a sincere problem for our protagonists.  From today's perspective, we can see how this echoes accusations against many abusers, with the angry but alibi-free denial, the displays of loyalty over truth, the attempts to undermine the alleged victim, and so forth.  And many viewers at the time may never have seen this in action before this aired, with [Clarence Thomas's Supreme Court nomination](https://en.wikipedia.org/wiki/Clarence_Thomas_Supreme_Court_nomination)---where he had a similar outburst during the Congressional hearings---still more than a year in the future.  But the episode treats this from Riker's perspective, and constantly assures us that he would never do...the things that other episodes have applauded him for doing.
+In fact, count this among the episodes where I can't tell if they meant this as aggressive satire or a sincere problem for our protagonists.  From today's perspective, we can see how this echoes accusations against many abusers, with the angry but alibi-free denial, the displays of loyalty over truth, the attempts to undermine the alleged victim, and so forth.  And many viewers at the time may never have seen this in action before this aired, with {% wiki Clarence_Thomas_Supreme_Court_nomination|Clarence Thomas's Supreme Court nomination|en %}---where he had a similar outburst during the Congressional hearings---still more than a year in the future.  But the episode treats this from Riker's perspective, and constantly assures us that he would never do...the things that other episodes have applauded him for doing.
 
 In other words, I feel tempted to assume that they genuinely meant to tell a story warning us to stay vigilant against women speaking out against powerful men, *but* they follow the formula so closely that I hesitate, because with slightly better writing, this could have read as exposing how powerful people---often men---twist the judicial system to escape justice.
 

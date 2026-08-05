@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -48,11 +48,11 @@ I could bicker over whether Pulaski does have trouble with the transporter or if
 
  > Captain's log, Stardate 42976.1. During a geological survey on Surata Four, Commander Riker has become infected by an unidentified microbe.
 
-You'll find at least two [Suratá](https://en.wikipedia.org/wiki/Surat%C3%A1)s in northeastern Colombia.
+You'll find at least two {% wiki Surat%C3%A1|Suratá|en %}s in northeastern Colombia.
 
  > **DATA**: The structure is rhizomatous.
 
-He means that, as in it looks like a [rhizome](https://en.wikipedia.org/wiki/Rhizome), though it...doesn't.  But what do I know?  Data said that he didn't detect animals in the area, but the soundtrack seems to have birds chirping.
+He means that, as in it looks like a {% wiki Rhizome|rhizome|en %}, though it...doesn't.  But what do I know?  Data said that he didn't detect animals in the area, but the soundtrack seems to have birds chirping.
 
  > **RIKER**: Captain, one of the things I've learned anything on these voyages, on this ship, and from you, is that most life forms act out of an instinct for survival, not out of malice.
 

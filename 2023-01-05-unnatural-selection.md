@@ -17,7 +17,7 @@ proofed: true
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -33,7 +33,7 @@ Let's jump straight in, because this qualifies as one of those episodes where we
 
  > Captain's log, Stardate 42494.8. The Enterprise is bound for Star Station India to rendezvous with a Starfleet medical courier. We've been told only that our presence is imperative. Hopefully, the mission will give me further opportunities to assess the performance of our new Chief Medical Officer.
 
-Did they name the station after the country or the letter *I* in the [NATO Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)?  Both options seem ill-advised and confusing...
+Did they name the station after the country or the letter *I* in the {% wiki NATO_phonetic_alphabet|NATO Phonetic Alphabet|en %}?  Both options seem ill-advised and confusing...
 
 Anyway, I don't know how much time the crew lives between episodes, but we've followed them for seven weekly episodes.  In early 1989, the audience had known Pulaski for ten weeks, including weeks off for holidays.  If we assume that their schedule looks like those schedules, then Picard has worked closely with his new officer for approximately two months, which included multiple crises that she needed to manage.  In all that time, Picard somehow hasn't figured out if she has what it takes to do the job.
 
@@ -61,11 +61,11 @@ I've seen better passwords, but at least they've started to take this seriously.
  >
  > **PULASKI**: It's an exotic but harmless rhinal virus. It couldn't have caused this.
 
-While I assume that they mean a colony world instead of France, [Thélus](https://en.wikipedia.org/wiki/Th%C3%A9lus) takes its name from a French commune.  And I assume that Pulaski mispronounced [rhinovirus](https://en.wikipedia.org/wiki/Rhinovirus).
+While I assume that they mean a colony world instead of France, {% wiki Th%C3%A9lus|Thélus|en %} takes its name from a French commune.  And I assume that Pulaski mispronounced {% wiki Rhinovirus|rhinovirus|en %}.
 
  > **RIKER**: The last port of call of the Lantree was the Darwin Genetic Research Station on Gagarin Four three days ago.
 
-The station presumably takes its name from evolution pioneer [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin), and the star from first human in space [Yuri Gagarin](https://en.wikipedia.org/wiki/Yuri_Gagarin).
+The station presumably takes its name from evolution pioneer {% wiki Charles_Darwin|Charles Darwin|en %}, and the star from first human in space {% wiki Yuri_Gagarin|Yuri Gagarin|en %}.
 
  > **KINGSLEY**: Katherine Pulaski, author of *Linear Models of Viral Propagation*?
 
@@ -137,7 +137,7 @@ If you had any doubts that this season borrowed a lot from the aborted **Phase I
 
  > **TROI**: Her last ship was the *Repulse*.
 
-The ship probably takes its name from one of the many [HMS *Repulse*s](https://en.wikipedia.org/wiki/HMS_Repulse) through British history, though we previously encountered the ship in [*The Child*]({% post_url 2022-11-24-child %}).
+The ship probably takes its name from one of the many {% wiki HMS_Repulse|HMS *Repulse*s|en %} through British history, though we previously encountered the ship in [*The Child*]({% post_url 2022-11-24-child %}).
 
  > **KINGSLEY**: Their immune systems don't wait for a disease to attack the body. It would seek out an airborne virus and destroy it.
  >
@@ -145,7 +145,7 @@ The ship probably takes its name from one of the many [HMS *Repulse*s](https://e
  >
  > **KINGSLEY**: The antibody would adapt itself to alter the genetic code of the virus.
 
-For clarity, the Federation hates the likes of La'an Noonien Singh, Una Chin-Riley, Julian Bashir, and Dal R'El for having *maybe* slightly more impressive abilities than the average human, but mostly just not having inherited conditions that might kill them.  But they also have no problem with crafting an immune system that creates an airborne retrovirus that routinely performs something like [CRISPR gene editing](https://en.wikipedia.org/wiki/CRISPR_gene_editing) for the purpose of killing foreign organisms.  In the latter case, they only object, because it sometimes destroys the wrong organism.
+For clarity, the Federation hates the likes of La'an Noonien Singh, Una Chin-Riley, Julian Bashir, and Dal R'El for having *maybe* slightly more impressive abilities than the average human, but mostly just not having inherited conditions that might kill them.  But they also have no problem with crafting an immune system that creates an airborne retrovirus that routinely performs something like {% wiki CRISPR_gene_editing|CRISPR gene editing|en %} for the purpose of killing foreign organisms.  In the latter case, they only object, because it sometimes destroys the wrong organism.
 
 And if you find yourself thinking, "hey, that sounds a lot like worrying about transgender girls in sports, while ignoring...oh, pretty much all the problems that high school students *actually* have," congratulations.  You move to the head of the class.  And I find it obnoxious that the franchise doesn't want to see that similarity, or if it does, it doesn't see it as a problem for characters on the show to solve for more than lead characters and important guest stars.
 
@@ -157,7 +157,7 @@ Also, I should point out---for the sake of completeness---that they keep talking
 
 Like an entirely normal person, Pulaski keeps her brush stashed in the back of a drawer of clothes.  We know that normal people do this, because Riker and Data both *look* there, specifically to find the brush.
 
-Also, people still use hairbrushes?  She doesn't use some weird laser device, nanobots that condition and disentangle her hair, or even...I don't know, a [Flowbee](https://en.wikipedia.org/wiki/Flowbee)?
+Also, people still use hairbrushes?  She doesn't use some weird laser device, nanobots that condition and disentangle her hair, or even...I don't know, a {% wiki Flowbee|Flowbee|en %}?
 
  > **PICARD**: Welcome back, Doctor. Come.
 

@@ -18,7 +18,7 @@ spell: Lal Stardate Riker Selebi Selebi-Phikwe LaForge Troi Worf Starfleet hu-ma
 
 ## Disclaimer
 
-In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use), as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
+In these posts, we discuss a non-"Free as in Freedom" popular culture franchise property, including occasional references to part of that franchise behind a paywall.  My discussion and conclusions carry a Free Culture license, but nothing about the discussion or conclusions should imply any attack on the ownership of the properties.  All the big names are trademarks of the owners, and so forth, and everything here relies on sitting squarely within the bounds of {% wiki Fair_use|Fair Use|en %}, as criticism that uses tiny parts of each show to extrapolate the world that the characters live in.
 
 ## Previously...
 
@@ -34,7 +34,7 @@ Let's jump in, because this episode goes to some interesting places.
 
  > Captain's log, Stardate 43657.0 While Commander Riker is away on personal leave, the Enterprise has travelled to sector three-nine-six to begin charting the Selebi Asteroid Belt.
 
-You can find a [Selebi-Phikwe](https://en.wikipedia.org/wiki/Selebi-Phikwe) in Botswana, a nickel-mining town, which might suggest the hopes for the asteroids.
+You can find a {% wiki Selebi-Phikwe|Selebi-Phikwe|en %} in Botswana, a nickel-mining town, which might suggest the hopes for the asteroids.
 
  > **LAFORGE**: Something happened at that cybernetics conference. Since he's come back he's spent every off duty minute in that lab.
  >
@@ -76,7 +76,7 @@ He called it "an invention" in literally the previous scene, and now he lectures
 
  > **DATA**: To prepare, I have scanned all available literature on parenting. There seems to be much confusion on this issue. One traditional doctrine insists, spare the rod and spoil the child, suggesting a punitive approach. While another more liberal attitude would allow the child enormous freedom.
 
-Data almost inexplicably paraphrases---or quotes, since I certainly don't have an encyclopedic knowledge of Bible translations---[Proverbs 13:24](https://en.wikipedia.org/wiki/Proverbs_13#Verse_24), calling for corporal punishment as "tough love" that will improve children.  It doesn't "suggest a punitive approach."  Most translations actively shame parents who don't strike their children with weapons, and the translation that Data chooses even calls out the latter part.  And yet, he cites this as an ordinary approach that modern parents might take.
+Data almost inexplicably paraphrases---or quotes, since I certainly don't have an encyclopedic knowledge of Bible translations---{% wiki Proverbs_13#Verse_24|Proverbs 13:24|en %}, calling for corporal punishment as "tough love" that will improve children.  It doesn't "suggest a punitive approach."  Most translations actively shame parents who don't strike their children with weapons, and the translation that Data chooses even calls out the latter part.  And yet, he cites this as an ordinary approach that modern parents might take.
 
 Even if the Federation looked down on corporal punishment, the fact that they haven't developed better parenting advice than "spank, or let the kids do whatever they want" seems terrifying.  Although maybe Data hasn't caught up to where the literature starts looking at child-rearing as an experimental science that studies actual families...
 
@@ -90,7 +90,7 @@ Yikes.  I believe that Troi has told us that people avoid associating with their
 
  > **TROI**: I like her.
 
-You might (but also might not) recognize Lal's final form as [Hallie Todd](https://en.wikipedia.org/wiki/Hallie_Todd), who has bounced around television guest appearances for a long time.
+You might (but also might not) recognize Lal's final form as {% wiki Hallie_Todd|Hallie Todd|en %}, who has bounced around television guest appearances for a long time.
 
  > **TROI**: A friend for Worf. They're all very interesting. Do you have a favorite?
 
@@ -98,7 +98,7 @@ We couldn't have *one* episode of this show where the characters didn't say some
 
  > **DATA**: Yes. We are a family, Lal. Chair. To sit in. Sit. Good. Painting.
 
-The painting at least simulates [Piet Mondrian](https://en.wikipedia.org/wiki/Piet_Mondrian)'s work.  I admittedly don't know Mondrian's work well enough to know if it emulates a specific painting or only his style.
+The painting at least simulates {% wiki Piet_Mondrian|Piet Mondrian|en %}'s work.  I admittedly don't know Mondrian's work well enough to know if it emulates a specific painting or only his style.
 
  > **DATA**: She already has access to the sum of human knowledge from me.
 
@@ -114,7 +114,7 @@ Wow.  He made a huge deal about his concerns that people would shut him down whe
 
  > **HAFTEL**: We all have enormous admiration for what Commander Data has already achieved, but we have superior facilities and personnel here at Galor Four. A starship is hardly a proper setting for this---
 
-You might recognize the admiral as [Nicolas Coster](https://en.wikipedia.org/wiki/Nicolas_Coster), who made the rounds on genre television about a decade prior to when this episode aired.
+You might recognize the admiral as {% wiki Nicolas_Coster|Nicolas Coster|en %}, who made the rounds on genre television about a decade prior to when this episode aired.
 
  > **PICARD**: As do I. I would be willing to consider releasing Lal and Data to you so that he may continue his work with her.
  >
@@ -124,7 +124,7 @@ I'll mention this later, but Haftel shows Starfleet's intentions more than once,
 
  > **BALLARD**: She achieved a very high score on a test of academic achievement.
 
-And you might recognize Ballard as [Judyann Elder](https://en.wikipedia.org/wiki/Judyann_Elder), known primarily for her work on Black-led comedies.
+And you might recognize Ballard as {% wiki Judyann_Elder|Judyann Elder|en %}, known primarily for her work on Black-led comedies.
 
  > **DATA**: She does not feel the emotion of loneliness, but she can observe how isolated she is from the others. She wishes to be more like them. I do not know how to help her. Lal is passing into sentience. It is perhaps the most difficult stage of her development.
 

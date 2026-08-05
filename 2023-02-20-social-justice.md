@@ -14,9 +14,9 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Today, we celebrate the [World Day of Social Justice](https://en.wikipedia.org/wiki/World_Day_of_Social_Justice), recognizing the need to promote the same.
+Today, we celebrate the {% wiki World_Day_of_Social_Justice|World Day of Social Justice|en %}, recognizing the need to promote the same.
 
-Alternatively, if you'd like something a bit less vague, we in the United States also celebrate today as [Presidents' Day](https://en.wikipedia.org/wiki/Presidents%27_Day), honoring those who have served as President...some celebrated more reluctantly than others.
+Alternatively, if you'd like something a bit less vague, we in the United States also celebrate today as {% wiki Presidents%27_Day|Presidents' Day|en %}, honoring those who have served as President...some celebrated more reluctantly than others.
 
 ![Eleanor Roosevelt reading the Universal Declaration of Human Rights](/blog/assets/27758131387_302d739453_o.png "I should send all my correspondence on paper like that...")
 
