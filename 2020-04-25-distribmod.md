@@ -145,7 +145,7 @@ OK, OK.  You can probably already figure out that just performing basic arithmet
 
 {% pull ...we can think about implementing something that starts to look like PageRank... %}
 
-What's our next step?  Well, if we can encourage a user to follow or block a few people as samples, we can use that information to give our analysis some context and perspective.  Specifically, we can think about implementing something that starts to look like [PageRank](https://en.wikipedia.org/wiki/PageRank)---which coincidentally saw its final patent expire in September 2019---in order to give a different meaning to each piece of data we get.
+What's our next step?  Well, if we can encourage a user to follow or block a few people as samples, we can use that information to give our analysis some context and perspective.  Specifically, we can think about implementing something that starts to look like {% wiki PageRank|PageRank|en %}---which coincidentally saw its final patent expire in September 2019---in order to give a different meaning to each piece of data we get.
 
 For example, if you follow me, there's a decent chance that you trust my judgment in what is or isn't interesting, at least to *some* extent.  So, if I block or follow someone, you might want to do the same.  If you have blocked me, you probably think my judgment is wrong, so you might assume you're going to disagree with my choice of who to follow and block.  And if you just see me floating through your timeline, you probably don't care what I think.
 
@@ -159,7 +159,7 @@ This nicely solves the problems of a tight community of terrible people or a "bo
 
 ### In a Matter of Speaking...
 
-If we want to take this idea a step further, we could also analyze actual posts from users for language, trying to pick out [sentiment](https://en.wikipedia.org/wiki/Sentiment_analysis)---especially in replies to other people---and terminology that might cause friction.
+If we want to take this idea a step further, we could also analyze actual posts from users for language, trying to pick out {% wiki Sentiment_analysis|sentiment|en %}---especially in replies to other people---and terminology that might cause friction.
 
 We could treat older block/follow messages as less interesting as newer messages, so that users don't find themselves permanently shunned because of some bad judgment in the past if they get better over time.  Similarly, users who post frequently can be treated from users who only post rarely.
 

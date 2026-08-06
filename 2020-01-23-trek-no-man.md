@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -81,7 +81,7 @@ This isn't necessarily indicative of anything, of course, but the terminology us
  >
  > SPOCK: The tapes are pretty badly burned.
 
-[Magnetic tape](https://en.wikipedia.org/wiki/Magnetic_tape), if you're not familiar, has been in use since 1928 and can still be found in many applications.  But, naturally, we often use terminology for modern technology that refers to obsolete technologies, so this doesn't tell us anything specific.
+{% wiki Magnetic_tape|Magnetic tape|en %}, if you're not familiar, has been in use since 1928 and can still be found in many applications.  But, naturally, we often use terminology for modern technology that refers to obsolete technologies, so this doesn't tell us anything specific.
 
 Note that "tape" isn't out of the question as a metaphor, especially for something written in the 1960s, since the record seems to only be audio.
 
@@ -107,7 +107,7 @@ I'm honestly not sure if this is that she isn't memorable or if it's just eviden
  >
  > **MITCHELL**: Walking freezer unit.
 
-There's a lot to unpack, here.  Dehner joined the crew when the ship stopped at a colony in the [Aldebaran](https://en.wikipedia.org/wiki/Aldebaran) system, sixty-five light years from Earth.  Her job involves analyzing the crew, not participating in any of the missions, and her blithe interest in there *being* an emergency suggests that she sees the crew as experimental subjects.
+There's a lot to unpack, here.  Dehner joined the crew when the ship stopped at a colony in the {% wiki Aldebaran|Aldebaran|en %} system, sixty-five light years from Earth.  Her job involves analyzing the crew, not participating in any of the missions, and her blithe interest in there *being* an emergency suggests that she sees the crew as experimental subjects.
 
 Lastly, Mitchell continues to be a creep, and one with a reputation that Dehner has heard about.  His allusion to eugenics is more than a bit harsh, and Dehner not swooning over his comment makes her "frigid" in his eyes.  He also clings to Smith's arm during the next scene, so he's also extremely unprofessional.
 
@@ -173,7 +173,7 @@ After Gary starts to transform and lands in Sickbay...
  >
  > **MITCHELL**: Once you get into him, he's rather simple though. Childish, almost. I don't agree with him at all.
 
-First, we get a good look at Kirk's background, here.  Far from the swaggering man of action we expect, he was a bookish Academy instructor.  He's sufficiently well-read to recognize [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)'s work from a quick glance at a few paragraphs on a screen.
+First, we get a good look at Kirk's background, here.  Far from the swaggering man of action we expect, he was a bookish Academy instructor.  He's sufficiently well-read to recognize {% wiki Baruch_Spinoza|Spinoza|en %}'s work from a quick glance at a few paragraphs on a screen.
 
 The reference to Spinoza is probably not coincidental.  Despite Mitchell claiming to not agree, Spinoza claimed that good and evil were concepts relative to the observer rather than absolutes, comparing humans to other creatures.  Of course, Spinoza also believed in a deterministic universe with no free will, so maybe that was the objectionable part.
 
@@ -209,7 +209,7 @@ From there, we get some small insight into the world's history and its culture.
  >
  > **MITCHELL**: That's one of the most passionate love sonnets of the past couple of centuries.
 
-"Tarbolde" is presumably a human name, in that it's a fairly common surname today.  It's possible that the place name refers to something else, but [Canopus](https://en.wikipedia.org/wiki/Canopus) is around three hundred light years from Earth, an impressive trip by 1996!  Previously, estimates for the distance ranged from 96 to 1200 light years, with even the lower end still absurdly far away.
+"Tarbolde" is presumably a human name, in that it's a fairly common surname today.  It's possible that the place name refers to something else, but {% wiki Canopus|Canopus|en %} is around three hundred light years from Earth, an impressive trip by 1996!  Previously, estimates for the distance ranged from 96 to 1200 light years, with even the lower end still absurdly far away.
 
 Since we can probably assume that the history in *Star Trek* prior to 1965 when the episode was likely written isn't too different from ours, and that there wasn't a secret faster-than-light space program running, that means that Tarbolde had a way of traveling faster than a hundred times the speed of light, much faster depending on how long after 1966 he launched.  Note that this substantially faster than the minimum speed needed by the *Valiant*.
 
@@ -223,7 +223,7 @@ And...
 
  > **KIRK**: That station is fully automated. There's not a soul on the whole planet. Even the ore ships call only once every twenty years.
 
-Assuming the astronomy to be good (obviously not a great assumption after Canopus, above), [Vega](https://en.wikipedia.org/wiki/Vega) is actually a single star in [Lyra](https://en.wikipedia.org/wiki/Lyra), a mere twenty-five light years from Earth and so nowhere near the "edge" of the galaxy.  Interestingly, there are two Delta Lyrae systems, [δ1 Lyr](https://en.wikipedia.org/wiki/Delta1_Lyrae) is a binary system over a thousand light years away and [δ2 Lyr](https://en.wikipedia.org/wiki/Delta2_Lyrae) is around nine hundred light years away.  They're both in the direction of the [galactic center](https://en.wikipedia.org/wiki/Sagittarius_A*) (a right ascension of 18h), but a declination that's about 62° off.  A bit of trigonometry suggests that this *could* be near one of the "sides" of the galaxy.
+Assuming the astronomy to be good (obviously not a great assumption after Canopus, above), {% wiki Vega|Vega|en %} is actually a single star in {% wiki Lyra|Lyra|en %}, a mere twenty-five light years from Earth and so nowhere near the "edge" of the galaxy.  Interestingly, there are two Delta Lyrae systems, {% wiki Delta1_Lyrae|δ1 Lyr|en %} is a binary system over a thousand light years away and {% wiki Delta2_Lyrae|δ2 Lyr|en %} is around nine hundred light years away.  They're both in the direction of the {% wiki Sagittarius_A*|galactic center|en %} (a right ascension of 18h), but a declination that's about 62° off.  A bit of trigonometry suggests that this *could* be near one of the "sides" of the galaxy.
 
 In any case, "lithium cracking" is nonsense in today's terminology, but suggests that lithium, an element with atomic number 3, and so one of these lightest and likely abundant elements in the universe, is used for fuel.
 
@@ -279,7 +279,7 @@ The original version of Kirk's first log entry had some detail on the *Enterpris
  >
  > Until now, our mission has been that of space law regulation, contact with Earth colonies, and investigation of alien life.  But now, a new task, a probe out into where no man has gone before.
 
-Not being part of the episode, it doesn't *really* count, but is indicative of at least one view of the world outside the ship.  In a lot of ways, the organization behind the *Enterprise* seems comparable to the [Coast Guard](https://en.wikipedia.org/wiki/United_States_Coast_Guard), dealing with safety, security, and stewardship.
+Not being part of the episode, it doesn't *really* count, but is indicative of at least one view of the world outside the ship.  In a lot of ways, the organization behind the *Enterprise* seems comparable to the {% wiki United_States_Coast_Guard|Coast Guard|en %}, dealing with safety, security, and stewardship.
 
 ## Conclusions
 
@@ -287,7 +287,7 @@ So, what do we have, this week?
 
 Space travel has been available for at least two hundred years, possibly starting in earnest in the 1960s with spectacular successes leading to distant travel in mere decades.  Significant travel was possible by 1996.
 
-We know that psychic phenomena are considered more scientific than they are today, even though the "science" still isn't far in advance of the state of the art of [Zener Cards](https://en.wikipedia.org/wiki/Zener_cards) and similar guessing games.
+We know that psychic phenomena are considered more scientific than they are today, even though the "science" still isn't far in advance of the state of the art of {% wiki Zener_cards|Zener Cards|en %} and similar guessing games.
 
 And we know that there's an undetectable force field around the galaxy, either protecting it from the outside or protecting the outside from something inside.  The field spurs psychic phenomena in (at least) humans, perhaps indicating some sort of relationship between those two points.
 

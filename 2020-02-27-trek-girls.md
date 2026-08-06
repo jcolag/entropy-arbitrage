@@ -17,7 +17,7 @@ offset: -20%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -45,7 +45,7 @@ Back in [*The Man Trap*]({% post_url 2020-01-09-trek-01 %}), Kirk quoted a regul
 
 It's also possible that this means Korby vanished *very* early on, so that the first surgeon couldn't find him.
 
-Not relevant to society at large, but "five years" also tells us that Chapel either spent a couple of years training as a nurse for her posting on the *Enterprise* or had a posting previous to this mission that we haven't heard about.  That is, Chapel is framed as the person who put a hold on their marriage plans, so if Korby has been out of touch for five years, his team would have left significantly before that, which pushes Chapel's decision even earlier.  [Majel Barrett](https://en.wikipedia.org/wiki/Majel_Barrett) would be around 34 years old when filming the episode, so her relationship with Korby could have ended substantially more than five years prior.
+Not relevant to society at large, but "five years" also tells us that Chapel either spent a couple of years training as a nurse for her posting on the *Enterprise* or had a posting previous to this mission that we haven't heard about.  That is, Chapel is framed as the person who put a hold on their marriage plans, so if Korby has been out of touch for five years, his team would have left significantly before that, which pushes Chapel's decision even earlier.  {% wiki Majel_Barrett|Majel Barrett|en %} would be around 34 years old when filming the episode, so her relationship with Korby could have ended substantially more than five years prior.
 
 We later see Brown using one of those old-style hand-phasers (from [*Where No Man Has Gone Before*]({% post_url 2020-01-23-trek-no-man %})), reinforcing that Korby has been out of action for a long while.
 
@@ -53,11 +53,11 @@ We later see Brown using one of those old-style hand-phasers (from [*Where No Ma
  >
  > **KIRK**: Required reading at the academy, Mister Spock. I've always wanted to meet him. Do you think there's any chance of him still being alive?
 
-This is something that seems...odd.  Korby was played by [Michael Strong](https://en.wikipedia.org/wiki/Michael_Strong), who would have still been under fifty when the episode was filmed, and so less than fifteen years older than Kirk, and almost certainly younger than Kirk when our Captain would have been at the academy.
+This is something that seems...odd.  Korby was played by {% wiki Michael_Strong|Michael Strong|en %}, who would have still been under fifty when the episode was filmed, and so less than fifteen years older than Kirk, and almost certainly younger than Kirk when our Captain would have been at the academy.
 
 I'm not sure I understand what "archaeological medicine" is supposed to be, other than translating old medical books, but whatever it is must be significant enough and possibly new enough that a thirty-year-old can *already* have done something important enough to be "required reading" in at least some kinds of education.
 
-On the other hand, [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) received the [Rumford Medal](https://en.wikipedia.org/wiki/Rumford_Medal) at *just* about the same age we're talking about   And, interestingly, the Pasteur connection might be more intentional than it seems.  Pasteur was considered a French national hero in his lifetime (around Korby's age, here) and faced a couple of major controversies including a ethical issues with experiments.
+On the other hand, {% wiki Louis_Pasteur|Louis Pasteur|en %} received the {% wiki Rumford_Medal|Rumford Medal|en %} at *just* about the same age we're talking about   And, interestingly, the Pasteur connection might be more intentional than it seems.  Pasteur was considered a French national hero in his lifetime (around Korby's age, here) and faced a couple of major controversies including a ethical issues with experiments.
 
 I suppose it's possible that the reference to Orion, here, connects to the reference to Rigel (β Orionis) in [*Mudd's Women*]({% post_url 2020-02-20-trek-m-women %}), implying that there was a civilization near our lithium-mining operation, which could make *some* sense as a supply of a key ingredient of space travel, but seems improbable that writers would try to make that connection without calling it out.
 
@@ -75,9 +75,9 @@ Well, I guess Exo III must be yet another naming convention.  Or there's no conv
 
  > **BROWN**: Doctor Korby has discovered that, as their sun dimmed, the inhabitants of this planet moved underground from an open environment to this dark world. When you were a student of his, Christine, you must have often heard Doctor Korby remark how freedom of movement and choice produced the human spirit. The culture of Exo III proved his theory. When they moved from light to darkness, they replaced freedom with a mechanistic culture. Doctor Korby has been able to uncover elements of this culture which will revolutionize the universe when freed from this cavernous environment.
 
-Brown sounds like he's exposing a fear in human culture of life being reduced to chores.  This probably shouldn't be surprising, since it's the same basic sentiment behind claims that the Roman Empire became decadent or worries about automation taking over our lives.  In a lot of ways, he's hinting at aspects of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny) and [Romanticism](https://en.wikipedia.org/wiki/Romanticism), too, with the invocations of "freedom of movement," which historically doesn't end well.
+Brown sounds like he's exposing a fear in human culture of life being reduced to chores.  This probably shouldn't be surprising, since it's the same basic sentiment behind claims that the Roman Empire became decadent or worries about automation taking over our lives.  In a lot of ways, he's hinting at aspects of {% wiki Manifest_destiny|Manifest Destiny|en %} and {% wiki Romanticism|Romanticism|en %}, too, with the invocations of "freedom of movement," which historically doesn't end well.
 
-Amusingly, in the same breath, he implies that there's also a strong desire for some aspects of the "mechanistic culture," possibly the sort of obsession with efficiency that falls under the banner of what would later (when the episode was written) be called [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), making me wonder if that's the intent.
+Amusingly, in the same breath, he implies that there's also a strong desire for some aspects of the "mechanistic culture," possibly the sort of obsession with efficiency that falls under the banner of what would later (when the episode was written) be called {% wiki Neoliberalism|neoliberalism|en %}, making me wonder if that's the intent.
 
 Oh, right.  I almost forgot to mention it, but Brown also definitively establishes that Korby dated his students---with somewhere in the neighborhood of a fifteen-year age difference, by the way---and proposed to at least one of them, Chapel.  While one could argue that it's only more recently that most people see this as th predatory abuse of power it is, it's worth remembering how many times *Star Trek* has gone quite far out of its way to portray sexism and show it in a bad light, so I do have to wonder what the intent of the relationship originally was.  Or maybe I don't, since Korby is clearly the antagonist and he's racking up all these anti-intellectual philosophies along with the creepy relationship.
 
@@ -155,7 +155,7 @@ Also, Earth Colony Two is very reminiscent of Earth Colony (Alpha) Five from *Ch
  >
  > **KORBY**: They must be strongly infiltrated into society before the android existence is revealed. I want no wave of hysteria to destroy what is good and right. You with me, Captain?
 
-The progression, here, is interesting.  Korby starts out by, more or less, pitching the quasi-religious idea of ["mind uploads"](https://en.wikipedia.org/wiki/Mind_uploading) making humans immortal.  When challenged on the inherently dehumanizing nature of the idea, he repositions it (ironically) to the even more dehumanizing idea of forcing these immortal humans to follow his orders.
+The progression, here, is interesting.  Korby starts out by, more or less, pitching the quasi-religious idea of {% wiki Mind_uploading|"mind uploads"|en %} making humans immortal.  When challenged on the inherently dehumanizing nature of the idea, he repositions it (ironically) to the even more dehumanizing idea of forcing these immortal humans to follow his orders.
 
 When that idea is suggested as eliminating good qualities (an odd argument, and one that seems to ignore the dictatorial control), Korby again repositions to his *actual* plan of replacing human leaders with androids to seize control of society.
 
@@ -163,7 +163,7 @@ Oh, and of course, Kirk slips in the names of two historical (to him) dictators:
 
  > **KIRK-2**: I looked it over. I think you'll find planet Midas V an excellent choice.
 
-Sadly, there doesn't appear to be a star or constellation named for [Midas](https://en.wikipedia.org/wiki/Midas).  I *did* find one conspiracy theory that [Perseus](https://en.wikipedia.org/wiki/Perseus_(constellation)) secretly represents or inspired the Midas myth, but nothing that has any historical basis.
+Sadly, there doesn't appear to be a star or constellation named for {% wiki Midas|Midas|en %}.  I *did* find one conspiracy theory that {% wiki Perseus_%28constellation%29|Perseus|en %} secretly represents or inspired the Midas myth, but nothing that has any historical basis.
 
  > **KIRK**: Andrea, kiss me.
  >
@@ -215,7 +215,7 @@ After the last few adaptations, I don't have high hopes for this, and...well, th
 
 Weirdly, Spock refers to Korby as "the hero of our drama," making me wonder if the intent is that Spock is the narrator of these adaptations.  It would certainly explain Rand uncharacteristically agreeing with him at the end of the adaptation of [*The Enemy Within*]({% post_url 2020-02-13-trek-enemy %}), if nothing else.
 
-As usual, though, the facts of the adaptation match up to the episode closely, the major aberrations being the aforementioned linking prose that tends to be fairly cynical, embraces reactionary views, and is much more florid than makes sense for the story.  For example, it praises the "two relationships"---teacher/student and lovers---between Korby and Chapel.  Similarly, Ruk is described as far more animalistic, such as referring to him as a "hairless ape" holding things in his "paws," and later referred to as "[Caliban](https://en.wikipedia.org/wiki/Caliban)."
+As usual, though, the facts of the adaptation match up to the episode closely, the major aberrations being the aforementioned linking prose that tends to be fairly cynical, embraces reactionary views, and is much more florid than makes sense for the story.  For example, it praises the "two relationships"---teacher/student and lovers---between Korby and Chapel.  Similarly, Ruk is described as far more animalistic, such as referring to him as a "hairless ape" holding things in his "paws," and later referred to as "{% wiki Caliban|Caliban|en %}."
 
 Still...
 
@@ -225,7 +225,7 @@ The narration frames this as an unfortunate choice of terms, but admits that it'
 
  > "Love can't exist where all is predictable! Christine, you must listen! Love must have imperfection---moments of worship, moments of hate.  Andrea is as incapable of anger and fear as she is of love.  She has no meaning for me.  She simply obeys orders!  Watch her..."
 
-There's the obvious irony, here, in that Korby is *also* an android, still trying to court Chapel even as he asserts that androids can't love.  But again, I'm surprised that he's arguing a point that Chapel didn't try to make.  There's also the inevitable slavery analogy (not out of the question, given what Ruk reveals about his own history), where Korby feels entitled to Andrea's body, because he has dismissed the possibility that she's anything more than an [object](https://en.wikipedia.org/wiki/Objectification).
+There's the obvious irony, here, in that Korby is *also* an android, still trying to court Chapel even as he asserts that androids can't love.  But again, I'm surprised that he's arguing a point that Chapel didn't try to make.  There's also the inevitable slavery analogy (not out of the question, given what Ruk reveals about his own history), where Korby feels entitled to Andrea's body, because he has dismissed the possibility that she's anything more than an {% wiki Objectification|object|en %}.
 
  > He took her in his arms. "I haven't changed, Christine. This is just a harmless demonstration to convince his skeptical, military mind. Please try and understand..."
 
@@ -277,7 +277,7 @@ And lastly, we now have our *third* episode speculating that humans wouldn't be 
 
 Not a whole lot stands out, this episode, beyond the racism against Vulcans possibly mutating in front of our eyes.
 
-I suppose it's also weird that we occasionally hear reference to an ancient, advanced-but-forgotten civilization, but it doesn't seem to have much impact on anybody.  Today, we go nuts when we find a new [cave painting](https://www.smithsonianmag.com/history/journey-oldest-cave-paintings-world-180957685/) or [big, dented rock](https://en.wikipedia.org/wiki/Lomekwi), and rightly so, but these bold explorers can barely muster up more than the most academic enthusiasm for selective force fields around the galaxy, advanced immunization, and real-time brain emulation.  I'm trying to think of an analogy, but even "Romans stumbling across an abandoned, twenty-first century city" seems to fall short of what we're talking about.
+I suppose it's also weird that we occasionally hear reference to an ancient, advanced-but-forgotten civilization, but it doesn't seem to have much impact on anybody.  Today, we go nuts when we find a new [cave painting](https://www.smithsonianmag.com/history/journey-oldest-cave-paintings-world-180957685/) or {% wiki Lomekwi|big, dented rock|en %}, and rightly so, but these bold explorers can barely muster up more than the most academic enthusiasm for selective force fields around the galaxy, advanced immunization, and real-time brain emulation.  I'm trying to think of an analogy, but even "Romans stumbling across an abandoned, twenty-first century city" seems to fall short of what we're talking about.
 
 ## Next
 

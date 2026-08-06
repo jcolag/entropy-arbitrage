@@ -17,7 +17,7 @@ offset: -24%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -51,11 +51,11 @@ The Schiller Rating appears to be original to the episode.  I can't find any non
 
 Lithium crystals are still critical, of course, presumably components in generators as opposed to the batteries which merely store energy.
 
-in the real world, [lithium](https://en.wikipedia.org/wiki/Lithium) is a white alkali metal and one of the most abundant elements in the universe, generally a product of stars fusing hydrogen and helium.  However, it definitely isn't something someone in a contained space would hold in their hands to pass around the table.  [Lithium fluoride](https://en.wikipedia.org/wiki/Lithium_fluoride) or a similar crystalline compound, however, might be relevant, since it's used in optics.  Not that anything along those lines is relevant to this discussion, but if the show is going to spend *this* much time on it, a brief digression might be amusing to some people.
+in the real world, {% wiki Lithium|lithium|en %} is a white alkali metal and one of the most abundant elements in the universe, generally a product of stars fusing hydrogen and helium.  However, it definitely isn't something someone in a contained space would hold in their hands to pass around the table.  {% wiki Lithium_fluoride|Lithium fluoride|en %} or a similar crystalline compound, however, might be relevant, since it's used in optics.  Not that anything along those lines is relevant to this discussion, but if the show is going to spend *this* much time on it, a brief digression might be amusing to some people.
 
 Anyway, McCoy again voices his distrust of the systems everybody relies on, too.
 
-We then have a rather extensive sequence that turns the camera against the [male gaze](https://en.wikipedia.org/wiki/Male_gaze) as the female "crew" of the destroyed ship walk through the corridors.  If you're watching along, it's worth noticing how the lighting and camera angles make this jarring and how the camera keeps swinging back to show us the ogling men in a not-very-flattering light.  Partly, this is to clue us in to there being something "Leo Walsh" (Mudd) isn't telling us.  But given how clear prior episodes have been about showing us sexism in a harsh light, it's hard not to read this as also partly there to expose the problems with sexually [objectifying](https://en.wikipedia.org/wiki/Objectification) women.  Eve even brings this up, later in the episode, though it's not connected to this scene.
+We then have a rather extensive sequence that turns the camera against the {% wiki Male_gaze|male gaze|en %} as the female "crew" of the destroyed ship walk through the corridors.  If you're watching along, it's worth noticing how the lighting and camera angles make this jarring and how the camera keeps swinging back to show us the ogling men in a not-very-flattering light.  Partly, this is to clue us in to there being something "Leo Walsh" (Mudd) isn't telling us.  But given how clear prior episodes have been about showing us sexism in a harsh light, it's hard not to read this as also partly there to expose the problems with sexually {% wiki Objectification|objectifying|en %} women.  Eve even brings this up, later in the episode, though it's not connected to this scene.
 
  > **MUDD**: You're part Vulcanian, aren't you. Ah, well then, a pretty face doesn't affect you at all, does it. That is, unless you want it to. You can save it, girls. This type can turn himself off from any emotion.
  >
@@ -81,7 +81,7 @@ It sounds like a starship is a specific role in the fleet that the *Enterprise* 
 
  > **KIRK**: Mister Walsh, I'm convening a ship's hearing on your actions. Mister Spock will supply you with any legal information you may need for your defense.
 
-Starship captains would appear to have some judicial authority, suggesting a legal system using something like [circuit courts](https://en.wikipedia.org/wiki/Circuit_court) in at least the Earth colonies.  And knowing that, it's seems possible (even likely) that most colonies don't have the resources for their own judicial systems.  In turn, this might bolster the description of the *Enterprise* made in [*Charlie X*]({% post_url 2020-01-16-trek-charlie %}) that it's "like a whole city in space, Charlie, over four hundred in the crew of a starship," in that many colonies are smaller.  After all, a community with more than a handful of people can easily appoint their own judges or arbitrators.
+Starship captains would appear to have some judicial authority, suggesting a legal system using something like {% wiki Circuit_court|circuit courts|en %} in at least the Earth colonies.  And knowing that, it's seems possible (even likely) that most colonies don't have the resources for their own judicial systems.  In turn, this might bolster the description of the *Enterprise* made in [*Charlie X*]({% post_url 2020-01-16-trek-charlie %}) that it's "like a whole city in space, Charlie, over four hundred in the crew of a starship," in that many colonies are smaller.  After all, a community with more than a handful of people can easily appoint their own judges or arbitrators.
 
 Sulu also very deftly calls out the sexism in the episode.
 
@@ -115,7 +115,7 @@ I certainly realize that a "jackass" is literally just a term for a donkey and m
 
 This gives us some vague insight into the structure of the engines, but that's not particularly useful to us, here.
 
-More interesting is, despite recent episodes' vague references when referring to planets, [Rigel](https://en.wikipedia.org/wiki/Rigel) is β Orionis, a multiple-star system and one of the brightest objects in the night sky from Earth and around nine hundred light years away.  Rigel XII is, one assumes, the twelfth planet out.
+More interesting is, despite recent episodes' vague references when referring to planets, {% wiki Rigel|Rigel|en %} is β Orionis, a multiple-star system and one of the brightest objects in the night sky from Earth and around nine hundred light years away.  Rigel XII is, one assumes, the twelfth planet out.
 
 The *Enterprise* is two days away and the pursuit of Mudd's ship, back at the start of the show, strongly suggests that the crew found it on a mostly-routine patrol.  If true, that means that Earth (or the larger governing body we haven't identified, yet) has reached out at least that far into the galaxy.
 
@@ -193,7 +193,7 @@ So, remember Rigel?  Ophiuchus is a constellation on the celestial equator, incl
 
 Rigel is also near the celestial equator, but Orion and Ophiuchus are basically in opposite directions from Earth.  In the northern hemisphere, you'll see Orion most clearly in January and Ophiuchus in July.  So, this is a fairly unlikely trip and probably not telling the real story, assuming we don't want to take the easy way out of assuming that the writers didn't do any actual astronomy research.
 
-One unlikely possibility to resolve this, if we wanted to do so, would be to imagine that we misheard Rigel for **Rigil**, as in Rigil Kentaurus, also known as [α Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri) A.  The constellation Centaurus is most visible, from the tropics to the South Pole, in May.  That's not *quite* the same direction, but is close enough that the ships wouldn't be passing Earth to get from one to the other.
+One unlikely possibility to resolve this, if we wanted to do so, would be to imagine that we misheard Rigel for **Rigil**, as in Rigil Kentaurus, also known as {% wiki Alpha_Centauri|α Centauri|en %} A.  The constellation Centaurus is most visible, from the tropics to the South Pole, in May.  That's not *quite* the same direction, but is close enough that the ships wouldn't be passing Earth to get from one to the other.
 
 The problem with this theory is that we're now talking about two of the four nearest stars to Earth's solar system, one of the three at α Centauri and Barnard's Star.  While that would make sense for early exploration targets (and indeed, we believe we've detected exoplanets in both systems, in reality), we've heard of enough colonies that we can probably assume that any exploratory work---the sort of work done by a ship attempting to leave the galaxy, remember---or smuggling/"wiving" would be much further from home than our two neighboring solar systems.
 
@@ -228,15 +228,15 @@ This provides us with two possible reasons that a person might not have any reco
  * Eve indicates that many "colonies" are single households maintaining automated systems and expecting to live their entire lives there---perhaps not dissimilar from [the Craters]({% post_url 2020-01-09-trek-01 %})---and so children born there may never have had contact with the government.
  * Kirk suggests that they might be slaves, presumably with their information hidden or obscured to simplify sales.
 
-The two choices aren't mutually exclusive.  [Voluntary slavery](https://en.wikipedia.org/wiki/Voluntary_slavery) has been a common euphemism for thousands of years, and some enslaved people are raised to believe that it's all for their benefit or for the benefit of their families.
+The two choices aren't mutually exclusive.  {% wiki Voluntary_slavery|Voluntary slavery|en %} has been a common euphemism for thousands of years, and some enslaved people are raised to believe that it's all for their benefit or for the benefit of their families.
 
 And, of course, whether the women are slaves, Kirk's question indicates that there's a definite market for slaves, particularly sex slaves.  And recall that "Mudd's used to buying and selling people," as Eve put it earlier.
 
-Saturnius may be an attempt to refer to [Saturn](https://en.wikipedia.org/wiki/Saturn) or one of its many moons, of course, which would imply that harems are extremely close to home.  However, it's also possible that it was an attempt to refer to [Lucius Appuleius Saturninus](https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus).  Wherever it is and whatever it refers to, the place is known for harems that are apparently visible to the public.
+Saturnius may be an attempt to refer to {% wiki Saturn|Saturn|en %} or one of its many moons, of course, which would imply that harems are extremely close to home.  However, it's also possible that it was an attempt to refer to {% wiki Lucius_Appuleius_Saturninus|Lucius Appuleius Saturninus|en %}.  Wherever it is and whatever it refers to, the place is known for harems that are apparently visible to the public.
 
-Note that this is the western colloquial/Orientalist interpretation of the word *harem*, a space off-limits to men except for the master of the house, where his wives and concubines await his desires, a sort of in-house brothel.  In reality, the term refers to private spaces in the home reserved for the women of the house, but that's obviously not what's on Eve's mind.  The colloquial interpretation was perpetuated to justify colonial efforts in the Middle East as "civilizing" a society which would treat women like property, which is ironic, given that forms of [coverture](https://en.wikipedia.org/wiki/Coverture) persisted in some areas of the West as recently as the 1970s.  That is, if you saw any episode of **Star Trek** on its original broadcast night, you lived in a world where some women in the West were still considered legal adjuncts to their families, rather than human beings, but hundreds of years earlier, we accused the Muslims of being backwards.  [Crusades](https://en.wikipedia.org/wiki/Crusades) don't just raise their own armies, you understand...
+Note that this is the western colloquial/Orientalist interpretation of the word *harem*, a space off-limits to men except for the master of the house, where his wives and concubines await his desires, a sort of in-house brothel.  In reality, the term refers to private spaces in the home reserved for the women of the house, but that's obviously not what's on Eve's mind.  The colloquial interpretation was perpetuated to justify colonial efforts in the Middle East as "civilizing" a society which would treat women like property, which is ironic, given that forms of {% wiki Coverture|coverture|en %} persisted in some areas of the West as recently as the 1970s.  That is, if you saw any episode of **Star Trek** on its original broadcast night, you lived in a world where some women in the West were still considered legal adjuncts to their families, rather than human beings, but hundreds of years earlier, we accused the Muslims of being backwards.  {% wiki Crusades|Crusades|en %} don't just raise their own armies, you understand...
 
-The least-important detail in that section (by far) is the term "pelagic planet."  [Pelagic](https://en.wikipedia.org/wiki/Pelagic_zone) refers to oceanic areas, split between different "zones" related to their depth.
+The least-important detail in that section (by far) is the term "pelagic planet."  {% wiki Pelagic_zone|Pelagic|en %} refers to oceanic areas, split between different "zones" related to their depth.
 
  > **MUDD**: Oh, you beautiful galaxy! Oh, that heavenly universe! Well, girls, lithium miners. Don't you understand? Lonely, isolated, overworked, rich lithium miners! Girls, do you still want husbands, hmm? Evie, you won't be satisfied with a mere ship's captain. I'll get you a man who can buy you a whole planet. Maggie, you're going to be a countess. Ruth, I'll make you a duchess. And I, I'll be running this starship. Captain James Kirk, the next orders you're taking will be given by Harcourt Fenton Mudd!
 
@@ -276,9 +276,9 @@ Then later in the episode...
 
 We see that the medical scanners are always turned on, even though there are known, somewhat common things that might trigger them.  And the scanner doesn't have any sort of obvious read-out to explain what it found, just the beeping noise indicating that it found *something*.
 
-Also, it's apparently not out of the question for people to wear something radioactive.  This is somewhat interesting, since this was written and filmed around the time that companies in the United States were discontinuing the use of radium paint in the aftermath of the ["Radium Girls"](https://en.wikipedia.org/wiki/Radium_Girls) lawsuit.
+Also, it's apparently not out of the question for people to wear something radioactive.  This is somewhat interesting, since this was written and filmed around the time that companies in the United States were discontinuing the use of radium paint in the aftermath of the {% wiki Radium_Girls|"Radium Girls"|en %} lawsuit.
 
-It seems a bit quirky that McCoy assumes that anybody deliberately tricking a person would trick a computer equally.  This could be more anti-technology rhetoric or it could suggest that the technology is at least modeled on organic processes.  If there's [biomimicry](https://en.wikipedia.org/wiki/Biomimetics) involved, that may help explain the ambivalence a lot of people feel about the systems.  Designed to mimic biological processes, they'd be similarly fallible, but faster and less accountable, just as we're discovering in the real world with machine learning algorithms [adapting our biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals).
+It seems a bit quirky that McCoy assumes that anybody deliberately tricking a person would trick a computer equally.  This could be more anti-technology rhetoric or it could suggest that the technology is at least modeled on organic processes.  If there's {% wiki Biomimetics|biomimicry|en %} involved, that may help explain the ambivalence a lot of people feel about the systems.  Designed to mimic biological processes, they'd be similarly fallible, but faster and less accountable, just as we're discovering in the real world with machine learning algorithms [adapting our biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals).
 
  > **EVE**: Captain? I hope you don't mind.
  >
@@ -342,7 +342,7 @@ This maybe gives some hints of what it's like to be a civilian on the *Enterpris
 
 Far from the automated station in *Where No Man Has Gone Before*, the miners here have the authority to negotiate, have the upper hand in negotiations, and don't seem predisposed to helping.  It's almost as if the few miners make up a sovereign government that Kirk's superiors consider a peer.  Childress at least believes that he has some political authority beyond the colony and thinks his word is enough to get charges outside of his jurisdiction dropped.  Given Mudd's earlier prediction of being rich enough to take command of the *Enterprise*, it's possible that Childress is talking about buying Mudd's freedom.  Of course, it's also possible that Childress has an inflated opinion of his power, since Kirk is able to point out the political ramifications of taking a stand against the government; no matter how rich they are, they rely on government-run ships and services to survive.
 
-But assuming that Childress is correct, one wonders what the fallout was for the use Kirk made of Delta Vega, not to mention the cost of the resulting destruction and possible damage to space travel.  After all, to stop Mitchell, they destroyed and presumably quarantined an important lithium [cracking](https://en.wikipedia.org/wiki/Cracking_(chemistry)) station.
+But assuming that Childress is correct, one wonders what the fallout was for the use Kirk made of Delta Vega, not to mention the cost of the resulting destruction and possible damage to space travel.  After all, to stop Mitchell, they destroyed and presumably quarantined an important lithium {% wiki Cracking_%28chemistry%29|cracking|en %} station.
 
 In addition to that, the miners being willing to "swap" for the women strongly implies that they are, in fact, just considered property.
 
@@ -354,7 +354,7 @@ The most charitable interpretation I can find for this is that Childress wants c
 
 Either way, Eve is familiar enough with that sort of entitlement to be dismissive of it.  She's also much less charitable towards it than Janice Rand has been.
 
-Note that, even if we take a more charitable view of the women's situation and assume that they're the equivalent of [mail order brides](https://en.wikipedia.org/wiki/Mail-order_bride) who are merely being used as bargaining chips as opposed to goods to be bartered, that's still a situation where abuse is unfortunately not at all uncommon.  In fact, many customers seek out women from countries where domestic violence and sexual assault are treated less seriously.
+Note that, even if we take a more charitable view of the women's situation and assume that they're the equivalent of {% wiki Mail-order_bride|mail order brides|en %} who are merely being used as bargaining chips as opposed to goods to be bartered, that's still a situation where abuse is unfortunately not at all uncommon.  In fact, many customers seek out women from countries where domestic violence and sexual assault are treated less seriously.
 
  > **CHILDRESS**: I guess I'm supposed to sit, taste, and roll my eyes. Ooh, female cooking again.
 
@@ -378,7 +378,7 @@ It also shows the tunnel vision the miners seem to have, that scouring his pans 
  >
  > **EVE**: Not in double jack.
 
-"Double Jack" seems to be a solitaire game original to the episode, with rules similar enough to [Klondike](https://en.wikipedia.org/wiki/Klondike_(solitaire)) that Childress can't see a difference at a glance, even after being told he has the wrong game.
+"Double Jack" seems to be a solitaire game original to the episode, with rules similar enough to {% wiki Klondike_%28solitaire%29|Klondike|en %} that Childress can't see a difference at a glance, even after being told he has the wrong game.
 
 Oddly, while I went back to mention them in talking about [Charlie X]({% post_url 2020-01-16-trek-charlie %}), this scene was actually the first time I had noticed the round playing cards.
 
@@ -446,17 +446,17 @@ But is "my wife is secretly ugly" **really** a legal argument to abandon a marri
  >
  > **KIRK**: You either believe in yourself, or you don't.
 
-This is fairly clever, if it was intentional twist in the script.  By undermining the science-fiction premise of the episode that was *just* revealed, the drug is basically exposed as something primarily mood-altering, rather than something that makes physical changes.  And Kirk has shown that the [placebo effect](https://en.wikipedia.org/wiki/Placebo) can be all users need.
+This is fairly clever, if it was intentional twist in the script.  By undermining the science-fiction premise of the episode that was *just* revealed, the drug is basically exposed as something primarily mood-altering, rather than something that makes physical changes.  And Kirk has shown that the {% wiki Placebo|placebo effect|en %} can be all users need.
 
 Otherwise...it's a bit odd that there's an illegal and possibly addictive drug that's packaged like children's vitamins, especially a drug that's so focused on sexuality.
 
-It's also a bit odd that the *Enterprise* has [gelatin](https://en.wikipedia.org/wiki/Gelatin) available, since it's derived from animal collagen.  This may (or may not) feed back into the Thanksgiving comments in *Charlie X* about the "synthetic meat loaf" and the nature of what the crew generally eats.
+It's also a bit odd that the *Enterprise* has {% wiki Gelatin|gelatin|en %} available, since it's derived from animal collagen.  This may (or may not) feed back into the Thanksgiving comments in *Charlie X* about the "synthetic meat loaf" and the nature of what the crew generally eats.
 
  > **MCCOY**: That must have been quite a talk you made down there. Ever try considering the patent medicine business?
  >
  > **KIRK**: Why should I work your side of the street?
 
-Speaking of placebos, [patent medicines](https://en.wikipedia.org/wiki/Patent_medicine) are the traditional crossroads between medicine and scam, with concoctions that could be anything cheaply made that is designed to seem just effective enough (or merely strong enough) to make off with as much money as possible before moving on to the next town.  Often, the product was marketed as a cure-all and generally didn't contain much more than a cheap mood-altering substance (alcohol, opium, etc.) and a bitter "medicinal" flavor to make the patient think that something was happening.
+Speaking of placebos, {% wiki Patent_medicine|patent medicines|en %} are the traditional crossroads between medicine and scam, with concoctions that could be anything cheaply made that is designed to seem just effective enough (or merely strong enough) to make off with as much money as possible before moving on to the next town.  Often, the product was marketed as a cure-all and generally didn't contain much more than a cheap mood-altering substance (alcohol, opium, etc.) and a bitter "medicinal" flavor to make the patient think that something was happening.
 
 In other words, it's a more underhanded version of Kirk's scheme, and definitely the sort of connection a doctor like McCoy would make.  And, of course, he leaves himself open to Kirk's response.
 
@@ -476,7 +476,7 @@ That is, we get a sense that the story that is *probably* about sex slavery, bec
 
 But on the other hand, this script is also very heavy---for the first time in the series---on the world's pseudo-technology.  For example, there is **no** rational reason that I should know that the very fictional *Enterprise* uses four fist-sized lithium crystals in moving power from the generators (which, from *The Naked Time*, we know is primarily through matter-antimatter collision) around the ship, and that they can do without all four but it increases the chances of burnout of the others, but this episode has made sure that I know exactly that.  Then, the B-plot goes a lot further than it needs to in explaining why the mining colony is important.  It doesn't bog the episode down, thankfully, but also doesn't *really* add anything.  There's a solid five minutes that could easily be edited out without anybody noticing.
 
-Unrelated, it's also pretty funny that the drug that manipulates women into being what obnoxious men want instead of having some self-confidence is a [red pill](https://en.wikipedia.org/wiki/Men%27s_rights_movement#Movement).
+Unrelated, it's also pretty funny that the drug that manipulates women into being what obnoxious men want instead of having some self-confidence is a {% wiki Men%27s_rights_movement#Movement|red pill|en %}.
 
 ## Blish's Adaptation
 

@@ -25,7 +25,7 @@ I don't *just* program, of course, because that's never all I do.  That should b
 
 Also, in "honor" of a completely fake awareness holiday that I'd otherwise completely ignore---National Banana Bread Day (also yesterday)---I'd like to point out a quick discovery I landed on:  Banana bread is better when it's bread than when it's cake.
 
-That is, your typical banana bread is a [quickbread](https://en.wikipedia.org/wiki/Quick_bread), leavened with baking powder and usually containing eggs, milk, and sugar.  In other words, it's a cake disguised as bread or a gigantic, rectangular muffin.  It tastes fine (if usually too sweet), but is soft and tears/crumbles easily.
+That is, your typical banana bread is a {% wiki Quick_bread|quickbread|en %}, leavened with baking powder and usually containing eggs, milk, and sugar.  In other words, it's a cake disguised as bread or a gigantic, rectangular muffin.  It tastes fine (if usually too sweet), but is soft and tears/crumbles easily.
 
 This past week, though---unrelated to Banana Bread Day, I promise---I had some leftover bananas and decided to try something different.  I made a half-batch of no-knead bread dough (1½c whole wheat flour, ½tsp salt, ¼tsp yeast, and ½c water) plus three over-ripe bananas, some crushed walnuts, and a tablespoon or so of sugar.  I then let it rise eighteen hours and baked at 425ºF for forty minutes and got a *much* better banana bread out of the deal.  It's less sweet, which I prefer (and can be changed significantly by...y'know, adding more sugar, if you prefer) and it's physically strong enough to not crumble when spreading butter or peanut butter on a slice.
 
@@ -249,13 +249,13 @@ Other likely targets include, though less critical as the above, would be, in no
  * Review the entire product for accessibility, including undertaking an [internationalization](https://github.com/jcolag/Bicker) effort.
  * At least consider whether there's a useful way to federate Bicker servers with [ActivityPub](https://activitypub.rocks/).
  * Generalize and centralize the punctuation list.
- * Allow for multiple types of replies, possibly using the [Occupy Movement hand signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals) as a guide, to help users clarify how they'd like others to interpret their replies.
+ * Allow for multiple types of replies, possibly using the {% wiki Occupy_movement_hand_signals|Occupy Movement hand signals|en %} as a guide, to help users clarify how they'd like others to interpret their replies.
  * Analyze messages and replies before posting, in order to suggest when they might be interpreted as overly aggressive.
  * Have links to easily share specific comments inside and outside Bicker.
  * Attach previews to paragraphs when URLs are posted.
  * Look at scaling everything; I doubt Bicker will ever see millions of concurrent users, but I'd like to have a plan in place for how to do that, whether that's rewriting parts as microservices or something entirely different.
  * Import and export messages.
- * Turn the message pages into little [progressive web apps](https://en.wikipedia.org/wiki/Progressive_web_application), allowing users to keep working even if their connection to the server goes down for a while.
+ * Turn the message pages into little {% wiki Progressive_web_application|progressive web apps|en %}, allowing users to keep working even if their connection to the server goes down for a while.
  * Make it possible/easy to embed into another web page.
  * Move these possible features to issues on [the GitHub repository](https://github.com/jcolag/Bicker) for better tracking.
 

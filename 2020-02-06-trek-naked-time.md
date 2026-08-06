@@ -17,7 +17,7 @@ offset: -17%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -47,7 +47,7 @@ The decontamination system is notably invisible and presumably automated.
 
 We get some sense of how alien Vulcans are from humans.  Spock is apparently *significantly* different from the humans, biologically, which will eventually figure into the plot.
 
-However, once again, someone (McCoy, here) sees no problem making demeaning comments to Spock about the fact that he's not like most of the people he knows.  Imagine a doctor today dismissing a patient's check-up because they have a B-negative [blood type](https://en.wikipedia.org/wiki/Blood_type) because it's not something the doctor sees every day.
+However, once again, someone (McCoy, here) sees no problem making demeaning comments to Spock about the fact that he's not like most of the people he knows.  Imagine a doctor today dismissing a patient's check-up because they have a B-negative {% wiki Blood_type|blood type|en %} because it's not something the doctor sees every day.
 
 Neither the decontamination nor McCoy finds anything, despite a visible object attacking Joe and him sitting around sickbay like he's allergic to the place.
 
@@ -61,7 +61,7 @@ It also interests me that, this time, McCoy is telling everybody else to trust t
 
  > **KIRK**: Earth Science needs the closest possible measurement of the breakup of this planet. To do this, we need the *Enterprise* in a critically tight orbit.
 
-"Earth Science" sounds like it must be an organization that has at least partial control over the *Enterprise*'s activities, and presumably not the [scientific discipline](https://en.wikipedia.org/wiki/Earth_science).
+"Earth Science" sounds like it must be an organization that has at least partial control over the *Enterprise*'s activities, and presumably not the {% wiki Earth_science|scientific discipline|en %}.
 
  > **KIRK**: The purpose of a briefing, gentlemen, is to get me answers based on your abilities and experience. In a critical orbit, there's no time for surprise.
 
@@ -133,7 +133,7 @@ It's also possible that this is due to NBC's Standards and Practices.  About twe
 
 This is subtle, but interesting.  This sounds like there might be members of the crew knowingly struggling with psychiatric disorders (self-doubt is often associated with anxiety and depression disorders) with everyone's support.  If this is the intent, it's obviously as it *should* be (other than Gary Mitchell's far more dangerous disorder), but this isn't even a common sentiment *today*, let alone in 1966.
 
-That said, Joe is *still* an idiot.  No amount of [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) or undermined confidence excuses breaching containment to scratch his nose...
+That said, Joe is *still* an idiot.  No amount of {% wiki Impostor_syndrome|imposter syndrome|en %} or undermined confidence excuses breaching containment to scratch his nose...
 
  > **SULU**: Don't know if it's this planet or what happened with Joe. I'm sweating like a bridegroom.
  >
@@ -167,7 +167,7 @@ I initially thought that this might be evidence against the acceptance of psychi
 
 Especially depending on what he was about to say when he got cut off, this is potentially a sign of pretty terrible sentiments hiding just beneath the surface.  And there's also an obvious legacy of sexism in the "universal suffrage" quip, which was clearly intended to be funny.
 
-On the suffrage point, keep in mind that the United States would be celebrating the 46th anniversary of the [Nineteenth Amendment](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution), but Switzerland was still five years away from granting women the right to vote in federal elections and there are still countries struggling with this question.
+On the suffrage point, keep in mind that the United States would be celebrating the 46th anniversary of the {% wiki Nineteenth_Amendment_to_the_United_States_Constitution|Nineteenth Amendment|en %}, but Switzerland was still five years away from granting women the right to vote in federal elections and there are still countries struggling with this question.
 
  > **RILEY**: You know something? You have such lovely eyes, pretty lady.
  >
@@ -183,11 +183,11 @@ Chapel completely drops the ball by letting Riley walk after (a) the orders went
 
  > **SPOCK**: Take d'Artagnan here to Sickbay.
 
-[Cardinal Richelieu](https://en.wikipedia.org/wiki/Cardinal_Richelieu) and [d'Artagnan](https://en.wikipedia.org/wiki/Charles_de_Batz_de_Castelmore_d'Artagnan), of course, are both real people, but are mostly known for their appearances in [**The Three Musketeers**](https://en.wikipedia.org/wiki/The_Three_Musketeers) and its sequels and adaptations.  Interestingly, Spock (and the writer) makes the connection, but identifies both names as originating in the eighteenth century, which isn't 1625.  Even if we assume that *Star Trek*'s history makes them both exclusively fictional characters, Dumas wrote the book in 1844, the mid-*nine*teenth century.
+{% wiki Cardinal_Richelieu|Cardinal Richelieu|en %} and {% wiki Charles_de_Batz_de_Castelmore_d'Artagnan|d'Artagnan|en %}, of course, are both real people, but are mostly known for their appearances in {% wiki The_Three_Musketeers|**The Three Musketeers**|en %} and its sequels and adaptations.  Interestingly, Spock (and the writer) makes the connection, but identifies both names as originating in the eighteenth century, which isn't 1625.  Even if we assume that *Star Trek*'s history makes them both exclusively fictional characters, Dumas wrote the book in 1844, the mid-*nine*teenth century.
 
 Also of note is that Sulu's heroic tradition is very European.  While it would obviously be a tokenizing clich&eacute; for the one character played by a Japanese-American man to have been more interested in samurai or similar traditions, we haven't really seen any other cross-cultural interests, so far.  In fact, we've seen an almost nationalistic view of Earth, with a Hispanic-named character (unseen) having a special interest in Mexican peppers, Uhura's occasional focus on all things Swahili, the broad focus on United States history, and even Riley's obsession with all things Irish that we're going to see a *lot* of for the rest of the episode.
 
-I suppose it can be argued that there is cultural mixing in the background, such as judo-like martial arts and officers playing a variant of chess, but the former isn't presented as central to anybody's identity and the latter is clearly the Westernized version rather than [Chaturanga/चतुरङ्ग](https://en.wikipedia.org/wiki/Chaturanga) or other early forms.
+I suppose it can be argued that there is cultural mixing in the background, such as judo-like martial arts and officers playing a variant of chess, but the former isn't presented as central to anybody's identity and the latter is clearly the Westernized version rather than {% wiki Chaturanga|Chaturanga/चतुरङ्ग|en %} or other early forms.
 
  > **SULU**: I'll protect you, fair maiden.
  >
@@ -361,13 +361,13 @@ The first is how readily the crew just accepts the invention of time travel, mer
 
 Second, it appears that the "cold start" applies the full force of the main engines through normal space, rather than whatever it is that the warp engines do.
 
-Third, since the crew and most of the technology is moving forward in time as the ship is moving backwards, the clock must be reading the time from an external source, which suggests (like the Thanksgiving discussion in [*Charlie X*]({% post_url 2020-01-16-trek-charlie %})) that there is a single, universal clock that doesn't care about [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity), which makes star dates seem even stranger.
+Third, since the crew and most of the technology is moving forward in time as the ship is moving backwards, the clock must be reading the time from an external source, which suggests (like the Thanksgiving discussion in [*Charlie X*]({% post_url 2020-01-16-trek-charlie %})) that there is a single, universal clock that doesn't care about {% wiki Theory_of_relativity|relativity|en %}, which makes star dates seem even stranger.
 
 Lastly, the *Enterprise* has what sounds like a long list of mundane assignments, to the point that he instructs Sulu to just pick the next one on the list without seeing if it's time-sensitive (three days early could easily be a disaster, in some cases) or even knowing the name.
 
 ## Commentary
 
-I don't have much to say about this episode, but if I can briefly editorialize, I'm baffled by [Chekhov's freezer](https://en.wikipedia.org/wiki/Chekhov's_gun) not being put into play, here.  The opening scenes go out of their way to suggest that temperature is relevant to the life-cycle of the infection.  Yet aside from some mild sweating and the revelation that the pathogen (or whatever it is) is communicated *through* sweat, the cold never figures into the story again.
+I don't have much to say about this episode, but if I can briefly editorialize, I'm baffled by {% wiki Chekhov's_gun|Chekhov's freezer|en %} not being put into play, here.  The opening scenes go out of their way to suggest that temperature is relevant to the life-cycle of the infection.  Yet aside from some mild sweating and the revelation that the pathogen (or whatever it is) is communicated *through* sweat, the cold never figures into the story again.
 
 ## Blish's Adaptation
 
@@ -387,7 +387,7 @@ Speaking of Riley, his mansplaining beauty tips to the female members of the cre
 
 The episode's resolution is an off-screen McCoy creating a gaseous antidote, so Riley is able to voluntarily undo the damage he's done to the ship systems.
 
-We then get a rambling exposition from McCoy, so that Kirk can not know much about [cactuses](https://en.wikipedia.org/wiki/Cactus), and for McCoy to blame Spock's water samples on the infection, rather than Joe taking his glove off to touch everything.  The general idea seems to be that the chemical absorbs water, depriving the brain of blood, which sounds like a long-term [stroke](https://en.wikipedia.org/wiki/Stroke).  The chemical is described as a catalyst---a chemical that facilitates chemical reactions, but isn't a part of those reactions---that multiplies over time, and so sounds like some sort of nanotechnology, rather than a generic chemical or pathogen.
+We then get a rambling exposition from McCoy, so that Kirk can not know much about {% wiki Cactus|cactuses|en %}, and for McCoy to blame Spock's water samples on the infection, rather than Joe taking his glove off to touch everything.  The general idea seems to be that the chemical absorbs water, depriving the brain of blood, which sounds like a long-term {% wiki Stroke|stroke|en %}.  The chemical is described as a catalyst---a chemical that facilitates chemical reactions, but isn't a part of those reactions---that multiplies over time, and so sounds like some sort of nanotechnology, rather than a generic chemical or pathogen.
 
 We then head to Spock, who's singing in his quarters in a presumably-Vulcan language, apparently unaffected by the antidote.
 
@@ -427,7 +427,7 @@ And, as mentioned in just about every episode, the show *very* much wants to mak
 
 ### The Weird
 
-We also have a lot of that strange undercurrent of nationalism, this time---by associating specifically with a French novel---hinting at the possibility that the seemingly-Asian culture represented by Sulu's ancestry ([George Takei](https://en.wikipedia.org/wiki/George_Takei) is Japanese, of course, but [Sulu](https://en.wikipedia.org/wiki/Sulu) is a clear reference to the Philippines) in particular may no longer be relevant on Earth.
+We also have a lot of that strange undercurrent of nationalism, this time---by associating specifically with a French novel---hinting at the possibility that the seemingly-Asian culture represented by Sulu's ancestry ({% wiki George_Takei|George Takei|en %} is Japanese, of course, but {% wiki Sulu|Sulu|en %} is a clear reference to the Philippines) in particular may no longer be relevant on Earth.
 
 Tormorlen expressed some sentiments that imply that humans have been spreading out in imperial or colonial ways, leaving a wake of destruction behind them.  There are a lot of interpretations, here, almost all of them bad, but the vagueness keeps this in the "weird" bin.
 

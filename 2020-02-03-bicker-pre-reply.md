@@ -144,7 +144,7 @@ Some of this will require some refactoring.  For example, the code that splits m
 
 ## Cleanup
 
-I've been [moving fast and breaking things](https://en.wikipedia.org/wiki/Move_fast_and_break_things_(motto)), in a push to get things running.  One of the big broken things is how the application has been handling things when users aren't logged in.  That is, I've been relying on the user being logged in, so looking for things like `current_user.login` threw a bunch of exceptions.  They were all easy to fix, but pretty embarrassing.
+I've been {% wiki Move_fast_and_break_things_%28motto%29|moving fast and breaking things|en %}, in a push to get things running.  One of the big broken things is how the application has been handling things when users aren't logged in.  That is, I've been relying on the user being logged in, so looking for things like `current_user.login` threw a bunch of exceptions.  They were all easy to fix, but pretty embarrassing.
 
 And in the vein of dumb moves due to testing the wrong thing, I've been testing the reply forms on messages with only one paragraph and assigning the forms IDs that didn't take multiple paragraphs into account, so all of the buttons pointed to the first paragraph.  That wasn't great, but it was easy to have an additional property filter down to where it needs to be.
 

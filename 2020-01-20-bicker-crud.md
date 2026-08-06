@@ -21,7 +21,7 @@ If you want to read the other posts in the series, you can get a full list of po
 
 ## Plan A
 
-After [last week]({% post_url 2020-01-13-bicker-1 %})'s easy wins, I started out this past week thinking I would nibble at *Bicker* around the edges.  Create some quick controllers and views and dump out a working [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) foundation to build the rest of the user interface on.
+After [last week]({% post_url 2020-01-13-bicker-1 %})'s easy wins, I started out this past week thinking I would nibble at *Bicker* around the edges.  Create some quick controllers and views and dump out a working {% wiki Create,_read,_update_and_delete|CRUD|en %} foundation to build the rest of the user interface on.
 
 {% pull ...I stupidly made a whole bunch of fields in my database models required... %}
 
@@ -35,7 +35,7 @@ Regardless, on top of the other issue, I also still had that vestigial `sessions
 
 ## Rollback, into a Ditch
 
-The obvious solution, at this point, was to create a migration to fix the problems.  And I did exactly that.  A small problem, though, is that either Rails or SQLite doesn't allow for changing reference columns if [referential integrity](https://en.wikipedia.org/wiki/Referential_integrity) checks fail.
+The obvious solution, at this point, was to create a migration to fix the problems.  And I did exactly that.  A small problem, though, is that either Rails or SQLite doesn't allow for changing reference columns if {% wiki Referential_integrity|referential integrity|en %} checks fail.
 
 Again, wouldn't it be great if those checks were performed during *creation* instead of waiting until someone is trying to fix the problem...?
 
@@ -138,7 +138,7 @@ And that takes care of that!  I *finally* have a basic CRUD application working 
 While doing this, I also put together some new graphic design.  I re-created Bickie the mascot and the logo as an SVG, tossed together a *very* quick (and, frankly, substandard) Earthy color scheme, and chose some basic fonts:
 
  * [Paprika](https://fonts.google.com/specimen/Paprika) for the headings and logo
- * [Roboto](https://en.wikipedia.org/wiki/Roboto) for the main text
+ * {% wiki Roboto|Roboto|en %} for the main text
 
 I also created a very simple background texture, since I find that such patterns (like the squares on this page) make a site feel less harsh when looking at it for extended periods.  In this case, I just used the [GNU Image Manipulation Program](https://www.gimp.org/) to create grayscale "plasma clouds," made the image tileable, and then dropped the opacity to something that's not easily noticed, but still detectable.
 
@@ -194,7 +194,7 @@ All this conversion, though, causes a few very minor conflicts.  For example, bo
 
 ### Before Markdown
 
-If you want the *whole* history, here, the original version of **Bicker** supported [Textile](https://en.wikipedia.org/wiki/Textile_(markup_language)) as the markup language via [RedCloth](https://redcloth.org/).  At the time, Textile was standard for Ruby applications and, while Markdown *existed* (its specification dates to 2004), it wasn't in nearly the wide use it sees today.  Since I'm not shooting for backward-compatibility, I'm opting for the more modern lightweight markup language, here.
+If you want the *whole* history, here, the original version of **Bicker** supported {% wiki Textile_%28markup_language%29|Textile|en %} as the markup language via [RedCloth](https://redcloth.org/).  At the time, Textile was standard for Ruby applications and, while Markdown *existed* (its specification dates to 2004), it wasn't in nearly the wide use it sees today.  Since I'm not shooting for backward-compatibility, I'm opting for the more modern lightweight markup language, here.
 
 Most of the same issues are inevitably involved in both, however.  For example, I probably didn't care about code blocks at the time, but numbered lists are inevitably a mess when separating each line into its own paragraph.  The conversion turns each item into its own paragraph and so has its own list, which isn't ideal.
 

@@ -38,7 +38,7 @@ I wasn't able to get the Ubuntu software repository to work, so downloaded the A
 
 Running the program, you're asked to fill in...
 
- * The type of node (Standard, over [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)), and over Tor and [I2P](https://en.wikipedia.org/wiki/I2P),
+ * The type of node (Standard, over {% wiki Tor_%28anonymity_network%29|Tor|en %}, and over Tor and {% wiki I2P|I2P|en %},
  * A user name,
  * A password, and
  * Some randomness by moving your mouse around the window.

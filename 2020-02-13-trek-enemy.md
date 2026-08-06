@@ -17,7 +17,7 @@ offset: -25%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -37,7 +37,7 @@ Notable with respect to how the ship is run (though not the outside world, which
 
 Alpha 177, though---like Psi 2000 [last time]({% post_url 2020-02-06-trek-naked-time %})---implies that we've given up on trying to identify where planets are.  This probably makes *some* sense, since creators wouldn't want to waste time listening to (*cough, cough*) some jackass fan tracking every single mention to point out why the new setting is implausible with respect to the ship's previous location.
 
-It seems likely that this represents another transition, away from Bayer/Flamsteed star designations (Lambda Scorpii/55 Cancri) and towards more modern star catalogs where "names" are often computer-generated and refer to properties of the object being named, such as [PSR J0737-3039](https://en.wikipedia.org/wiki/PSR_J0737%E2%88%923039) or [SDSSp](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey) J153259.96-003944.1.
+It seems likely that this represents another transition, away from Bayer/Flamsteed star designations (Lambda Scorpii/55 Cancri) and towards more modern star catalogs where "names" are often computer-generated and refer to properties of the object being named, such as {% wiki PSR_J0737%E2%88%923039|PSR J0737-3039|en %} or {% wiki Sloan_Digital_Sky_Survey|SDSSp|en %} J153259.96-003944.1.
 
 Given that [*Charlie X*]({% post_url 2020-01-16-trek-charlie %}) dialogue referred to "Colony Alpha Five," the planet in this episode may be named to think of it as a later planet discovered in the Alpha category, whether that's a region of space, detection method, or catalog/research organization.  That would fit with Psi 2000 in *The Naked Time*, as well.
 
@@ -125,7 +125,7 @@ Also showing deeply-entrenched sexism is how this part of Kirk---who we're told 
  >
  >  **KIRK**: Yes, I do know that, Mister Spock. What I don't know is why I forgot that just now. Mister Spock, if you see me slipping again, your orders, your orders are to tell me.
 
-If Kirk hadn't responded, I would suggest that this is more evidence of the Vulcans' problematic culture, because this shaming of weakness is often central to [hegemonic masculinity](https://en.wikipedia.org/wiki/Hegemonic_masculinity).  But Kirk did, so...yeah, that's everybody's culture, here, I guess.  Thankfully, research is building up to show that this isn't a legitimate way to lead and leaders are picking up on it and showing vulnerability.
+If Kirk hadn't responded, I would suggest that this is more evidence of the Vulcans' problematic culture, because this shaming of weakness is often central to {% wiki Hegemonic_masculinity|hegemonic masculinity|en %}.  But Kirk did, so...yeah, that's everybody's culture, here, I guess.  Thankfully, research is building up to show that this isn't a legitimate way to lead and leaders are picking up on it and showing vulnerability.
 
 We don't have dialogue for it, since it's simply visual, but Evil Kirk goes to Kirk's bathroom for a pretty heavy makeup to conceal the scratches on his face.  We know it's Kirk's quarters, because:
 
@@ -191,13 +191,13 @@ And then, after everybody is safe, Spock goes out of his way to show us that he'
 
  > **SPOCK**: The...errr, impostor had some *interesting* qualities, wouldn't you say, Yeoman?
 
-Yep.  Spock, the man who lectures people on being illogical, just took a moment out of his *job* to crudely suggest to Rand that she probably enjoyed being sexually assaulted by her boss.  And he *leers* at her, too, apparently satisfied that he hurt her.  Apparently, when Chapel said "the men from Vulcan treat their women strangely," in *The Naked Time*, she meant that they stand around making crude comments to demean the women and then [gaslighting](https://en.wikipedia.org/wiki/Gaslighting) them.
+Yep.  Spock, the man who lectures people on being illogical, just took a moment out of his *job* to crudely suggest to Rand that she probably enjoyed being sexually assaulted by her boss.  And he *leers* at her, too, apparently satisfied that he hurt her.  Apparently, when Chapel said "the men from Vulcan treat their women strangely," in *The Naked Time*, she meant that they stand around making crude comments to demean the women and then {% wiki Gaslighting|gaslighting|en %} them.
 
 That's a level of sexism and predatory behavior I can honestly say I wasn't expecting, especially as the happy-ending episode "button," but I suppose the saving grace is that Rand is not pleased.  She doesn't say anything---recalling her fear of "making trouble" for her superiors and damaging relationships---but her demeanor changes dramatically as Spock speaks.
 
 ## Commentary
 
-Obviously, this story is based---more than anything else---on Robert Louis Stevenson's [**The Strange Case of Dr. Jekyll and Mr. Hyde**](https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde), with science-gone-awry dividing a strong man into two weaker halves along very similar lines.
+Obviously, this story is based---more than anything else---on Robert Louis Stevenson's {% wiki Strange_Case_of_Dr_Jekyll_and_Mr_Hyde|**The Strange Case of Dr. Jekyll and Mr. Hyde**|en %}, with science-gone-awry dividing a strong man into two weaker halves along very similar lines.
 
 It's not a bad choice.  Like Kirk, Jekyll is broadly educated, with some background as a lawyer, doctor, and biochemist.  Both also seem to deliberately eschew the trappings of their status and are willing to literally put their lives on the line to protect others.  When they talk about their pasts, they seem to imply that a lot of the good they do is to balance harm done, but aren't ashamed of anything they've been through.  Jekyll is described as...
 
@@ -271,7 +271,7 @@ To the Spock point, though, Spock has jumped right from quiet admissions that "l
 
 Also, a lot of the crew still continues to be bad at their jobs, with Scotty calling to double-check the transporter *after* he finishes beaming Kirk back to the ship.  Even Kirk and Spock show terrible ideas about leadership.
 
-And the show still wants to make it abundantly clear that sexism is still very much alive and well and is a bad thing about the culture that needs fixing.  The only possible exception to the latter point is Spock's embrace and perpetuation of [rape culture](https://en.wikipedia.org/wiki/Rape_culture), which is treated as a joking last line instead of being shown to have grave consequences beyond Rand being angry.  And as mentioned, "Good Kirk" only really cares about Rand's trauma to the extent that it makes him look bad in front of his friends.  And all of this is **far** worse in Blish's adaptation.
+And the show still wants to make it abundantly clear that sexism is still very much alive and well and is a bad thing about the culture that needs fixing.  The only possible exception to the latter point is Spock's embrace and perpetuation of {% wiki Rape_culture|rape culture|en %}, which is treated as a joking last line instead of being shown to have grave consequences beyond Rand being angry.  And as mentioned, "Good Kirk" only really cares about Rand's trauma to the extent that it makes him look bad in front of his friends.  And all of this is **far** worse in Blish's adaptation.
 
 Lastly, if Blish is to be believed, McCoy is happy to mock non-Western cultures for the sake of a quick joke.
 

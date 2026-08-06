@@ -24,7 +24,7 @@ I believe that people can cope with just about any system, so weird mental model
 
 {% pull ...all but the simplest operations need to be explained. %}
 
-Another possibility that doesn't *quite* hold water is the concept of the [Turing tarpit](https://en.wikipedia.org/wiki/Turing_tarpit), where all but the simplest operations need to be explained.  You can see this when trying to work with [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) or a [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) (such as [PosTuring](https://github.com/jcolag/PosTuring), if that's your thing) and it can be a nuisance.  However, there are two aspects to programming that make this a bad move.
+Another possibility that doesn't *quite* hold water is the concept of the {% wiki Turing_tarpit|Turing tarpit|en %}, where all but the simplest operations need to be explained.  You can see this when trying to work with {% wiki Lambda_calculus|Lambda calculus|en %} or a {% wiki Turing_machine|Turing machine|en %} (such as [PosTuring](https://github.com/jcolag/PosTuring), if that's your thing) and it can be a nuisance.  However, there are two aspects to programming that make this a bad move.
 
  * The pain doesn't come from *difficulty*, but rather from *tedium*.  So, we know how to multiply two numbers, but doing so means adding them repeatedly in a loop, and adding them requires incrementing them in a loop, and maybe incrementing them requires some bit-twiddling code.  Nobody really wants to do that, sure, but if you offered a low-end software developer's salary for someone to work that way, your company would still get candidates filling out the application.
  * Because we're talking about a difficulty that is *basically* just copying and pasting templates, the "tarpit mentality" also fails us, because we can just automate the pain away.  In other words, we can just write a compiler that turns a high-level language that people enjoy working with into a Lambda calculus expression or whatever the low-level language might be.
@@ -52,7 +52,7 @@ It's not *terrible*, of course, but it immediately means that type-mismatch erro
 
 ### Orthogonality
 
-Following onto the (lack of a) type system, in my experience, authors of programming language textbooks like to talk a lot about [orthogonality](https://en.wikipedia.org/wiki/Orthogonal_instruction_set)---the idea that every tool (instruction) should plausibly be usable with any material (data type)---and, especially in older books, can be inclined to call out examples of where famous languages "fail," because the programmer needs to learn an exception.
+Following onto the (lack of a) type system, in my experience, authors of programming language textbooks like to talk a lot about {% wiki Orthogonal_instruction_set|orthogonality|en %}---the idea that every tool (instruction) should plausibly be usable with any material (data type)---and, especially in older books, can be inclined to call out examples of where famous languages "fail," because the programmer needs to learn an exception.
 
 The orthogonality fetish, then, is one of the top features on my priority list.
 
@@ -79,7 +79,7 @@ It's not hard to see how this not only continues the theme of camouflaging error
 
 {% pull ...the most important programming language you've never heard of... %}
 
-By the way, while we're here, I should probably take a beat to mention that **SNOBOL** is probably the most important programming language you've never heard of.  That's primarily because it laid the groundwork for [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) with its *patterns*, a first-class data type with a bit more flexibility than modern regular expressions have, designed to make implementing parsers easy, given a grammar.
+By the way, while we're here, I should probably take a beat to mention that **SNOBOL** is probably the most important programming language you've never heard of.  That's primarily because it laid the groundwork for {% wiki Regular_expression|regular expressions|en %} with its *patterns*, a first-class data type with a bit more flexibility than modern regular expressions have, designed to make implementing parsers easy, given a grammar.
 
 ### Defaults
 
@@ -120,7 +120,7 @@ else
   else = if
 ```
 
-Similar but distinct ambiguity is in very early versions of **FORTRAN**.  Because code would often be written out by hand by engineers and typed ("keyed in") to [punch cards](https://en.wikipedia.org/wiki/Punched_card) by someone in a more clerical role, compilers would completely ignore white-space.  I have never found confirmation of the reasoning, but it seems extremely likely that the choice was made in order to prevent a secretary's intuitive insertion of spaces into a compound-word variable name wouldn't cause the compiler to fail the program back when running software had a significant per-minute cost.  But either way, it meant that a variable assignment such as...
+Similar but distinct ambiguity is in very early versions of **FORTRAN**.  Because code would often be written out by hand by engineers and typed ("keyed in") to {% wiki Punched_card|punch cards|en %} by someone in a more clerical role, compilers would completely ignore white-space.  I have never found confirmation of the reasoning, but it seems extremely likely that the choice was made in order to prevent a secretary's intuitive insertion of spaces into a compound-word variable name wouldn't cause the compiler to fail the program back when running software had a significant per-minute cost.  But either way, it meant that a variable assignment such as...
 
 ```fortran
 DO I = 1
@@ -219,11 +219,11 @@ swap (i, arr[i]); /* - Bad! */
   arr[i] = arr[3] = 4;
 ```
 
-Note that pass-by-name routine parameters have *legitimate* uses, too, the most famous being [Jensen's Device](https://en.wikipedia.org/wiki/Jensen's_Device), a metaprogramming technique that passes entire expressions as parameters to leverage simple code into performing complex actions.
+Note that pass-by-name routine parameters have *legitimate* uses, too, the most famous being {% wiki Jensen's_Device|Jensen's Device|en %}, a metaprogramming technique that passes entire expressions as parameters to leverage simple code into performing complex actions.
 
 ## Anti-Collaboration
 
-For any significant project, software is written by a team.  A good language, in this context, is going to be one where it's easy to coordinate with fellow developers, where failure to make that easy is the core of the so-called [software crisis](https://en.wikipedia.org/wiki/Software_crisis).  Resolving the software crisis is the core premise behind the adoption of object-oriented and functional programming.
+For any significant project, software is written by a team.  A good language, in this context, is going to be one where it's easy to coordinate with fellow developers, where failure to make that easy is the core of the so-called {% wiki Software_crisis|software crisis|en %}.  Resolving the software crisis is the core premise behind the adoption of object-oriented and functional programming.
 
 These features, then, are designed to stymie teamwork.
 
@@ -280,15 +280,15 @@ On top of that, other than the syntax and commenting issues, each feature also e
 
 Since we clearly need *more reading* after all that, here are some references to the languages discussed above...
 
- * **Algol 68**:  [ALGOL 68](https://en.wikipedia.org/wiki/ALGOL_68)
+ * **Algol 68**:  {% wiki ALGOL_68|ALGOL 68|en %}
  * **APL**:  [The APL Programming Language Source Code](http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/)
  * **C**:  [HowStuffWorks "The Basics of C Programming"](http://www.howstuffworks.com/c.htm) and [The International Obfuscated C Code Contest](http://ioccc.org/)
  * **FORTH**:  [Forth Interest Group Home Page](http://www.forth.org/)
- * **FORTRAN**:  [Fortran](https://en.wikipedia.org/wiki/Fortran), [FORTRAN I](http://www.paulgraham.com/history.html), and [FORTRAN IV Reference Page](http://www.math-cs.gordon.edu/courses/cs323/FORTRAN/fortran.html)
+ * **FORTRAN**:  {% wiki Fortran|Fortran|en %}, [FORTRAN I](http://www.paulgraham.com/history.html), and [FORTRAN IV Reference Page](http://www.math-cs.gordon.edu/courses/cs323/FORTRAN/fortran.html)
  * **INTERCAL**:  [The INTERCAL Programming Language Revised Reference Manual](http://www.muppetlabs.com/~breadbox/intercal-man/)
  * **Java**:  [Oracle Technology Network for Java Developers](http://www.oracle.com/technetwork/java)
  * **make**:  [Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
- * **PL/I**:  [PL/I](https://en.wikipedia.org/wiki/PL/I) and [What is PL/I?](http://members.dodo.com.au/~robin51/pliwhat.htm)
+ * **PL/I**:  {% wiki PL/I|PL/I|en %} and [What is PL/I?](http://members.dodo.com.au/~robin51/pliwhat.htm)
  * **Python**:  [Welcome to Python.org](https://www.python.org/)
  * **Ruby**:  [ruby-lang](https://www.ruby-lang.org)
  * **SNOBOL**:  [SNOBOL4 Resources](http://www.snobol4.org/)

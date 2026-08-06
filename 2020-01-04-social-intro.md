@@ -28,7 +28,7 @@ In most cases, I also probably won't be putting much effort (if any) into runnin
 
 For the people not already versed in the relevant concepts, here's a quick summary of what you'll want to know to make sense of the posts that follow:
 
- * **Protocol**s are the simple languages that systems use to communicate with each other.  For example, the address in your web browser probably starts with [`https`](https://en.wikipedia.org/wiki/HTTPS), standing for "**H**yper**t**ext **T**ransfer **P**rotocol (**S**ecure)."
+ * **Protocol**s are the simple languages that systems use to communicate with each other.  For example, the address in your web browser probably starts with {% wiki HTTPS|`https`|en %}, standing for "**H**yper**t**ext **T**ransfer **P**rotocol (**S**ecure)."
 
  * **Centralized** systems run the same way that the more familiar commercial services generally do, with one website or server where you register and connect.  That central service can have any rules the owners please and enforce them however the owners please.  However, if you can connect to the central service, you have access to the entire network.
 
@@ -36,11 +36,11 @@ For the people not already versed in the relevant concepts, here's a quick summa
 
  * **Peer-to-Peer** systems treat each user as a separate service that sends to and receives from other users, directly, rather than mediated by official third parties.  While there's no *direct* reliance on third parties, there are still intermediaries in transfer and potential security concerns with inviting all the required connections onto each user's computer.
 
- * **Offline** systems generally have no central repositories of content or history, instead expecting each participant to maintain a copy, much like (and often inspired by) [blockchain](https://en.wikipedia.org/wiki/Blockchain) systems.  This allows each user to read and write content without a connection to the network, then update their local content and the network when a connection becomes available, possibly even transmitting through a friend in person.
+ * **Offline** systems generally have no central repositories of content or history, instead expecting each participant to maintain a copy, much like (and often inspired by) {% wiki Blockchain|blockchain|en %} systems.  This allows each user to read and write content without a connection to the network, then update their local content and the network when a connection becomes available, possibly even transmitting through a friend in person.
 
  * **Markdown** is a simple programming language in the same sense as HTML, a way to "mark up" text to provide it with structure and formatting, like headings.  You can read more about it at [Markdown](https://daringfireball.net/projects/markdown/) from its original pages.  It's the formatting system used for comments on this blog, and used by many Free Software social networks, because it's easy to learn and convert to other formats.
 
- * **Markup**, from which Markdown gets its name, is a generic idea representing the ability to add style and structure to text.  You have just seen a link to more information on Markdown, but you may also be familiar with [HTML](https://en.wikipedia.org/wiki/HTML) (*H*yper*t*ext *M*arkup *L*anguage) or [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+ * **Markup**, from which Markdown gets its name, is a generic idea representing the ability to add style and structure to text.  You have just seen a link to more information on Markdown, but you may also be familiar with {% wiki HTML|HTML|en %} (*H*yper*t*ext *M*arkup *L*anguage) or {% wiki LaTeX|LaTeX|en %}.
 
  * A **Repository** is a place where programmers leave source code in a way that makes it easy to track the entire history of the work.  Since the networks we'll be talking about are all Free Software, it's important to know where to find it.  You should probably be using one for a lot of your own work, actually, but that's another discussion for another day.
 
@@ -72,4 +72,4 @@ So, with that in mind, we'll get started next Saturday, talking about [Diaspora*
 
 * * *
 
-Credits: The header image is an animation of a social graph coming together, made available under a [Creative Commons Attribution, Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license by [Festys](https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Festys).
+Credits: The header image is an animation of a social graph coming together, made available under a [Creative Commons Attribution, Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license by {% wiki %D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Festys|Festys|ru %}.

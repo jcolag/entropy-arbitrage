@@ -16,7 +16,7 @@ thumbnail: /blog/assets/GSFC_20171208_Archive_e000698.png
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 Special disclaimer for just this episode:  This is going to be *really* long.  The episode was all but made for this project, so we have a lot to talk about, this time through.  You get extra pictures, though, so hang in there.
 
@@ -36,7 +36,7 @@ The episode dives right in, to the extent it can, given the kind of story we're 
 
  > **KIRK**: Interesting. An Arcturian Macbeth.
 
-The implication of this statement appears to be that this production of [**The Tragedy of Macbeth**](https://en.wikipedia.org/wiki/Macbeth) has been recontextualized as taking place in the vicinity of [Arcturus](https://en.wikipedia.org/wiki/Arcturus) (α Boötis, the brightest star in the northern celestial hemisphere).  Given that Arcturus is around thirty-seven light years from Earth, this probably means transplanting the story from Scotland to a colony in orbit there.
+The implication of this statement appears to be that this production of {% wiki Macbeth|**The Tragedy of Macbeth**|en %} has been recontextualized as taking place in the vicinity of {% wiki Arcturus|Arcturus|en %} (α Boötis, the brightest star in the northern celestial hemisphere).  Given that Arcturus is around thirty-seven light years from Earth, this probably means transplanting the story from Scotland to a colony in orbit there.
 
 On the other hand, this looks like a fairly traditional production, so it's hard to see what's "Arcturian" about it.
 
@@ -44,9 +44,9 @@ Anyway, there are *some* similarities between **Macbeth** and *The Conscience of
 
 ![Ellen Terry as Lady Macbeth](/blog/assets/Ellen_Terry_plays_Lady_Macbeth.png "Ellen Terry as Lady Macbeth, which is definitely not foreshadowing")
 
-Meanwhile, the episode's title is from [**The Tragedy of Hamlet, Prince of Denmark**](https://en.wikipedia.org/wiki/Hamlet), which will be introduced into the story later, though doesn't seem to have much of an influence on the plot.
+Meanwhile, the episode's title is from {% wiki Hamlet|**The Tragedy of Hamlet, Prince of Denmark**|en %}, which will be introduced into the story later, though doesn't seem to have much of an influence on the plot.
 
-Finally, Arcturus and Boötis are also associated with the myth of a young hunter nearly killing his mother, who had been transformed into a monstrous bear, represented by the constellation [Ursa Major](https://en.wikipedia.org/wiki/Ursa_Major).
+Finally, Arcturus and Boötis are also associated with the myth of a young hunter nearly killing his mother, who had been transformed into a monstrous bear, represented by the constellation {% wiki Ursa_Major|Ursa Major|en %}.
 
  > Captain's log, star date 2817.6. Starship Enterprise diverted from scheduled course. Purpose, to confirm discover by Doctor Thomas Leighton of an extraordinary new synthetic food which would totally end the threat of famine on Cygnia Minor, a nearby Earth colony.
 
@@ -104,7 +104,7 @@ Well, *that*'s...dark.  The background isn't going to make it better, either.
 
 Described as half, here, is what Leighton referred to as four thousand people, giving us an approximate size of the entire colony.  And since we think (from *Charlie X*) that a (small) city might have a population of about four hundred, that suggests a population distribution.
 
-Unrelated, "Tarsus" refers to many things, but none of those things is a star or constellation.  It doesn't even appear to have a mythological connection.  We can also exclude the reference some astronomers might recognize to [Tarsus crater](https://en.wikipedia.org/wiki/Tarsus_(crater)), since that name (a tribute to the Turkish city) wasn't approved until 1976.
+Unrelated, "Tarsus" refers to many things, but none of those things is a star or constellation.  It doesn't even appear to have a mythological connection.  We can also exclude the reference some astronomers might recognize to {% wiki Tarsus_%28crater%29|Tarsus crater|en %}, since that name (a tribute to the Turkish city) wasn't approved until 1976.
 
 Oh, and star date 2794.7 seems strangely recent, compared to the current star date of 2817.6, a difference of only 22.9 for a span of two decades.
 
@@ -186,7 +186,7 @@ Oh, hang on.  I almost forgot something.  **What the heck is Lenore wearing!?** 
  >
  > **SPOCK**: Benicia Colony is eight light years off our course.
 
-Benicia is probably a reference to the California town, but it's worth mentioning that **V**enicia is the Spanish name for [Venice](https://en.wikipedia.org/wiki/Venice).
+Benicia is probably a reference to the California town, but it's worth mentioning that **V**enicia is the Spanish name for {% wiki Venice|Venice|en %}.
 
  > **KIRK**: Mister Spock, ETA the Benicia Colony.
  >
@@ -350,9 +350,9 @@ Speaking only for myself, I find Karidian's explanation more plausible than the 
 
 {% imgr Wanderer above the Sea of Fog, Caspar David Friedrich|Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.png|Wanderer above Sea of Fog %}
 
-Karidian, like a few regimes before him, combines his eugenics theories and authoritarian stance with what amounts to [Romanticism](https://en.wikipedia.org/wiki/Romanticism):  Emotion, individualism, glorification of the past and nature, and so forth.
+Karidian, like a few regimes before him, combines his eugenics theories and authoritarian stance with what amounts to {% wiki Romanticism|Romanticism|en %}:  Emotion, individualism, glorification of the past and nature, and so forth.
 
-This *might* not be a coincidence.  I'll talk about this idea in more depth in its own post, someday, but a lot of conflict in Western culture really just boils down to a fight between the rationalism, tolerance, and progress of the [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) and the rejection of those ideals bound up into Romanticism.  Fascism, at the end of the day, is nothing more than an obsession with stopping Enlightenment ideas...which is one of the reasons it doesn't win.
+This *might* not be a coincidence.  I'll talk about this idea in more depth in its own post, someday, but a lot of conflict in Western culture really just boils down to a fight between the rationalism, tolerance, and progress of the {% wiki Age_of_Enlightenment|Enlightenment|en %} and the rejection of those ideals bound up into Romanticism.  Fascism, at the end of the day, is nothing more than an obsession with stopping Enlightenment ideas...which is one of the reasons it doesn't win.
 
 But like I said, that's a discussion for another post.
 
@@ -444,9 +444,9 @@ Is it really *so* hard to tell this story without making it creepy and predatory
 
  > "Mostly. But, to play the classics, in these times, when most people prefer absurd three-V serials...it isn't always as rewarding as it could be."
 
-Since we don't get any other context and given which company produced early episodes of **Star Trek**, I like to imagine that "absurd three-V serials" have nothing to do with high-tech holograms, but rather are just [three-camera](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeCameras) sitcoms that had been pioneered more than a decade earlier by [Karl Freund](https://en.wikipedia.org/wiki/Karl_Freund) for [Desilu Productions](https://en.wikipedia.org/wiki/Desilu_Productions).
+Since we don't get any other context and given which company produced early episodes of **Star Trek**, I like to imagine that "absurd three-V serials" have nothing to do with high-tech holograms, but rather are just [three-camera](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeCameras) sitcoms that had been pioneered more than a decade earlier by {% wiki Karl_Freund|Karl Freund|en %} for {% wiki Desilu_Productions|Desilu Productions|en %}.
 
-It's obviously supposed to be a reference to [3D film](https://en.wikipedia.org/wiki/3D_film), but it would be odd for the distant future to center its popular culture around a medium that the twenty-first century already considers at least somewhat tired, and so probably can't be that.
+It's obviously supposed to be a reference to {% wiki 3D_film|3D film|en %}, but it would be odd for the distant future to center its popular culture around a medium that the twenty-first century already considers at least somewhat tired, and so probably can't be that.
 
 Regardless, it's some hint that the broader culture is just as obsessed with centuries-old theater as we are:  Not much, in other words, except among the dedicated fans of the form or as a highbrow artistic experience.  And it also gives some insight that at least some people (like Lenore) feel stuck in their jobs.  Even taking into account that Lenore would rather be murdering people and there isn't much money in that, it's an interesting point.
 
@@ -484,9 +484,9 @@ Anyway, the idea that human nature has "grown" and "expanded" is interesting, an
 
 There are quite a few things wrapped up in Kirk's memories.
 
-The rank of [midshipman](https://en.wikipedia.org/wiki/Midshipman) has many historical meanings, but given Kirk's age, the most likely interpretation is that of a cadet who has been nominated for special service.  So, this wasn't Kirk's family living in the middle of nowhere, but rather an assignment.
+The rank of {% wiki Midshipman|midshipman|en %} has many historical meanings, but given Kirk's age, the most likely interpretation is that of a cadet who has been nominated for special service.  So, this wasn't Kirk's family living in the middle of nowhere, but rather an assignment.
 
-Then, we get some insight into the slaughter, obviously meant to evoke the idea of [gas chambers](https://en.wikipedia.org/wiki/Extermination_camp#Gassings) and [concentration camp crematoria](https://en.wikipedia.org/wiki/Topf_and_Sons#Concentration_camp_crematoria) in World War II, though with the veneer of civility added by modern technology.  This probably explains Leighton's disfigurement as the extermination not being complete.
+Then, we get some insight into the slaughter, obviously meant to evoke the idea of {% wiki Extermination_camp#Gassings|gas chambers|en %} and {% wiki Topf_and_Sons#Concentration_camp_crematoria|concentration camp crematoria|en %} in World War II, though with the veneer of civility added by modern technology.  This probably explains Leighton's disfigurement as the extermination not being complete.
 
 Then we get to the big bombshell buried in there, that Kirk was "waiting for [his] own turn," meaning that Kodos had captured the military presence and deemed some of them (probably all of them, if Kirk is the only officer to see Kodos and survive) unfit to be part of the rationing.  That he was waiting while the four thousand people were executed also means that Kodos was planning to execute many more.  And since he survived, I think it's reasonable to assume that the relief ship arrived during the executions, meaning that Kodos knew they were coming, despite Karidian's assertion to the contrary.
 
@@ -514,7 +514,7 @@ This might give us more insight into what happened on Tarsus, as Karidian makes 
 
 Ignoring the slipping in of the Colt public relations slogan (and now ubiquitous gun-rights mantra) at the end, there, we get a nice distilled debate that, for the most part, cuts to the heart of the difference between the Enlightenment and Romanticism movements I mentioned earlier.  Karidian is suggesting that he feels emasculated by automation and needs to be his own man, unencumbered by society's rules, whereas Kirk is (rightly) making it clear that a mature powerful person works with society and systems instead of worrying about personal esteem and throwing tantrums.
 
-Oh, and we also get another mention of "three-V," this time contrasting it with live actors.  It's unclear whether "live" contrasts with "pre-recorded" or with "animated."  However, it's worth pointing out that our world has an interesting convergence of [creating plausible faces](https://thispersondoesnotexist.com/), mapping [faces onto bodies](https://en.wikipedia.org/wiki/Deepfake) in video, [voice cloning](https://medium.com/syncedreview/clone-a-voice-in-five-seconds-with-this-ai-toolbox-f3f116b11281), and [machinema](https://en.wikipedia.org/wiki/Machinima) with some [automation tools](http://www.moviesandbox.net/) that all *could* be combined to create an animated movie with no cast at all that approaches some level of realism.
+Oh, and we also get another mention of "three-V," this time contrasting it with live actors.  It's unclear whether "live" contrasts with "pre-recorded" or with "animated."  However, it's worth pointing out that our world has an interesting convergence of [creating plausible faces](https://thispersondoesnotexist.com/), mapping {% wiki Deepfake|faces onto bodies|en %} in video, [voice cloning](https://medium.com/syncedreview/clone-a-voice-in-five-seconds-with-this-ai-toolbox-f3f116b11281), and {% wiki Machinima|machinema|en %} with some [automation tools](http://www.moviesandbox.net/) that all *could* be combined to create an animated movie with no cast at all that approaches some level of realism.
 
  > She said in a clear, almost gay voice: "Tonight the Karidian Players present Hamlet---another in a series of living plays in space---dedicated to the tradition of the classic theater, which we believe will never die. Hamlet is a violent play about a violent time, when life was cheap and ambition was God. It is also a timeless play, about personal guilt, doubt, indecision, and the thin line between Justice and Vengeance."
  >
@@ -542,7 +542,7 @@ For example, we get some sense that the Earth's government hires artists to wand
 
  > No, sir, I do not bite my thumb at you sir; but I bite my thumb, sir.
 
-[Chaucer](https://en.wikipedia.org/wiki/Geoffrey_Chaucer) (c1350) is more difficult, but still feasible.
+{% wiki Geoffrey_Chaucer|Chaucer|en %} (c1350) is more difficult, but still feasible.
 
  > Ye knowe eek, that in forme of speche is chaunge
  >
@@ -552,7 +552,7 @@ For example, we get some sense that the Earth's government hires artists to wand
  >
  > Us thinketh hem...
 
-The [Exeter Book](https://en.wikipedia.org/wiki/Exeter_Book), a bit over that millennium mark, is recognizable as relating to English, but requires a lot of knowledge of etymology and linguistics to read.
+The {% wiki Exeter_Book|Exeter Book|en %}, a bit over that millennium mark, is recognizable as relating to English, but requires a lot of knowledge of etymology and linguistics to read.
 
  > Ic eom wunderlicu wiht wifum on hyhte
  >
@@ -560,7 +560,7 @@ The [Exeter Book](https://en.wikipedia.org/wiki/Exeter_Book), a bit over that mi
  >
  > burgsittendra nymthe bonan anum.
 
-And if we reach back as far as [Beowulf](https://en.wikipedia.org/wiki/Beowulf), it might as well be a completely foreign language, only recognizing an occasional word or two.
+And if we reach back as far as {% wiki Beowulf|Beowulf|en %}, it might as well be a completely foreign language, only recognizing an occasional word or two.
 
  > Sēlre bið æghwæm,
  >
@@ -608,7 +608,7 @@ However, despite the arbitrary laws and fragile colonial governments, it doesn't
 
 And then there's the sexism.  Kirk isn't bothered by seducing a teenager to get close to her father, and if Kirk is a few years older than William Shatner (likely, since a fifteen-year-old midshipman sounds unlikely), that would make her half his age.  Compounding this, McCoy knows nothing of Kirk's goals and yet still thinks it's an acceptable relationship.  And even Lenore needs to spend a lot of time on the things she knows about men controlling their surging, throbbing power---seriously, Roddenberry later needed to fight for the characters forced into an interracial kiss (and took the ratings hit, when Southern NBC affiliates refused to air it), but *this* sailed through?  It's like the writers watched [*Miri*]({% post_url 2020-03-05-trek-miri %}) and decided that weird "love triangle" wasn't creepy enough; we even see echoes of it in Rand's walk-on (only in the adaptation), where Lenore is convinced that the yeoman doesn't like her and that Kirk is so mechanical as to be blind to her love.
 
-(And worryingly, the Kirk/Lenore relationship isn't condemned by the production, as most instances of sexism have been up until now.  We don't get the [Dutch angles](https://en.wikipedia.org/wiki/Dutch_angle) when Rand is sexually harassed.  Nobody gets a stern lecture.  Nobody pulls Kirk aside to ask if this is really how he wants to live his life.  In the adaptation, Spock *guesses* Kirk's real motivations as non-threatening, but he also doesn't see a problem with manipulating a teenager who---if she hadn't been a serial killer---was about to be severely traumatized by her father's arrest and finding out that her "lover" was just using her.)
+(And worryingly, the Kirk/Lenore relationship isn't condemned by the production, as most instances of sexism have been up until now.  We don't get the {% wiki Dutch_angle|Dutch angles|en %} when Rand is sexually harassed.  Nobody gets a stern lecture.  Nobody pulls Kirk aside to ask if this is really how he wants to live his life.  In the adaptation, Spock *guesses* Kirk's real motivations as non-threatening, but he also doesn't see a problem with manipulating a teenager who---if she hadn't been a serial killer---was about to be severely traumatized by her father's arrest and finding out that her "lover" was just using her.)
 
 To go with the sexism, we also have the racism, back, too (with more on the way, next week), as McCoy asserts that the Vulcans were conquered---without identifying the conquering force, making this exchange *extremely* uncomfortable---because they don't drink alcohol.  That also goes with the mass eugenics project on Tarsus IV, which McCoy writes off as unremarkable and even Spock seems to think that the bad part is that the criteria were all in Kodos's head.
 
@@ -626,11 +626,11 @@ Similarly, the food is hilariously frightening, almost certainly toy blocks on a
 
 McCoy mentioning that Vulcan was conquered, dismissing it as a character flaw of the Vulcans (for not getting drunk, no less), and not mentioning *who* the conquerors were---combined with the general antipathy towards Vulcans and Spock being the only Vulcan we have seen, and he referred to in disparaging terms as half-Vulcan---brings up an awkward question:  At this point in the story, was the intention to be that **humans** conquered Vulcan?
 
-This obviously isn't true later, but the imposed and likely untrue stereotypes we've seen about Vulcans---their treatment of women, their naïveté when it comes to lying and loyalties, and so forth, rather than the aspects of [toxic masculinity](https://en.wikipedia.org/wiki/Toxic_masculinity) that they clearly impose on themselves---sound a lot like how conquered and enslaved people have been historically dismissed and set up as villains, *especially* when it comes to maligning them sexually.
+This obviously isn't true later, but the imposed and likely untrue stereotypes we've seen about Vulcans---their treatment of women, their naïveté when it comes to lying and loyalties, and so forth, rather than the aspects of {% wiki Toxic_masculinity|toxic masculinity|en %} that they clearly impose on themselves---sound a lot like how conquered and enslaved people have been historically dismissed and set up as villains, *especially* when it comes to maligning them sexually.
 
 So, when Spock refers to his mother thinking herself lucky to have "been with"---we don't know if anything like marriage is on the table, here---his domineering father, was the intent that she was some sort of plantation owner, making him the [tragic mulatto]({% post_url 2020-02-23-mulaitre %}) who is legally allowed to enter human society, due to his mother's identity, but isn't accepted as human or Vulcan?
 
-It's already likely that colonial governments are dictatorial, from the way Kodos came to power on Tarsus IV, so it doesn't seem out of the question for some Earth colonies to exist over the objections of the real estate's current inhabitants.  I never really liked the analogy, but Roddenberry often pitched this series as a science-fiction version of [**Wagon Train**](https://en.wikipedia.org/wiki/Wagon_Train), and the wagons encountered their share of angry natives...three of them played by none other than the late [Leonard Nimoy](https://en.wikipedia.org/wiki/Leonard_Nimoy).
+It's already likely that colonial governments are dictatorial, from the way Kodos came to power on Tarsus IV, so it doesn't seem out of the question for some Earth colonies to exist over the objections of the real estate's current inhabitants.  I never really liked the analogy, but Roddenberry often pitched this series as a science-fiction version of {% wiki Wagon_Train|**Wagon Train**|en %}, and the wagons encountered their share of angry natives...three of them played by none other than the late {% wiki Leonard_Nimoy|Leonard Nimoy|en %}.
 
 You might say "that's too dark for *Star Trek*," but...we're also currently talking about an episode about a massacre of four thousand people on eugenic principles, and the line between justice and vengeance, so maybe this isn't the utopia you think it is.
 

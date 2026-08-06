@@ -22,7 +22,7 @@ This week, we have one of the richer ecosystems in the space.  Because of that, 
 
 ## The Fediverse
 
-It's not a term I care for, but this is the common term for the collection of social networking interfaces that interact with either the [OStatus](https://en.wikipedia.org/wiki/OStatus) protocol or its successor, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub).  It previously included networks such as Status.net, Identi.ca, GNU social, Friendica, and Laconica, but the standardization as ActivityPub has caused a proliferation of other interoperable networks.
+It's not a term I care for, but this is the common term for the collection of social networking interfaces that interact with either the {% wiki OStatus|OStatus|en %} protocol or its successor, {% wiki ActivityPub|ActivityPub|en %}.  It previously included networks such as Status.net, Identi.ca, GNU social, Friendica, and Laconica, but the standardization as ActivityPub has caused a proliferation of other interoperable networks.
 
 {% pull Twitter without the Nazis %}
 

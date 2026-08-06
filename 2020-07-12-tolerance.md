@@ -11,13 +11,13 @@ thumbnail: /blog/assets/hand-man-person-male-leg-portrait-987530-pxhere.com.png
 * Ignore for ToC
 {:toc}
 
-An issue that has come up a lot in the past couple of weeks is [online shaming](https://en.wikipedia.org/wiki/Online_shaming), particularly what is colloquially known as "cancel culture."  If I'm an expert in anything, it's *definitely* not this, but since I've been talking about it a fair amount in online discussions, I want to get my thoughts in order.
+An issue that has come up a lot in the past couple of weeks is {% wiki Online_shaming|online shaming|en %}, particularly what is colloquially known as "cancel culture."  If I'm an expert in anything, it's *definitely* not this, but since I've been talking about it a fair amount in online discussions, I want to get my thoughts in order.
 
 **Content Warning**:  This post is going to wander around a lot of subjects involving abuse, since that's tied up in the world of online shaming.  I won't dig into any details, but I'll refer to famous situations and names that might trigger one's anxiety, including racism, sexism, violence, sexual assault, and self-harm.  If that sounds like something that you might need to be careful about, this would be a good time to prepare yourself or decide to come back later.
 
 ![Shame](/blog/assets/hand-man-person-male-leg-portrait-987530-pxhere.com.png "A man covering his face in (presumed) shame")
 
-Obviously, the spark for these discussions is [J.K. Rowling](https://en.wikipedia.org/wiki/Politics_of_J._K._Rowling#Comments_relating_to_transgender_people)'s continued support of people who will not acknowledge the existence of transgender people.  Personally, I don't have any attachment to her either way (I've seen maybe five minutes of one of the *Harry Potter* movies, once), so I don't have conflicted feelings to deal with, but obviously a lot of people do.  My life probably has more connection to Goya Foods, whose CEO recently expressed support for an administration that demeans his primary marketing demographic.  I'm certainly not unfamiliar with the feeling, but this isn't a case where I share it.
+Obviously, the spark for these discussions is {% wiki Politics_of_J._K._Rowling#Comments_relating_to_transgender_people|J.K. Rowling|en %}'s continued support of people who will not acknowledge the existence of transgender people.  Personally, I don't have any attachment to her either way (I've seen maybe five minutes of one of the *Harry Potter* movies, once), so I don't have conflicted feelings to deal with, but obviously a lot of people do.  My life probably has more connection to Goya Foods, whose CEO recently expressed support for an administration that demeans his primary marketing demographic.  I'm certainly not unfamiliar with the feeling, but this isn't a case where I share it.
 
 For those people, I'll try to dig up what fantasy content qualifies as Free Culture (at least public domain) is available, because it's always good to have options.
 
@@ -27,7 +27,7 @@ But regardless of the specifics of this case, it happens frequently and, for the
 
 Let's kick around some ideas to figure out the approximate boundaries of the term "cancel."
 
-To start with, consider who is in "danger" of cancellation.  Can you cancel me?  No, because I'm a nobody.  You can't cancel [H. Rider Haggard](https://en.wikipedia.org/wiki/H._Rider_Haggard), because he's been dead for nearly a hundred years.  Canceling [Reality Winner](https://en.wikipedia.org/wiki/Reality_Winner) isn't an option, because we don't have much access to her.  In other words, if you don't have an audience and power, nobody can *cancel* you.  That would be laughable.
+To start with, consider who is in "danger" of cancellation.  Can you cancel me?  No, because I'm a nobody.  You can't cancel {% wiki H._Rider_Haggard|H. Rider Haggard|en %}, because he's been dead for nearly a hundred years.  Canceling {% wiki Reality_Winner|Reality Winner|en %} isn't an option, because we don't have much access to her.  In other words, if you don't have an audience and power, nobody can *cancel* you.  That would be laughable.
 
 Now, let's also consider actions that aren't thought of as cancellation.  People are constantly fighting to defend their right to [throw people out of jobs](https://www.commondreams.org/news/2020/06/15/huge-victory-lgbtq-equality-us-supreme-court-affirms-workplace-protections) or housing for being gay or transgender, but that doesn't qualify.  As mentioned, imprisoning someone doesn't qualify.  Calling for [military violence against protesters](https://www.commondreams.org/news/2020/06/04/staffer-outrage-sickout-spurred-nyt-publication-sen-cotton-send-troops-op-ed) doesn't qualify, but the man who published the editorial resigning *does* qualify.  Someone like [Harvey Weinstein](https://www.commondreams.org/news/2020/03/11/convicted-rapist-harvey-weinstein-sentenced-23-years-prison) destroying the careers of women who fought back against him, but arresting him might be.  Back to the original premise, Rowling dismissing the existence of transgender people doesn't qualify.
 
@@ -39,7 +39,7 @@ In plain language, it's privileged people whining about their actions resulting 
 
 ## The Paradox of Tolerance
 
-This gets us to the title of the post, that every time a famous person loses some of their audience (or when a bigot faces consequences for their bigotry), they suddenly derive their own version of Karl Popper's [Paradox of Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance), which points out that---strictly speaking---maintaining a tolerant society is difficult, because it seemingly requires extending that tolerance to the intolerant.  The classic example is that, for years, the [ACLU](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union) would defend freedom of speech by defending the racist speech of neo-Nazis, while largely ignoring the rights of disadvantaged groups.
+This gets us to the title of the post, that every time a famous person loses some of their audience (or when a bigot faces consequences for their bigotry), they suddenly derive their own version of Karl Popper's {% wiki Paradox_of_tolerance|Paradox of Tolerance|en %}, which points out that---strictly speaking---maintaining a tolerant society is difficult, because it seemingly requires extending that tolerance to the intolerant.  The classic example is that, for years, the {% wiki American_Civil_Liberties_Union|ACLU|en %} would defend freedom of speech by defending the racist speech of neo-Nazis, while largely ignoring the rights of disadvantaged groups.
 
 Because of situations like the ACLU (which, to be fair, appears to have fixed their priorities, since then), these people throw around their idea as if they invented some entirely new philosophy and that it's the perfect loophole to dismiss any criticism.
 
@@ -53,7 +53,7 @@ In case it isn't clear, the premise is that:
  * They are people who preach intolerance and exclusion, and face consequences for their actions.
  * Therefore, the tolerant society is hypocritical in not tolerating their intolerance, so the tolerance either a myth or logically inconsistent.
 
-That, of course, is what logicians call a *de inepte* argument.  OK, no, that's actually just Latin for "from stupidity," and that (sadly) is not a kind of argument in [propositional logic](https://en.wikipedia.org/wiki/Propositional_calculus), but I stand by my point for two reasons.
+That, of course, is what logicians call a *de inepte* argument.  OK, no, that's actually just Latin for "from stupidity," and that (sadly) is not a kind of argument in {% wiki Propositional_calculus|propositional logic|en %}, but I stand by my point for two reasons.
 
 For one thing, as [I've discussed before]({% post_url 2020-03-08-are-do %}) and should be obvious, there's a huge gap between being Black or Jewish and being the sort of person who tries to incite violence.  The former is an identity.  The latter is an ongoing choice that can (and *should*) be changed at any time.
 

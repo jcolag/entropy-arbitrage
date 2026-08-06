@@ -24,7 +24,7 @@ They're not considered at all canonical, but since I ran across my copies (the f
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -44,7 +44,7 @@ In the original episode, we never really got a sense of what the Craters were do
 
  > The crater campsite---or the Bierce campsite, as the records called it---on Regulus VIII was the crumbling remains of what might once have been a nested temple, surrounded now by archeological digs, several sheds, and a tumble of tools, tarpaulins, and battered artifacts.
 
-[Regulus](https://en.wikipedia.org/wiki/Regulus) (α Leonis, "The Prince") is an exceptionally bright star in the northern hemisphere's night sky, about 79 light years away from Earth.  It's actually a solar system with four stars, two of which are their own binary pair.  Calling the planet Regulus VIII implies that there are also at least eight exoplanets orbiting the whole mess.
+{% wiki Regulus|Regulus|en %} (α Leonis, "The Prince") is an exceptionally bright star in the northern hemisphere's night sky, about 79 light years away from Earth.  It's actually a solar system with four stars, two of which are their own binary pair.  Calling the planet Regulus VIII implies that there are also at least eight exoplanets orbiting the whole mess.
 
 The Craters---here, renamed the Bierces---are investigating an ancient temple from a lost Regulan civilization.
 
@@ -94,7 +94,7 @@ And later...
 
 Of all the things I might have expected from reading this, an explicit, brutal violation of civil rights wasn't one of them.  Under the influence, though, Bierce gives the buffalo speech and makes it clear that the creature is of the race that built the temples he's been uncovering.
 
-Incidentally, "pentathol" surely refers to *Sodium Pentothal*, a trade name for [sodium thiopental](https://en.wikipedia.org/wiki/Sodium_thiopental), suggesting that either the trademark has been [genericized](https://en.wikipedia.org/wiki/Generic_trademark) or Abbott Laboratories still exists.
+Incidentally, "pentathol" surely refers to *Sodium Pentothal*, a trade name for {% wiki Sodium_thiopental|sodium thiopental|en %}, suggesting that either the trademark has been {% wiki Generic_trademark|genericized|en %} or Abbott Laboratories still exists.
 
  > "I don't think the salt supply was the only reason why the race died out, though," Kirk said. "It wasn't really very intelligent---didn't use its advantages nearly as well as it might have."
 
@@ -172,4 +172,4 @@ As promised, next week, we're back on track with *The Naked Time*, starring a dr
 
 * * *
 
-**Credits**:  The header image is [Hands](https://publicdomainpictures.net/en/view-image.php?image=162559&picture=hands) by Hana Chramostova, released into the public domain.  The three-dimensional model of [sodium thiopental](https://en.wikipedia.org/wiki/File:Sodium-thiopental-3D-vdW-2.png) by Benjah-bmm27 has been released to the public domain.
+**Credits**:  The header image is [Hands](https://publicdomainpictures.net/en/view-image.php?image=162559&picture=hands) by Hana Chramostova, released into the public domain.  The three-dimensional model of {% wiki File:Sodium-thiopental-3D-vdW-2.png|sodium thiopental|en %} by Benjah-bmm27 has been released to the public domain.

@@ -61,7 +61,7 @@ That intentionally messy bit of text is:
  * Eyes,
  * Money (yen, in this case),
  * The English word "fraud," and
- * ...well, [w00t](https://en.wikipedia.org/wiki/W00t),
+ * ...well, {% wiki W00t|w00t|en %},
 
 ...in case there's some part of it you can't see on your system.  I think it's a nice character moment that contrasts with how the character actually speaks, but maybe was a step too far.
 

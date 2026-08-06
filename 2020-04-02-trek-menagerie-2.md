@@ -17,7 +17,7 @@ offset: -25%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -33,7 +33,7 @@ Picking up where we left off, last episode, skipping the rather extensive, drama
 
  > **PIKE**: Can you hear me? My name is Christopher Pike, commander of the space vehicle Enterprise from a stellar group at the other end of this galaxy. Our intentions are peaceful. Can you understand me?
 
-Nothing we've heard so far indicates that the *Enterprise* is at all capable of traveling the tens of thousands of light years for this to make sense.  If it's meant to be accurate, though, it would suggest that humans have spread at least to the [Galactic Center](https://en.wikipedia.org/wiki/Galactic_Center), either through colonization or political influence.  That doesn't seem to be the case in any other episode.
+Nothing we've heard so far indicates that the *Enterprise* is at all capable of traveling the tens of thousands of light years for this to make sense.  If it's meant to be accurate, though, it would suggest that humans have spread at least to the {% wiki Galactic_Center|Galactic Center|en %}, either through colonization or political influence.  That doesn't seem to be the case in any other episode.
 
  > **TALOSIAN**: Thousands of us are already probing the creature's thoughts, Magistrate.
 
@@ -79,13 +79,13 @@ I suppose that it gives some sense of the budgetary constraints that we don't se
 
  > **KEEPER**: From a fable you once heard in childhood.
 
-The suggestion, there, seems to be that humans now treat Christian thinking about [Hell](https://en.wikipedia.org/wiki/Hell) or Gehenna (γέεννα), similar to how we treat Greek or Roman mythology, a source of stories for children.
+The suggestion, there, seems to be that humans now treat Christian thinking about {% wiki Hell|Hell|en %} or Gehenna (γέεννα), similar to how we treat Greek or Roman mythology, a source of stories for children.
 
  > PIKE; I can't help either one of us if you won't give me a chance. Now, you told me once they used illusions as a narcotic. They couldn't repair the machines left by their ancestors. Is that why they want us, to build a colony of slaves?
 
 So, Pike is fine with slaves if he's the one buying and selling them, as he discussed in the previous epsiode (and as we'll see again, shortly), but objects to breeding them for other people.  That's...telling.
 
-Meanwhile, the matte painting behind the picnic is suggestive of a futuristic city, particularly with the cross between a gazebo and a yurt in the mid-ground and skyscrapers that appear similar to the Eiffel Tower (or a giant rocket) and the [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House) further back.  Presumably, given the presence of the horse, this is Pike's "small town" he was thinking about retiring to, where he'd ride out for picnics.
+Meanwhile, the matte painting behind the picnic is suggestive of a futuristic city, particularly with the cross between a gazebo and a yurt in the mid-ground and skyscrapers that appear similar to the Eiffel Tower (or a giant rocket) and the {% wiki Sydney_Opera_House|Sydney Opera House|en %} further back.  Presumably, given the presence of the horse, this is Pike's "small town" he was thinking about retiring to, where he'd ride out for picnics.
 
  > **MENDEZ**: They're like animals, vicious, seductive. They say no human male can resist them.
 
@@ -123,7 +123,7 @@ I suppose this undermines the idea that Number One is an alien, if she's counted
 
 This sounds like a lot of people they've captured have been more or less content to live out their lives caged for the amusement of the Talosians, strange as that may sound.
 
-Unfortunately, we have had stereotypes about that sort of thing, even on Earth, especially around the time that Roddenberry would have been working out this idea.  For one example in a science-fiction context, you may wish to read (if you can stomach some extremely preachy racism) ["Blessed Are the Meek"](https://www.gutenberg.org/ebooks/23762) by [G.C. Edmonson](https://en.wikipedia.org/wiki/G._C._Edmondson), where the Chinese---the largest fraction of the human race, remember, and who invented many technologies long before the rest of the world---are dismissed as literal alien creatures who are barely capable of working with technology whose cultural strategy was to have their planet invaded and enslaved, until some of them crashed to Earth.  Less racist, but just as obnoxious, is the characterization of [French](https://en.wikipedia.org/wiki/Stereotypes_of_French_people#Weak_military) as incapable of fighting a war due to some national urge to surrender.
+Unfortunately, we have had stereotypes about that sort of thing, even on Earth, especially around the time that Roddenberry would have been working out this idea.  For one example in a science-fiction context, you may wish to read (if you can stomach some extremely preachy racism) ["Blessed Are the Meek"](https://www.gutenberg.org/ebooks/23762) by {% wiki G._C._Edmondson|G.C. Edmonson|en %}, where the Chinese---the largest fraction of the human race, remember, and who invented many technologies long before the rest of the world---are dismissed as literal alien creatures who are barely capable of working with technology whose cultural strategy was to have their planet invaded and enslaved, until some of them crashed to Earth.  Less racist, but just as obnoxious, is the characterization of {% wiki Stereotypes_of_French_people#Weak_military|French|en %} as incapable of fighting a war due to some national urge to surrender.
 
 Anyway, the Talosians only believe that Pike is not going to submit to slavery after reading through the ship's records, rather than the minds of their two hundred captives, one of whom keeps physically attacking them and demanding to be released.  Were they planning on pointing at Earth history to tell him he doesn't really feel that way?  Because it kind of seems like that's where they were going with this.
 

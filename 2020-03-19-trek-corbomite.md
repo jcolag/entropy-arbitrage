@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -272,7 +272,7 @@ We get a couple of names thrown at us, the United Earth (presumably the governme
 
 We also get another sense that humans (and probably Vulcans) are probably relative newcomers to the galactic stage.  Like Ruk's Old Ones, Balok's First Federation appears to have access to extremely powerful technology---the Fesarius is able to (almost) completely disable the *Enterprise* and forcibly read its records with no language problems---and probably had massive political power that's now all but invisible.  I suppose that there might be something to be made of the vague similarity between Ruk and the Balok puppet (large, bald, greenish skin), but any connection would be complete speculation.
 
-The plaque in the back of the bridge refers to the *U.S.S. Enterprise*, despite "Space Command" and "the United Earth" being the parent organizations involved, making [those initials](https://en.wikipedia.org/wiki/United_States_Ship) meaningless.  Likewise, it refers to [San Francisco, Calif.](https://en.wikipedia.org/wiki/San_Francisco), as if that would be meaningful to the majority of creatures in the galaxy that might run across it.
+The plaque in the back of the bridge refers to the *U.S.S. Enterprise*, despite "Space Command" and "the United Earth" being the parent organizations involved, making {% wiki United_States_Ship|those initials|en %} meaningless.  Likewise, it refers to {% wiki San_Francisco|San Francisco, Calif.|en %}, as if that would be meaningful to the majority of creatures in the galaxy that might run across it.
 
 ## Next
 

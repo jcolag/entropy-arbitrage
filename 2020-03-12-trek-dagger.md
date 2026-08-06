@@ -17,7 +17,7 @@ offset: -30%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -35,13 +35,13 @@ Hey, I have an idea, let's start the episode with society being a serious jerk!
  >
  > **WOMAN**: Rehab colony. Come in.
 
-[Tantalus](https://en.wikipedia.org/wiki/Tantalus), origin of the word *tantalize*, was condemned for eternity to stand in a pool of water up to his chin, except when he tried to drink, at which point the water would drop out of reach.  The story isn't *quite* that simple, but naming your rehabilitation facility after someone tortured for all time is *not cool, man*...
+{% wiki Tantalus|Tantalus|en %}, origin of the word *tantalize*, was condemned for eternity to stand in a pool of water up to his chin, except when he tried to drink, at which point the water would drop out of reach.  The story isn't *quite* that simple, but naming your rehabilitation facility after someone tortured for all time is *not cool, man*...
 
 Yes, it's not cool, *even* when it's obvious foreshadowing.  It's also not the only time we'll see ham-fisted foreshadowing in the episode.
 
 However, it's pretty funny that the big canister of "Infra-Sensory Drugs" is basically designed as an enormous pill bottle fresh out of King Kong's medicine cabinet.
 
-We later refer to "Tantalus V," by the way, implying that the star is named for Tantalus.  There is no such star that I can find, the closest I can find being an [asteroid](https://en.wikipedia.org/wiki/2102_Tantalus), which is probably not what we're looking for, since it's in our solar system and probably not big enough to fit the sets we saw, let alone a whole facility with a high-speed elevator that takes a while to get down from the surface.
+We later refer to "Tantalus V," by the way, implying that the star is named for Tantalus.  There is no such star that I can find, the closest I can find being an {% wiki 2102_Tantalus|asteroid|en %}, which is probably not what we're looking for, since it's in our solar system and probably not big enough to fit the sets we saw, let alone a whole facility with a high-speed elevator that takes a while to get down from the surface.
 
  > **KIRK**: Oh, Mister Berkeley, you might re-familiarize yourself with the manual on penal colony procedures.
  >
@@ -117,7 +117,7 @@ This raises an interesting question of whether an "incorrigible" is someone like
 
 This is the second time in the episode that the phrase "forty centuries" has been used.  Presumably, this is important, somehow.
 
-If we continue from the assumption in [*Miri*]({% post_url 2020-03-05-trek-miri %}) that the year is approximately 2260, then four thousand years ago would be the 1740s BCE.  Probably the clearest possibility that they would be talking about is Hammurabi, who died around  1750 BCE.  The Code of Hammurabi, dating to around 1754 BCE, is considered to be one of the first forms of law, though the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu) predates it by a few centuries.
+If we continue from the assumption in [*Miri*]({% post_url 2020-03-05-trek-miri %}) that the year is approximately 2260, then four thousand years ago would be the 1740s BCE.  Probably the clearest possibility that they would be talking about is Hammurabi, who died around  1750 BCE.  The Code of Hammurabi, dating to around 1754 BCE, is considered to be one of the first forms of law, though the {% wiki Code_of_Ur-Nammu|Code of Ur-Nammu|en %} predates it by a few centuries.
 
 The point, though, is that (give or take fifteen years) Kirk and Spock both seem to be looking to the Code of Hammurabi as the start of human civilization and governance.
 
@@ -181,7 +181,7 @@ Apparently, unprofessional behavior is contagious.  "Carry your weapon through t
  >
  > **NOEL**: A shifting of memory patterns is basic to psychotherapy.
 
-[Lethe](https://en.wikipedia.org/wiki/Lethe) was a river in the Greek underworld; drinking its waters would cause complete forgetfulness.  It's strongly implied (and it'll be implied further throughout the episode, after Lethe is no longer relevant to the story) that Lethe's memories of her previous life and personality have been erased and replaced with this subservient identity.
+{% wiki Lethe|Lethe|en %} was a river in the Greek underworld; drinking its waters would cause complete forgetfulness.  It's strongly implied (and it'll be implied further throughout the episode, after Lethe is no longer relevant to the story) that Lethe's memories of her previous life and personality have been erased and replaced with this subservient identity.
 
 Oddly, Kirk spots this immediately, despite his being quick to praise Adams to McCoy just a few hours ago, but Noel just spouts what sounds like a line out of an introductory textbook that ignores the part where her memories and emotions appear to have been wiped.  Similarly, Adams presumably selected the name deliberately, which is a brazen move that would have eventually clued in a reasonably well-read visitor.
 
@@ -241,7 +241,7 @@ This comes up a few times in the next few scenes, but Helen is *absurdly* resist
  >
  > **SPOCK**: Open your mind. We move together. Our minds sharing the same thoughts.
 
-This extended sequence isn't nearly as enlightening as it could be, but it does indicate that Vulcans have some sort of psychic ability that acts a lot like hypnosis in enough ways that warrant pointing out the difference, such as a physical manipulation not unlike [acupressure](https://en.wikipedia.org/wiki/Acupressure).  It's a private, apparently *intimate* technique that Spock...both resists talking about and clearly disclosed to McCoy just before the scene.
+This extended sequence isn't nearly as enlightening as it could be, but it does indicate that Vulcans have some sort of psychic ability that acts a lot like hypnosis in enough ways that warrant pointing out the difference, such as a physical manipulation not unlike {% wiki Acupressure|acupressure|en %}.  It's a private, apparently *intimate* technique that Spock...both resists talking about and clearly disclosed to McCoy just before the scene.
 
  > **NOEL**: Captain, if you're questioning the methods of a man like Tristan Adams---
 
@@ -279,7 +279,7 @@ Finally, it's a pretty funny bit but not great that---after tolerating Noel's co
 
 ## Blish Adaptation
 
-The adaptation comes from the first book, so it's not surprising that the entire first act is severely truncated, starting with van Gelder escaping in the crate, making his way to the bridge to request asylum, and getting captured in two paragraphs.  We're told that the Bureau of Penology is in [Stockholm](https://en.wikipedia.org/wiki/Stockholm), because that's how the crate is addressed.  I was going to suggest that it was a [psychological reference](https://en.wikipedia.org/wiki/Stockholm_syndrome) like Lethe's name, but since the events leading to the term wouldn't occur until August 1973 (**Star Trek 9** was published in February 1973, **Star Trek 10** in February 1974, for context), I guess it's just a lucky coincidence.
+The adaptation comes from the first book, so it's not surprising that the entire first act is severely truncated, starting with van Gelder escaping in the crate, making his way to the bridge to request asylum, and getting captured in two paragraphs.  We're told that the Bureau of Penology is in {% wiki Stockholm|Stockholm|en %}, because that's how the crate is addressed.  I was going to suggest that it was a {% wiki Stockholm_syndrome|psychological reference|en %} like Lethe's name, but since the events leading to the term wouldn't occur until August 1973 (**Star Trek 9** was published in February 1973, **Star Trek 10** in February 1974, for context), I guess it's just a lucky coincidence.
 
 Van Gelder then pretty much exposes the entire plot in a surprisingly non-dramatic tone to Kirk and McCoy in Sickbay.  Kirk's speech about progress in prisons isn't written in, but McCoy does throw "more like a resort than a prison" *back* in his face before they part, showing that he doesn't trust the reformers.
 
@@ -287,7 +287,7 @@ Van Gelder then pretty much exposes the entire plot in a surprisingly non-dramat
 
 So, in Blish's version of the Christmas party events, the big incident is that Kirk...talked to someone he thought was a passenger?  And that the *Enterprise* regularly has passengers he doesn't know about?  It sounds like he preyed on her naïveté, but it also sounds like nothing came of that but a conversation, which doesn't match up to the episode at all.
 
-Also, "uncomfortably pretty"...?  Seriously?  I mean, look, I get it, I'm quite attracted to [Marianna Hill](https://en.wikipedia.org/wiki/Marianna_Hill) (Noel's actor), myself, but any discomfort is clearly Blish's problem, not Helen's.  A good chunk of the season, so far, has been establishing that Kirk is an adult who can work with attractive women without it affecting his job or harming the women...
+Also, "uncomfortably pretty"...?  Seriously?  I mean, look, I get it, I'm quite attracted to {% wiki Marianna_Hill|Marianna Hill|en %} (Noel's actor), myself, but any discomfort is clearly Blish's problem, not Helen's.  A good chunk of the season, so far, has been establishing that Kirk is an adult who can work with attractive women without it affecting his job or harming the women...
 
  > Tantalus was an eerie world, lifeless, ravaged, and torn by a bitter and blustery climate, its atmosphere mostly nitrogen slightly diluted by some of the noble gasses---a very bad place to try to stage an escape. In this it closely resembled all other penal colonies, enlightened or otherwise.
 

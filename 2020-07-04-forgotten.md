@@ -49,7 +49,7 @@ Alternatively, you can install [Twine](https://twinery.org/) and use it to run t
 
 ## What Works Well?
 
-I don't have much nostalgia for the [CGA](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) aesthetic, personally, but the game pulls it off well enough that I can appreciate its use.  Likewise, the "game is glitchy, which must mean something important" isn't my thing, but it's the core of the short story and works in context.
+I don't have much nostalgia for the {% wiki Color_Graphics_Adapter|CGA|en %} aesthetic, personally, but the game pulls it off well enough that I can appreciate its use.  Likewise, the "game is glitchy, which must mean something important" isn't my thing, but it's the core of the short story and works in context.
 
 Obviously, the central premise of a beloved game being played so much that its data files learn enough to understand their situation is old, but well-executed, here.  However, this is the first time I've seen a variation where the game characters read the game's own help files to learn the "cheat codes" while accidentally corrupting the game's memory.
 

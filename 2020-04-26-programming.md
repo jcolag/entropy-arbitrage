@@ -27,7 +27,7 @@ Specifically, we'll try to outline the set of things to learn so that, while you
 
 ### Broad Concepts
 
-Most web application frameworks want you to structure your application in a [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) pattern.
+Most web application frameworks want you to structure your application in a {% wiki Model%E2%80%93view%E2%80%93controller|Model-View-Controller|en %} (MVC) pattern.
 
 ![MVC Workflow](/blog/assets/MVC-Process.svg "MVC Workflow")
 
@@ -69,7 +69,7 @@ There are probably some exceptions I'm not aware of and there will certainly be 
 
 In addition, anything you see on a page that you would like to understand, you can right-click on (almost) any webpage and select **Inspect Element** on the context menu.  That will bring up the actual HTML code for that section of the page where you can read it.
 
-The pages you create with just HTML are going to be boring and you'll eventually want to learn [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) to style your page, but that can wait until later.
+The pages you create with just HTML are going to be boring and you'll eventually want to learn {% wiki Cascading_Style_Sheets|CSS|en %} to style your page, but that can wait until later.
 
 Beyond that, web application frameworks generally have three additional things you'll need to learn.
 
@@ -113,4 +113,4 @@ Next time, we'll pick back up with some tools you should probably know how to us
 
 * * *
 
-**Credits**:  The header image is [Untitled](https://www.flickr.com/photos/wocintechchat/25392428253/) by [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/), made available under the terms of the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0/).  The [MVC Worklow Diagram](https://commons.wikimedia.org/wiki/File:MVC-Process.svg) has been created and released into the public domain by [RegisFrey](https://en.wikipedia.org/wiki/User:RegisFrey).
+**Credits**:  The header image is [Untitled](https://www.flickr.com/photos/wocintechchat/25392428253/) by [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/), made available under the terms of the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0/).  The [MVC Worklow Diagram](https://commons.wikimedia.org/wiki/File:MVC-Process.svg) has been created and released into the public domain by {% wiki User:RegisFrey|RegisFrey|en %}.

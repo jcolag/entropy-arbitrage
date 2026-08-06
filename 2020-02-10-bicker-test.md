@@ -39,7 +39,7 @@ That'll have to do, for now...
 
 We could get away with posting the reply form to the server and retrieving the updated page.  That would follow the same scheme as posting messages already do.  But that's a little bit out of date, in terms of user experience, and is also slower and clunkier than necessary.
 
-Instead, what makes more sense is to *just* send the reply information to the server and change the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) for the target paragraph.
+Instead, what makes more sense is to *just* send the reply information to the server and change the {% wiki Document_Object_Model|DOM|en %} for the target paragraph.
 
 ### Added Instrumentation
 

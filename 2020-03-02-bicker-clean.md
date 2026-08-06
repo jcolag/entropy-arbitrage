@@ -180,7 +180,7 @@ It never seemed as important for the replies to be treated as first-class citize
 
 OK, *finally*, I can look at testing.
 
-As mentioned previously, the "right" way to handle automated testing is [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development), a software engineering style where no development happens until some tests are written to identify working code.  However, despite this being correct, we're much more likely to work on projects where the base code has already been written and there's often a sense on such a team that writing tests after the fact would be too much work.
+As mentioned previously, the "right" way to handle automated testing is {% wiki Test-driven_development|test-driven development|en %}, a software engineering style where no development happens until some tests are written to identify working code.  However, despite this being correct, we're much more likely to work on projects where the base code has already been written and there's often a sense on such a team that writing tests after the fact would be too much work.
 
 So, I saved testing for later in the project to test that.  Obviously, this is where I'm going to regret not taking Rubocop's advice on long methods and blocks...
 
@@ -305,7 +305,7 @@ If `pending` goes inside an `it` block---since we may have time for most of an e
 
 ### I Told Me So
 
-That said, I believe I've validated my hypothesis that there isn't a *bad* time to add automated testing to a project, just times that aren't quite as useful.  That is, had I started Bicker as a [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) project, I'm certain that many of the bugs I've had to stop and fix would have been caught immediately instead of weeks after the code changed.  That would have been better than adding the tests now and leading development with tests from now on, but the current state is still decent.
+That said, I believe I've validated my hypothesis that there isn't a *bad* time to add automated testing to a project, just times that aren't quite as useful.  That is, had I started Bicker as a {% wiki Test-driven_development|test-driven development|en %} project, I'm certain that many of the bugs I've had to stop and fix would have been caught immediately instead of weeks after the code changed.  That would have been better than adding the tests now and leading development with tests from now on, but the current state is still decent.
 
 Leading with tests also would have kept the code more maintainable, as opposed to the tangled mess that is the formatting code.
 
@@ -315,7 +315,7 @@ So, I'm no longer going to accept the "we don't have time and we're too far into
 
 The next step down the automated testing path is to dig into the important questions that led me to dismiss these test harnesses decades ago:
 
-First, how do we validate our tests?  We can't very well write tests for our tests, because that's the [ouroboros](https://en.wikipedia.org/wiki/Ouroboros) of testing with no escape, and *that* can't be right.
+First, how do we validate our tests?  We can't very well write tests for our tests, because that's the {% wiki Ouroboros|ouroboros|en %} of testing with no escape, and *that* can't be right.
 
 Second, how can we be sure that we have sufficient testing?  I assume there's some sort of "code coverage" tools for some systems, but as an example, look back at the first test I wrote up a bunch of paragraphs.
 
@@ -363,7 +363,7 @@ Unfortunately, since I wanted to get a good look at testing, I wasn't able to ge
 
 ## Next
 
-Aaaand...that's all for another week.  [Bicker](https://github.com/jcolag/Bicker) now works---in a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product---sense) and, while there are *plenty* of little (and big) features I would like to add, as I mentioned last time, there are also other projects I want to tackle.  Expect Monday posts to be general project updates.
+Aaaand...that's all for another week.  [Bicker](https://github.com/jcolag/Bicker) now works---in a {% wiki Minimum_viable_product---sense|minimum viable product|en %} and, while there are *plenty* of little (and big) features I would like to add, as I mentioned last time, there are also other projects I want to tackle.  Expect Monday posts to be general project updates.
 
 So, I'll probably keep up with testing, but next Monday, expect some entirely new code with probably much smaller Bicker updates every week or so, mixed into the broader posts.
 

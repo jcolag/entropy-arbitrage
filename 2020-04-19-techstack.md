@@ -21,14 +21,14 @@ This installment is about the technological considerations you'll probably want 
 
 ## Picking a Technology Stack
 
-When I refer to a [stack](https://en.wikipedia.org/wiki/Solution_stack), here, I mean a set of technologies where each piece generally rests on the foundations of another.  In web programming, the stack is usually something like the following.
+When I refer to a {% wiki Solution_stack|stack|en %}, here, I mean a set of technologies where each piece generally rests on the foundations of another.  In web programming, the stack is usually something like the following.
 
  * A computer, which I'm going to ignore just now,
  * A programming language,
- * An [object-relational mapper](https://en.wikipedia.org/wiki/Object-relational_mapping) that gives the language easier access to a database,
- * An [application framework](https://en.wikipedia.org/wiki/Application_framework), which provides...well, a *framework* for you to plug in functionality around a minimal application,
+ * An {% wiki Object-relational_mapping|object-relational mapper|en %} that gives the language easier access to a database,
+ * An {% wiki Application_framework|application framework|en %}, which provides...well, a *framework* for you to plug in functionality around a minimal application,
  * Some libraries to make the framework do additional things, and
- * A [front-end](https://en.wikipedia.org/wiki/Front_end_and_back_end) library to simplify building the user interface.
+ * A {% wiki Front_end_and_back_end|front-end|en %} library to simplify building the user interface.
 
 There are some issues to consider in this choice, some of which may be more important to you than others.  And incidentally, if you'd like some more information on databases, I recently posted [an overview]({% post_url 2020-04-05-database %}) about what databases are and---in extremely broad terms---how they work.
 
@@ -130,7 +130,7 @@ As an expedient measure, I'm going to suggest that, if you can't find an option 
 
 It isn't perfect, of course, and I only recommend it *if* you have already looked at other languages and couldn't decide.  But it's a good enough starting point and, once you get your bearings, you can always learn whatever the companies near you are hiring for.
 
-If you're already a programmer, though, keep in mind that the idea of a web application framework has spread quickly, and nearly every significant language has at least one framework associated with it.  See the [Comparison of web application frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) for a bunch.  For example, [Saetta Web Server](http://izysoftware.com/products/saetta-server/saetta-web-server/) appears to be a framework for C, something I never expected would exist.
+If you're already a programmer, though, keep in mind that the idea of a web application framework has spread quickly, and nearly every significant language has at least one framework associated with it.  See the {% wiki Comparison_of_web_application_frameworks|Comparison of web application frameworks|en %} for a bunch.  For example, [Saetta Web Server](http://izysoftware.com/products/saetta-server/saetta-web-server/) appears to be a framework for C, something I never expected would exist.
 
 ## Hey, Don't I Need a Computer...?
 
@@ -162,7 +162,7 @@ It's probably going to be slow and complain a lot about memory, but if you alrea
 
 The last basic possibility also requires already owning *something* that already has a screen, like a phone or a tablet.  It also requires a decent Internet connection and some extra work to set things up, but can be cheap and can be easily upgraded to something more powerful later.  In this case, you rent a server from a company and connect to it from your device.
 
-The term you'll want to search for is [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server), where the company buys extremely powerful computers and uses them to run many "virtual" (simulated) computers that you pay to use.  After you sign up, you can run something like [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) on your phone/tablet to connect to it.
+The term you'll want to search for is {% wiki Virtual_private_server|Virtual Private Server|en %}, where the company buys extremely powerful computers and uses them to run many "virtual" (simulated) computers that you pay to use.  After you sign up, you can run something like {% wiki Virtual_Network_Computing|VNC|en %} on your phone/tablet to connect to it.
 
 It's not as convenient as a computer sitting in front of you, but it can work, with a little bit of preparation, research, and conversation with their tech support.  And it's relatively cheap, with the big companies in the field having a low-powered computer for a maximum of five dollars per month, but also charging less than a penny per hour, if you can turn it off between sessions.
 

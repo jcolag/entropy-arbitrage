@@ -17,7 +17,7 @@ offset: -10%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -75,7 +75,7 @@ I'll try to come back to this idea when I wrap up the season in July.
 
 This strikes me as...peculiar, suggesting an (almost) biological urge for loyalty to authority figures and even implying that disloyalty would kill a Vulcan.  It's doubly peculiar, given that the entire episode is basically evidence that this is not the case.
 
-One assumes it's just a stereotype about Vulcans, casting them as a kind of [model minority](https://en.wikipedia.org/wiki/Model_minority) to United Earth society.
+One assumes it's just a stereotype about Vulcans, casting them as a kind of {% wiki Model_minority|model minority|en %} to United Earth society.
 
  > **PIPER**: We can be certain Captain Pike cannot have sent a message. In his condition he's under observation every minute of every day.
  >
@@ -89,7 +89,7 @@ One assumes it's just a stereotype about Vulcans, casting them as a kind of [mod
 
 I'm just going to make the obvious comment that directing the chair's motion is a *lot* more complicated than flashing a damned light.  I could've given them the benefit of the doubt if the lightswitch was wired to a nerve (though a circuit that cycles through three states---yes, no, and off---wouldn't be hard), but this discussion makes the case that they've been massively negligent.
 
-Concepts like this bring out my engineering school background, because I feel like the same movement controls could easily map to something like a [Ouija board](https://en.wikipedia.org/wiki/Ouija) and use the switch for the lights to change between controlling the chair and the planchette.
+Concepts like this bring out my engineering school background, because I feel like the same movement controls could easily map to something like a {% wiki Ouija|Ouija board|en %} and use the switch for the lights to change between controlling the chair and the planchette.
 
 ![original Ouija board](/blog/assets/Original_ouija_board.jpg "the original Ouija board")
 
@@ -147,7 +147,7 @@ We also had previously...
 
 So, the *Enterprise* is a starship class vessel, but there are apparently multiple classes of starship (at least through **J**) and a similar number of classes (at least through **F**) of limited-range shuttles, which appear to basically be full ships that just happen to be smaller.
 
-Meanwhile, [ion thrusters](https://en.wikipedia.org/wiki/Ion_thruster) are real technology based on designs dating back to 1911.  Duranium is fictional, though potentially a reference to [depleted uranium](https://en.wikipedia.org/wiki/Depleted_uranium), a uranium isotope used primarily for armor-piercing ammunition, radiation shielding, and armor plating, due to its high density.
+Meanwhile, {% wiki Ion_thruster|ion thrusters|en %} are real technology based on designs dating back to 1911.  Duranium is fictional, though potentially a reference to {% wiki Depleted_uranium|depleted uranium|en %}, a uranium isotope used primarily for armor-piercing ammunition, radiation shielding, and armor plating, due to its high density.
 
  > **SPOCK**: Go to tape Able Seven Baker. Execute instructions.
 
@@ -191,7 +191,7 @@ Granted, I already played this card with Pike's chair and the inability to repai
 
 The idea of a planet orbiting a "star group" seems mildly strange, though the map does show what looks like a binary star.
 
-Since I didn't mention it earlier, [Talos](https://en.wikipedia.org/wiki/Talos) is named for a bronze automaton from Greek mythology, tasked with defending Crete (and specifically Queen Europa) from pirates.  Unlike Tantalus in *Dagger of the Mind*, the name doesn't appear to have been chosen, here, with any kind of intent.
+Since I didn't mention it earlier, {% wiki Talos|Talos|en %} is named for a bronze automaton from Greek mythology, tasked with defending Crete (and specifically Queen Europa) from pirates.  Unlike Tantalus in *Dagger of the Mind*, the name doesn't appear to have been chosen, here, with any kind of intent.
 
  > **NUMBER ONE**: We've no ships or Earth colonies that far out.
  >
@@ -203,7 +203,7 @@ From this exchange, it sounds like it wasn't uncommon (thirty years prior to the
 
  > **SPOCK**: Records show the Talos group has never been explored. Solar system similar to Earth, eleven planets. Number four seems to be Class M, oxygen atmosphere.
 
-There are [classifications of planets](https://en.wikipedia.org/wiki/List_of_planet_types) in the real world, but they come on a multidimensional scale including mass, orbit, and composition.
+There are {% wiki List_of_planet_types|classifications of planets|en %} in the real world, but they come on a multidimensional scale including mass, orbit, and composition.
 
 Also, Spock can get an analysis of the atmosphere from eighteen light years away.
 
@@ -225,7 +225,7 @@ We also have a weird visual moment, here, of Pike rushing through the corridor p
  >
  > **PIKE**: Oh, I should have smelled trouble when I saw the swords and the armor. Instead of that, I let myself get trapped in that deserted fortress and attacked by one of their warriors.
 
-[Rigel](https://en.wikipedia.org/wiki/Rigel) (β Orionis) is around 860 light years away.  Either the resources at the Vega colony are critical for one or more of the patients or Vega represents the frontier.  However, Rigel and Vega seem to be in different directions from Earth, making this even more peculiar.  In the northern hemisphere, Orion is a winter constellation, Lyra spring.
+{% wiki Rigel|Rigel|en %} (β Orionis) is around 860 light years away.  Either the resources at the Vega colony are critical for one or more of the patients or Vega represents the frontier.  However, Rigel and Vega seem to be in different directions from Earth, making this even more peculiar.  In the northern hemisphere, Orion is a winter constellation, Lyra spring.
 
 Remember that we've been in a similar situation, before.  In *Mudd's Women*, we had a trip passing near Rigel on the way to some star in Ophiuchus; the crew in that case needed to negotiate for lithium crystals with the miners on Rigel XII.  It may not be a coincidence that those two episodes refer to the same solar system.
 
@@ -253,7 +253,7 @@ Also, in thirteen years, the *Enterprise* has more than doubled the size of its 
  >
  > **BOYCE**: You, an Orion trader, dealing in green animal women, slaves?
 
-[Regulus](https://en.wikipedia.org/wiki/Regulus) (α Leonis) is a star visible in (in the northern hemisphere) in late winter/early spring and is around eighty light years away from Earth; it apparently has enough colonial traffic to be a business hub.
+{% wiki Regulus|Regulus|en %} (α Leonis) is a star visible in (in the northern hemisphere) in late winter/early spring and is around eighty light years away from Earth; it apparently has enough colonial traffic to be a business hub.
 
 And then we have Orion, a colony, presumably human, where Pike might go, presumably legally, to start trading in slaves.  And that brings us back to *Mudd's Women* again, heading through human territory from the direction of Orion (resulting in a quick trip to Rigel) while carrying women to be traded.  They're not green as Boyce characterizes them, but it seems clear that we're talking about the same colonies and at least similar transactions.
 
@@ -265,7 +265,7 @@ We've previously heard calls for "warp one" and Kirk once logged a failure of "t
 
  > **MENDEZ**: Screen off. Mister Spock, I'm truly amazed at your technical prowess in somehow manufacturing all this. I congratulate you on your imagination. But this is a court of space law, not a theater.
 
-I suppose that "space law" is some extrapolation of [Admiralty law](https://en.wikipedia.org/wiki/Admiralty_law) (nautical issues and private disputes) and [Law of the Sea](https://en.wikipedia.org/wiki/Law_of_the_sea) (navigational rights, sea mineral rights, coastal waters jurisdiction), but I also can't help but think that this is winking at the audience, since Mendez is basically accusing Spock of showing space opera.
+I suppose that "space law" is some extrapolation of {% wiki Admiralty_law|Admiralty law|en %} (nautical issues and private disputes) and {% wiki Law_of_the_sea|Law of the Sea|en %} (navigational rights, sea mineral rights, coastal waters jurisdiction), but I also can't help but think that this is winking at the audience, since Mendez is basically accusing Spock of showing space opera.
 
  > **KIRK**: We still haven't heard the full story. I vote to continue.
  >
@@ -329,7 +329,7 @@ This would seem to indicate that Starfleet would or has executed civilian pilots
 
 ## Blish Adaptation
 
-Blish introduces the two-part episode as winning the [Hugo Award](https://en.wikipedia.org/wiki/Hugo_Award) and talks a little bit about the difficulty around envisioning a prose version of a story that jumps back and forth in time and is told from multiple perspectives.  In the end (or perhaps to justify what he wanted all along), his adaptation of *The Menagerie* is actually an adaptation of *The Cage*, instead.
+Blish introduces the two-part episode as winning the {% wiki Hugo_Award|Hugo Award|en %} and talks a little bit about the difficulty around envisioning a prose version of a story that jumps back and forth in time and is told from multiple perspectives.  In the end (or perhaps to justify what he wanted all along), his adaptation of *The Menagerie* is actually an adaptation of *The Cage*, instead.
 
  > Though the Enterprise had come out of the fighting around Rigel VIII---her maiden battle---unscarred, the ground skirmishing had not been as kind to her personnel. Spock, for example, was limping, though he was trying to minimize it, and Navigator Jose Tyler's left forearm was bandaged down to his palm. Pike himself was unhurt, but he felt desperately tired.
 
@@ -367,7 +367,7 @@ Most notably, we know that the *Enterprise* has been around for about fifteen ye
 
 Just like we've seen indications of huge leaps in science and social justice, by contrasting the two time frames, the episode shows us that our characters have also been dealing with recent advances in travel technology.  "The time barrer's been broken," Tyler explains, implying that the *Enterprise* flies far faster than anything of the *Columbia*'s generation ever could.
 
-The "same old Earth" is there, so apparently the planet hasn't been eaten by [gray goo](https://en.wikipedia.org/wiki/Gray_goo) or had its biosphere destroyed or turned out to have been a [computer simulation](https://en.wikipedia.org/wiki/Simulation_hypothesis) or whatever.  Pike even describes his hometown as being surrounded by fifty miles of park, strongly implying some environmental reclamation.
+The "same old Earth" is there, so apparently the planet hasn't been eaten by {% wiki Gray_goo|gray goo|en %} or had its biosphere destroyed or turned out to have been a {% wiki Simulation_hypothesis|computer simulation|en %} or whatever.  Pike even describes his hometown as being surrounded by fifty miles of park, strongly implying some environmental reclamation.
 
 If we believe Blish, the adaptation also makes it abundantly clear that the sexism we see is entirely personal...at least, from an official stance.  On the books, Starfleet has proven that women are as capable as men.  It apparently just doesn't *treat* them the same, from the miniskirted outfits (Helen Noel made it abundantly clear that the skirts aren't intended to cover anything) to the lesser representation to the more menial jobs.  That's not great, but it is progress.
 
@@ -379,7 +379,7 @@ And as mentioned, at least thirty years prior to the series, it sounds like Eart
 
 For the third time, we've also hit the idea (harder, here) that some people---powerful people, like Pike, in this case---don't think that humanity is suited for space exploration.  Moreover, Pike is early in his command and already burning out, which doesn't say much for whatever wellness programs Starfleet might offer its officers.
 
-Bizarrely, Starfleet and United Earth apparently don't believe in [user experience](https://en.wikipedia.org/wiki/User_experience) engineers.  Ships are designed to treat distress calls as an imminent collision *and* disrupts sensors, to the point that receiving one could actually put a ship in imminent danger by distracting and misdirecting the crew.  Ships are also seemingly designed to be sabotaged, in that connecting a problem to life support in some superficial way means that it's impossible to disable or alter.  Similarly, it's obvious that nobody cared about Pike's wheelchair, solving the **fun** problem of allowing him to direct the chair mentally, but doing the absolute bare minimum (arguably much less than the minimum) to allow him to communicate.
+Bizarrely, Starfleet and United Earth apparently don't believe in {% wiki User_experience|user experience|en %} engineers.  Ships are designed to treat distress calls as an imminent collision *and* disrupts sensors, to the point that receiving one could actually put a ship in imminent danger by distracting and misdirecting the crew.  Ships are also seemingly designed to be sabotaged, in that connecting a problem to life support in some superficial way means that it's impossible to disable or alter.  Similarly, it's obvious that nobody cared about Pike's wheelchair, solving the **fun** problem of allowing him to direct the chair mentally, but doing the absolute bare minimum (arguably much less than the minimum) to allow him to communicate.
 
 And in fact, very few people seem to **care** about Pike (really, just Kirk), now that he's sidelined.  Mendez basically says that the reason that Pike hasn't been forced into retirement is that nobody even wants to be involved enough to cut him loose, and Spock kidnaps the Fleet Captain against his will and tells McCoy not to speak to him during any medical treatment he might need.
 

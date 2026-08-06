@@ -17,7 +17,7 @@ offset: -66%
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -41,7 +41,7 @@ We get a fair amount of cultural information in the teaser.
 
 Marriage still involves a level of ritual, though Kirk's version, at least, is highly secular and the altar---the backdrop and the candelabra behind Kirk's podium---seem like they might suggest some small alien influence, as opposed to the sleeker, stylized futurism that we generally see in these situations.
 
-The introductory music is Thomas Haynes Bayly's [Long, Long Ago](https://en.wikipedia.org/wiki/Long,_Long_Ago) before transitioning into Richard Wagner's [Bridal Chorus](https://en.wikipedia.org/wiki/Bridal_Chorus).  The Internet Archive has [a recording of the former of unknown provenance](https://archive.org/details/78_long-long-ago_frieda-hempel-thomas-haynes-bayly_gbia0083498a/Long%2C+Long+Ago+-+Frieda+Hempel+-+Thomas+Haynes+Bayly.flac), which I won't embed, because copyright on music recordings is a nightmare, and I find it hard to believe that anybody would need to hear the latter to know which music we're talking about...
+The introductory music is Thomas Haynes Bayly's {% wiki Long,_Long_Ago|Long, Long Ago|en %} before transitioning into Richard Wagner's {% wiki Bridal_Chorus|Bridal Chorus|en %}.  The Internet Archive has [a recording of the former of unknown provenance](https://archive.org/details/78_long-long-ago_frieda-hempel-thomas-haynes-bayly_gbia0083498a/Long%2C+Long+Ago+-+Frieda+Hempel+-+Thomas+Haynes+Bayly.flac), which I won't embed, because copyright on music recordings is a nightmare, and I find it hard to believe that anybody would need to hear the latter to know which music we're talking about...
 
 Oh, and my mistake [last time]({% post_url 2020-04-09-trek-conscience %}), Rand has a bit part in this episode, too.
 
@@ -73,7 +73,7 @@ However, it seems almost comical for a television show to imagine a future where
 
 The "space service," presumably a branch of the military, has been around for at least a hundred years.  The Stiles family has also participated since then, but lost quite a few people in the war.
 
-Kirk, ever striving to be a good person, despite his obvious stumbles in the last episode, makes it clear that it's unacceptable to keep fighting the last war.  While this is underlined by the fact that everybody involved in the Earth-Romulan War would now almost certainly be dead, it's important to remember that this line was *written* in the context of the aftermath of World War II and the Cold War, not to mention only about ten years after the [Treaty of Rome](https://en.wikipedia.org/wiki/Treaty_of_Rome) establishing one of the early precursors to the European Union.
+Kirk, ever striving to be a good person, despite his obvious stumbles in the last episode, makes it clear that it's unacceptable to keep fighting the last war.  While this is underlined by the fact that everybody involved in the Earth-Romulan War would now almost certainly be dead, it's important to remember that this line was *written* in the context of the aftermath of World War II and the Cold War, not to mention only about ten years after the {% wiki Treaty_of_Rome|Treaty of Rome|en %} establishing one of the early precursors to the European Union.
 
  > **ROBERT**: Happy wedding day, almost.
  >
@@ -145,7 +145,7 @@ While it's not as useful (for our purposes) to dissect the *Romulan* culture, th
 
 However, something I want to draw attention to is the odd way that the Romulan crew seems to reflect the crew of the *Enterprise*, specifically the leadership:  We have the Commander, who we're told multiple times has the same instincts and rough personality as Kirk.  He's advised by his older, more jaded friend and is ably assisted by someone who doesn't *quite* fit in with the rest of the crew and has a reputation for disobeying orders for what he believes is the greater good.
 
-While we can't necessarily be sure that the intent was to show that the crews are almost mirror images of each other, the fact that the Romulan bridge is all focused on the center device (rather than attention directed to the fringes) is similarly suggestive.  And the planets we were told about at the start---[Romulus and Remus](https://en.wikipedia.org/wiki/Romulus_and_Remus)---are named for the legendary founder of Rome and his twin.  Remus, losing a contest to Romulus, in some versions of the myth picked a fight that led to Romulus killing him, leaving Romulus the only founder of Rome.
+While we can't necessarily be sure that the intent was to show that the crews are almost mirror images of each other, the fact that the Romulan bridge is all focused on the center device (rather than attention directed to the fringes) is similarly suggestive.  And the planets we were told about at the start---{% wiki Romulus_and_Remus|Romulus and Remus|en %}---are named for the legendary founder of Rome and his twin.  Remus, losing a contest to Romulus, in some versions of the myth picked a fight that led to Romulus killing him, leaving Romulus the only founder of Rome.
 
  > **SPOCK**: From the outpost's protective shield. Cast rodinium. This is the hardest substance known to our science.
 
@@ -169,7 +169,7 @@ While we've had hints throughout the series that people don't entirely trust the
 
  > **STILES**: These are Romulans! You run away from them and you guarantee war. They'll be back. Not just one ship but with everything they've got. You know that, Mister Science Officer. You're the expert on these people, always left out that one point. Why? I'm very interested in why.
 
-While, sure, Stiles is obviously showing a particularly personal kind of paranoia and bigotry that's probably intended to expose [Red Scare](https://en.wikipedia.org/wiki/Red_Scare) thinking, but there's more to this, for us.
+While, sure, Stiles is obviously showing a particularly personal kind of paranoia and bigotry that's probably intended to expose {% wiki Red_Scare|Red Scare|en %} thinking, but there's more to this, for us.
 
 Specifically, Stiles is singling out *Spock* for being connected to the Romulans in some way, and suggesting that he has been hiding this connection from everyone.  And that's Spock personally, not Vulcans in general.  And that seems odd, since it rather strongly implies that only a few humans have met Vulcans at all.
 
@@ -195,7 +195,7 @@ It's also worth pointing out that crossing the Neutral Zone to destroy the outpo
 
 Icarus may be the name of one of the stars near the Neutral Zone, since there are many stars shown on the *Sector Z-6* map earlier.
 
-Today, Icarus is the common name for [MACS J1149 Lensed Star 1](https://en.wikipedia.org/wiki/MACS_J1149_Lensed_Star_1), a blue supergiant more than fourteen billion light years away, discovered in 2016.  This probably isn't *that* Icarus.
+Today, Icarus is the common name for {% wiki MACS_J1149_Lensed_Star_1|MACS J1149 Lensed Star 1|en %}, a blue supergiant more than fourteen billion light years away, discovered in 2016.  This probably isn't *that* Icarus.
 
  > **KIRK**: He did exactly what I would have done. I won't underestimate him again.
 
@@ -221,7 +221,7 @@ The pseudo-religious philosophy sounds like something McCoy is repeating from el
 
 For real-world context, the Milky Way has hundreds of billions of stars, so three million Earth-like planets would average one planet of relevance out of every ten thousand stars.
 
-That sounds fairly bleak, given the number of colonies we've heard about.  It's even bleaker in comparison to the real world, where we currently believe that there's an average of one planet per star and that one in every five [solar analogs](https://en.wikipedia.org/wiki/Solar_analog) has an Earth-sized planet in the habitable zone, and about one in ten stars seems to be a (rough) solar analog, so around one star in *fifty* should have an Earth-like planet.
+That sounds fairly bleak, given the number of colonies we've heard about.  It's even bleaker in comparison to the real world, where we currently believe that there's an average of one planet per star and that one in every five {% wiki Solar_analog|solar analogs|en %} has an Earth-sized planet in the habitable zone, and about one in ten stars seems to be a (rough) solar analog, so around one star in *fifty* should have an Earth-like planet.
 
 So, depending on how McCoy is defining "Earth-type," our universe may have two hundred times as many planets in this category, which just goes to show that the universe is more optimistic than even Gene Roddenberry.
 
@@ -243,7 +243,7 @@ Ritual suicide is obviously not uncommon in fiction, but the idea that the desig
 
  > **SPOCK**: Nuclear device of some kind, sir. Our phasers detonated it less than one hundred meters away.
 
-It's hard to guess how resistant the *Enterprise* is to a nuclear blast, so we can't say how it "should" come through.  But, some quick research suggests that the [Davy Crockett](https://en.wikipedia.org/wiki/Davy_Crockett_(nuclear_device)) device, the smallest nuclear weapon produced, at twenty tons, would cause third-degree burns another forty meters past the hull.  In an atmosphere, the "5 psi overpressure" range would go another ninety meters past where the hull would be, with the force to collapse most residential buildings, injure pretty much everyone, and kill large numbers.  And for another hundred meters past the position of the hull, there'd be a five thousand rem radiation dose, which is almost certainly fatal to any animal of significant complexity.
+It's hard to guess how resistant the *Enterprise* is to a nuclear blast, so we can't say how it "should" come through.  But, some quick research suggests that the {% wiki Davy_Crockett_%28nuclear_device%29|Davy Crockett|en %} device, the smallest nuclear weapon produced, at twenty tons, would cause third-degree burns another forty meters past the hull.  In an atmosphere, the "5 psi overpressure" range would go another ninety meters past where the hull would be, with the force to collapse most residential buildings, injure pretty much everyone, and kill large numbers.  And for another hundred meters past the position of the hull, there'd be a five thousand rem radiation dose, which is almost certainly fatal to any animal of significant complexity.
 
 In other words, don't try this at home.  The *Enterprise* is clearly **extremely** resistant to such attacks, since we'll only come out of the story with one casualty.
 
@@ -307,13 +307,13 @@ Strangely, other than Christopher Pike's disability from his accident in *The Me
 
 Oh, dear...
 
-So, we have some deep racism that dismisses "[Bantu](https://en.wikipedia.org/wiki/Bantu_peoples) women" as emotionless, typical of people who are just not interested in treating certain groups as human.  You'll see a similar stereotype leveled at East Asians, the archaic and obnoxious term being "inscrutible."
+So, we have some deep racism that dismisses "{% wiki Bantu_peoples|Bantu|en %} women" as emotionless, typical of people who are just not interested in treating certain groups as human.  You'll see a similar stereotype leveled at East Asians, the archaic and obnoxious term being "inscrutible."
 
 {% imgr Vulcan's orbit|Planet-Vulcan_1846_003790.png|Vulcan's orbit %}
 
 Blish also apparently hasn't gotten the memo on the difference between not having emotions and suppressing emotions.
 
-We also have a reference to the previously-hypothesized planet [Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)) and places Spock's homeworld as in orbit around [40 Eridani](https://en.wikipedia.org/wiki/40_Eridani) (also known as &omicron;<sup>2</sup> Eridani), a triple-star system less than seventeen light years from Earth.  40 Eridani A is named *Keid*, and is thought could theoretically support life in a band similar to the orbit of Venus, and a large exoplanet discovered in 2018 far closer to the star than that.  40 Eridani appears in a handful of other science fiction (most prominently, the **Dune** franchise), but the only mention of it that I can find that would qualify as Free Culture is a quick mention in [**Search the Sky**](https://www.gutenberg.org/ebooks/52228), by C. M. Kornbluth and Frederik Pohl.
+We also have a reference to the previously-hypothesized planet {% wiki Vulcan_%28hypothetical_planet%29|Vulcan|en %} and places Spock's homeworld as in orbit around {% wiki 40_Eridani|40 Eridani|en %} (also known as &omicron;<sup>2</sup> Eridani), a triple-star system less than seventeen light years from Earth.  40 Eridani A is named *Keid*, and is thought could theoretically support life in a band similar to the orbit of Venus, and a large exoplanet discovered in 2018 far closer to the star than that.  40 Eridani appears in a handful of other science fiction (most prominently, the **Dune** franchise), but the only mention of it that I can find that would qualify as Free Culture is a quick mention in [**Search the Sky**](https://www.gutenberg.org/ebooks/52228), by C. M. Kornbluth and Frederik Pohl.
 
  > But even as he spoke, the screen suddenly turned white, then dimmed as Uhura backed it hastily down the intensity scale.
 
@@ -339,13 +339,13 @@ Kirk has apparently read ahead in the script to Spock's rodinium demonstration d
 
  > Nothing but a De Broglie transform in the computer.
 
-[Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) was a quantum physicist working on particle-wave duality, suggesting that the cloaking system might be thought to work by forcing photons to be treated like waves that can ripple around the ship instead of bouncing off them.  Not that such a thing would work, since sonar works by tracking sound waves, but it shows some of the thought and also lets me re-emphasize that we're all-in on quantum physics, X-ray diffusion, spectral analysis, and microscale chemistry, but keep ignoring genetics in this series...
+{% wiki Louis_de_Broglie|Louis de Broglie|en %} was a quantum physicist working on particle-wave duality, suggesting that the cloaking system might be thought to work by forcing photons to be treated like waves that can ripple around the ship instead of bouncing off them.  Not that such a thing would work, since sonar works by tracking sound waves, but it shows some of the thought and also lets me re-emphasize that we're all-in on quantum physics, X-ray diffusion, spectral analysis, and microscale chemistry, but keep ignoring genetics in this series...
 
 We also confirm my offhanded comment earlier that the comet is explicitly part of the solar system.
 
  > The whole orbit feeds in along Hohmann D toward an intercept with Romulus.
 
-Spock's note, here, replaces the "leisurely maneuver" described in the episode, referring to [Hohmann transfer orbits](https://en.wikipedia.org/wiki/Hohmann_transfer_orbit), the math explaining why it takes so much longer for our (real-world) probes to reach other planets than simple arithmetic comparing distance and velocity would otherwise suggest.
+Spock's note, here, replaces the "leisurely maneuver" described in the episode, referring to {% wiki Hohmann_transfer_orbit|Hohmann transfer orbits|en %}, the math explaining why it takes so much longer for our (real-world) probes to reach other planets than simple arithmetic comparing distance and velocity would otherwise suggest.
 
  > Miss Uhura...
 
@@ -395,13 +395,13 @@ However, we also have this assertion that the *Enterprise* is constantly watchin
 
  > They looked human, or nearly so: lean men, with almond-colored faces, dressed in military tunics which bore wolf's-head emblems. The severe, reddish tone of the bulkheads seemed to accentuate their impassivity. Their heads were encased in heavy helmets.
 
-Again with the emotionless faces, of course.  But we're going all in on the Rome metaphor, here, not just with [Romulus and Remus](https://en.wikipedia.org/wiki/Romulus_and_Remus) and the various ranks we hear kicked around in the episode, but their wolf foster mother, too.  Presumably, the bird painted on the underbelly of the ship is the [aquila](https://en.wikipedia.org/wiki/Aquila_(Roman)).
+Again with the emotionless faces, of course.  But we're going all in on the Rome metaphor, here, not just with {% wiki Romulus_and_Remus|Romulus and Remus|en %} and the various ranks we hear kicked around in the episode, but their wolf foster mother, too.  Presumably, the bird painted on the underbelly of the ship is the {% wiki Aquila_%28Roman|aquila|en %}.
 
-This brings up a maybe-important question:  If they're related to ancient Vulcans (or "Vulcanites" or "Vulcanians" or...), why is their culture so clearly patterned after a group of Earth's humans?  Is this a case similar to a [later episode](https://en.wikipedia.org/wiki/Bread_and_Circuses_(Star_Trek:_The_Original_Series)) that we'll be talking about in late January?  Or is it another sign that---like McCoy's comment about Vulcan being conquered because they don't drink---humans *might* have invaded Vulcan at some point in the past, exposing the Romulans to a culture they identified with.
+This brings up a maybe-important question:  If they're related to ancient Vulcans (or "Vulcanites" or "Vulcanians" or...), why is their culture so clearly patterned after a group of Earth's humans?  Is this a case similar to a {% wiki Bread_and_Circuses_%28Star_Trek:_The_Original_Series%29|later episode|en %} that we'll be talking about in late January?  Or is it another sign that---like McCoy's comment about Vulcan being conquered because they don't drink---humans *might* have invaded Vulcan at some point in the past, exposing the Romulans to a culture they identified with.
 
  > Kirk's attention was focused at once on the commander. His uniform was white, and oddly less decorated than those of his officers. Even more importantly, however, he wore no helmet. And in his build, his stance, his coloring, even the cant and shape of his ears, he was a dead ringer for Spock.
 
-I can't decide whether this is an "all Vulcans look the same" slur or a sly reference to how the actor playing the commander, Mark Lenard, will [later](https://en.wikipedia.org/wiki/Journey_to_Babel) (and across multiple parts of the franchise) also portray Spock's father in an episode we'll talk about in mid-October.  My *guess* is the former, since this book would have been first published in January 1967 and the episode in question didn't air until November of that year.  But maybe he knew something we didn't or the casting director thought it would be a fun idea.  (The Decius---Lawrence Montaigne---will similarly return in [a different second season episode](https://en.wikipedia.org/wiki/Amok_Time) as another Vulcan in Spock's life.  Our discussion for that episode is slated for August.)
+I can't decide whether this is an "all Vulcans look the same" slur or a sly reference to how the actor playing the commander, Mark Lenard, will {% wiki Journey_to_Babel|later|en %} (and across multiple parts of the franchise) also portray Spock's father in an episode we'll talk about in mid-October.  My *guess* is the former, since this book would have been first published in January 1967 and the episode in question didn't air until November of that year.  But maybe he knew something we didn't or the casting director thought it would be a fun idea.  (The Decius---Lawrence Montaigne---will similarly return in {% wiki Amok_Time|a different second season episode|en %} as another Vulcan in Spock's life.  Our discussion for that episode is slated for August.)
 
 Also...why is this resemblance a surprise?  Unless the original draft called for the commander to look *so* identical to Spock that he would be played by Leonard Nimoy (which would go a long way to explaining the re-use of Mark Lenard as deliberate and not just because they had already fit him for the ears), we had a good chunk of two long paragraphs telling us that humans have always known that Romulan corpses bear a strong resemblance to Vulcans.
 
@@ -435,7 +435,7 @@ Stiles reared his head again, to say something dumb.  Even Sulu had to try and s
 
  > Spock's diversion turned out to be the cold comet they had detected earlier---now "cold" no longer, for as it came closer to the central Romulan-Reman sun it had begun to display its plumage.
 
-For reference, the comet in our solar system with the shortest orbital period that I can find is [3200 Phaethon](https://en.wikipedia.org/wiki/3200_Phaethon), which takes about a year and a half to get back near the Sun.  It sometimes passes with an couple dozen Lunar orbits of Earth, and so is classified as potentially hazardous, but my point is that the day or two the *Enterprise* has been sitting around shouldn't be enough time for a huge change in the comet's status.  Similarly, comets generally only get a tail when they're near the Sun, which should be far inside the Neutral Zone.
+For reference, the comet in our solar system with the shortest orbital period that I can find is {% wiki 3200_Phaethon|3200 Phaethon|en %}, which takes about a year and a half to get back near the Sun.  It sometimes passes with an couple dozen Lunar orbits of Earth, and so is classified as potentially hazardous, but my point is that the day or two the *Enterprise* has been sitting around shouldn't be enough time for a huge change in the comet's status.  Similarly, comets generally only get a tail when they're near the Sun, which should be far inside the Neutral Zone.
 
 Their sun being identified as a white dwarf means that the planet must be nearby, but the idea that the entire Neutral Zone is close seems implausible, unless it somehow only surrounds the two planets.
 
@@ -471,7 +471,7 @@ If that wasn't enough, the episode (especially when taken with the adaptation) p
 
 Meanwhile, the adaptation hints that the Federation might be holding together with little more than frayed thread, ready to spiral out into a civil war---not a collapse, but an actual war---at the first opportunity.
 
-And as I mentioned before, Spock continues his strange thirst for blood and general [toxic masculinity](https://en.wikipedia.org/wiki/Toxic_masculinity) by insisting that the only language the Romulans can understand is a merciless attack.  He frames this as being deduced based on his historical knowledge, but this was also his advice for Gary Mitchell and the creature posing as Nancy Crater, from previous episodes, and being terrified to show weakness is also a sentiment he tries to force onto Kirk in *The Enemy Within*.  And yet, at no point does he consider the possibility that the Romulan ship might be part of an entire fleet waiting for the smallest pretext to attack or that talking might be useful.  Even then, after all that, he almost gets everybody killed by blindly pawing his console at a time when he's required to be as careful as possible.
+And as I mentioned before, Spock continues his strange thirst for blood and general {% wiki Toxic_masculinity|toxic masculinity|en %} by insisting that the only language the Romulans can understand is a merciless attack.  He frames this as being deduced based on his historical knowledge, but this was also his advice for Gary Mitchell and the creature posing as Nancy Crater, from previous episodes, and being terrified to show weakness is also a sentiment he tries to force onto Kirk in *The Enemy Within*.  And yet, at no point does he consider the possibility that the Romulan ship might be part of an entire fleet waiting for the smallest pretext to attack or that talking might be useful.  Even then, after all that, he almost gets everybody killed by blindly pawing his console at a time when he's required to be as careful as possible.
 
 And finally, we end the episode with another instance of Starfleet telling Kirk that he absolutely must act a certain way, only to send out orders---too late to affect the episode---telling him to completely ignore them and do whatever he thinks works.  While it's heartening that they have such faith in him, it's also terrifying how disposably Starfleet treats its rules.  In the adaptation, we see a hint of something similar to this, too, when Kirk raises the idea of a rule against fraternization among the crew, only to explain why he doesn't care about the rule.
 
@@ -491,4 +491,4 @@ Next up, we get some rest and relaxation with bunnies...**of doom**, in *Shore L
 
 * * *
 
-**Credits**:  The header image is [Image still from the planetarium show "From Earth to the Universe"](https://www.eso.org/public/images/fettu-asteroids_cc/) by the [European Southern Observatory](https://www.eso.org) and T. Matsopoulos, ESO/S. Brunier, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.  The [1846 lithography about the solar system](https://en.wikipedia.org/wiki/File:Planet-Vulcan_1846_003790.jpg) cropped from [the version here](https://www.loc.gov/resource/g3180.ct003790) has been in the public domain for a long time.
+**Credits**:  The header image is [Image still from the planetarium show "From Earth to the Universe"](https://www.eso.org/public/images/fettu-asteroids_cc/) by the [European Southern Observatory](https://www.eso.org) and T. Matsopoulos, ESO/S. Brunier, available under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.  The {% wiki File:Planet-Vulcan_1846_003790.jpg|1846 lithography about the solar system|en %} cropped from [the version here](https://www.loc.gov/resource/g3180.ct003790) has been in the public domain for a long time.

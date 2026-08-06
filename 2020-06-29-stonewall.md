@@ -13,7 +13,7 @@ offset: -85%
 * Ignore for ToC
 {:toc}
 
-Yesterday, of course, was the anniversary of the [Stonewall uprising](https://en.wikipedia.org/wiki/Stonewall_riots).  Sometimes, it almost seems like American history should be built around protests, uprisings, and riots, with the conditions leading up to them more instructive as to where we are and how we got here than the relative non-stories of the [War of 1812](https://en.wikipedia.org/wiki/War_of_1812) or the [Battle of San Juan Hill](https://en.wikipedia.org/wiki/Battle_of_San_Juan_Hill).
+Yesterday, of course, was the anniversary of the {% wiki Stonewall_riots|Stonewall uprising|en %}.  Sometimes, it almost seems like American history should be built around protests, uprisings, and riots, with the conditions leading up to them more instructive as to where we are and how we got here than the relative non-stories of the {% wiki War_of_1812|War of 1812|en %} or the {% wiki Battle_of_San_Juan_Hill|Battle of San Juan Hill|en %}.
 
 ![Stonewall Inn, 1969](/blog/assets/Stonewall_Inn_1969.jpg "Stonewall Inn, 1969")
 

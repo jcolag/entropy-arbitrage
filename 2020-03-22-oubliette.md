@@ -11,13 +11,13 @@ thumbnail: /blog/assets/wood-white-play-food-color-community-730015-pxhere.com.j
 * Ignore for ToC
 {:toc}
 
-One of my long-term projects that I never seem to actually get around to touching is to resurrect Elizabeth Magie's [**The Landlord's Game**](https://en.wikipedia.org/wiki/The_Landlord's_Game), the forerunner of [**Monopoly**](https://en.wikipedia.org/wiki/Monopoly_(game)) that was designed to contrast unregulated markets with [Georgism](https://en.wikipedia.org/wiki/Georgism), a proposed economic system where everybody is taxed for sitting on resources (primarily land, because this is an old idea), rather than taxing income or spending, to discourage centralized ownership of resources by making it too expensive to resell or rent unused resources.
+One of my long-term projects that I never seem to actually get around to touching is to resurrect Elizabeth Magie's {% wiki The_Landlord's_Game|**The Landlord's Game**|en %}, the forerunner of {% wiki Monopoly_%28game%29|**Monopoly**|en %} that was designed to contrast unregulated markets with {% wiki Georgism|Georgism|en %}, a proposed economic system where everybody is taxed for sitting on resources (primarily land, because this is an old idea), rather than taxing income or spending, to discourage centralized ownership of resources by making it too expensive to resell or rent unused resources.
 
 ![Game pieces](/blog/assets/wood-white-play-food-color-community-730015-pxhere.com.jpg "Game pieces")
 
 While I wouldn't be surprised if **The Landlord's Game** or Henry George's ideas showed up, someday, this isn't a post about any of that.
 
-One of the projects *related* to the game is imagining what a modern **Landlord**-like game might look like with additional subsystems, especially the stranger systems people use as house rules.  For example, favorite addition to **Monopoly** in some circles is to replace the jail (where a player is sidelined for some length of time, which isn't any fun) with a roleplaying-like dungeon crawl, often using TSR's [**Dungeon!**](https://en.wikipedia.org/wiki/Dungeon!) board game.
+One of the projects *related* to the game is imagining what a modern **Landlord**-like game might look like with additional subsystems, especially the stranger systems people use as house rules.  For example, favorite addition to **Monopoly** in some circles is to replace the jail (where a player is sidelined for some length of time, which isn't any fun) with a roleplaying-like dungeon crawl, often using TSR's {% wiki Dungeon!|**Dungeon!**|en %} board game.
 
 While I appreciate the broad concept, I don't like the implementation of the idea for a few reasons.
 
@@ -112,16 +112,16 @@ Of course, we need those cards, presumably thirty-two of each type.  My thinking
 
 |Power|Monster|Description|
 |-----|-------|-----------|
-|1|[Squasc](https://en.wikipedia.org/wiki/Squasc)|small, hairy, tawny, similar to a squirrel without tail, but with an anthropomorphic face|
-|2|[Pukwudgie](https://en.wikipedia.org/wiki/Pukwudgie)|kidnap people, push them off cliffs, attack with short knives/spears, use sand to blind|
-|3|[Manaia](https://en.wikipedia.org/wiki/Manaia_(mythological_creature))|head of a bird and the tail of a fish and the body of a man|
-|4|[Ogre](https://en.wikipedia.org/wiki/Ogre)|large, hideous, man-like being that eats ordinary human beings|
-|5|[Yeti](https://en.wikipedia.org/wiki/Yeti)|ape-like creature taller than an average human|
-|6|[Rompo](https://en.wikipedia.org/wiki/Rompo)|head of a hare, human ears, a skeleton body, the arms of a badger, and legs of a bear|
-|7|[Mo'o](https://en.wikipedia.org/wiki/Mo%CA%BBo)|forms of monstrous reptiles, tiny geckos, and humans|
-|8|[Manticore](https://en.wikipedia.org/wiki/Manticore)|the head of a human, body of a lion and a tail of venomous spines similar to porcupine quills|
-|9|[Anchimallén](https://en.wikipedia.org/wiki/Anchimayen)|undead children, can transform into flying fireballs|
-|10|[Dragon](https://en.wikipedia.org/wiki/Dragon)|winged, horned, four-legged, and capable of breathing fire|
+|1|{% wiki Squasc|Squasc|en %}|small, hairy, tawny, similar to a squirrel without tail, but with an anthropomorphic face|
+|2|{% wiki Pukwudgie|Pukwudgie|en %}|kidnap people, push them off cliffs, attack with short knives/spears, use sand to blind|
+|3|{% wiki Manaia_%28mythological_creature%29|Manaia|en %}|head of a bird and the tail of a fish and the body of a man|
+|4|{% wiki Ogre|Ogre|en %}|large, hideous, man-like being that eats ordinary human beings|
+|5|{% wiki Yeti|Yeti|en %}|ape-like creature taller than an average human|
+|6|{% wiki Rompo|Rompo|en %}|head of a hare, human ears, a skeleton body, the arms of a badger, and legs of a bear|
+|7|{% wiki Mo%CA%BBo|Mo'o|en %}|forms of monstrous reptiles, tiny geckos, and humans|
+|8|{% wiki Manticore|Manticore|en %}|the head of a human, body of a lion and a tail of venomous spines similar to porcupine quills|
+|9|{% wiki Anchimayen|Anchimallén|en %}|undead children, can transform into flying fireballs|
+|10|{% wiki Dragon|Dragon|en %}|winged, horned, four-legged, and capable of breathing fire|
 |1|Squasc| |
 |2|Pukwudgie| |
 |3|Manaia| |

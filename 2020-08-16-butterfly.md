@@ -12,7 +12,7 @@ offset: -30%
 * Ignore for ToC
 {:toc}
 
-As you probably know and may have forgotten, Donald Trump, alleged President of the United States, chose to "riff" at his August 10<sup>th</sup> White House Coronavirus Task Force press briefing, suggesting that the [Spanish flu](https://en.wikipedia.org/wiki/Spanish_flu) pandemic (February 1918 – April 1920, though he insists that it's a 1917 epidemic) ended [World War II](https://en.wikipedia.org/wiki/World_War_II) (1 September 1939 – 2 September 1945).
+As you probably know and may have forgotten, Donald Trump, alleged President of the United States, chose to "riff" at his August 10<sup>th</sup> White House Coronavirus Task Force press briefing, suggesting that the {% wiki Spanish_flu|Spanish flu|en %} pandemic (February 1918 – April 1920, though he insists that it's a 1917 epidemic) ended {% wiki World_War_II|World War II|en %} (1 September 1939 – 2 September 1945).
 
 ![Camp Funston](/blog/assets/Camp-Funston-Kansas-NCP-1603.png "Camp Funston, clearly the worst possible name for an emergency hospital")
 
@@ -180,7 +180,7 @@ But as for the structural bits, the names were all randomly chosen, though Nikla
 
 Tomomori would have been one of the youngest Field-Marshals of Imperial Japan.  His home city of Okazaki would have only recently been declared a city when the time-travelers first visit him.
 
-Much of the travel centers on Kansas, particularly near [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), because that's where the earlest cases of the Spanish flu seem to have been recorded.  As a twist, Manhattan County, where Fort Riley sits, is currently one of the minority of counties in Kansas mandating that people wear masks for the duration of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic).
+Much of the travel centers on Kansas, particularly near {% wiki Fort_Riley|Fort Riley|en %}, because that's where the earlest cases of the Spanish flu seem to have been recorded.  As a twist, Manhattan County, where Fort Riley sits, is currently one of the minority of counties in Kansas mandating that people wear masks for the duration of the {% wiki COVID-19_pandemic|COVID-19 pandemic|en %}.
 
 * * *
 
