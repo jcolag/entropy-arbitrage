@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-As we approach "the holiday season," minor holidays dry up.  So, this week marks the start of Geography Awareness Week, a celebration that has sprouted around [Geographic Information System (GIS) Day](https://en.wikipedia.org/wiki/GIS_Day).  Normally, I'd ignore this as an industry patting itself on the back, but the United States Geological Survey and the Library of Congress have both sponsored it, so it's at least *slightly* more than satellite/mapping companies inflating their importance.
+As we approach "the holiday season," minor holidays dry up.  So, this week marks the start of Geography Awareness Week, a celebration that has sprouted around {% wiki GIS_Day|Geographic Information System (GIS) Day|en %}.  Normally, I'd ignore this as an industry patting itself on the back, but the United States Geological Survey and the Library of Congress have both sponsored it, so it's at least *slightly* more than satellite/mapping companies inflating their importance.
 
 ![A physical world map](/blog/assets/world_phy.png "The Earth, presented in the famous UFO projection")
 
@@ -27,7 +27,7 @@ As I hinted [last week]({% post_url 2021-11-08-rememberance %}), I needed to cle
 
 So...Haskell.
 
-The good news is that Haskell is a fairly nice [functional](https://en.wikipedia.org/wiki/Functional_programming) programming language, but it's frankly peculiar how dismal the ecosystem seems to be, in terms of standardization and documentation.
+The good news is that Haskell is a fairly nice {% wiki Functional_programming|functional|en %} programming language, but it's frankly peculiar how dismal the ecosystem seems to be, in terms of standardization and documentation.
 
 For example, it *appears* that tooling is supposed to be handled by [Stack](https://haskellstack.org)---which is what I used---but it's not really discussed anywhere other than its own site and an occasional blog post.  So, is it really the Haskell equivalent of [Yarn](https://yarnpkg.com/) or [Cargo](https://doc.rust-lang.org/cargo/)?  It's unclear whether this is unique or just one of many possible systems.
 

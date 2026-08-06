@@ -13,7 +13,7 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-Again, this time of year is short on holidays, due to people being busy with the bigger days of the year.  So, maybe slightly late, depending on how you count them, yesterday or today marks the ninety-second anniversary of the launch of [Richard Evelyn Byrd](https://en.wikipedia.org/wiki/Richard_E._Byrd)'s first Antarctic expedition.
+Again, this time of year is short on holidays, due to people being busy with the bigger days of the year.  So, maybe slightly late, depending on how you count them, yesterday or today marks the ninety-second anniversary of the launch of {% wiki Richard_E._Byrd|Richard Evelyn Byrd|en %}'s first Antarctic expedition.
 
 ![The Byrd expedition ship in heavy pack ice of the South Pole](/blog/assets/Bundesarchiv-Bild-102-09158-Expeditionsschiff-Byrds.png "Watch out for that icy patch.")
 
@@ -63,4 +63,4 @@ Of course, I may decide to do something entirely different, too.
 
 * * *
 
-**Credits**:  The header image is the [Byrd's South Pole expedition in the pack ice](https://en.wikipedia.org/wiki/File:Bundesarchiv_Bild_102-09158,_Expeditionsschiff_Byrds.jpg) by an unknown photographer, made available by the [German Federal Archive](http://www.bundesarchiv.de/) under the terms of the [Creative Commons Attribution Share-Alike 3.0 Germany](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) license.
+**Credits**:  The header image is the {% wiki File:Bundesarchiv_Bild_102-09158,_Expeditionsschiff_Byrds.jpg|Byrd's South Pole expedition in the pack ice|en %} by an unknown photographer, made available by the [German Federal Archive](http://www.bundesarchiv.de/) under the terms of the [Creative Commons Attribution Share-Alike 3.0 Germany](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) license.

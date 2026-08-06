@@ -13,11 +13,11 @@ offset: -61%
 * Ignore for ToC
 {:toc}
 
-We narrowly missed a few interesting holidays that we (the blog) will presumably pick up in future years, but the big anniversary in the United States is probably the signing of the [Enabling Act of 1889](https://en.wikipedia.org/wiki/Enabling_Act_of_1889), which would create Washington State, Montana, North Dakota, and South Dakota.
+We narrowly missed a few interesting holidays that we (the blog) will presumably pick up in future years, but the big anniversary in the United States is probably the signing of the {% wiki Enabling_Act_of_1889|Enabling Act of 1889|en %}, which would create Washington State, Montana, North Dakota, and South Dakota.
 
 ![Constitutional Convention Parade](/blog/assets/1889ConstitutionalConventionParadeBismarkND.png "Constitutional Convention Parade")
 
-Yesterday also kicked off the beginning of [National Engineers Week](https://en.wikipedia.org/wiki/National_Engineers_Week_(U.S.)) in the United States.  Since it's a bit pretentious to celebrate (among) the best-paid workers in the country who often refuse to unionize, it has come to be a celebration of the importance of [STEM subjects](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics).
+Yesterday also kicked off the beginning of {% wiki National_Engineers_Week_%28U.S.%29|National Engineers Week|en %} in the United States.  Since it's a bit pretentious to celebrate (among) the best-paid workers in the country who often refuse to unionize, it has come to be a celebration of the importance of {% wiki Science,_technology,_engineering,_and_mathematics|STEM subjects|en %}.
 
 ## Picture to Nonogram
 
@@ -29,7 +29,7 @@ It's solid enough that I have started posting a daily puzzle every midnight (Eas
 
 A brief flash of inspiration also led me to revisit [**CPREP**](https://github.com/jcolag/background-generator), dealing a bit more with personality traits.
 
-I added a completely superficial generation of so-called [Big Five](https://en.wikipedia.org/wiki/Big_Five_personality_traits) traits, the model with some actual statistical research backing it.  It'd be better if it was based in something where the material to learn about it was in the public domain, since I believe that everything else in the system comes from a public domain source, but since this is literally just five pairs of names, it's probably more or less safe.
+I added a completely superficial generation of so-called {% wiki Big_Five_personality_traits|Big Five|en %} traits, the model with some actual statistical research backing it.  It'd be better if it was based in something where the material to learn about it was in the public domain, since I believe that everything else in the system comes from a public domain source, but since this is literally just five pairs of names, it's probably more or less safe.
 
 I also decided to quickly use the person's generated age range and the Chinese zodiac sign to provide approximate years that the person could have been born.  It's not perfect, since some ranges are too short to cover all possible signs, and it completely neglects that the sign doesn't change on the first of January.  But I'd call it a decent first pass.
 

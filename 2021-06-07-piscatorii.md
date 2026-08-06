@@ -13,7 +13,7 @@ offset: -42%
 * Ignore for ToC
 {:toc}
 
-We don't have *great* holidays, today, so the most interesting is [*Ludi Piscatorii*](https://en.wikipedia.org/wiki/Ludi_Piscatorii), a Roman celebration of the [Tiber](https://en.wikipedia.org/wiki/Tiber).  It's a weird---and stereotypically pagan---celebration, where fishermen simply sacrificed the day's catch to the gods.  So, it's a day to *not* eat fish, I guess.
+We don't have *great* holidays, today, so the most interesting is {% wiki Ludi_Piscatorii|*Ludi Piscatorii*|en %}, a Roman celebration of the {% wiki Tiber|Tiber|en %}.  It's a weird---and stereotypically pagan---celebration, where fishermen simply sacrificed the day's catch to the gods.  So, it's a day to *not* eat fish, I guess.
 
 ![The Tiber River](/blog/assets/PonteSantAngeloRom.png "The Tiber River")
 

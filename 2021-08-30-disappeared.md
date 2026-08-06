@@ -13,7 +13,7 @@ offset: -31%
 * Ignore for ToC
 {:toc}
 
-Today marks the [International Day of the Disappeared](https://en.wikipedia.org/wiki/International_Day_of_the_Disappeared), drawing attention to people missing due to secret imprisonment.
+Today marks the {% wiki International_Day_of_the_Disappeared|International Day of the Disappeared|en %}, drawing attention to people missing due to secret imprisonment.
 
 ![Remembering the disappeared in Argentina](/blog/assets/Bandera-de-los-Desaparecidos-Dia-de-la-Memoria.png "Remembering the disappeared in Argentina")
 

@@ -13,7 +13,7 @@ offset: -31%
 * Ignore for ToC
 {:toc}
 
-I've never heard of [Day of the Programmer](https://en.wikipedia.org/wiki/Day_of_the_Programmer) before, but I happen to *be* a programmer, and it has a great name.  The date was chosen as the 256<sup>th</sup> (2<sup>8</sup>) day of the year.  In leap years, it's September 12<sup>th</sup>.
+I've never heard of {% wiki Day_of_the_Programmer|Day of the Programmer|en %} before, but I happen to *be* a programmer, and it has a great name.  The date was chosen as the 256<sup>th</sup> (2<sup>8</sup>) day of the year.  In leap years, it's September 12<sup>th</sup>.
 
 ![A woman at a small table transferring code from her laptop to her phone](/blog/assets/25392390163_d6a5321bfb_o.png "Large windows don't make these multi-device moments any less tedious.")
 
@@ -27,7 +27,7 @@ I updated libraries for [**Miniboost**](https://github.com/jcolag/Miniboost), ag
 
 The [blog's code](https://github.com/jcolag/entropy-arbitrage-code) now has improvements that are entirely invisible to readers and are purely for my benefit.  The deployment notifications that I get are now far clearer.  I have also finally published the script that I run to keep the Internet Archive up to date.
 
-I wanted to add [Archive Today](https://archive.today/) to the script, because I think it has a more usable interface than the [Internet Archive](https://archive.org).  However, they protect every page access with a [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA), which...I'd rather not go down the path of paying a shady company to farm out the piece-work to people who only solve these things for hours at a time.
+I wanted to add [Archive Today](https://archive.today/) to the script, because I think it has a more usable interface than the [Internet Archive](https://archive.org).  However, they protect every page access with a {% wiki CAPTCHA|CAPTCHA|en %}, which...I'd rather not go down the path of paying a shady company to farm out the piece-work to people who only solve these things for hours at a time.
 
 ## Quotation Extractor
 

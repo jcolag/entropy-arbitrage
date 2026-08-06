@@ -15,9 +15,9 @@ offset: -23%
 
 ![No Business Transacted](/blog/assets/no-business-transacted.png "No Business Transacted")
 
-In the United States, we celebrate [Presidents' Day](https://en.wikipedia.org/wiki/Washington%27s_Birthday), based on George Washington's birthday, though Abraham Lincoln's birthday is near enough that the second Monday of the month is often closer to his than Washington's.  In some areas, while he was never President, [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass) as an unwilling Vice Presidential nominee, assumed to be born on the fourteenth and dying on the twentieth of February.
+In the United States, we celebrate {% wiki Washington%27s_Birthday|Presidents' Day|en %}, based on George Washington's birthday, though Abraham Lincoln's birthday is near enough that the second Monday of the month is often closer to his than Washington's.  In some areas, while he was never President, {% wiki Frederick_Douglass|Frederick Douglass|en %} as an unwilling Vice Presidential nominee, assumed to be born on the fourteenth and dying on the twentieth of February.
 
-More relevant to a developer journal entry, today is also [ENIAC Day](https://en.wikipedia.org/wiki/ENIAC_Day).  And that's as good a segue as any into talking code.
+More relevant to a developer journal entry, today is also {% wiki ENIAC_Day|ENIAC Day|en %}.  And that's as good a segue as any into talking code.
 
 ## Picture to Nonogram
 

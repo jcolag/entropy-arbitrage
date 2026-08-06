@@ -12,7 +12,7 @@ thumbnail: /blog/assets/Korean-War-armistice-agreement-1953.png
 * Ignore for ToC
 {:toc}
 
-Tomorrow will be the sixty-eighth anniversary of the [Korean Armistice Agreement](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement), a cease-fire that has been so successful that...the war has technically never ended, still governed by the armistice.  It wasn't until 2018 that the [Panmunjom Declaration](https://en.wikipedia.org/wiki/Panmunjom_Declaration) brought a commitment to find common ground, actually end the war, reconcile, and consider reunification.
+Tomorrow will be the sixty-eighth anniversary of the {% wiki Korean_Armistice_Agreement|Korean Armistice Agreement|en %}, a cease-fire that has been so successful that...the war has technically never ended, still governed by the armistice.  It wasn't until 2018 that the {% wiki Panmunjom_Declaration|Panmunjom Declaration|en %} brought a commitment to find common ground, actually end the war, reconcile, and consider reunification.
 
 ![Signing the Armistice](/blog/assets/Korean-War-armistice-agreement-1953.png "Signing the Armistice")
 
@@ -52,7 +52,7 @@ At some point, another library also needed bumping to the current version, so yo
 
 ### Style Clashes
 
-Oh, and this should be invisible to everybody---it'll actually just get wrapped into the next auto-commit of [the blog's assets](https://gitlab.com/jcolag/entropy-arbitrage-assets)---but in case it's useful information to anybody, here's another detail in the plugin saga.  Around two out of three times when I would deploy the updated blog (local or remote), there was a chance that my new styles would vanish.  I could fix this manually, by changing my CSS---actually [SASS](https://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29)---where it was correct, and letting Jekyll rebuild.
+Oh, and this should be invisible to everybody---it'll actually just get wrapped into the next auto-commit of [the blog's assets](https://gitlab.com/jcolag/entropy-arbitrage-assets)---but in case it's useful information to anybody, here's another detail in the plugin saga.  Around two out of three times when I would deploy the updated blog (local or remote), there was a chance that my new styles would vanish.  I could fix this manually, by changing my CSS---actually {% wiki Sass_%28stylesheet_language%29|SASS|en %}---where it was correct, and letting Jekyll rebuild.
 
 The problem was an oddity that (apparently) sometimes happens in Jekyll, the compiled version of my CSS file---that is, the SASS code converted to a normal stylesheet---was sitting in my `assets` folder.  Since the styles had been fairly consistent, I may never have noticed the problem.  However, the new styles having significant effects, it was now a "race condition" to find out whether the copy or the compilation would happen last.
 
@@ -60,7 +60,7 @@ Nobody seems to know where this precompiled CSS comes from---it's possible that 
 
 ## Next
 
-If you (for whatever reason) follow the [**Entropy Arbitrage**](https://github.com/jcolag/entropy-arbitrage) *post* repository, you know that I have written a third plugin for the blog, `cite` for quote citations (to get rid of the bogus headings), and I'll need to check that and the added styles in.  That also requires a change in the script that generates my [Twitter roundup posts](/blog/tag/linkdump).  Unlike the pull quotes and small images, I won't bother to revise old posts to use the new plugin, unless I can convince something like [`sed`](https://en.wikipedia.org/wiki/Sed) to do it for me.
+If you (for whatever reason) follow the [**Entropy Arbitrage**](https://github.com/jcolag/entropy-arbitrage) *post* repository, you know that I have written a third plugin for the blog, `cite` for quote citations (to get rid of the bogus headings), and I'll need to check that and the added styles in.  That also requires a change in the script that generates my [Twitter roundup posts](/blog/tag/linkdump).  Unlike the pull quotes and small images, I won't bother to revise old posts to use the new plugin, unless I can convince something like {% wiki Sed|`sed`|en %} to do it for me.
 
 Otherwise, I feel like I've been saying this for months, but this week, I should be able to figure out how to complete the activation process on **Doritís Onomáton**.  Once that's done, I can deploy **Fýlakas Onomáton** to `onamaton.club`, run some final tests with the API key, and start the ordeal of putting the app into the Android and iOS stores.
 

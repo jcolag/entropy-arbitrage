@@ -97,7 +97,7 @@ In any case, here's the promised example, part of some minor changes to my post 
   just
 -a note
 +notes
-  that the work is going to include some content that may [stimulate a trauma response](https://en.wikipedia.org/wiki/Trauma_trigger) in a minority of the audience.  Specifically, people suffering from post-traumatic stress may find that the content reminds them of the traumatizing event in such a way that it produces flashbacks or other panicked reactions.
+  that the work is going to include some content that may {% wiki Trauma_trigger|stimulate a trauma response|en %} in a minority of the audience.  Specifically, people suffering from post-traumatic stress may find that the content reminds them of the traumatizing event in such a way that it produces flashbacks or other panicked reactions.
 ```
 
 Lines that start with a space include unchanged text from a line.  Lines that start with a subtraction sign (`-`) include words that were removed.  And the lines that start with an addition sign (`+`) include words that were added.  So, we pick up the `+` and `-` lines and count the words on them to get a total.  In plain English, this syntax means that I fixed the subject-verb agreement in a sentence.

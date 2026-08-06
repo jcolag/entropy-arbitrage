@@ -59,7 +59,7 @@ I started out the book not hating Bartlett, since she was the only one not compl
 
 Even her sexual fantasies are just about complimenting the man.  Compare that pseudo-sexuality to Nick getting paragraphs to muse on the size of his erection or his sexual satisfaction.  And speaking of *that* incident, I mention it in the content advisories at the top, but the "have sex with me, or I'll have you arrested for sexual assault" plot, and then spending time trying to make that sexy and fun should be unacceptable.
 
-The introduction of Jake means a return to the "managers are gross and the only people who can be trusted to *real work* are *real workers*" rhetoric (followed immediately by the *real workers* jumping to follow unethical orders) and technobabble.  Along similar lines, Nick undermines any claims about his massive expertise in his dismissal of [*As We May Think*](https://en.wikipedia.org/wiki/As_We_May_Think).
+The introduction of Jake means a return to the "managers are gross and the only people who can be trusted to *real work* are *real workers*" rhetoric (followed immediately by the *real workers* jumping to follow unethical orders) and technobabble.  Along similar lines, Nick undermines any claims about his massive expertise in his dismissal of {% wiki As_We_May_Think|*As We May Think*|en %}.
 
 We also have several lengthy chapters, in this section, where people catch up on everything they've learned, so that the other person can pretend to not be interested.  Similarly, plenty of characters die off-screen, where we're informed with a phone call, and an extended action scene that seems more inspired by Looney Tunes than a real fight or action movies, not helped by the sudden obsession with the misogynist term "she-bitch."
 

@@ -16,7 +16,7 @@ thumbnail: /blog/assets/0401563~orig.png
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -32,13 +32,13 @@ I don't have much to say about the episode itself, but for those readers who are
 
  > Captain's log, Stardate 5943.7. We have calculated that Beta Niobe will go nova in approximately three and a half hours. Its only satellite, Sarpeidon, is a Class M planet, which at last report was inhabited by a civilized humanoid species. Now our instruments show that no intelligent life remains on the planet.
 
-Despite the proper structure of the name, there is currently no constellation named for [Niobe](https://en.wikipedia.org/wiki/Niobe).  The planet appears to be named for [Sarpedon](https://en.wikipedia.org/wiki/Sarpedon_%28Trojan_War_hero%29) from **The Iliad**.
+Despite the proper structure of the name, there is currently no constellation named for {% wiki Niobe|Niobe|en %}.  The planet appears to be named for {% wiki Sarpedon_%28Trojan_War_hero%29|Sarpedon|en %} from **The Iliad**.
 
  > **ATOZ**: Of course. I am the real Mister Atoz.
 
 Yep.  The alien librarian is Mr. A-to-Z.  Somebody got *paid* for that, and we don't even get a throwaway line about alien alphabets.
 
-If he looks familiar, character actor [Ian Wolfe](https://en.wikipedia.org/wiki/Ian_Wolfe) also played the fugitive Septimus in [*Bread and Circuses*]({% post_url 2021-01-28-bread %}).
+If he looks familiar, character actor {% wiki Ian_Wolfe|Ian Wolfe|en %} also played the fugitive Septimus in [*Bread and Circuses*]({% post_url 2021-01-28-bread %}).
 
  > **JUDGE**: Where are you from?
  >
@@ -48,11 +48,11 @@ If he looks familiar, character actor [Ian Wolfe](https://en.wikipedia.org/wiki/
  >
  > **KIRK**: It's called Earth.
 
-Especially given the end of the story, it's likely that this was meant to be taken as a reference to [**This Island Earth**](https://en.wikipedia.org/wiki/This_Island_Earth_%28novel%29).
+Especially given the end of the story, it's likely that this was meant to be taken as a reference to {% wiki This_Island_Earth_%28novel%29|**This Island Earth**|en %}.
 
  > Captain's log, stardate 5943.9. The people of this time believe in witches, and witchcraft is what I've been accused of. Five witnesses heard McCoy's voice speak to me and thought it was an evil spirit. From what I know of witchcraft trials, I don't have much chance unless I can get to the prosecutor.
 
-It's worth pointing out that, despite the strange abilities Kirk has seen throughout the series---some semi-credibly posing as magic---he's dismissive of the idea of "witchcraft."  Similarly odd is how he seems to imply that [witch-hunts](https://en.wikipedia.org/wiki/Witch-hunt) are a galactic phenomenon, given that they haven't even been particularly widespread on Earth history.  *Possibly*, that implies something happening in the future.
+It's worth pointing out that, despite the strange abilities Kirk has seen throughout the series---some semi-credibly posing as magic---he's dismissive of the idea of "witchcraft."  Similarly odd is how he seems to imply that {% wiki Witch-hunt|witch-hunts|en %} are a galactic phenomenon, given that they haven't even been particularly widespread on Earth history.  *Possibly*, that implies something happening in the future.
 
  > **MCCOY**: Zarabeth, you are a beautiful cook. Have you ever been told that?
  >
@@ -66,7 +66,7 @@ It's worth pointing out that, despite the strange abilities Kirk has seen throug
 
 You can tell that McCoy is feeling better, because his first impulse is to threaten to force his affections on a disinterested woman.  And then, once he realizes that she's not interested---later in the episode than the other quoted lines, by the way---he reimagines her as a horrifying villain.
 
-Incidentally, you might recognize Zarabeth as [Mariette Hartley](https://en.wikipedia.org/wiki/Mariette_Hartley), who continues to have a diverse career that is well past its sixtieth year.
+Incidentally, you might recognize Zarabeth as {% wiki Mariette_Hartley|Mariette Hartley|en %}, who continues to have a diverse career that is well past its sixtieth year.
 
  > **MCCOY**: You listen to me, you pointed-eared Vulcan.
  >
@@ -76,7 +76,7 @@ On the chance that anybody ever thought that this was supposed to be "good-natur
 
  > **SPOCK**: But insensitive, to send such a beautiful woman into exile. The cold must've affected me more than I realized. Please pay no attention. I'm not myself. I'm behaving disgracefully. I have eaten animal flesh and I have enjoyed it. What is wrong with me? I tell you you're beautiful. But you are beautiful. Is it so wrong to tell you so?
 
-Notice that Spock doesn't have a problem with his behavior, per se.  He has a problem with the fact that he was seen enjoying that behavior.  Does anybody even *need* the [toxic masculinity](https://en.wikipedia.org/wiki/Toxic_masculinity) link for comparison, by this point in the series?
+Notice that Spock doesn't have a problem with his behavior, per se.  He has a problem with the fact that he was seen enjoying that behavior.  Does anybody even *need* the {% wiki Toxic_masculinity|toxic masculinity|en %} link for comparison, by this point in the series?
 
  > **MCCOY**: The Vulcan you knew won't exist for another five thousand years. Think, man. What's happening on your planet right now, this very moment?
  >

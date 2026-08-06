@@ -13,7 +13,7 @@ offset: -54%
 * Ignore for ToC
 {:toc}
 
-Today has a variety of interesting anniversaries, such as what was then [Tōhoku Imperial University](https://en.wikipedia.org/wiki/Tohoku_University) becoming Japan's first university to admit women as students or the [Battle of Plymouth](https://en.wikipedia.org/wiki/Battle_of_Plymouth), but what caught my eye was the 137<sup>th</sup> birthday of [Hugo Gernsback](https://en.wikipedia.org/wiki/Hugo_Gernsback), often called "the father of science fiction."  Gernsback was often a clumsy writer, but he pioneered many ideas that either predicted technological developments or became established tropes of the genre.
+Today has a variety of interesting anniversaries, such as what was then {% wiki Tohoku_University|Tōhoku Imperial University|en %} becoming Japan's first university to admit women as students or the {% wiki Battle_of_Plymouth|Battle of Plymouth|en %}, but what caught my eye was the 137<sup>th</sup> birthday of {% wiki Hugo_Gernsback|Hugo Gernsback|en %}, often called "the father of science fiction."  Gernsback was often a clumsy writer, but he pioneered many ideas that either predicted technological developments or became established tropes of the genre.
 
 ![Hugo Gernsback](/blog/assets/blythe-hugo-gernsback.svg "Sadly, the picture of him wearing television-goggles is still under copyright...")
 
@@ -29,7 +29,7 @@ Remember when I said that [**Fýlakas Onomáton**](https://github.com/jcolag/fyl
 
 Not counting stock Rails code or non-manual code, the only issues that I have remaining are one over-long controller and one over-long function that Rails generated.
 
-The page styling now *also* doesn't look terrible.  It's still not perfect, but it has a distinctive color scheme and takes advantage of [Bootstrap](https://getbootstrap.com/).  I may regret this later, after I realize that I should have just used a [Material Design](https://en.wikipedia.org/wiki/Material_Design) library to match the app, but that's future-John's problem.
+The page styling now *also* doesn't look terrible.  It's still not perfect, but it has a distinctive color scheme and takes advantage of [Bootstrap](https://getbootstrap.com/).  I may regret this later, after I realize that I should have just used a {% wiki Material_Design|Material Design|en %} library to match the app, but that's future-John's problem.
 
 ## Doritís Onomáton
 

@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -30,11 +30,11 @@ Rather than list every post in the series here, you can easily find them all on 
 
 ## The Ambergris Element
 
-We won't have too much to talk about for this episode (again), so I'll take the opportunity here to explain that [ambergris](https://en.wikipedia.org/wiki/Ambergris) is a waxy, amber-like substance produced as a byproduct of sperm whale digestion, found in their excrement.  Until recently when synthetic alternatives became cheaper, it was widely used to make perfume scents last longer.
+We won't have too much to talk about for this episode (again), so I'll take the opportunity here to explain that {% wiki Ambergris|ambergris|en %} is a waxy, amber-like substance produced as a byproduct of sperm whale digestion, found in their excrement.  Until recently when synthetic alternatives became cheaper, it was widely used to make perfume scents last longer.
 
  > Captain's log, stardate 5499.9. We are orbiting the planet Argo. Argo was once a land planet, but its surface is now almost completely covered by water. The change was caused by violent seismic disturbances. Our mission is to study the effects which the quakes and other phenomena had on its surface. This knowledge may save millions of lives on a Federation planet identical to Argo which will soon be undergoing similar transformation.
 
-The [Argo](https://en.wikipedia.org/wiki/Argo) is a ship from Greek myth used to find the Golden Fleece.
+The {% wiki Argo|Argo|en %} is a ship from Greek myth used to find the Golden Fleece.
 
  > **SPOCK**: That implies there are intelligent life forms on Argo.
  >
@@ -48,7 +48,7 @@ We saw a similar issue in [*The Terratin Incident*]({% post_url 2021-10-28-terra
 
  > **SPOCK**: This resembles ancient medical symbols, Captain. The torso indicates mutation.
 
-I have to appreciate how the aspects of episodes most prone to shattering our understanding of their fictional universe are shoved off in the corners.  Here, we discover in passing that unknown alien cultures use the same symbols---such as a [caduceus](https://en.wikipedia.org/wiki/Caduceus)---as we do.  That *should* mean that there has been contact between our worlds, both worlds have been contacted by the same civilization, or that these symbols are somehow universal.  Nobody seems particularly interested in which that might be, though.
+I have to appreciate how the aspects of episodes most prone to shattering our understanding of their fictional universe are shoved off in the corners.  Here, we discover in passing that unknown alien cultures use the same symbols---such as a {% wiki Caduceus|caduceus|en %}---as we do.  That *should* mean that there has been contact between our worlds, both worlds have been contacted by the same civilization, or that these symbols are somehow universal.  Nobody seems particularly interested in which that might be, though.
 
 ## Foster Adaptation
 
@@ -71,9 +71,9 @@ It's loosely implied that this game happens on the multi-level chess-board that 
  >
  > "Then I'll apply for training as common crew, of course," she said matter-of-factly.
 
-This isn't quite about the Federation, but it does tell us a bit about Starfleet's structure.  Like---for one example---the United States military, there's an educated class of officer with ranks that we've seen, often referred to as commissioned, most of whom have graduated from the Academy.  And there's a class of what are called [non-commissioned officers](https://en.wikipedia.org/wiki/Non-commissioned_officer), a semi-parallel hierarchy.
+This isn't quite about the Federation, but it does tell us a bit about Starfleet's structure.  Like---for one example---the United States military, there's an educated class of officer with ranks that we've seen, often referred to as commissioned, most of whom have graduated from the Academy.  And there's a class of what are called {% wiki Non-commissioned_officer|non-commissioned officers|en %}, a semi-parallel hierarchy.
 
-Maybe notable about her Academy days is that M'Ress's roommate is Lena Goldblum, who helps decide who checks grades first by spinning a [dreidel](https://en.wikipedia.org/wiki/Dreidel).  Granted, that's fairly stereotypical and not (as I understand it) realistic in our era, but given how few people in the franchise maintain any cultural traditions drawn from a religion other than Christianity, the presence of someone who is clearly Jewish is of some importance.
+Maybe notable about her Academy days is that M'Ress's roommate is Lena Goldblum, who helps decide who checks grades first by spinning a {% wiki Dreidel|dreidel|en %}.  Granted, that's fairly stereotypical and not (as I understand it) realistic in our era, but given how few people in the franchise maintain any cultural traditions drawn from a religion other than Christianity, the presence of someone who is clearly Jewish is of some importance.
 
  > "We Caitians and the Kzinti share common genetic roots in the far past, as do the Vulcans and Romulans.  With a little careful makeup, I could pass for a Kzin.  A small one, but pass I would.  Communications are my specialty.  With Lieutenant Tavi gone...," she swallowed stiffly, "I'm the best qualified to try this."
 

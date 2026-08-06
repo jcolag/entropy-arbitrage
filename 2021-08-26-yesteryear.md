@@ -18,7 +18,7 @@ proofed: true
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -102,7 +102,7 @@ Two details, here.
 
 First, presumably the names thrown around here are for our benefit, since it has been fairly firmly established that Vulcan names are too difficult for humans to either hear or understand, and so they use simple substitutes with outsiders, which would justify the silly "five letters, starts with an *S* and usually ends with a *K*" rule.  So, if there's a "real" Selek or Sasak at all, that's probably not how they'd be introduced to Sarek.
 
-Second, Vulcans have a polytheistic religion, as indicated by the plural "our gods."  The possessive ("our") might further indicate that the religion derives from ancestor worship, as something akin to [household deities](https://en.wikipedia.org/wiki/Household_deity).
+Second, Vulcans have a polytheistic religion, as indicated by the plural "our gods."  The possessive ("our") might further indicate that the religion derives from ancestor worship, as something akin to {% wiki Household_deity|household deities|en %}.
 
  > **SAREK**: Spock. Spock, being Vulcan means following disciplines and philosophies that are difficult and demanding of both mind and body.
  >
@@ -120,7 +120,7 @@ And while they *claim* that there's no war or crime, prior episodes strongly sug
 
  > **SPOCK**: Personal log, stardate 5373.9, subjective time. The timeline seems to have changed again. Yet I do not believe I have done anything to disrupt it. My memory is quite clear regarding the date my cousin saved my life, and it is tomorrow. The kahs-wan ordeal is an ancient rite of warrior days. When Vulcans turned to logic, they reasoned they must maintain the tests of courage and strength to keep pure logic from making them weak and helpless.
 
-Again, if it surprises you that the Vulcans directly associate a rugged kind of independence and masculinity with their "logic," you probably haven't read much of the rest of this series, where I tend to find one of those threads in every episode.  However, usually it's subtext, whereas [Dorothy Fontana](https://en.wikipedia.org/wiki/D._C._Fontana) just made it text.
+Again, if it surprises you that the Vulcans directly associate a rugged kind of independence and masculinity with their "logic," you probably haven't read much of the rest of this series, where I tend to find one of those threads in every episode.  However, usually it's subtext, whereas {% wiki D._C._Fontana|Dorothy Fontana|en %} just made it text.
 
 And note the excuse:  Their explanation is---if you translate it into modern terms---that this macho posturing is essentially because they're afraid of being called nerds.  Or, rather, they want to be able to beat up anybody who does so.
 
@@ -128,13 +128,13 @@ And note the excuse:  Their explanation is---if you translate it into modern ter
  >
  > **SAREK**: I don't know, Amanda. I will notify the authorities and ask them to initiate a search.
 
-Do you happen to remember a few paragraphs ago, when there was no crime on Vulcan, because kids are left to fend for themselves in the desert?  That all seems less likely when they jump to call the cops about [stranger danger](https://en.wikipedia.org/wiki/Stranger_danger) the moment that their kid is late coming home.
+Do you happen to remember a few paragraphs ago, when there was no crime on Vulcan, because kids are left to fend for themselves in the desert?  That all seems less likely when they jump to call the cops about {% wiki Stranger_danger|stranger danger|en %} the moment that their kid is late coming home.
 
 As the story continues, we're more completely introduced to the pet sehlat I-Chaya---mentioned in [*Journey to Babel*]({% post_url 2020-10-15-babel %})---and a wild le-matya, a poisonous green and yellow cat-like creature.
 
  > **SPOCK**: There is some human blood in my family line. It is not fatal. What you do not yet understand, Spock, is that Vulcans do not lack emotion. It is only that ours is controlled. Logic offers a serenity humans seldom experience in full. We have emotions, but we deal with them and do not let them control us.
 
-There's the outright confirmation that Vulcans merely suppress their emotions.  We know, of course, that the talk about serenity is a lie, because we rarely see Vulcans who are *not* in some sort of distress.  Rather, they *tell* themselves that they achieve more serenity than everybody else, because if that's not what they get out of the deal, then it wouldn't be worth the [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost).
+There's the outright confirmation that Vulcans merely suppress their emotions.  We know, of course, that the talk about serenity is a lie, because we rarely see Vulcans who are *not* in some sort of distress.  Rather, they *tell* themselves that they achieve more serenity than everybody else, because if that's not what they get out of the deal, then it wouldn't be worth the {% wiki Sunk_cost|sunk cost|en %}.
 
 What's the cost?  The entire episode is about the pressure it puts on people---particularly children---to put themselves in danger to prove that they're not afraid or disappointed.
 
@@ -196,11 +196,11 @@ The names are probably arbitrary.  The closest matches that I can find are "qali
 
  > He'd figured this group of academicians for something much duller and more mundane than this.  Say, the Butterfly Wars of Lepidopt, or the ceramic- and porcelain-making era of Sang Ho Hihn.
 
-I don't know if these are meant to be the most boring things that Kirk can imagine or real events, but...at least in my head, there were boring butterfly wars in the *Star Trek* universe.  [Lepidoptera](https://en.wikipedia.org/wiki/Lepidoptera) is the biological order of insects (the class), which includes butterflies and moths.  You might assume that implies that it's an invention of Kirk's, but more than a few planets and cultures have been given on-the-nose names by humans.
+I don't know if these are meant to be the most boring things that Kirk can imagine or real events, but...at least in my head, there were boring butterfly wars in the *Star Trek* universe.  {% wiki Lepidoptera|Lepidoptera|en %} is the biological order of insects (the class), which includes butterflies and moths.  You might assume that implies that it's an invention of Kirk's, but more than a few planets and cultures have been given on-the-nose names by humans.
 
  > ...It was forbidden to profit materially from a journey through the Gate.  Otherwise, the most dedicated researcher might be tempted to travel back in time to, say Earth's past and return with some little valuable knickknack like Praxiteles lost gold statue of Pallas Athena.
 
-Again, there's the worry about money, though here, it's largely just an excuse to introduce the reader to [Praxiteles](https://en.wikipedia.org/wiki/Praxiteles).
+Again, there's the worry about money, though here, it's largely just an excuse to introduce the reader to {% wiki Praxiteles|Praxiteles|en %}.
 
 At this point, we finally get into the episode, more or less the same flow.
 

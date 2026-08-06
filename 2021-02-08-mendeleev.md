@@ -15,9 +15,9 @@ offset: -28%
 
 ![Dmitri Mendeleev](/blog/assets/Medeleeff_by_repin.png "Dmitri Mendeleev")
 
-We're light on holidays, this week, so it's the 187<sup>th</sup> birthday of [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev), the Russian chemist who (among other things) worked out the form of the [periodic table of elements](https://en.wikipedia.org/wiki/Periodic_table) that we're still familiar with.
+We're light on holidays, this week, so it's the 187<sup>th</sup> birthday of {% wiki Dmitri_Mendeleev|Dmitri Mendeleev|en %}, the Russian chemist who (among other things) worked out the form of the {% wiki Periodic_table|periodic table of elements|en %} that we're still familiar with.
 
-It's also the 170<sup>th</sup> birthday of early feminist author [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin).
+It's also the 170<sup>th</sup> birthday of early feminist author {% wiki Kate_Chopin|Kate Chopin|en %}.
 
 ## Picture to Nonogram
 

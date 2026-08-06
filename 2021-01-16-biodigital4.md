@@ -86,7 +86,7 @@ The most straightforward support would be to kick in a couple of dollars [at ung
 
 Espresso Tone, the Digital Microsystems ubiquitous computing platform, is probably the headliner, in this section.  It's a vector for nanites that rearrange DNA to support mind control, but Facebook Spaces might be, too, for all anybody knows, and this has a much better name...
 
-We also have '90s ISP Internet Access Company, obviously a stand-in for [America Online](https://en.wikipedia.org/wiki/AOL).
+We also have '90s ISP Internet Access Company, obviously a stand-in for {% wiki AOL|America Online|en %}.
 
 There's another hotel and a couple of other small businesses, too, but they weren't prominent enough for me to bother trying to research if they're real places, completely fictional, or real places with the name changed slightly.
 

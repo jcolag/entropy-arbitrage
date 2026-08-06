@@ -15,7 +15,7 @@ offset: -27%
 
 ![A Nama man playing a traditional greeting](/blog/assets/Nama-man-greeting-us-3693359757.png "A traditional Nama greeting")
 
-Today marks the [International Day of the World's Indigenous Peoples](https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples), which I admit is a terrible name, given that we're all indigenous to the *world*.  But with development occurring at a rapid pace and so many languages precariously close to going extinct, it's worth taking a day to think about the real cultural diversity that most of us never see.
+Today marks the {% wiki International_Day_of_the_World%27s_Indigenous_Peoples|International Day of the World's Indigenous Peoples|en %}, which I admit is a terrible name, given that we're all indigenous to the *world*.  But with development occurring at a rapid pace and so many languages precariously close to going extinct, it's worth taking a day to think about the real cultural diversity that most of us never see.
 
 Anyway, let's make some new culture with weird code...
 
@@ -29,7 +29,7 @@ On September 4<sup>th</sup>, you will see the newsletter for *August*, as you sh
 
 Apart from the newsletter, I also updated the [**Entropy Arbitrage**](https://github.com/jcolag/entropy-arbitrage-code) code's verbiage for signing up to the mailing list *and* finally checked in the adjustments to the [Twitter roundup](/blog/tag/linkdump) post generation script to account for the new semantic plugins.
 
-Unlike the pull quotes, I won't be going back through every Friday post to correct the quote citations, at least not immediately.  There's so many of them, that the only reasonable way to do the work would be to coerce [`sed`](https://en.wikipedia.org/wiki/Sed) to find the rogue headings and replace them with tags.  But that's likely to be ugly and error-prone, so I'm going to hold off until I have a day or two to mess around, especially since no post *legitimately* ever uses (or is likely to ever use) a sixth-level heading where the styling of them makes a difference.
+Unlike the pull quotes, I won't be going back through every Friday post to correct the quote citations, at least not immediately.  There's so many of them, that the only reasonable way to do the work would be to coerce {% wiki Sed|`sed`|en %} to find the rogue headings and replace them with tags.  But that's likely to be ugly and error-prone, so I'm going to hold off until I have a day or two to mess around, especially since no post *legitimately* ever uses (or is likely to ever use) a sixth-level heading where the styling of them makes a difference.
 
 Regardless, going *forward*, posts should never abuse headings again.
 

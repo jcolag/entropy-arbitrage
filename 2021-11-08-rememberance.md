@@ -13,11 +13,11 @@ proofed: true
 * Ignore for ToC
 {:toc}
 
-I talked about the situation with Intersex people on [Intersex Awareness Day]({% post_url 2021-10-25-intersex %}), so I won't go into it, here.  Today, however, is the [Intersex Day of Remembrance](https://en.wikipedia.org/wiki/Intersex_Day_of_Remembrance), also known as Intersex Solidarity Day.
+I talked about the situation with Intersex people on [Intersex Awareness Day]({% post_url 2021-10-25-intersex %}), so I won't go into it, here.  Today, however, is the {% wiki Intersex_Day_of_Remembrance|Intersex Day of Remembrance|en %}, also known as Intersex Solidarity Day.
 
 ![Intersex flag](/blog/assets/Intersex_Pride_Flag.png "I see no reason not to recycle the flag from two weeks ago...")
 
-The date was chosen to commemorate the birthday of [Herculine Barbin](https://en.wikipedia.org/wiki/Herculine_Barbin), a nineteenth-century French citizen who forced the courts to repudiate their assigned gender.  Barbin wrote a memoir, which has the most confusing publication history that I've seen.  After an hour of research, I *still* can't tell if any of it was published during their lifetime or if it's just been small quotes until the recent full translation into English.
+The date was chosen to commemorate the birthday of {% wiki Herculine_Barbin|Herculine Barbin|en %}, a nineteenth-century French citizen who forced the courts to repudiate their assigned gender.  Barbin wrote a memoir, which has the most confusing publication history that I've seen.  After an hour of research, I *still* can't tell if any of it was published during their lifetime or if it's just been small quotes until the recent full translation into English.
 
 On to the week's code.
 

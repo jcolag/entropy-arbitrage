@@ -16,7 +16,7 @@ thumbnail: /blog/assets/17841296346_0a3e1d9aac_o.png
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -32,13 +32,13 @@ This post is definitely for the people who enjoy it when I track down the refere
 
  > Captain's log, stardate 5843.7. The Enterprise is in the grip of a raging epidemic. Three crewmen have died and twenty-three others have been struck down by Rigelian fever. In order to combat the illness, Doctor McCoy needs large quantities of ryetalyn, which is the only known antidote for the fever. Our sensors have picked up sufficient quantities of pure ryetalyn on a small planet in the Omega system. We are beaming down to secure this urgently needed material.
 
-We've had many references to [Rigel](https://en.wikipedia.org/wiki/Rigel) through the series, so I won't bother to detail the star, here.  "The Omega system" is a nonsensical phrase that feels like it was wedged in to justify prior bogus star/planet names.
+We've had many references to {% wiki Rigel|Rigel|en %} through the series, so I won't bother to detail the star, here.  "The Omega system" is a nonsensical phrase that feels like it was wedged in to justify prior bogus star/planet names.
 
-Ryetalyn is new, though it's worth noting the similarity in name to Ritalin, the trade name under which the now-famous stimulant [methylphenidate](https://en.wikipedia.org/wiki/Methylphenidate) is sold.  Given that methylphenidate was used to treat attention deficit disorders as early as the 1960s and the Ritalin name appears to have been in use sometime before 1960, this is a strong confirmation that the Federation's pharmaceutical industry is built around corporations that compete on brand names, despite the fact that the crew seems to think that it's just naturally occurring.
+Ryetalyn is new, though it's worth noting the similarity in name to Ritalin, the trade name under which the now-famous stimulant {% wiki Methylphenidate|methylphenidate|en %} is sold.  Given that methylphenidate was used to treat attention deficit disorders as early as the 1960s and the Ritalin name appears to have been in use sometime before 1960, this is a strong confirmation that the Federation's pharmaceutical industry is built around corporations that compete on brand names, despite the fact that the crew seems to think that it's just naturally occurring.
 
  > **FLINT**: Flint. You will leave my planet.
 
-Given that his name will turn out to be a clue to what's going on, I'll point out that [flint](https://en.wikipedia.org/wiki/Flint) is a form of quartz where the crystals are too small to be seen.  It has been used in early cutting tools, for igniting sparks, and as gemstones in various ancient cultures.
+Given that his name will turn out to be a clue to what's going on, I'll point out that {% wiki Flint|flint|en %} is a form of quartz where the crystals are too small to be seen.  It has been used in early cutting tools, for igniting sparks, and as gemstones in various ancient cultures.
 
  > **KIRK**: Mister Flint, if anything happens to us, four deaths and then my crew comes down and takes that ryetalyn.
  >
@@ -52,7 +52,7 @@ The difference seems to be that Flint doesn't represent a company, which suggest
 
  > **FLINT**: Constantinople, summer 1334. It marched through the streets, the sewers. It left the city by ox cart, by sea, to kill half of Europe. The rats, rustling and squealing in the night as they, too, died. The rats.
 
-Flint is talking about the [second plague pandemic](https://en.wikipedia.org/wiki/Second_plague_pandemic), and I have to wonder if this line is meant to be a hint to his identity, given that earliest evidence of [bubonic plague](https://en.wikipedia.org/wiki/Bubonic_plague) is from 1338, and it didn't reach Constantinople until 1347.  So, 1334 is either an error, a difference between their history and ours, first-hand information that only Flint has about the outbreak beginning thirteen years earlier, or an implication that Flint tracked the plague to its source.
+Flint is talking about the {% wiki Second_plague_pandemic|second plague pandemic|en %}, and I have to wonder if this line is meant to be a hint to his identity, given that earliest evidence of {% wiki Bubonic_plague|bubonic plague|en %} is from 1338, and it didn't reach Constantinople until 1347.  So, 1334 is either an error, a difference between their history and ours, first-hand information that only Flint has about the outbreak beginning thirteen years earlier, or an implication that Flint tracked the plague to its source.
 
 Maybe worrying is the comparison is drawn between the plague and Rigellian fever, which doesn't seem to make much sense, based on the name.
 
@@ -66,9 +66,9 @@ Despite looking more like Nomad from [*The Changeling*]({% post_url 2020-08-27-c
  >
  > **SPOCK**: This is the most splendid private collection of art I've ever seen, and the most unique. The majority are the works of Leonardo da Vinci, Renaissance period, some of the works of Reginald Pollack, 20th century, and even a Sten from Marcus II.
 
-The [First Folio](https://en.wikipedia.org/wiki/First_Folio) is the informal name for the first version of Shakespeare's plays collected and published.  The [Gutenberg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible) is one of the first mass-produced books.  Centauri VII presumably refers to a planet in orbit around [alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri) (α Cen), three stars forming a solar system that's Earth's nearest neighbor; awkwardly, the largest of the stars is known as Rigil Kentaurus, which is probably often confused with Rigel.  [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) would have been a "Renaissance Man," except that he lived through the early part of the [Italian Renaissance](https://en.wikipedia.org/wiki/Italian_Renaissance).
+The {% wiki First_Folio|First Folio|en %} is the informal name for the first version of Shakespeare's plays collected and published.  The {% wiki Gutenberg_Bible|Gutenberg Bible|en %} is one of the first mass-produced books.  Centauri VII presumably refers to a planet in orbit around {% wiki Alpha_Centauri|alpha Centauri|en %} (α Cen), three stars forming a solar system that's Earth's nearest neighbor; awkwardly, the largest of the stars is known as Rigil Kentaurus, which is probably often confused with Rigel.  {% wiki Leonardo_da_Vinci|Leonardo da Vinci|en %} would have been a "Renaissance Man," except that he lived through the early part of the {% wiki Italian_Renaissance|Italian Renaissance|en %}.
 
-[Reginald Pollack](https://en.wikipedia.org/wiki/Reginald_Pollack) was an artist contemporary to the cast and crew.  He was married to Naomi Pollack, who played Lieutenant Rahda in [*That Which Survives*]({% post_url 2021-06-10-survive %}) and a background actor in [*The Paradise Syndrome*]({% post_url 2021-03-04-syndrome %}), in both cases posing as a non-white character.  I wouldn't ordinarily point out in *this* post, except that I'm going to make the same point about Flint, once his origin is revealed.
+{% wiki Reginald_Pollack|Reginald Pollack|en %} was an artist contemporary to the cast and crew.  He was married to Naomi Pollack, who played Lieutenant Rahda in [*That Which Survives*]({% post_url 2021-06-10-survive %}) and a background actor in [*The Paradise Syndrome*]({% post_url 2021-03-04-syndrome %}), in both cases posing as a non-white character.  I wouldn't ordinarily point out in *this* post, except that I'm going to make the same point about Flint, once his origin is revealed.
 
 Finally, we have "Sten," either a non-human or a human colonist.
 
@@ -88,19 +88,19 @@ Recently, it's been rare to see any reference to the economy, so this is a nice 
 
  > **KIRK**: Mister Scott, run a full computer check on Mister Flint and on this planet, Holberg Nine-One-Seven-G. Stand by with your results. I'll contact.
 
-The only Holberg that I can find who might be relevant is [Ludvig](https://en.wikipedia.org/wiki/Ludvig_Holberg), Norwegian baron and writer.  I assume that it's him, because a few years later, a [crater on Mercury](https://en.wikipedia.org/wiki/Holberg_(crater)) would be given his name.
+The only Holberg that I can find who might be relevant is {% wiki Ludvig_Holberg|Ludvig|en %}, Norwegian baron and writer.  I assume that it's him, because a few years later, a {% wiki Holberg_%28crater%29|crater on Mercury|en %} would be given his name.
 
  > **FLINT**: Her parents were killed in an accident while in my employ. Before dying, they placed their infant, Rayna Kapec, in my custody. I have raised and educated her.
 
-It's worth pointing out that this episode draws on a variety of sources for plot points, which either makes it muddled or interesting, depending on your perspective.  I mention it here and dig into the other references, because Rayna's surname is a transparent reference to [Karel Čapek](https://en.wikipedia.org/wiki/Karel_%C4%8Capek), an early science fiction writer who had a lot going on in his life, including health problems that killed him before his fiftieth birthday and seven Nobel Prize nominations, but he's now mostly known for writing the play [**R.U.R.**](https://en.wikipedia.org/wiki/R.U.R.), where androids (well, more genetically engineered clones) revolt, destroying the human race; the play appears to have coined the word "robot."
+It's worth pointing out that this episode draws on a variety of sources for plot points, which either makes it muddled or interesting, depending on your perspective.  I mention it here and dig into the other references, because Rayna's surname is a transparent reference to {% wiki Karel_%C4%8Capek|Karel Čapek|en %}, an early science fiction writer who had a lot going on in his life, including health problems that killed him before his fiftieth birthday and seven Nobel Prize nominations, but he's now mostly known for writing the play {% wiki R.U.R.|**R.U.R.**|en %}, where androids (well, more genetically engineered clones) revolt, destroying the human race; the play appears to have coined the word "robot."
 
-There are more specific echoes of Act 1 (*Olympia*) of the 1881 opera, [**The Tales of Hoffman**](https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann), where a man falls in love with a female automaton, leading to ill-will between him and the device's creator.  The opera is, in turn, based on the stories of [E.T.A. Hoffman](https://en.wikipedia.org/wiki/E._T._A._Hoffmann), as you might have guessed from the title.
+There are more specific echoes of Act 1 (*Olympia*) of the 1881 opera, {% wiki The_Tales_of_Hoffmann|**The Tales of Hoffman**|en %}, where a man falls in love with a female automaton, leading to ill-will between him and the device's creator.  The opera is, in turn, based on the stories of {% wiki E._T._A._Hoffmann|E.T.A. Hoffman|en %}, as you might have guessed from the title.
 
-In addition, we have many of the elements of [**The Tempest**](https://en.wikipedia.org/wiki/The_Tempest), here.  We have the "wizard" (Prospero or Flint), his daughter (Miranda or Rayna) who is pushed into a romantic relationship with a newcomer, his servant(s) who isn't entirely safe (Caliban and Ariel or M4), and the seemingly unwelcome ship that can't leave and is actually all a part of the wizard's plan.
+In addition, we have many of the elements of {% wiki The_Tempest|**The Tempest**|en %}, here.  We have the "wizard" (Prospero or Flint), his daughter (Miranda or Rayna) who is pushed into a romantic relationship with a newcomer, his servant(s) who isn't entirely safe (Caliban and Ariel or M4), and the seemingly unwelcome ship that can't leave and is actually all a part of the wizard's plan.
 
-On top of those, we have the idea of a plague ship on a worrying deadline, for which there are many precedents, but Andre Alice Norton's fictional [**Plague Ship**](https://en.wikipedia.org/wiki/Plague_Ship) would have been recent enough and in the right genre to be highly relevant to the writers.
+On top of those, we have the idea of a plague ship on a worrying deadline, for which there are many precedents, but Andre Alice Norton's fictional {% wiki Plague_Ship|**Plague Ship**|en %} would have been recent enough and in the right genre to be highly relevant to the writers.
 
-Finally, while there are blatant anti-Semitic aspects to the legend, the most likely inspiration for Flint himself would probably be the so-called [Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew), named variously as Cartaphilus, Ahasver, Matathias, Buttadeus, and Isaac Laquedem.  There is, however, no shortage of fictional immortals---including in prior **Star Trek** episodes---so Flint may have been inspired by any number of them, instead, or all of them in a vague enough way to have been original.
+Finally, while there are blatant anti-Semitic aspects to the legend, the most likely inspiration for Flint himself would probably be the so-called {% wiki Wandering_Jew|Wandering Jew|en %}, named variously as Cartaphilus, Ahasver, Matathias, Buttadeus, and Isaac Laquedem.  There is, however, no shortage of fictional immortals---including in prior **Star Trek** episodes---so Flint may have been inspired by any number of them, instead, or all of them in a vague enough way to have been original.
 
 My point is that this is a busy episode.
 
@@ -118,7 +118,7 @@ Irillium appears to be original to the episode.
 
  > **SPOCK**: Captain. Something else which is rather extraordinary. This waltz I just played is by Johannes Brahms.
 
-[Brahms](https://en.wikipedia.org/wiki/Johannes_Brahms) was a prolific German composer.  As with da Vinci's paintings, Spock has his works and style memorized to a degree that he can presumably identify a forgery.
+{% wiki Johannes_Brahms|Brahms|en %} was a prolific German composer.  As with da Vinci's paintings, Spock has his works and style memorized to a degree that he can presumably identify a forgery.
 
 For comparison, this is more typical of waltzes written by Brahms.
 
@@ -140,7 +140,7 @@ As far back as *Mudd's Women*, it has been suggested that it's entirely normal f
 
 We saw this same effort to deprive Spock of the credit for taking on a dangerous but important task, in [*The Immunity Syndrome*]({% post_url 2020-12-10-immunity %}).
 
- > **FLINT**: [Solomon](https://en.wikipedia.org/wiki/Solomon), [Alexander](https://en.wikipedia.org/wiki/Alexander_the_Great), [Lazarus](https://en.wikipedia.org/wiki/Lazarus_of_Bethany), [Methuselah](https://en.wikipedia.org/wiki/Methuselah), [Merlin](https://en.wikipedia.org/wiki/Merlin), Abramson. A hundred other names you do not know.
+ > **FLINT**: {% wiki Solomon|Solomon|en %}, {% wiki Alexander_the_Great|Alexander|en %}, {% wiki Lazarus_of_Bethany|Lazarus|en %}, {% wiki Methuselah|Methuselah|en %}, {% wiki Merlin|Merlin|en %}, Abramson. A hundred other names you do not know.
 
 I linked the obvious entries to their Wikipedia entries in-line, rather than re-introducing them.  Abramson is the mystery, since the names aren't listed in chronological order, and the context suggests that it's someone important, but I can't find anyone by that name who'd be notable.  So, Abramson is probably someone who wouldn't have come to prominence before the episode aired.
 
@@ -150,15 +150,15 @@ It's probably also worth noting that most of Flint's identities are so famous---
 
  > **FLINT**: In that region of earth later called Mesopotamia, in the year 3834 BC, as the millennia are reckoned. I was Akharin, a soldier, a bully and a fool. I fell in battle, pierced to the heart and did not die.
 
-The intended meaning in setting his birth in specifically 3834 BCE Mesopotamia eludes me, here.  It's near the first third of the [Uruk period](https://en.wikipedia.org/wiki/Uruk_period), so the implication might be that it's the most recent era when someone's life would absolutely be completely undocumented, no matter how special that person turned out to be.  However, it also puts him a century or three away from the migration into cities and the development of writing.
+The intended meaning in setting his birth in specifically 3834 BCE Mesopotamia eludes me, here.  It's near the first third of the {% wiki Uruk_period|Uruk period|en %}, so the implication might be that it's the most recent era when someone's life would absolutely be completely undocumented, no matter how special that person turned out to be.  However, it also puts him a century or three away from the migration into cities and the development of writing.
 
-Another possibility is that the character is meant to have been the Biblical character of Methuselah, though that would still predate the Hebrew calendar's "year one"---supposed in many traditions to coincide with or approximate the creation of [Adam](https://en.wikipedia.org/wiki/Adam)---by a century or so.
+Another possibility is that the character is meant to have been the Biblical character of Methuselah, though that would still predate the Hebrew calendar's "year one"---supposed in many traditions to coincide with or approximate the creation of {% wiki Adam|Adam|en %}---by a century or so.
 
-No matter how we try to spin this, however, it's worth pointing out that [James Daly](https://en.wikipedia.org/wiki/James_Daly_(actor)) is definitely not Iraqi as Flint implicitly is.  If they couldn't find a Middle Eastern actor, it seems like they could have at least put Flint's origins in Europe.
+No matter how we try to spin this, however, it's worth pointing out that {% wiki James_Daly_%28actor%29|James Daly|en %} is definitely not Iraqi as Flint implicitly is.  If they couldn't find a Middle Eastern actor, it seems like they could have at least put Flint's origins in Europe.
 
  > **SPOCK**: Your wealth and your intellect are the product of centuries of acquisition. You knew the greatest minds in history.
  >
- > **FLINT**: [Galileo](https://en.wikipedia.org/wiki/Galileo_Galilei), [Socrates](https://en.wikipedia.org/wiki/Socrates), [Moses](https://en.wikipedia.org/wiki/Moses). I have married a hundred times, Captain. Selected, loved, cherished. Caressed a smoothness, inhaled a brief fragrance. Then age, death, the taste of dust. Do you understand?
+ > **FLINT**: {% wiki Galileo_Galilei|Galileo|en %}, {% wiki Socrates|Socrates|en %}, {% wiki Moses|Moses|en %}. I have married a hundred times, Captain. Selected, loved, cherished. Caressed a smoothness, inhaled a brief fragrance. Then age, death, the taste of dust. Do you understand?
 
 Again, the links are in-line with the quote.  And again, only one of those people is anything resembling modern.
 
@@ -188,7 +188,7 @@ If you'd like my thoughts on the two movies, I've watched and have been talking 
 
 ## Blish Adaptation
 
-We find this adaptation in **Star Trek 5**.  The biggest deviations that I can find is that "Mister Brack" is changed to "Mr. Nova," and Flint refers to [Jesus](https://en.wikipedia.org/wiki/Jesus) as one of the great minds he met, presumably as Lazarus.
+We find this adaptation in **Star Trek 5**.  The biggest deviations that I can find is that "Mister Brack" is changed to "Mr. Nova," and Flint refers to {% wiki Jesus|Jesus|en %} as one of the great minds he met, presumably as Lazarus.
 
 ## Conclusions
 

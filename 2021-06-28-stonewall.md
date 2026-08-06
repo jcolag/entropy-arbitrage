@@ -13,17 +13,17 @@ offset: -31%
 * Ignore for ToC
 {:toc}
 
-Today marks fifty-two years after the [Stonewall Rebellion](https://en.wikipedia.org/wiki/Stonewall_riots), a complex uprising against police raids on a so-called "gay bar."  Something often lost in the retellings are the roles of non-white people, such as [Marsha P. Johnson](https://en.wikipedia.org/wiki/Marsha_P._Johnson) and [Sylvia Rivera](https://en.wikipedia.org/wiki/Sylvia_Rivera), whose names should be on our mind, this time of year.
+Today marks fifty-two years after the {% wiki Stonewall_riots|Stonewall Rebellion|en %}, a complex uprising against police raids on a so-called "gay bar."  Something often lost in the retellings are the roles of non-white people, such as {% wiki Marsha_P._Johnson|Marsha P. Johnson|en %} and {% wiki Sylvia_Rivera|Sylvia Rivera|en %}, whose names should be on our mind, this time of year.
 
 ![Nearby Christopher Park](/blog/assets/ChristopherPark3358.png "Nearby Christopher Park")
 
-A number of demonstrators congregated at Christopher Park after the first night of demonstrations, represented in the image by the (probably protected by copyright, though I admittedly didn't bother to check) white figures sculpted by artist [George Segal](https://en.wikipedia.org/wiki/George_Segal_(artist)), not to be confused with the more famous actor who passed away in March.
+A number of demonstrators congregated at Christopher Park after the first night of demonstrations, represented in the image by the (probably protected by copyright, though I admittedly didn't bother to check) white figures sculpted by artist {% wiki George_Segal_%28artist%29|George Segal|en %}, not to be confused with the more famous actor who passed away in March.
 
 The week's software development is more of the focus, though, on Mondays...
 
 ## CPREP
 
-The big change to [**CPREP**](https://github.com/jcolag/background-generator), this week, was updating the [Big Five](https://en.wikipedia.org/wiki/Big_Five_personality_traits) traits, to display them more clearly.  Using the trait name *and* names for the two extremes, the results are (in my opinion) far more readable, something like the following, without the header row.
+The big change to [**CPREP**](https://github.com/jcolag/background-generator), this week, was updating the {% wiki Big_Five_personality_traits|Big Five|en %} traits, to display them more clearly.  Using the trait name *and* names for the two extremes, the results are (in my opinion) far more readable, something like the following, without the header row.
 
 |Low|Value|High|
 |---|-----|----|

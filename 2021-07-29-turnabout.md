@@ -16,7 +16,7 @@ thumbnail: /blog/assets/32498689184_2d0c092796_o.png
 
 ## Disclaimer
 
-This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+This is a discussion of a non-"Free as in Freedom" popular culture franchise property with references to a part of that franchise behind a paywall.  My discussion and conclusions are free, but nothing about the discussion or conclusions implies any attack on the ownership of the properties.  All the big names are trademarks of the owners and so forth and everything here should be well within the bounds of {% wiki Fair_use|Fair Use|en %}.
 
 ## Previously...
 
@@ -28,7 +28,7 @@ Rather than list every post in the series here, you can easily find them all on 
 
 ## Turnabout Intruder
 
-I should call attention to what's probably the original version of this episode's main plot device.  It comes, as far as I can tell, from [**Vice Versa**](https://en.wikipedia.org/wiki/Vice_Versa_%28novel%29) by [Thomas Anstley Guthrie](https://en.wikipedia.org/wiki/Thomas_Anstey_Guthrie) in 1882.  Yes, the Judge Reinhold film is based on a Victorian novel.  Given the title, it seems also worth pointing out Hal Roach's [**Turnabout**](https://en.wikipedia.org/wiki/Turnabout_%28film%29), based on a 1931 novel, which would be remade into a [flop of a sitcom](https://en.wikipedia.org/wiki/Turnabout_%28TV_series%29) in 1979.
+I should call attention to what's probably the original version of this episode's main plot device.  It comes, as far as I can tell, from {% wiki Vice_Versa_%28novel%29|**Vice Versa**|en %} by {% wiki Thomas_Anstey_Guthrie|Thomas Anstley Guthrie|en %} in 1882.  Yes, the Judge Reinhold film is based on a Victorian novel.  Given the title, it seems also worth pointing out Hal Roach's {% wiki Turnabout_%28film%29|**Turnabout**|en %}, based on a 1931 novel, which would be remade into a {% wiki Turnabout_%28TV_series%29|flop of a sitcom|en %} in 1979.
 
 Of course, *Turnabout Intruder* is the final episode of **Star Trek**, though this series of *posts* will continue on to at least late March as we work through **Star Trek:  The Animated Series** and movies, and longer if I decide then to also dig through the first season or two of **The Next Generation** for comparison, given how much of the early series---compare the cast of *Encounter at Farpoint* with **Star Trek:  The Motion Picture**, for example---was obviously adapted from the unproduced **Star Trek:  Phase II**.
 
@@ -36,7 +36,7 @@ Anyway, we have plenty of time for that decision, so lets let Kirk ease us into 
 
  > Captain's log, stardate 5928.5. The Enterprise has received a distress call from a group of scientists on Camus II, who are exploring the ruins of a dead civilization. Their situation is desperate. Two of the survivors are the expedition surgeon, Doctor Coleman, and the leader of the expedition, Doctor Janice Lester.
 
-The star appears to have been named for French writer [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), known for his use of absurdism.
+The star appears to have been named for French writer {% wiki Albert_Camus|Albert Camus|en %}, known for his use of absurdism.
 
  > **LESTER**: Your world of starship captains doesn't admit women. It isn't fair.
  >
@@ -46,7 +46,7 @@ People have been confused by this exchange for over half a century.  It *might* 
 
 Kirk's final line of the episode, that Lester's life "could have been as rich as any woman's" also seems to suggest the latter interpretation, implying that there are strict gender roles.  I don't have citations, but I remember that Gene Roddenberry was one of the people confused by this, as I've read him provide different explanation to various interviewers as his intent.
 
-Since we're talking about sexism either way, I should probably sneak in a reference to [Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova), the first (and youngest) woman in space since 1963 for context.
+Since we're talking about sexism either way, I should probably sneak in a reference to {% wiki Valentina_Tereshkova|Valentina Tereshkova|en %}, the first (and youngest) woman in space since 1963 for context.
 
  > **MCCOY**: No, I believe it was celebium. However, Doctor Coleman disagrees. To be specific is essential because the treatment of celebium is quite---
 
@@ -58,13 +58,13 @@ Benecia---whatever it's supposed to be---was mentioned throughout [*Conscience o
 
  > **SPOCK**: Captain, that will delay our work at beta Aurigae. It means reversing course.
 
-[Beta Aurigae](https://en.wikipedia.org/wiki/Beta_Aurigae) (β Aur or Menkalinan) is around eighty light years from Earth.  As Lester-as-Kirk later mentions, it's a binary star.
+{% wiki Beta_Aurigae|Beta Aurigae|en %} (β Aur or Menkalinan) is around eighty light years from Earth.  As Lester-as-Kirk later mentions, it's a binary star.
 
  > **SPOCK**: Sir, I believe Starfleet will have to be notified that our rendezvous with the starship Potemkin will not take place as scheduled.
 
-This is presumably an indirect reference to [Grigory Potemkin](https://en.wikipedia.org/wiki/Grigory_Potemkin).  The Russian navy later named [a battleship](https://en.wikipedia.org/wiki/Russian_battleship_Potemkin) for him, which became famous for a mutiny during the [First Russian Revolution](https://en.wikipedia.org/wiki/1905_Russian_Revolution).  Those events were dramatized in [a famous silent film](https://en.wikipedia.org/wiki/Battleship_Potemkin).  It's not useful for the [Free Culture Book Club](/blog/tag/bookclub), but since **Battleship Potemkin** has fallen into the public domain, a group crowdsourced a remake as [**re:potemkin**](https://re-potemkin.httpdot.net/), released under an unfortunately vague Free Culture license that doesn't seem to have any teeth.
+This is presumably an indirect reference to {% wiki Grigory_Potemkin|Grigory Potemkin|en %}.  The Russian navy later named {% wiki Russian_battleship_Potemkin|a battleship|en %} for him, which became famous for a mutiny during the {% wiki 1905_Russian_Revolution|First Russian Revolution|en %}.  Those events were dramatized in {% wiki Battleship_Potemkin|a famous silent film|en %}.  It's not useful for the [Free Culture Book Club](/blog/tag/bookclub), but since **Battleship Potemkin** has fallen into the public domain, a group crowdsourced a remake as [**re:potemkin**](https://re-potemkin.httpdot.net/), released under an unfortunately vague Free Culture license that doesn't seem to have any teeth.
 
-That all said, Potemkin is probably most famous *today* for the [Potemkin village](https://en.wikipedia.org/wiki/Potemkin_village), a ruse where he allegedly made it appear as if the banks of the [Dneiper River](https://en.wikipedia.org/wiki/Dnieper_River) were inhabited, by moving fake buildings ahead of a boat.  And that idea of setting up façades certainly connects with the plot.
+That all said, Potemkin is probably most famous *today* for the {% wiki Potemkin_village|Potemkin village|en %}, a ruse where he allegedly made it appear as if the banks of the {% wiki Dnieper_River|Dneiper River|en %} were inhabited, by moving fake buildings ahead of a boat.  And that idea of setting up façades certainly connects with the plot.
 
 And nobody mentions this, not even Chekov, who's even in the episode.  The one time he could have been right about something...
 
@@ -92,7 +92,7 @@ I feel like we should probably raise the question of why patients of any sort ar
 
  > **MCCOY**: The Robbiani dermal-optic is crucial. It reveals the basic emotional structure. You had one once before. Now I need another one to compare with that previous test. There should be no change in your dermal-optic reactions to the color wavelengths. Over here, Captain. Over here, Captain.
 
-I can't find any reference to a personality test that checks skin and eye reactions to colors, though that sounds like an *exceedingly* 1960s kind of idea.  The closest that I can find is the later [Lüscher color test](https://en.wikipedia.org/wiki/L%C3%BCscher_color_test), which isn't nearly that ambitious.
+I can't find any reference to a personality test that checks skin and eye reactions to colors, though that sounds like an *exceedingly* 1960s kind of idea.  The closest that I can find is the later {% wiki L%C3%BCscher_color_test|Lüscher color test|en %}, which isn't nearly that ambitious.
 
 I can't guess who Robbiani is supposed to be or if it's even supposed to be a reference to anybody specific.
 
@@ -112,7 +112,7 @@ I wonder if this scene is one of the reasons that fans dislike this episode so m
 
 This seems to be one of the few cases in the series, and maybe the entire franchise, where the Federation---in the guise of *Scott*, no less---seems to be significantly more progressive than whatever writer put together his line.
 
-As a diagnosis, hysteria generally refers to [female hysteria](https://en.wikipedia.org/wiki/Female_hysteria), an old pseudoscience "disease" that was primarily used to pull "difficult" women out of society.  In other words, it was an excuse to have women committed, demeaned, or even *tortured* for demanding to be treated with respect.  So, the fact that Scott is willing to apply such a term to Captain Kirk is an impressive step for a man who once hated women until someone paid for him to visit a prostitute.  But in our time, men---[Brett Kavanaugh](https://en.wikipedia.org/wiki/Brett_Kavanaugh_Supreme_Court_nomination#Confirmation_hearing), for example---who go into screaming tirades are often described as "passionate."
+As a diagnosis, hysteria generally refers to {% wiki Female_hysteria|female hysteria|en %}, an old pseudoscience "disease" that was primarily used to pull "difficult" women out of society.  In other words, it was an excuse to have women committed, demeaned, or even *tortured* for demanding to be treated with respect.  So, the fact that Scott is willing to apply such a term to Captain Kirk is an impressive step for a man who once hated women until someone paid for him to visit a prostitute.  But in our time, men---{% wiki Brett_Kavanaugh_Supreme_Court_nomination#Confirmation_hearing|Brett Kavanaugh|en %}, for example---who go into screaming tirades are often described as "passionate."
 
 However, if you think of the purpose that the line serves the real-world *production* instead of the in-universe conversation, it reads as a signal to the audience that Scott half-understands that Kirk is...acting "like a woman," basically.
 

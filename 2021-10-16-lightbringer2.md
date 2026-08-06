@@ -40,7 +40,7 @@ While we unfortunately don't get a book blurb to steal, **Lightbringer** was an 
 
 I should note that I've read this before.  Because I happen to still have that e-mail, here's how I described it to a colleague at that time, and I'll repurpose that as the blurb.
 
- > Carter Granholme is Lightbringer, raised by pacifist parents who were killed in a mugging gone wrong, and uses his strange ability to manipulate light (and home ec sewing skills with a costume explicitly copied from DC's [Dr. Light](https://en.wikipedia.org/wiki/Doctor_Light_%28Arthur_Light%29), though not by name, with enormous gauntlets) by pumping it out in various ways (flashes, lasers) or absorbing it, including the ability to make objects out of solid light---and fly, for...some reason, I suppose---to make Pharos City a better place to live.  By day, he runs a failing furniture store.
+ > Carter Granholme is Lightbringer, raised by pacifist parents who were killed in a mugging gone wrong, and uses his strange ability to manipulate light (and home ec sewing skills with a costume explicitly copied from DC's {% wiki Doctor_Light_%28Arthur_Light%29|Dr. Light|en %}, though not by name, with enormous gauntlets) by pumping it out in various ways (flashes, lasers) or absorbing it, including the ability to make objects out of solid light---and fly, for...some reason, I suppose---to make Pharos City a better place to live.  By day, he runs a failing furniture store.
  >
  > Officially, Lightbringer doesn't kill, but he seems to use his powers to burn holes in a lot of creeps' chests.  He's also kind of a jackass, taking all sorts of opportunities to spout Tea Party propaganda about how, for example, the danged Liberal Media Bias™ makes it useless to talk to the media about anything, because they'll just twist his words like they did by making up Patriot Act abuses.
 
@@ -86,7 +86,7 @@ Also as mentioned, though, Lovhaug does have other material that you might want 
 
 ## What's Adaptable?
 
-This part of the series (indirectly, in the commentary) introduces Delta University, the city's big college, with a main building built as a red pyramid, and the implausibly named Arlen Art College.  We also see Obelisk Square, which looks like a tiny park, maybe, the [Paul Noble](https://en.wikipedia.org/wiki/Paul_Noble) Memorial Art Museum, the Black Light Club, and the fictional play **Fade to White**.  There's also a [capsule history](http://lightbringer.comicgenesis.com/d/20080116.html) of the city and a recap of the comic.
+This part of the series (indirectly, in the commentary) introduces Delta University, the city's big college, with a main building built as a red pyramid, and the implausibly named Arlen Art College.  We also see Obelisk Square, which looks like a tiny park, maybe, the {% wiki Paul_Noble|Paul Noble|en %} Memorial Art Museum, the Black Light Club, and the fictional play **Fade to White**.  There's also a [capsule history](http://lightbringer.comicgenesis.com/d/20080116.html) of the city and a recap of the comic.
 
 By the end of the series, there's also a decent variety of characters in the world.  Granted, an unpleasant number of them are women who were driven crazy by trauma, but that's still more sophisticated than anything that [**Affair**]({% post_url 2021-09-11-affair1 %}) gave us...
 
