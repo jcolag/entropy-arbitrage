@@ -14,7 +14,7 @@ recommend: Messing around with Unicode
 
 ![Header Image](/blog/assets/writing-book-vintage-antique-texture-old-629962-pxhere.com.jpg "Writing with diacritical marks")
 
-[Unicode](https://en.wikipedia.org/wiki/Unicode)---the computer "alphabet" that includes all the characters you see on this page, plus most modern writing systems in common use (∂), plus punctuation and currency (௹), plus arrows and mathematical notation (↛), plus drawing symbols (✵), plus emoji (🐣), and more---has a lot going on in it beyond the obvious complexity of multiple formats (UTF-8, UTF-16, GB18030, UTF-32, BOCU, SCSU, UTF-7, and probably others) and [byte orderings](https://simple.wikipedia.org/wiki/Endianness).  The part that has grabbed my interest, recently, is the idea of [Normal Forms](https://en.wikipedia.org/wiki/Unicode_equivalence#Normalization), of which we have four.
+{% wiki Unicode|Unicode|en %}---the computer "alphabet" that includes all the characters you see on this page, plus most modern writing systems in common use (∂), plus punctuation and currency (௹), plus arrows and mathematical notation (↛), plus drawing symbols (✵), plus emoji (🐣), and more---has a lot going on in it beyond the obvious complexity of multiple formats (UTF-8, UTF-16, GB18030, UTF-32, BOCU, SCSU, UTF-7, and probably others) and {% wiki Endianness|byte orderings|simple %}.  The part that has grabbed my interest, recently, is the idea of {% wiki Unicode_equivalence#Normalization|Normal Forms|en %}, of which we have four.
 
  * **NFD**: Canonical Decomposition
  * **NFC**:  Canonical Composition
@@ -59,7 +59,7 @@ In other words, by normalizing the name, the computer represents "Čapek" someth
 [C] [caron] [a] [p] [e] [k]
 ```
 
-Then, we remove any diacritical marks (the [caron](https://en.wikipedia.org/wiki/Caron) or **ˇ** &nbsp;&nbsp;in this case) by replacing them with nothing, leaving us with only the Latin letters.
+Then, we remove any diacritical marks (the {% wiki Caron|caron|en %} or **ˇ** &nbsp;&nbsp;in this case) by replacing them with nothing, leaving us with only the Latin letters.
 
 ## Searching
 
@@ -77,7 +77,7 @@ It's a bit before my time, but one of my favorite television shows growing up (v
 
 For example, if you pay careful attention, you'll spot both *Zöna Restrik* (for Restricted Area) or *Prıziion Mılıtık* (for Military Prison).
 
-And, of course, if you're a heavy metal music fan, you're undoubtedly familiar with the similar but distinct [Metal Umlaut](https://en.wikipedia.org/wiki/Metal_umlaut), though its use seems surprisingly limited to the diaeresis (**¨**) mark.
+And, of course, if you're a heavy metal music fan, you're undoubtedly familiar with the similar but distinct {% wiki Metal_umlaut|Metal Umlaut|en %}, though its use seems surprisingly limited to the diaeresis (**¨**) mark.
 
 If we wanted to do something like transforming English text to Gellerese, you're on your own figuring out how to change the base spelling in a reasonable way.  But adding bogus diacritical marks?  That, we can definitely do.
 

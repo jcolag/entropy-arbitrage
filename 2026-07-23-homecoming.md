@@ -105,7 +105,7 @@ I don't know if this proves useful to the project here, but this sounds like a f
 
 > **JARO**: Major. Where is he?
 
-Last guest, not even listed in the credits, you almost certainly recognize Jaro as {% wiki Frank_Langella|Frank Langella|en %}, known for...pretty much everything that he has ever touched, maybe?  I will point out that he seems to have started career with an I-believe-pretty-much-lost TV series called {% wiki The_Trials_of_O'Brien|**The Trials of O'Brien**|en %} (no relation), starring young Peter Falk as a defense attorney.  He also had high-profile relationships with Diane Baker, Elizabeth Taylor, and (not long after this) Whoopi Goldberg.
+Last guest, not even listed in the credits, you almost certainly recognize Jaro as {% wiki Frank_Langella|Frank Langella|en %}, known for...pretty much everything that he has ever touched, maybe?  I will point out that he seems to have started career with an I-believe-pretty-much-lost TV series called {% wiki The_Trials_of_O%27Brien|**The Trials of O'Brien**|en %} (no relation), starring young Peter Falk as a defense attorney.  He also had high-profile relationships with Diane Baker, Elizabeth Taylor, and (not long after this) Whoopi Goldberg.
 
 Seriously, though, this feels like a shockingly weighty guest cast for a not-too-complex season premiere...
 

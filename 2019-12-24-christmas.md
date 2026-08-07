@@ -22,7 +22,7 @@ As you look into it, you start to realize that most cultures have and have had c
 
 And it's no accident that Christmas is part of this.  On one hand, to Christians, the birth of Jesus represents the birth of a new world, and conflating the Sun with the Son is natural at a time of year when (in the northern hemisphere) the Sun has its smallest apparent diameter.  But on the other hand, as Christianity expanded and (sometimes forcibly) converted new groups of people, it would only make sense to adapt and integrate their traditions, especially when they already overlap.
 
-However, Christmas was never meant to be an important holiday in Christianity, Easter being the holiday with more metaphysical significance to Church leaders.  But the crowning of [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne) as the Holy Roman Emperor on Christmas Day in the year 800 increased the holiday's profile, further increased by the crownings of East Anglian King Edmund the Martyr (855) and William the Conqueror (1066).
+However, Christmas was never meant to be an important holiday in Christianity, Easter being the holiday with more metaphysical significance to Church leaders.  But the crowning of {% wiki Charlemagne|Charlemagne|en %} as the Holy Roman Emperor on Christmas Day in the year 800 increased the holiday's profile, further increased by the crownings of East Anglian King Edmund the Martyr (855) and William the Conqueror (1066).
 
 {% pull ...centered on drunkenness, promiscuity, and gambling, with early carols condemned as lewd... %}
 
@@ -31,7 +31,7 @@ However, this wasn't the Christmas we know today, but rather centered on drunken
 In this environment, the Anglican Church's nineteenth century Oxford Movement took steps to change the situation by reinventing the holiday as something family-friendly and we start to see the Christmas we know today start to form:
 
  * Washington Irving published his parodic [**A History of New York**](https://www.gutenberg.org/files/13042/13042-h/13042-h.htm) (1809), reshaping Christmas [in many ways](https://www.neh.gov/humanities/2016/fall/feature/how-washington-irving-shaped-christmas-in-america).
- * Tha anonymous [*Old Santeclaus with Much Delight*](https://en.wikipedia.org/wiki/Old_Santeclaus_with_Much_Delight) (1821) establishes early versions of a lot of Santa Claus-based lore.
+ * Tha anonymous {% wiki Old_Santeclaus_with_Much_Delight|*Old Santeclaus with Much Delight*|en %} (1821) establishes early versions of a lot of Santa Claus-based lore.
  * Clement Clarke Moore anonymously publishes [*A Visit from St. Nicholas*](https://en.wikisource.org/wiki/Troy_Sentinel/1823/12/23/Account_of_a_Visit_from_St._Nicholas) (1823), popularizing gift exchanges.
  * Charles Dickens publishes [**A Christmas Carol**](https://en.wikisource.org/wiki/A_Christmas_Carol_(Dickens,_1843)) (1843), continuing the new shape of Christmas as a time for family gatherings, polite entertainment, and reconciliation.
  * Thomas Nast mostly reinvented Santa Claus (1863) visually as the one we know today.
@@ -46,7 +46,7 @@ Which is to say that, while there would be some adjustments (like Nast), the bul
 
 {% pull the New Year Spruce %}
 
-There's also the Christmas tree itself, which as you can see in [the Wikipedia article](https://en.wikipedia.org/wiki/Christmas_tree), has a remarkably weird history, including ancient traditions and a pyramid-like decoration, plus its restoration without Christmas by the Soviets as the New Year Spruce.  Christmas trees were also [adopted as a secular symbol by Jewish people](https://www.futurity.org/christmas-tress-in-jewish-homes-history2234982-2/) until concerns about erasure of Judaism became a possible issue, though it's not uncommon today to find a Jewish family today with a [Hanukkah bush](https://en.wikipedia.org/wiki/Hanukkah_bush), a tongue-in-cheek tradition dating back at least as far as 1879.
+There's also the Christmas tree itself, which as you can see in {% wiki Christmas_tree|the Wikipedia article|en %}, has a remarkably weird history, including ancient traditions and a pyramid-like decoration, plus its restoration without Christmas by the Soviets as the New Year Spruce.  Christmas trees were also [adopted as a secular symbol by Jewish people](https://www.futurity.org/christmas-tress-in-jewish-homes-history2234982-2/) until concerns about erasure of Judaism became a possible issue, though it's not uncommon today to find a Jewish family today with a {% wiki Hanukkah_bush|Hanukkah bush|en %}, a tongue-in-cheek tradition dating back at least as far as 1879.
 
 And then, sometimes, Santa protects us from extremely stupid aliens.
 
@@ -60,4 +60,4 @@ And *that*, my friends, is why I like Christmas and somehow make it sound like a
 
 * * *
 
-**Credits**:  [Christmas lights tied on a rope](https://www.1millionfreepictures.com/2013/12/2-christmas-lights-free-pictures-2515.html) by [an Unknown former Google+ user](https://plus.google.com/116074968591568480442), dedicated to the public domain on [1 Million Free Pictures](https://www.1millionfreepictures.com/).  The early image of Santa Claus is *A Christmas Furlough*, by Thomas Nast, from an 1863 issue of **Harper's Weekly**.  [**Santa Claus Conquers the Martians**](https://en.wikipedia.org/wiki/Santa_Claus_Conquers_the_Martians), which has fallen into the public domain, is available from [the Internet Archive](https://archive.org/details/SantaClausConquersTheMartians1964_201705).
+**Credits**:  [Christmas lights tied on a rope](https://www.1millionfreepictures.com/2013/12/2-christmas-lights-free-pictures-2515.html) by [an Unknown former Google+ user](https://plus.google.com/116074968591568480442), dedicated to the public domain on [1 Million Free Pictures](https://www.1millionfreepictures.com/).  The early image of Santa Claus is *A Christmas Furlough*, by Thomas Nast, from an 1863 issue of **Harper's Weekly**.  {% wiki Santa_Claus_Conquers_the_Martians|**Santa Claus Conquers the Martians**|en %}, which has fallen into the public domain, is available from [the Internet Archive](https://archive.org/details/SantaClausConquersTheMartians1964_201705).
