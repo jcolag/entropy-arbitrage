@@ -27,7 +27,7 @@ Instead, I care about comparing the number of times that the lock actually saved
 - How often I need to unlock the door for a legitimate visitor, including myself, if I manage to lock myself out.
 - How often someone who I want to keep out can find their way in, maybe even because they have a copy of the key.
 
-The example seems instructive, because if you give it some thought, then you'll notice that, for every household, those three situations has a different likelihood and presents a different threat.  Probably anybody who has lived next to a bar has had someone sufficiently impaired that they tried nearby doors.  Most people have probably had situations where answering the door for someone felt inconvenient and/or locked themselves out.  And people who have dealt with domestic violence especially need to worry about who has keys and could have made duplicates.  Not all of us deal with all those situations, and certainly not to the same degree.
+The example seems instructive, because if you give it some thought, then you'll notice that, for every household, those three situations have a different likelihood and presents a different threat.  Probably anybody who has lived next to a bar has had someone sufficiently impaired that they tried nearby doors, maybe dangerous, maybe not, but definitely concerning.  Most people have probably had situations where answering the door for someone felt inconvenient and/or locked themselves out.  And people who have dealt with domestic violence especially need to worry about who has keys and could have made duplicates.  Not all of us deal with all those situations, and certainly not to the same degree, which means that each of us needs to weigh them differently.
 
 False positives identify a problem unnecessarily.  False negatives miss a problem that you needed to catch.
 
@@ -63,7 +63,7 @@ This dynamic becomes most visible in politics.  Every attempt to curtail sex tra
 
 OK, now that I have introduced the idea of this going horribly wrong, let's talk about generative AI again.
 
-I know.  Don't panic.  I (probably) won't turn this post to ranting again about AI.  But I did raise this issue because of how many people treat chatbots and their scrapers.  In fact, you might find this post wagging an accusatory finger at *you*, not the "get on board or get left behind" crowd...largely because I've said everything that I want to say about the latter.
+I know.  Don't panic.  I (probably) won't turn this post to ranting again about AI.  But I did raise this issue because of the ways in which people often treat chatbots and their scrapers.  In fact, you might find this post wagging an accusatory finger at *you*, not the "get on board or get left behind" crowd...largely because I've said everything that I want to say about the latter.
 
 Most specifically, I want to talk about people who run websites wanting to protect their website from corporate scrapers, and then go on to ignore the false positive and false negative errors to such a degree that they work better *for* scrapers.
 
@@ -83,13 +83,17 @@ Let's pick some arbitrary numbers, here, to follow this through.  Imagine, for e
 
 [^PZnrSV]:  Thirty years ago, we didn't have rates during different parts of the day, because the companies had no way of knowing *when* you used electricity, so the same analysis wouldn't have worked when people tried to propose these ideas.
 
-I use the cheapest rate for two reasons.  First, if we wanted to stop abusive automated systems, they'd run at the cheapest times.  Second, the numbers happen to work out conveniently, because the price per kilowatt-hour comes to $0.118572, a hair over our target of a tenth of a cent.  That probably doesn't mean anything to anybody, so let's put that into context.  Again searching through a handful of websites, it looks like a typical modern CPU might run at around fifty watts, meaning that we need to assign enough work to keep the CPU occupied for *two hours*.
+I use the cheapest rate for two reasons.  First, if we wanted to stop abusive automated systems, they'd run at the cheapest times.  Second, the numbers happen to work out conveniently, because the price per kilowatt-hour comes to $0.118572, a hair over our target of a tenth of a cent.  That probably doesn't mean anything to anybody, so let's put that into context.  Again searching through a handful of websites, it looks like a typical modern CPU might run at around fifty watts, meaning that we need to assign enough work to keep the CPU occupied for *twenty hours*[^HuC3pk].
 
-OK, now that we have that context, go back to the number of e-mails, and multiply this by fifty billion.  If we took this idea seriously, then we would want to waste fifty million dollars and a hundred billion CPU-hours per day, more than eighteen billion dollars and thirty-six trillion CPU-hours annually.  And note that this goes to waste, helping nobody beyond proving that you actually want to send the e-mail.
+[^HuC3pk]:  Apologies who read the original version of this, where I somehow divided one thousand by fifty, and got two as the quotient.
 
-I promised to make this about AI scrapers, though, so let's bring [Anubis](https://github.com/techaroHQ/anubis) into the conversation, a proof-of-work system that people shove in front of their websites, in hopes that the AI scrapers would walk away.  I haven't looked into how it measures how much it makes you pay, but it imposes a *global cost*, the burning of energy, to stop the AI from burning energy to train LLMs.
+OK, now that we have that context, go back to the number of e-mails, and multiply this by fifty billion.  If we (as a society) took this idea seriously, then we would want to waste fifty million dollars and a trillion CPU-hours per day, more than eighteen billion dollars and three hundred sixty trillion CPU-hours annually.  And note that this goes to waste, helping nobody beyond proving that you actually want to send the e-mail.
 
-Oh, and by the way, they had [AI generate the cat-girl mascot](https://github.com/TecharoHQ/anubis/issues/33#issuecomment-2741845002), "considering" a change after it caught on, and they have [embraced vibe-coding](https://github.com/TecharoHQ/anubis/blob/main/AGENTS.md).  They also *charge*, if you find the AI-generated mascot objectionable.  It seems unfair to call them shady without investigating beyond that, but before I tie this into the actual point of this post, it does seem worth noting that the alleged anti-AI solution loves AI, but will happily charge you (real) money to waste everybody else's (hypothetical) money so that you can feel like you have stymied the AI companies.
+Oh, and for further context, fifty billion kilowatt-hours, or fifty terawatt-hours, would put this e-mail verification scheme alone between the {% wiki List_of_countries_by_electricity_consumption|annual power consumption %} in the neighborhood of Singapore, Portugal, Qatar, Greece, Romania, Oman, Hungary, Hong Kong, Morocco, Belarus, New Zealand, or Denmark, which use sixty down to forty terawatt-hours each.
+
+I promised to make this about AI scrapers, though, so let's bring [Anubis](https://github.com/techaroHQ/anubis) into the conversation, a proof-of-work system that people shove in front of their websites, in hopes that the AI scrapers would walk away.  I haven't looked into how it measures how much it makes you pay, but it imposes a *global cost*, the burning of energy, to stop the AI from burning energy to train LLMs.  A quick search didn't turn up any numbers in this area, actually, which I hope helps explain why I went through the e-mail version of this problem so thoroughly.
+
+Oh, and by the way, the person/people behind Anubis had [AI generate the cat-girl mascot](https://github.com/TecharoHQ/anubis/issues/33#issuecomment-2741845002), "considering" a change after it caught on, and they have [embraced vibe-coding](https://github.com/TecharoHQ/anubis/blob/main/AGENTS.md).  They also *charge*, if you find the AI-generated mascot objectionable.  It seems unfair to call them shady without investigating beyond that, but before I tie this into the actual point of this post, it does seem worth noting that the alleged anti-AI solution loves AI, but will happily charge you (real) money to waste everybody else's (hypothetical) money so that you can feel like you have stymied the AI companies.
 
 Oh, and they quietly [admit at least one scraper used for AI training](https://github.com/TecharoHQ/anubis/blob/9c2f300518a1614740798d845182dad18aa3e529/data/bots/ai-robots-txt.yaml#L4), under the theory that it'll reduce traffic over the longer term.
 
@@ -111,7 +115,7 @@ Yeah, you can probably tell where I want to go with this.  We have *all* false p
 
 Let's imagine that I use one of those fonts for the blog.  What happens?
 
-First, every reader now has a higher cognitive load to read what I have written, and some people won't have the visual acuity or ability to focus to get through a full sentence.  They openly make work less accessible, but making it more difficult to read every letter, relying on average vision and visual processing to dodge criticism, assuming that the designers thought about accessibility at all.
+First, every reader now has a higher cognitive load to read what I have written, and some people won't have the visual acuity or ability to focus to get through a full sentence.  They (the fonts) openly make work less accessible, by making it more difficult to read every letter, relying on average vision and visual processing to dodge criticism, assuming that the designers thought about accessibility at all.
 
 And by the way, each of us has transient disabilities.  If you need to pay attention to the stove or a child, then you can't focus on text on a screen.  Maybe your screen cracks, making it difficult to read under the cracks.  Maybe the back-light dies, or you have too much sunlight in the room, making it harder to see the screen.  Looking at it through that lens especially, that seems like an enormous number of false positive errors, doesn't it?
 
@@ -121,7 +125,7 @@ Meanwhile, what does a scraper see?  It sees HTML.  Unlike you and me, who have 
 <h1 class="title">John Colagioia</h1>
 ```
 
-No matter how you dress it up in the style sheets, the bot always sees exactly the same HTML.  It will *notice* the font, such as the blog pages including lines like the following.
+No matter how you dress it up in the style sheets, the bot always sees exactly the same HTML.  It will *notice* that the page uses a font, such as where the blog pages include lines like the following.
 
 ```HTML
 <link rel="preload" as="font" href="/blog/assets/Vollkorn-Bold.ttf" type="font/ttf" crossorigin="anonymous">
@@ -139,7 +143,7 @@ If you actually need to keep AI scrapers away from your material, I only see one
 
 Tools such as [Nepenthes](https://zadzmo.org/code/nepenthes/) and [Iocaine](https://iocaine.madhouse-project.org/) spin up a lightweight server that simulates an infinite maze of pages.  It dynamically generates every page, keeping them small, and sending them as slowly as possible to whatever made the request.  Working that way feeds the scraper as much garbage as it'll wait for, while also slowing it down and preserving the server's bandwidth.
 
-If properly optimized---and I have no doubt that those two projects have done so---it wouldn't keep the scrapers off your server entirely, but it presumably only traps them if you don't present the link to the trap as clickable, and doesn't affect many normal readers.  Unlike the other solutions, it takes work to set up, *but* has few false positive or false negative errors, as we would prefer.
+If properly optimized---and I have no doubt that those two projects have done so---it wouldn't keep the scrapers off your server entirely, but it presumably *only* traps the scrapers since you don't present the link to the trap as clickable, and it doesn't affect many normal readers.  Unlike the other solutions, it takes work to set up, *but* has few false positive or false negative errors, as we would prefer.
 
 I don't (yet?) need to worry about scrapers hammering my site, but if I did, I would take that approach, though I don't know if I'd land on either of the examples.
 
@@ -149,7 +153,7 @@ In 1867, {% wiki James Clerk Maxwell %} suggested a thought experiment where a "
 
 This misunderstands thermodynamics greatly, because thermodynamics applies to closed systems, and "guy opening and closing a door" expands the system beyond the container.  But "Maxwell's demon," as Kelvin would later call it, serves well as not only the thought experiment that helps students understand what a "closed system" means, but also as a metaphor for all work that involves separating one kind of thing from another.  Going back to the political discussion, you can think of the criminal justice system as aspiring to serve as Maxwell's demon, separating the law-abiding people from the law-violating people.
 
-In an ideal world, such ideas might even work perfectly, eventually.  But we don't live in an ideal world, we live in a world seemingly {% wiki Get Smart|crafted by Mel Brooks and Buck Henry -%}[^3JiOCX], where the demon always reports back that it *missed it by that much*.  And in that light, Anubis and the anti-AI fonts "work" exactly like the show's Cone of Silence, making it difficult for the intended participants to have a conversation, while providing plenty of room for attackers to jump in.
+In an ideal world, such ideas might even work perfectly, eventually.  But we don't live in an ideal world, we live in a world seemingly {% wiki Get Smart|crafted by Mel Brooks and Buck Henry -%}, where the demon always reports back that it *missed it by that much*.  And in that light, Anubis and the anti-AI fonts "work" exactly like the show's Cone of Silence, making it difficult for the intended participants to have a conversation, while providing plenty of room for attackers to jump in.
 
 * * *
 
