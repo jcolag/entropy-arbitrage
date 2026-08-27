@@ -50,7 +50,7 @@ I planned for at least one more interesting idea to drop in here, but (I'll desc
 
 It took me a few tries over the past month, but I think that I finally have the approach to making sourdough bread in the air fryer, using the [minimal sourdough starter]({% post_url 2026-07-20-seneca-falls-2 %}#recipe) that I worked out last month, based on the [air fryer bread]({% post_url 2026-05-25-missing %}#recipe) from three months ago.  I seem to have good luck with bread at the end of the month...
 
-{% cook 2|Air Fryer Bread %}
+{% cook 2|Air Fryer Sourdough Bread %}
 Combine @flour{¾%cup}, @sourdough starter{¼%cup} (fed and active), @salt{¼%tsp}, and @sugar{1%Tbsp} in a bowl.
 
 Stir in up to @water{1%Tbsp} (probably less than 1 tsp at a time) and @olive%oil{1%Tbsp} to get a shaggy dough.  If it sticks, add a teaspoon or so of flour.  If it seems too dry, add half a teaspoon or so of water.

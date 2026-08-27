@@ -153,7 +153,7 @@ In 1867, {% wiki James Clerk Maxwell %} suggested a thought experiment where a "
 
 This misunderstands thermodynamics greatly, because thermodynamics applies to closed systems, and "guy opening and closing a door" expands the system beyond the container.  But "Maxwell's demon," as Kelvin would later call it, serves well as not only the thought experiment that helps students understand what a "closed system" means, but also as a metaphor for all work that involves separating one kind of thing from another.  Going back to the political discussion, you can think of the criminal justice system as aspiring to serve as Maxwell's demon, separating the law-abiding people from the law-violating people.
 
-In an ideal world, such ideas might even work perfectly, eventually.  But we don't live in an ideal world, we live in a world seemingly {% wiki Get Smart|crafted by Mel Brooks and Buck Henry -%}, where the demon always reports back that it *missed it by that much*.  And in that light, Anubis and the anti-AI fonts "work" exactly like the show's Cone of Silence, making it difficult for the intended participants to have a conversation, while providing plenty of room for attackers to jump in.
+In an ideal world, such ideas might even work perfectly, eventually.  But we don't live in an ideal world, we live in a world seemingly {% wiki Get_Smart|crafted by Mel Brooks and Buck Henry -%}, where the demon always reports back that it *missed it by that much*.  And in that light, Anubis and the anti-AI fonts "work" exactly like the show's Cone of Silence, making it difficult for the intended participants to have a conversation, while providing plenty of room for attackers to jump in.
 
 * * *
 
