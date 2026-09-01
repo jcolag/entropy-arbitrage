@@ -30,7 +30,7 @@ RetroShare bills itself as "secure communication for everyone," a decentralized 
  * License:  GNU General Public License v2
  * My Account:  `2b7c2ab9ad1cbb4ecee9cb9f35503557`
 
-Note that, despite documentation stating that RetroShare is licensed under the GPLv2, the repository has a `LICENSES` folder including AGPLv3, AGPLv3 or later, Apache 2.0, GPLv3, LGPLv3, MIT, and CC-BY-SA 4.0, with no real indication of what license covers what or why GPLv2 isn't represented at all.
+Note that, despite documentation stating that RetroShare is licensed under the GPLv2, the repository has a `LICENSES` folder including AGPLv3, AGPLv3 or later, ASF 2.0, GPLv3, LGPLv3, MIT, and CC-BY-SA 4.0, with no real indication of what license covers what or why GPLv2 isn't represented at all.
 
 ### Getting Started
 
