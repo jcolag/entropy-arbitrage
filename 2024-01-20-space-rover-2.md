@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) l
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Space Rover**
  * Location:  <http://icculus.org/mwm/rover/index.html>
  * Released:  2013 -- 2021 (so far)

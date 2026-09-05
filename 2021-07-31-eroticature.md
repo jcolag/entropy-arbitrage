@@ -18,6 +18,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) m
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  *Eroticature*
  * Location:  <https://web.archive.org/web/20181127185001/http://eroticatorium.com/wp/>, <https://web.archive.org/web/20171105041443/http://www.eroticature.org:80/wiki/Main_Page>
  * Released:  Approximately 2014 -- 2017

@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Breakfast at the Bodega**
  * Location:  <https://vimeo.com/763150738>, <https://commons.wikimedia.org/wiki/File:Breakfast_at_the_Bodega.webm>
  * Released:  2022

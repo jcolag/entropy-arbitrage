@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) l
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Cult of the Nu Girl**
  * Location:  <https://reena-tm.bandcamp.com/album/cult-of-the-nu-girl>
  * Released:  2023

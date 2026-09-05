@@ -20,6 +20,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) i
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  *Quantum Flux*
  * Location:  <https://6d6rpg.com/product/quantum-flux/>
  * Released:  2014 at latest

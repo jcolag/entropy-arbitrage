@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **The Man Behind the Machine**
  * Location:  <https://commons.wikimedia.org/wiki/File:The_Man_Behind_the_Machine_(sci-fi_thriller_short_film).webm>
  * Released:  2023

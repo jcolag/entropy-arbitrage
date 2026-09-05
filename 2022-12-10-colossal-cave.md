@@ -20,6 +20,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) p
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Colossal Cave Adventure**
  * Location:  Nowhere official, but <https://ifdb.org/viewgame?id=fft6pu91j85y4acv> will probably do as a starting point, and I went with [this version](https://github.com/troglobit/advent4)
  * Released:  1976

@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Sol Levante**
  * Location:  <https://opencontent.netflix.com/>, <https://www.netflix.com/watch/81017017&sa=D&sntz=1>
  * Released:  2020

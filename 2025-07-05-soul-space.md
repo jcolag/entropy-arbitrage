@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Soul Space**
  * Location:  <https://covok.itch.io/soul-space-a-christian-mysticism-sci-fi-setting-that-is-open-for-anyone-to-use>
  * Released:  2024

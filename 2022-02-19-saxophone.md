@@ -20,6 +20,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Your Face Is a Saxophone**
  * Location:  <https://archive.org/details/VODO202YourFaceIsASaxophone> and <https://archive.org/details/YourFaceIsASaxophone--Episode2--MissAnthropy>
  * Released:  2011

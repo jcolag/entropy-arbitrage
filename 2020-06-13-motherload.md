@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) d
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  *Motherload*
  * Location:  <http://downloads.cavalcadeaudio.com/stardrifter-novels/01-motherload/>
  * Released:  2012

@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) p
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Ancient Beast**
  * Location:  <https://ancientbeast.com/>, <https://github.com/FreezingMoon/AncientBeast>
  * Released:  2011 --

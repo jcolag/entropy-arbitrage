@@ -19,6 +19,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) s
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **The Fellowship of Heroes**
  * Location:  <http://www.rhjunior.com/comics/the-fellowship-of-heroes/>
  * Released:  2014 or so

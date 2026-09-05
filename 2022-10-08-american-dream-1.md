@@ -19,6 +19,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) s
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **American Dream**
  * Location:  <https://github.com/faridkhaheshi/americandream/> and (for straight download) <https://americandream.farid.work/>
  * Released:  2022

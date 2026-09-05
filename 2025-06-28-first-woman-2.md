@@ -24,6 +24,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **First Woman:  NASA's Promise for Humanity** #2, *Expanding Our Universe*
  * Location:  <https://commons.wikimedia.org/wiki/File:First_Woman_issue_2_Expanding_Our_Universe.pdf>, formerly <https://web.archive.org/web/20250308090629/https://www.nasa.gov/calliefirst/>
  * Released:  2021

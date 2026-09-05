@@ -19,6 +19,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) d
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Forgotten**
  * Location:  Play at [Itch.io](https://aetherinteractive.itch.io/forgotten) or download on [GitHub](https://github.com/matildepark/forgotten)
  * Released:  February 2017

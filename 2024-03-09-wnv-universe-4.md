@@ -26,6 +26,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  *An Old Enemy*, *Last Bridge*, *Operation: Firestorm*, and *True Love's Kiss*
  * Location:  <https://codeberg.org/SethPatterson/WNVUniverse>
  * Released:  2020 -- present

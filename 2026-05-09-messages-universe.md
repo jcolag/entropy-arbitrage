@@ -25,6 +25,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) p
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Messages from the Universe Graveyard**
  * Location:  <https://kanderwund.itch.io/messages>
  * Released:  2023 --

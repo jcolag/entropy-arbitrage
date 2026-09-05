@@ -20,6 +20,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Bulletproof Blues**
  * Location:  <https://www.kaloscomics.com/>, <https://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues>
  * Released:  2012 -- present

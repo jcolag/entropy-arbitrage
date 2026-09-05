@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Banana**, Theatre projects funded by Wikimedia Italia
  * Location:  <https://commons.wikimedia.org/wiki/Category:Theatre_projects_funded_by_Wikimedia_Italia>
  * Released:  2021

@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **There Is No Antimemetics Division**
  * Location:  <https://www.youtube.com/@AndreaJoshuaAsnicar/videos>
  * Released:  2024

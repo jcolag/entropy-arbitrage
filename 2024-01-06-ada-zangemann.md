@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Ada & Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream** or **Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis**
  * Location:  <https://fsfe.org/activities/ada-zangemann/>, <https://git.fsfe.org/FSFE/ada-zangemann>
  * Released:  2022

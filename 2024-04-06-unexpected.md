@@ -24,6 +24,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **In Unexpected Places**
  * Location:  <https://share.tube/w/k6zcRg7zbR1BRvuedseTGZ>
  * Released:  2024

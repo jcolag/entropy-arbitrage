@@ -22,6 +22,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) w
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **The Minos Paradox**
  * Location:  <https://commons.wikimedia.org/wiki/File:The_Minos_Paradox_-_A_Sci-Fi_Mythological_Short_Film,_Cinematic_Unreal_Engine_5.webm>, <https://www.youtube.com/watch?v=OtRCsl2oloo>
  * Released:  2025

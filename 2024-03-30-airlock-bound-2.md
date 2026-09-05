@@ -24,6 +24,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) f
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  *Airlock Bound*
  * Location:  <https://tapas.io/episode/2314947>
  * Released:  2021 -- 2022

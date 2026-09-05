@@ -25,6 +25,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) s
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Neon Northern Lights**
  * Location:  <https://www.drivethrurpg.com/en/product/477192/neon-northern-lights>
  * Released:  2024

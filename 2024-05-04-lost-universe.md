@@ -21,6 +21,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **The Lost Universe**
  * Location:  <https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/>
  * Released:  2024

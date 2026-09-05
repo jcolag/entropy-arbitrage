@@ -19,6 +19,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) r
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **The Wanderers' Library**:  *All Rights Reserved*, *Fifth Elrichian National Party Manifest*, *Ascendor --- Storming The Gates Tour 2014*, *The Darkness Inside*, *The Great Empire of the Moon*, and *Twerk Witches*
  * Location:  <http://wanderers-library.wikidot.com/all-rights-reserved>, <http://wanderers-library.wikidot.com/fifth-elrichian-national-party-manifest>, <http://wanderers-library.wikidot.com/ascendor-storming-the-gates-tour-2014>, <http://wanderers-library.wikidot.com/the-darkness-inside>, <http://wanderers-library.wikidot.com/the-great-empire-of-the-moon>, <http://wanderers-library.wikidot.com/twerk-witches>
  * Released:  2012 --

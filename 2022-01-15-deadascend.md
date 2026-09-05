@@ -20,6 +20,8 @@ This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) p
 
 To give this series some sense of organization, here are some basic facts without much in the way of context.
 
+{% include fc-review.md %}
+
  * Full Title:  **Dead Ascend**
  * Location:  <https://blackgrain.dk/games/deadascend/>
  * Released:  2016, latest release in 2021
