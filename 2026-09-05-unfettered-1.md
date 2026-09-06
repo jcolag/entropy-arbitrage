@@ -82,7 +82,7 @@ For this issue, we'll specifically read Annam Manthiram's *Bruno*, Kaolin Fire's
 
 To get it out of the way, I'd call these issues an impressive feat.  If nothing else, this issue contains eleven short stories by as many authors, three poems by two authors, around eight editorial pages by the team, and artwork by two artists.  Everybody opted to release that work under a Free Culture license, and it sounds like everybody got paid for their work.  And we have three issues to go with a similar profile.
 
-We have a lot of novel bits, too.  The setup for *Bruno* seems clever, giving us a low-stakes, but distinctly weird, even if it doesn't seem to go anywhere.  *The Aetheric God* has some interesting ideas that probably deserved more fleshing out.  *The Time Traveler Leaves History Behind* presents us with prose poetry, with the other poems more traditional.  In fact, you can probably guess that a lot of it caught my attention by the fact that I at least skimmed five pieces for this post instead of the predicted two or three.
+We have a lot of novel bits, too.  The setup for *Bruno* seems clever, giving us a low-stakes---but distinctly weird---problem, even if it doesn't seem to go anywhere.  *The Aetheric God* has some interesting ideas that probably deserved more fleshing out.  *The Time Traveler Leaves History Behind* presents us with prose poetry, with the other poems more traditional.  In fact, you can probably guess that a lot of it caught my attention by the fact that I at least skimmed five pieces for this post instead of the predicted two or three.
 
 If you have the opportunity, you'll want to read *Breaking the Spell*.  It presents an off-beat fairy tale with multiple layers, including a certain degree of audience participation.
 
@@ -90,9 +90,9 @@ If you have the opportunity, you'll want to read *Breaking the Spell*.  It prese
 
 {% include lesswell.md %}
 
-Overall, and this will probably apply to all four issues, I find reading the magazines surprisingly difficult.  I realize that I haven't read long-form work on paper in well over a decade, so I've probably fallen out of practice, but the shape of the pages makes the weight awkward to hold, especially with the text too close to the spine.  We also have a typeface that feels more artistic than readable, not helped by the see-through paper it sits on.  Ordinarily, this might not have much of an effect overall, but digitizing this would require damaging the physical artifact on top of the difficult work of scanning.
+Overall, and this will probably apply to all four issues, I find reading the magazines surprisingly difficult.  I realize that I haven't read long-form work on paper in well over a decade, so I've probably fallen out of practice, but the shape of the pages makes the weight awkward to hold, especially with the text too close to the spine.  We also have a typeface that feels more artistic than readable, not helped by the see-through paper that it sits on.  Ordinarily, this might not have much of an effect overall, but digitizing this would require damaging the physical artifact on top of the difficult work of scanning.
 
-The depiction of Lovelle seems to not suit the story.  The narrative wants to emphasize her as ugly and uninteresting, but desirable and worth cheating on a wife for, somehow not having anything good to say about her.
+The depiction of Lovelle seems to not suit the story in *Bruno*.  The narrative wants to emphasize her as ugly and uninteresting, but desirable and worth cheating on a wife for, somehow not having anything good to say about her.
 
 ## Opportunities
 
