@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Developer Diary, Umhlanga
-date: 2026-09-07 07:04:05-0400
+date: 2026-09-07 07:54:05-0400
 categories:
 tags: [programming, project, dev-journal]
-labels: []
+labels: [blog, library-update, mini-server]
 summary: Progress on assorted projects
 thumbnail: /blog/assets/Reed-Dance-Festival-2006.png
 offset: -26%
@@ -54,11 +54,11 @@ And I have actually wanted a pedometer, since my little tablet stopped counting 
 
 {% codeberg jcolag/entropy-arbitrage-posts %}
 
-Complaining about the [Open MDW license]({% post_url 2026-08-30-open-mdw %}) over the weekend reminded me that I still had old blog posts referring to a [certain software foundation insistent on retaining its offensive name](https://apache.org/) while also claiming to do better by creating a "placebo brand" (The ASF) that *you and I* can totally use to refer to them[^n3o7IK], while they continue to use the name that Native American developers have begged them to stop using for decades.
+Complaining about the [Open MDW license]({% post_url 2026-08-30-open-mdw %}) over last weekend reminded me that I still had old blog posts referring to a [certain software foundation insistent on retaining its offensive name](https://apache.org/) while also claiming to do better by creating a "placebo brand" (The ASF) that *you and I* can totally use to refer to them[^n3o7IK], while they continue to use the name that Native American developers have begged them to stop using for decades.
 
 [^n3o7IK]:  The more that I read about the issue, the more I consider using *other* names to refer to them...
 
-Finally, I went through the old posts and put an end to that.  Except for two posts quoting other sources and one more referring specifically to the [SPDX identifier](https://spdx.org/licenses/) (Sunday's post does both), which I can't reasonably alter, *Apache* now refers only to the Native American identity, when I use it on the blog.  I refer to the license as the ASF License 2.0.  For a while, I put off the change in case a consensus emerged on what to call the license, but bashing the Linux Foundation made it pretty clear that it should get fixed sooner than later.  Previously, I took care of references to the organization or its projects.
+Finally, I went through the old posts and put an end to that.  Except for two posts quoting other sources and one more referring specifically to the [SPDX identifier](https://spdx.org/licenses/) (last Sunday's post does both), which I can't reasonably alter, *Apache* now refers only to the Native American identity, when I use it on the blog.  I refer to the license as the ASF License 2.0.  For a while, I put off the change in case a consensus emerged on what to call the license, but bashing the Linux Foundation made it pretty clear that it should get fixed sooner than later.  Previously, I took care of references to the organization or its projects.
 
 For people who don't know/remember the back-story, here, foundation founder Brian Behlendorf wanted a name that evoked the romanticism of Geronimo and "the last days of a Native American tribe called the Apaches," despite the *hundreds of thousands* of Apaches around today.  The same quote goes on to describe making a web server as pretty much the same thing, symbolically, as fighting for one's homeland[^4jL9Iq].  Only later did someone surprise Behlendorf by complimenting him on the "a patchy web server" pun...that he didn't notice.
 
