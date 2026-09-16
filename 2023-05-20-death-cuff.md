@@ -6,7 +6,7 @@ categories:
 tags: [freeculture, bookclub]
 labels: [detective, interactive-fiction, public-domain, video-game]
 summary: Discussing an interactive fiction mystery
-thumbnail: /blog/assets/0T7Xq2n9mQexs502W3ow--2--hh4hb.png
+thumbnail: /blog/assets/55072076538_8b52dc1283_o.png
 teaser: This week brings us an interactive murder mystery comedy, built around the stock "detective exposes the murderer" scene.
 proofed: true
 ---
@@ -16,7 +16,7 @@ proofed: true
 
 This week, our [Free Culture Book Club]({% post_url 2020-05-02-freeculture %}) plays an interactive murder mystery.
 
-![A (fake) computer game with a balding man wearing glasses, examining a glass as he walks through a hotel lobby](/blog/assets/0T7Xq2n9mQexs502W3ow--2--hh4hb.png "From this detail, I can deduce, as can any simpleton, that I need a refill...and that the blogger could not find an appropriately licensed image.")
+![A (computer generated) woman in an ornate room, standing in front of a portrait of a man in a suit and hat](/blog/assets/55072076538_8b52dc1283_o.png "From this detail, I can deduce, as can any simpleton, that I need a refill...")
 
 To give this series some sense of organization, check out some basic facts without much in the way of context.
 
@@ -89,4 +89,4 @@ Anyway, while we wait for that, what did everybody else think about the game?
 
 * * *
 
-**Credits**:  I adapted the header image from something that I created for this post---since the game's assets don't fall under the code's license---using [NightCafé Studio](https://nightcafe.studio/), hereby released under the same CC BY-SA 4.0 terms as the blog.
+**Credits**:  The header image is [d27c291b-07ac-44cd-adb9-c0a3c1ed80d1](https://www.flickr.com/photos/334digital/55072076538/) (hey, I don't get oversight on this stuff...) by [Amanda Girard](https://www.flickr.com/photos/334digital/), made available under the terms of the [Creative Commons Attribution Share-Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.  The post previously used something generated for this post---since the game's assets don't fall under the code's license---using [NightCafé Studio](https://nightcafe.studio/) as a placeholder.
