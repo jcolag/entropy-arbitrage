@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developer Diary, Yom Kippur
-date: 2026-09-21 07:04:05-0400
+date: 2026-09-21 07:53:05-0400
 categories:
 tags: [programming, project, dev-journal]
 labels: [blog, library-update, mini-server, recipe]
