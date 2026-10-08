@@ -30,7 +30,7 @@ On the chance that somebody needs or wants the additional nudge, the September [
 
 ## Social Media
 
-I suppose that these only technically qualifies as updating social media, but I did want to point them out somewhere.
+I suppose that these only technically qualify as updating social media, but I did want to point them out somewhere.
 
 ### Beeper
 
