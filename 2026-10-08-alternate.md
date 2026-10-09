@@ -95,7 +95,7 @@ Also, fans of the series know that the elder Sisko apparently didn't need anybod
 
 First, still creepy.
 
-Second, four hundred years, and they still haven't fixed *hospital gowns*?  If you'll pardon a couple of leaps of logic, but this seems to remind us that the Federation uses something like money.  Hospital gowns fail to cover everything, because minimal coverage for a "medium-sized" person (*man*) saves a ton of money.
+Second, four hundred years, and they still haven't fixed *hospital gowns*?  If you'll pardon a couple of leaps of logic, this seems to remind us that the Federation uses something like money.  Hospital gowns fail to cover everything, because minimal coverage for a "medium-sized" person (*man*) saves a ton of money.
 
 For example, *we could* issue patients something like a poncho.  Cut a sheet of the same gown material to the right size, either pop their heads through the middle or wrap it around their shoulders, and you have full coverage on any body shape, with no worries about the garment constraining the patient.  We don't do that, because it would involve labor, generate unusable scraps to discard, and facilities would need to figure out how to store bolts of material in a way that keeps it clean.  In other words, we keep the substandard gowns, because the alternatives cost more.  If they could replicate clothing without cost, then they would probably do the same, or something more sophisticated with embedded instrumentation.
 
