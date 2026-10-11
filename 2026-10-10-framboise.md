@@ -69,9 +69,9 @@ They translated that one, so you don't even need to trust my decaying grasp of F
 
 However, I'd actually like to talk more about the fact that the Ethic Cinema project has three rules.
 
-> - **Create**:  A film labeled "ETHICAL FILM MAKING" is mainly made with **{ wiki Free_software#Definition_and_the_Four_Freedoms|Free/Libre }** technologies.
+> - **Create**:  A film labeled "ETHICAL FILM MAKING" is mainly made with **{% wiki Free_software#Definition_and_the_Four_Freedoms|Free/Libre %}** technologies.
 > - **Contribute**:  In order to maintain the collaborative harmony, a production labeled "ETHICAL FILM MAKING" technically and/or financially **supports** the creation or development of one or more **Free/Libre technologies**.
-> - **Share**:  Any creation and development within an "ETHICAL FILM MAKING" project is released under a **Free/Libre license** that is approved as **{% wiki Definition_of_Free_Cultural_Works|Free Cultural Works }**
+> - **Share**:  Any creation and development within an "ETHICAL FILM MAKING" project is released under a **Free/Libre license** that is approved as **{% wiki Definition_of_Free_Cultural_Works|Free Cultural Works %}**
 
 It probably won't come as much of a surprise that I, as someone who thinks maybe-too-much about what Free Culture "means," find this an important part of their undertaking.
 
