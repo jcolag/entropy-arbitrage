@@ -115,4 +115,4 @@ Anyway, while we wait for that, what did everybody else think about the film?
 
 * * *
 
-**Credits**:  The header image is the album's cover, presumed under the same license as the album itself.
+**Credits**:  The header image is a still image from the film.

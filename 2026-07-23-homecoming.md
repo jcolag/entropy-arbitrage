@@ -145,7 +145,7 @@ Sisko doesn't think that anybody deserves social exclusion due to their ethnicit
 
 ## Behind the Scenes at the Blog
 
-As a quick note, I assume that anybody will notice the difference, since it still mostly happens manually as I write the posts.  But since the chronological-viewing context comments have become a firm part of these posts, I finally realized that I should have a table of episodes with their release dates somewhere on my local machine, so that I can check nearby episodes at a glance.
+As a quick note, I assume that nobody will notice the difference, since it still mostly happens manually as I write the posts.  But since the chronological-viewing context comments have become a firm part of these posts, I finally realized that I should have a table of episodes with their release dates somewhere on my local machine, so that I can check nearby episodes at a glance.
 
 I pulled the information from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)---which (for those who might need something similar) I outlined in [yesterday's post]({% post_url 2026-07-22-wikidata %}) how to do that---using their query language to get the important-to-me parts and turning the results into something quick to read and run through scripts.
 
