@@ -77,7 +77,9 @@ It's not all bad news, though.  Some [project sources](https://web.archive.org/w
 
 ## What's Adaptable?
 
-Unlike many of the works that we've covered, where there's either a conspicuous lack of specifics or a use of real world entities, **Your Face Is a Saxophone** is awash with fictional companies.  We have at least Buzzword Marketing itself, the *Your Face Is a Saxophone* ad campaign, {% wiki Cthulhu|Cthulhu|en %}'s Homestyle Fried Calamari, Pepsi Nano (though Pepsi isn't usable), social network Sqwoogy, porn site Naked Stars 4U, Marley's Anti-Establishment Bar & Grill, Hipster Chad's Ironic Vegan "Cuisine"---the sarcasm-quotes are an especially nice touch, there---and Left&ouml;ver Crack, presumably a heavy metal band licensing their name to the pinball game.
+Unlike many of the works that we've covered, where there's either a conspicuous lack of specifics or a use of real world entities, **Your Face Is a Saxophone** is awash with fictional companies.  We have at least Buzzword Marketing itself, the *Your Face Is a Saxophone* ad campaign, {% wiki Cthulhu|Cthulhu|en %}'s Homestyle Fried Calamari, Pepsi Nano (though Pepsi isn't usable), social network Sqwoogy, porn site Naked Stars 4U, Marley's Anti-Establishment Bar & Grill, Hipster Chad's Ironic Vegan "Cuisine"---the sarcasm-quotes are an especially nice touch, there---~~and Left&ouml;ver Crack, presumably a heavy metal band licensing their name to the pinball game~~[^uNCGr9].
+
+[^uNCGr9]:  Wrong on both counts, John!  {% wiki Leftöver Crack %} exists (and existed existed) in our world and mostly plays hardcore punk.
 
 If doing anything with the video, however---especially if you can track down more of the sources mentioned above---be sure to double-check background elements, since there are a couple of items on display that were released under incompatible license terms.
 
