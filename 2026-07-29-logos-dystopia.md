@@ -13,6 +13,9 @@ spell: LIBERAT Eurostile Librestile Michroma OFL monaspace pointiness
 proofed: true
 ---
 
+* Ignore for ToC
+{:toc}
+
 ![A sketch of a hand sketching something, in this case the finished logo from the post](/blog/assets/3967682030_6e9b2edecc_o.png "Thank you, Thing...")
 
 A couple of months ago, I put together a post---not entirely serious, but also not entirely joking---about how [corporate personhood might provide an opportunity]({% post_url 2026-05-31-free-corporation %}) to wipe out almost every exploitative organization.  I won't rehash that blog post, but at the end of the post, I joked that the idea could probably gain some traction with the cynical addition of a clichéd dystopian logo for hypothetical branded merchandise, coming up with this example.
