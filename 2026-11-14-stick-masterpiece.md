@@ -27,7 +27,7 @@ To give this series some sense of organization, check out some basic facts witho
 
 {% include fc-review.md %}
 
- * Full Title:  **Stick's Masterpiece*, **Stick's Adventure**
+ * Full Title:  **Stick's Masterpiece**, **Stick's Adventure**
  * Location:  <https://web.archive.org/web/20200220180620/http://brotherswhim.com/download>
  * Released:  2013
  * License:  CC BY-SA
