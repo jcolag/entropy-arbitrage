@@ -7,7 +7,7 @@ tags: [blog]
 labels: [fiction, history, setting]
 summary: A quest for a destination for unused material
 thumbnail: /blog/assets/16117622897_5e87d3f350_o.png
-offset: -58%
+offset: -18%
 description: Thirty years of notes could have uses, eventually.
 spell: Somnium Mengato
 proofed: true
