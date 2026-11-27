@@ -50,7 +50,7 @@ You no doubt remember {% wiki John Colicos %} from [*Errand of Mercy*]({% post_u
 
 > **KOLOTH**: I am Koloth.
 
-And you presumably also recognize {% wiki William_Campbell_(actor)|William Campbell %} from [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}), not to mention the prototype-Q Trelane [*The Squire of Gothos*]({% post_url 2020-05-07-squire %}).  Let's not ask why they didn't track down Charlie Brill to reprise the Klingon disguised as a human...at least, not for a couple of years, our time.
+And you presumably also recognize {% wiki William_Campbell_(actor)|William Campbell %} from [*The Trouble with Tribbles*]({% post_url 2020-11-19-trouble %}), not to mention the prototype-Q Trelane in [*The Squire of Gothos*]({% post_url 2020-05-07-squire %}).  Let's not ask why they didn't track down Charlie Brill to reprise the Klingon disguised as a human...at least, not for a couple of years, our time.
 
 > **KOR**: Curzon, my beloved old friend!
 >
@@ -88,7 +88,7 @@ Judging from what we saw in [*Melora*]({% post_url 2026-08-27-melora %}) and [*P
 
 It really does seem awful to push someone in Kira's position like that.  Dax treats it like she casually made a decision to turn vigilante, rather than growing up traumatized with a need to overthrow an occupational government.
 
-As I recall, by the way, many police departments had begun mandating post-traumatic stress counseling for officers who discharge a firearm on duty, regardless of the result.  To echo Kira's final response to the conversation, nobody walks away intact from trying to kill someone.
+As I recall, by the way, many police departments at this point had begun mandating post-traumatic stress counseling for officers who discharge a firearm on duty, regardless of the reason or result.  To echo Kira's final response to the conversation, nobody walks away intact from trying to kill someone.
 
 > **KIRA**: Look, you've said yourself every new life for a Trill has to be a new life. If not, you'd wind up paying off old debts forever. These Klingons can't possibly expect you to keep this oath.
 
